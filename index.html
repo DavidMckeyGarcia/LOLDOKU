@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LOLDOKU</title>
+  <!-- Link to external CSS file -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Navigation Bar -->
+  <div>
+    <nav2></nav2>
+  </div>
+  <nav>
+    <a href="#">HOME</a>
+    <a href="#">ABOUT</a>
+    <a href="#">CONTACT</a>
+  </nav>
+
+  <div class="container">
+    <div class="grid-container">
+      <!-- Game Grid -->
+      <div class="grid">
+        <!-- Column Headers -->
+        <div class="grid-header"></div> <!-- Empty cell for the top-left corner -->
+        <div class="grid-header" data-type="col" ></div> <!-- Column 1 Header -->
+        <div class="grid-header" data-type="col"></div> <!-- Column 2 Header -->
+        <div class="grid-header" data-type="col"></div> <!-- Column 3 Header -->
+        <div class="grid-header"></div> <!-- Empty cell at the top-right corner -->
+      
+        <!-- Row 1 Header and Cells -->
+        <div class="grid-header" data-type="row"></div> <!-- Row 1 Header -->
+        <div class="grid-item" data-index="0"></div>
+        <div class="grid-item" data-index="1"></div>
+        <div class="grid-item" data-index="2"></div>
+        <div class="grid-header" data-type="rank"></div>
+      
+        <!-- Row 2 Header and Cells -->
+        <div class="grid-header" data-type="row"></div> <!-- Row 2 Header -->
+        <div class="grid-item" data-index="3"></div>
+        <div class="grid-item" data-index="4"></div>
+        <div class="grid-item" data-index="5"></div>
+        <div class="grid-header"data-type="score">200G</div>
+      
+        <!-- Row 3 Header and Cells -->
+        <div class="grid-header" data-type="row"></div> <!-- Row 3 Header -->
+        <div class="grid-item" data-index="6"></div>
+        <div class="grid-item" data-index="7"></div>
+        <div class="grid-item" data-index="8"></div>
+        <div class="grid-header" data-type="score">9 HP</div>
+    
+    
+      </div>
+      <!-- Solutions Grid -->
+    </div>
+  </div>
+  
+   <!-- Modal -->
+   <div id="answer-modal" class="modal">
+    <div class="modal-content">
+      <div class="container">
+        <div class="wrapper">
+          <h1 id="modal-instruction">GUESS A CHAMPION</h1>
+          <h2 id = "modal-cats"></h2>
+          <input type="text" name="search" id="user-answer" placeholder="Search Champion..." autocomplete="off">
+          <button id="submit-answer">LOCK IN</button>
+          <div class="results">
+            <ul></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Link to external JavaScript file -->
+  <script src="scripts.js"></script>
+  <script src="tooltips.js"></script>
+  <script src="game.js"></script>
+
+</body>
+</html>

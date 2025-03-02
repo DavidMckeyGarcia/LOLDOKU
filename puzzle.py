@@ -1,9 +1,8 @@
-import numpy as np
 import random
 import json
 import os
-import matplotlib.pyplot as plt
-
+#import matplotlib.pyplot as plt
+#import numpy as np
 
 with open(r'C:\Users\s2749919\Scripts\JavaTest\champs.json', 'r') as file:
     champion_data = json.load(file)
@@ -75,9 +74,7 @@ cat3 = {
     
     "release date": [["OG40"], ["Season 7+"], ["Season 2-6"]],
 
-    #esports related e.g played in worlds final
     "esports": ["not played"]
-    #champs with >200 worlds pick/bans =13
 }
 
 

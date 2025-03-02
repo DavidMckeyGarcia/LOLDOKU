@@ -1,128 +1,75 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "shield",
-        "arcade"
+        "Support",
+        "global",
+        "elderwood"
     ],
     "cols": [
-        "stun",
-        "Freljord",
-        "yordle"
+        "Shadow Isles",
+        "knock-up",
+        "ascended"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Maokai",
+            "Senna",
+            "Thresh"
         ],
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Ambessa",
-            "Annie",
+            "Alistar",
             "Blitzcrank",
             "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
             "Nautilus",
             "Neeko",
-            "Nunu",
-            "Orianna",
             "Poppy",
+            "Rakan",
             "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
             "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Leona",
+            "Pantheon",
             "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
+            "Xerath"
         ],
         [
-            "Braum",
-            "Nunu",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
+            "Karthus",
+            "Maokai",
+            "Senna",
             "Vex"
         ],
         [
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Malzahar",
-            "Qiyana",
-            "Riven",
-            "Sona",
-            "Veigar"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Corki",
-            "Veigar",
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
             "Ziggs"
+        ],
+        [
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Hecarim",
+            "Karthus"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Azir"
         ]
     ]
 }

@@ -542,7 +542,7 @@ function updateHeaders(puzzleData) {
 }
 
 
-  
+
 // Make sure to initialize tooltips when the page loads
 document.addEventListener('DOMContentLoaded', function() {
     // This will apply tooltips to any static headers

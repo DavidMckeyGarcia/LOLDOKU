@@ -108,7 +108,7 @@ function updateHeaders(puzzleData) {
         
         // Create and add the image
         const img = document.createElement('img');
-        img.src = `/LOLDOKU/Images/Headers/${cols[index].toLowerCase()}.png`; 
+        img.src = `images/Headers/${cols[index].toLowerCase()}.png`; 
         img.alt = cols[index];
         img.classList.add('column-image');
         
@@ -358,7 +358,7 @@ function updateHeaders(puzzleData) {
         case 'jungle':
             tooltipTitle = 'JUNGLE';
             tooltipContent = "Within a drafted team, the Jungler is the unique role not assigned to a lane and instead focuses on clearing jungle camps for gold and experience. They also use the Smite summoner spell which is important for securing neutral objectives on summoners rift.";
-            tooltipImage = '/LOLDOKU/Images/Tooltips/jungle.png';
+            tooltipImage = 'images/Tooltips/jungle.png';
             break;
         case 'support':
             tooltipTitle = 'SUPPORT';

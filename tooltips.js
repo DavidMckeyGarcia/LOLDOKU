@@ -121,6 +121,7 @@ function updateHeaders(puzzleData) {
         header.appendChild(img);
         header.appendChild(text);
 
+
         // Set tooltip title, content, and image based on the column type
         let tooltipTitle = '';
         let tooltipContent = '';
@@ -186,7 +187,7 @@ function updateHeaders(puzzleData) {
         case 'the void':
             tooltipTitle = 'THE VOID';
             tooltipContent = "Screaming into existence with the birth of the universe, the Void is a manifestation of the unknowable nothingness that lies beyond. It is a force of insatiable hunger, waiting through the eons until its masters, the mysterious Watchers, mark the final time of undoing.".italics();
-            tooltipImage = '/LOLDOKU/Images/Tooltips/the void.png';
+            tooltipImage = 'https://davidmckeygarcia.github.io/LOLDOKU/Images/Tooltips/the void.png';
             break;
         case 'shurima':
             tooltipTitle = 'SHURIMA';
@@ -211,7 +212,7 @@ function updateHeaders(puzzleData) {
         case 'root':
             tooltipTitle = 'ROOT';
             tooltipContent = "A unit that is " + "rooted ".bold() + " is unable to control its movement or activate movement spells for the duration. Movement spells include all dash and blink abilities - including recalling and the summoner spells Flash, Teleport and Hexflash, plus a number of additional cases.";
-            tooltipImage = '/LOLDOKU/Images/Tooltips/root.png';
+            tooltipImage = 'https://davidmckeygarcia.github.io/LOLDOKU/Images/Tooltips/root.png';
             break;
         case 'stun':
             tooltipTitle = 'STUN';

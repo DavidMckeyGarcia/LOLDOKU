@@ -212,7 +212,7 @@ function updateHeaders(puzzleData) {
         case 'root':
             tooltipTitle = 'ROOT';
             tooltipContent = "A unit that is " + "rooted ".bold() + " is unable to control its movement or activate movement spells for the duration. Movement spells include all dash and blink abilities - including recalling and the summoner spells Flash, Teleport and Hexflash, plus a number of additional cases.";
-            tooltipImage = 'https://davidmckeygarcia.github.io/LOLDOKU/images/tooltips/root.png';
+            tooltipImage = 'https://davidmckeygarcia.github.io/LOLDOKU/images/tooltips/ROOT.png';
             break;
         case 'stun':
             tooltipTitle = 'STUN';

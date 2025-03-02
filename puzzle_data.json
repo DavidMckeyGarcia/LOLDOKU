@@ -1,57 +1,134 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "arcade",
-        "stealth"
+        "Top",
+        "coven",
+        "life steal"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "arcane"
+        "Demacia",
+        "slow",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Aatrox",
+            "Akali",
+            "Camille",
+            "Chogath",
+            "Darius",
+            "Dr. Mundo",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gnar",
+            "Gragas",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Irelia",
+            "Jarvan IV",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Quinn",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Singed",
+            "Sion",
+            "Skarner",
+            "Swain",
+            "Sylas",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Urgot",
+            "Volibear",
+            "Yorick",
+            "Zac"
         ],
         [
-            "Caitlyn",
-            "Jayce",
-            "Jinx",
-            "Mel"
+            "Camille",
+            "Fiora",
+            "Kayn",
+            "Kled",
+            "Sion",
+            "Zac"
         ],
         [
-            "Riven"
+            "Morgana"
         ],
         [
+            "Ahri",
+            "Akali",
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Evelynn",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nilah",
+            "Syndra",
+            "Zyra"
+        ],
+        [
+            "Camille",
+            "Evelynn",
+            "Lissandra"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "Aatrox",
+            "Aphelios",
             "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Nasus",
+            "Nilah",
+            "Olaf",
+            "Samira",
+            "Senna",
+            "Sion",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Vladimir",
+            "Warwick"
         ],
         [
-            "Caitlyn"
-        ],
-        [
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Neeko",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "LeBlanc"
+            "Sion",
+            "Viego",
+            "Vladimir"
         ]
     ]
 }

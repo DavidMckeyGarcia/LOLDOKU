@@ -108,7 +108,7 @@ function updateHeaders(puzzleData) {
         
         // Create and add the image
         const img = document.createElement('img');
-        img.src = `/LOLDOKU/Images/headers/${cols[index].toLowerCase()}.png`; 
+        img.src = `https://davidmckeygarcia.github.io/LOLDOKU/Images/Headers/${cols[index].toLowerCase()}.png`; 
         img.alt = cols[index];
         img.classList.add('column-image');
         
@@ -187,7 +187,7 @@ function updateHeaders(puzzleData) {
         case 'the void':
             tooltipTitle = 'THE VOID';
             tooltipContent = "Screaming into existence with the birth of the universe, the Void is a manifestation of the unknowable nothingness that lies beyond. It is a force of insatiable hunger, waiting through the eons until its masters, the mysterious Watchers, mark the final time of undoing.".italics();
-            tooltipImage = 'https://davidmckeygarcia.github.io/LOLDOKU/Images/Tooltips/the void.png';
+            tooltipImage = 'https://davidmckeygarcia.github.io/LOLDOKU/Images/Tooltips/void.png';
             break;
         case 'shurima':
             tooltipTitle = 'SHURIMA';

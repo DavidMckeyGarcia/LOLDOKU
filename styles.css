@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'beaufort'; /* The name you want to use for the font */
-    src: url('Images/Font/BeaufortforLOL-Heavy.ttf') format('truetype'); /* Path to your .ttf file */
+    src: url('images/Font/BeaufortforLOL-Heavy.ttf') format('truetype'); /* Path to your .ttf file */
 }
 
 @font-face {
     font-family: 'beaufort2'; /* The name you want to use for the font */
-    src: url('Images/Font/BeaufortforLOL-Regular.ttf') format('truetype'); /* Path to your .ttf file */
+    src: url('images/Font/BeaufortforLOL-Regular.ttf') format('truetype'); /* Path to your .ttf file */
 }
 
 /* Define the fade-in and zoom-in animation */
@@ -60,7 +60,7 @@ body {
     padding: 0;
     background-color: #010A13;
     font-family: "beaufort";
-    cursor: url("davidmckeygarcia.github.io/LOLDOKU/Images/cursor_default.png"), auto;
+    cursor: url("images/cursor_default.png"), auto;
 }
 
 
@@ -85,15 +85,15 @@ nav a {
     text-decoration: none;
     margin: 0 15px;
     font-size: 25px;
-    cursor: url("https://davidmckeygarcia.github.io/LOLDOKU/Images/cursor_default.png"), auto;;
+    cursor: url("images/cursor_default.png"), auto;;
 }
 
 nav a:hover {
-    cursor: url("LOLDOKU/Images/cursor_hover.png"), auto;
+    cursor: url("images/cursor_hover.png"), auto;
 }
 
 nav2 {
-    cursor: url("https://davidmckeygarcia.github.io/LOLDOKU/Images/cursor_default.png"), auto;
+    cursor: url("images/cursor_default.png"), auto;
     background-color: #C89B3C;
     padding: 51px;
     border-radius: 15px;
@@ -143,13 +143,13 @@ nav2 {
 }
 
 .grid-item:hover {
-    cursor: url("LOLDOKU/Images/cursor_hover.png"), auto;
+    cursor: url("images/cursor_hover.png"), auto;
     background-color: #0d343d;
 }
 
 /* Apply animation to correct grid items */
 .grid-item.correct {
-    cursor: url("LOLDOKU/Images/cursor_default.png"), auto;
+    cursor: url("images/cursor_default.png"), auto;
     animation: correctAnswerReveal 0.8s ease-out forwards;
     background-size: cover !important; /* Use !important to ensure this takes precedence */
     background-position: center !important;
@@ -157,7 +157,7 @@ nav2 {
 
 /* Apply animation to correct grid items */
 .grid-item.incorrect {
-    cursor: url("LOLDOKU/Images/cursor_hover.png"), auto;
+    cursor: url("images/cursor_hover.png"), auto;
     animation: correctAnswerReveal 0.8s ease-out forwards;
     background-size: cover !important; /* Use !important to ensure this takes precedence */
     background-position: center !important;
@@ -304,7 +304,7 @@ nav2 {
 
 .results li {
     padding: 8px 10px;
-    cursor: url("LOLDOKU/Images/cursor_hover.png"), auto;
+    cursor: url("images/cursor_hover.png"), auto;
     transition: background-color 0.2s ease, color 0.2s ease;
 }
 
@@ -345,7 +345,7 @@ button {
     font-size: 18px;
     font-family: "beaufort";
     font-weight: bold;
-    cursor: url("LOLDOKU/Images/cursor_hover.png"), auto;
+    cursor: url("images/cursor_hover.png"), auto;
     transition: background-color 0.3s ease;
 }
 
@@ -469,7 +469,7 @@ button:hover {
   .grid-header[data-tooltip-content],
   .grid-header[data-tooltip-image] {
     position: relative;
-    cursor: url("LOLDOKU/Images/cursor_default.png"), auto; /* Change cursor to indicate there's information */
+    cursor: url("images/cursor_default.png"), auto; /* Change cursor to indicate there's information */
   }
   
   .grid-header[data-tooltip-title]:hover,
@@ -488,7 +488,7 @@ button:hover {
     overflow: hidden; /* Prevent content from spilling out */
     padding: 10px;
     color: #C89B3C;
-    cursor: url("LOLDOKU/Images/cursor_default.png"), auto;
+    cursor: url("images/cursor_default.png"), auto;
 }
 
 

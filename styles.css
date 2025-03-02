@@ -60,7 +60,7 @@ body {
     padding: 0;
     background-color: #010A13;
     font-family: "beaufort";
-    cursor: url("LOLDOKU/Images/cursor_default.png"), auto;
+    cursor: url("https://davidmckeygarcia.github.io/LOLDOKU/Images/cursor_default.png"), auto;
 }
 
 /* Navbar Styling */
@@ -84,7 +84,7 @@ nav a {
     text-decoration: none;
     margin: 0 15px;
     font-size: 25px;
-    cursor: url("LOLDOKU/Images/cursor_default.png"), auto;;
+    cursor: url("https://davidmckeygarcia.github.io/LOLDOKU/Images/cursor_default.png"), auto;;
 }
 
 nav a:hover {
@@ -92,7 +92,7 @@ nav a:hover {
 }
 
 nav2 {
-    cursor: url("LOLDOKU/Images/cursor_default.png"), auto;
+    cursor: url("https://davidmckeygarcia.github.io/LOLDOKU/Images/cursor_default.png"), auto;
     background-color: #C89B3C;
     padding: 51px;
     border-radius: 15px;

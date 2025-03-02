@@ -227,7 +227,7 @@ function preloadChampionImages() {
   searchable.forEach(champion => {
     const img = new Image();
     const championName = champion.toLowerCase().replace(/\s+/g, '');
-    img.src = `Images/Champions/${championName}Square.png`;
+    img.src = `/LOLDOKU/Images/Champions/${championName}Square.png`;
     preloadContainer.appendChild(img);
   });
   console.log('ChampIcons loaded')
@@ -342,7 +342,7 @@ function renderResults(results) {
     .map((item, index) => {
       // Transform the champion name to match your image naming convention
       const championName = item.toLowerCase().replace(/\s+/g, '');
-      const imagePath = `Images/Champions/${championName}Square.png`;
+      const imagePath = `/LOLDOKU/Images/Champions/${championName}Square.png`;
       
       return `<li>
         <div style="display: flex; align-items: center;">
@@ -535,7 +535,7 @@ function updateCellStatus(index, isCorrect) {
         
         // Then set the background image after a tiny delay
         requestAnimationFrame(() => {
-          gridItems[index].style.backgroundImage = `url('Images/Champions/${championName}Square.png')`;
+          gridItems[index].style.backgroundImage = `url('/LOLDOKU/Images/Champions/${championName}Square.png')`;
         });
         
         // Remove the click event listener to prevent further changes
@@ -544,7 +544,7 @@ function updateCellStatus(index, isCorrect) {
       };
       
       // Set the image source to start loading
-      img.src = `Images/Champions/${championName}Square.png`;
+      img.src = `/LOLDOKU/Images/Champions/${championName}Square.png`;
       preloader.appendChild(img);
       
     } else {
@@ -569,7 +569,7 @@ function initializeGrid() {
     if (correctSquares[index]) {
       const championName = answers[index].toLowerCase().replace(/\s+/g, '');
       item.classList.add('correct');
-      item.style.backgroundImage = `url('Images/Champions/${championName}Square.png')`;
+      item.style.backgroundImage = `url('/LOLDOKU/Images/Champions/${championName}Square.png')`;
       item.style.cursor = 'default';
     } else {
       // Create the click handler function and store it on the element

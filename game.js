@@ -294,7 +294,7 @@ function updateSecondGridContent() {
             
             // Assign the randomly selected solution to the grid item
             const randomSolution = possibleSolutions[randomIndex].toLowerCase().replace(/\s+/g, '');
-            gridItems[index].style.backgroundImage = `url('Images/Champions/${randomSolution}Square.png')`;
+            gridItems[index].style.backgroundImage = `url('/LOLDOKU/Images/Champions/${randomSolution}Square.png')`;
 
         });
     } else {

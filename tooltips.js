@@ -416,7 +416,7 @@ function updateHeaders(puzzleData) {
         case 'execute':
             tooltipTitle = 'EXECUTE ULT';
             tooltipContent = 'Champions with an execute ultimate are any champion whose ultimate attempts an execution, can execute or has an ultimate which scales with percentage missing health.';
-            tooltipImage = 'images/tooltips/execute.png';
+            tooltipImage = 'images/tooltips/exec.png';
             break;
         case 'true damage':
             tooltipTitle = 'TRUE DAMAGE';

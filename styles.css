@@ -521,3 +521,159 @@ button:hover {
     margin-top: 10px;
     width: 110%;
   }
+
+
+/* Keep all your existing CSS unchanged */
+
+/* Add these media queries at the end of your CSS file */
+
+/* For tablets and smaller devices */
+@media screen and (max-width: 1024px) {
+    /* Adjust the grid to fit better on smaller screens */
+    .grid {
+      grid-template-columns: repeat(5, 120px);
+      grid-template-rows: repeat(4, 120px);
+      gap: 2px;
+    }
+    
+    .grid-item {
+      width: 120px;
+      height: 120px;
+    }
+    
+    /* Adjust modal width for medium screens */
+    .modal-content {
+      min-width: 80%;
+    }
+    
+    #user-answer {
+      width: 80%;
+    }
+  }
+  
+  /* For mobile phones */
+  @media screen and (max-width: 768px) {
+    /* Make navbar more compact */
+    nav {
+      padding: 15px 10px;
+      font-size: 16px;
+    }
+    
+    nav a {
+      margin: 0 8px;
+      font-size: 18px;
+    }
+    
+    nav2 {
+      padding: 25px;
+    }
+    
+    /* Make the grid much smaller to fit on mobile */
+    .grid {
+      grid-template-columns: repeat(5, 70px);
+      grid-template-rows: repeat(4, 70px);
+      gap: 1px;
+    }
+    
+    .grid-item {
+      width: 70px;
+      height: 70px;
+    }
+    
+    /* Adjust text size in grid headers */
+    .header-text {
+      font-size: 12px;
+    }
+    
+    /* Mobile-friendly modal */
+    .modal-content {
+      min-width: 90%;
+      padding: 15px;
+    }
+    
+    #modal-instruction {
+      font-size: 20px;
+    }
+    
+    #modal-cats {
+      font-size: 12px;
+      margin-bottom: 20px;
+    }
+    
+    #user-answer {
+      width: 70%;
+      font-size: 16px;
+      height: 45px;
+    }
+    
+    button {
+      width: 75px;
+      height: 45px;
+      font-size: 14px;
+    }
+    
+    /* Adjust tooltip size for mobile */
+    .tooltip {
+      max-width: 280px;
+      min-width: 200px;
+    }
+    
+    .tooltip-image img {
+      width: 100px;
+      height: 180px;
+    }
+    
+    .tooltip-title {
+      font-size: 16px;
+      padding: 8px 10px;
+    }
+    
+    .tooltip-text {
+      font-size: 14px;
+    }
+  }
+  
+  /* For very small screens */
+  @media screen and (max-width: 480px) {
+    /* Even smaller grid */
+    .grid {
+      grid-template-columns: repeat(5, 55px);
+      grid-template-rows: repeat(4, 55px);
+    }
+    
+    .grid-item {
+      width: 55px;
+      height: 55px;
+    }
+    
+    /* Simplified navbar for very small screens */
+    nav {
+      padding: 10px 5px;
+    }
+    
+    nav a {
+      margin: 0 5px;
+      font-size: 16px;
+    }
+    
+    /* Adjust header text size even more */
+    .header-text {
+      font-size: 10px;
+      margin-top: 5px;
+    }
+    
+    /* Reduce image size in headers */
+    .column-image, .row-image, .rank-image {
+      max-width: 70%;
+      max-height: 70%;
+    }
+    
+    /* Adjust modals for very small screens */
+    .modal {
+      padding-top: 100px;
+    }
+    
+    .results {
+      max-width: 200px;
+    }
+  }

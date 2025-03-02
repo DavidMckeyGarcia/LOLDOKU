@@ -639,14 +639,14 @@
         "kit": [],
         "skinlines": ["prestige", "empyrean"],
         "esports": [],
-        "misc": [ "riot records"]
+        "misc": ["riot records", "Immunity"]
     },
     "Kayn": {
         "role": ["Jungle", "Top"],
         "release date": ["Season 7+"],
         "region": ["Noxus", "Ionia"],
-        "crowd control": ["slow", "knock-up", "life steal"],
-        "kit": ["dash"],
+        "crowd control": ["slow", "knock-up"],
+        "kit": ["dash", "life steal"],
         "skinlines": [ "prestige"],
         "race": ["ascended", "darkin"],
         "esports": ["not played"],

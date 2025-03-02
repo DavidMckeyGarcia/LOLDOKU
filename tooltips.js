@@ -488,7 +488,7 @@ function updateHeaders(puzzleData) {
       if (rank) {
         // Update the image as before
         const img = document.createElement('img');
-        img.src = `davidmckeygarcia.github.io/LOLDOKU/Images/ranks/${rank.toLowerCase()}.png`;
+        img.src = `https://davidmckeygarcia.github.io/LOLDOKU/Images/ranks/${rank.toLowerCase()}.png`;
         img.alt = rank;
         img.classList.add('rank-image');
         

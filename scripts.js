@@ -227,7 +227,7 @@ function preloadChampionImages() {
   searchable.forEach(champion => {
     const img = new Image();
     const championName = champion.toLowerCase().replace(/\s+/g, '');
-    img.src = `https://davidmckeygarcia.github.io/LOLDOKU/Images/Champions/${championName}Square.png`;
+    img.src = `davidmckeygarcia.github.io/LOLDOKU/Images/Champions/${championName}Square.png`;
     preloadContainer.appendChild(img);
   });
   console.log('ChampIcons loaded')

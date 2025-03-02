@@ -108,7 +108,7 @@ function updateHeaders(puzzleData) {
         
         // Create and add the image
         const img = document.createElement('img');
-        img.src = `https://davidmckeygarcia.github.io/LOLDOKU/Images/Headers/${cols[index].toLowerCase()}.png`; 
+        img.src = `/LOLDOKU/Images/Headers/${cols[index].toLowerCase()}.png`; 
         img.alt = cols[index];
         img.classList.add('column-image');
         
@@ -488,7 +488,7 @@ function updateHeaders(puzzleData) {
       if (rank) {
         // Update the image as before
         const img = document.createElement('img');
-        img.src = `/LOLDOKU/Images/ranks/${rank.toLowerCase()}.png`;
+        img.src = `davidmckeygarcia.github.io/LOLDOKU/Images/ranks/${rank.toLowerCase()}.png`;
         img.alt = rank;
         img.classList.add('rank-image');
         

@@ -127,27 +127,6 @@ nav2 {
 }
 
 
-/* Button Styling */
-button {
-    width: 89px;
-    height: 53px;
-    background-color: #C89B3C ;
-    color: #F0E6D2;
-    border-color: #C89B3C;
-    border-radius: 5px;
-    font-size: 18px;
-    font-family: "beaufort";
-    font-weight: bold;
-    cursor: url("images/cursor_hover.png"), auto;
-    transition: background-color 0.3s ease;
-}
-
-button:hover {
-    background-color: #F0E6D2;
-    border-color: #F0E6D2;
-    color: #C89B3C;
-}
-
 .column-image, .row-image, .rank-image {
     width: 100%;
     height: auto;
@@ -241,8 +220,6 @@ button:hover {
   color: #F0E6D2;
   border-color: #F0E6D2;
 }
-
-
 
 
 

@@ -115,24 +115,24 @@
 
 
   <!-- FF15 Modal Template -->
-<div id="ff15-modal" class="modal-container" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); justify-content: center; align-items: center; z-index: 1000;">
-  <div class="modal-content" style="background-color: white; padding: 20px; border-radius: 5px; text-align: center; max-width: 400px;">
-    <h3 style="margin-bottom: 15px;">Forfeit Game?</h3>
-    <p style="margin-bottom: 20px;">Are you sure you want to forfeit this game? The solutions grid will be revealed.</p>
-    <div style="display: flex; justify-content: center; gap: 10px;">
-      <button id="ff15-cancel-btn" style="padding: 8px 16px; background-color: #4CAF50; color: white; border: none; border-radius: 4px; cursor: pointer;">No, Continue</button>
-      <button id="ff15-confirm-btn" style="padding: 8px 16px; background-color: #f44336; color: white; border: none; border-radius: 4px; cursor: pointer;">Yes, Forfeit</button>
+  <div id="ff15-modal" class="modal-container">
+    <div class="ffmodal-content">
+      <h3>Forfeit Game?</h3>
+      <p>Are you sure you want to forfeit this game? The solutions grid will be revealed.</p>
+      <div class="ffmodal-buttons">
+        <button id="ff15-cancel-btn">SCALE</button>
+        <button id="ff15-confirm-btn">FF15</button>
+      </div>
     </div>
   </div>
-</div>
 
 
   <!-- Link to external JavaScript file -->
-  <script src="scripts.js"></script>
-  <script src="tooltips.js"></script>
-  <script src="game.js"></script>
-  <script src="solutions.js"></script>
-  <script src="ff15.js"></script>
+  <script src="scripts/game.js"></script>
+  <script src="scripts/ff15.js"></script>
+  <script src="scripts/scripts.js"></script>
+  <script src="scripts/solutions.js"></script>
+  <script src="scripts/tooltips.js"></script>
 
 
 </body>

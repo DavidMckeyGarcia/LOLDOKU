@@ -1,70 +1,5 @@
-@font-face {
-    font-family: 'beaufort'; /* The name you want to use for the font */
-    src: url('images/Font/BeaufortforLOL-Heavy.ttf') format('truetype'); /* Path to your .ttf file */
-}
-
-@font-face {
-    font-family: 'beaufort2'; /* The name you want to use for the font */
-    src: url('images/Font/BeaufortforLOL-Regular.ttf') format('truetype'); /* Path to your .ttf file */
-}
-
-/* Define the fade-in and zoom-in animation */
-@keyframes fadeInZoom {
-    0% {
-        opacity: 0;
-        transform: scale(0.5);
-    }
-    100% {
-        opacity: 1;
-        transform: scale(1);
-    }
-}
-
-@keyframes zoomOut {
-    0% {
-        opacity: 1;
-        transform: scale(1);
-    }
-    100% {
-        opacity: 0;
-        transform: scale(0.5);
-    }
-}
-
-/* Updated animation for correct answers */
-@keyframes correctAnswerReveal {
-    0% {
-        opacity: 0;
-        transform: scale(0.7) rotate(-5deg);
-    }
-    20% {
-        opacity: 0.1; /* Stay mostly invisible for a bit longer */
-    }
-    50% {
-        opacity: 0.8;
-        transform: scale(1.1) rotate(3deg);
-    }
-    100% {
-        opacity: 1;
-        transform: scale(1) rotate(0deg);
-    }
-}
-
-/* Initially hide the background until animation starts */
-.grid-item.correct.animating {
-    background-image: none !important;
-}
-
-body {
-    margin: 0;
-    padding: 0;
-    background-color: #010A13;
-    font-family: "beaufort";
-    cursor: url("images/cursor_default.png"), auto;
-}
-
-
 /* Navbar Styling */
+
 nav {
     background-color: #0A1428;
     font-family: "beaufort", serif;
@@ -104,17 +39,35 @@ nav2 {
     z-index: 1000;
 }
 
+.container {
+  display: flex;
+  flex-direction: column; /* Stack grids vertically */
+  align-items: center; /* Optional: Center grids horizontally */
+}
+
+/* Grid Styling */
+#grid-title {
+  color: #C89B3C;
+  font-family: "beaufort";
+  text-align: center;
+  margin-top: 130px;
+  font-size: 40px;
+}
+
 
 /* Grid Container */
 .grid-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: calc(100vh - 60px);
-    margin-top: 30px;
+    margin-top: 0px;
     background-color: #010a13 ;
     background-size: cover;
     background-position: center;
+    position: relative; /* Important for absolute positioning of the button */
+    flex-direction: column; /* Stack grids vertically */
+    align-items: center; /* Optional: Center grids horizontally */
+
 }
 
 /* Grid */
@@ -168,169 +121,9 @@ nav2 {
     font-size: 30px;
 }
 
-
-
-
-
-.container {
-    display: flex;
-    flex-direction: column; /* Stack grids vertically */
-    align-items: center; /* Optional: Center grids horizontally */
-}
-
-
-
 #second-grid-title{
     color: #F0E6D2;
     font-family: "beaufort";
-}
-
-
-
-
-
-
-
-
-
-
-
-/* Modal Styling */
-.modal {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: rgba(0, 0, 0, 0.5);
-    justify-content: center;
-    align-items: flex-start; /* Align at the top */
-    padding-top: 200px; /* Optional: Add some space from the top of the viewport */
-    animation: fadeInZoom 0.1s ease-in-out;
-}
-
-.modal-content {
-    font-family: "beaufort";
-    font-weight: bold; /* Make the text bold */
-    background-color: #010A13;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    min-width: 500px;
-    min-height: 100px;
-    overflow: hidden;
-    position: relative;
-}
-
-
-#modal-instruction {
-    font-size: 30px;
-    margin-bottom: -10px;
-    font-family: "beaufort";
-    font-weight: bold;
-    text-transform: uppercase;
-    text-align: center;
-    color: #F0E6D2;
-  }
-
-#modal-cats {
-    font-size: 15px;
-    margin-bottom: 30px;
-    font-family: "beaufort";
-    font-weight: bold;
-    text-transform: uppercase;
-    text-align: center;
-    color: #f0e6d2a2;
-}
-
-/* Add this class that will be temporarily applied when closing */
-.modal.closing {
-    animation: zoomOut 0.15s ease-in-out forwards;
-    pointer-events: none; /* Prevent interaction during animation */
-}
-
-/* Input field (textbox) styling */
-#user-answer {
-    padding: 10px;
-    font-size: 18px;  /* Larger font size */
-    font-family: "beaufort";
-    font-weight: bold;
-    text-transform: uppercase;
-    color: #F0E6D2;
-    width: 400px;
-    height: 53px;
-    max-width: 100%;  /* Make the textbox take up full width of modal */
-    border: 2px solid #C89B3C !important;
-    border-radius: 5px;
-    box-sizing: border-box;
-    background-color: #0A1428;
-}
-
-#user-answer:focus {
-    outline: none;
-}
-
-/* Results Dropdown Styling with images */
-.results {
-    width: 100%;
-    margin-top: 10px;
-    max-height: 300px; /* Increase height to show more results */
-    max-width: 400px;
-    overflow-y: auto;
-    border: 1px solid #C89B3C;
-    border-radius: 5px;
-    display: none;
-    color: #F0E6D2;
-    scrollbar-color: #C89B3C #0A1428; /* thumb color, track color */
-    background-color: #0A1428;
-    font-family: "beaufort";
-    font-weight: bold;
-    text-transform: uppercase;
-}
-
-.results.show {
-    display: block;
-}
-
-.results ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-
-.results li {
-    padding: 8px 10px;
-    cursor: url("images/cursor_hover.png"), auto;
-    transition: background-color 0.2s ease, color 0.2s ease;
-}
-
-.results li:hover {
-    background-color: #0d343d;
-}
-
-/* Active item styling */
-.results li.active {
-    background-color: #0d343d;
-}
-
-.results li.active .champion-name {
-    color: #C89B3C; /* Gold highlight color for the selected champion name */
-    text-shadow: 0 0 3px rgba(200, 155, 60, 0.3); /* Subtle glow effect */
-}
-
-/* Style for the champion image in dropdown */
-.results li img {
-    border: 1px solid #785A28;
-    object-fit: cover;
-}
-
-/* Style for champion name */
-.champion-name {
-    transition: color 0.2s ease;
 }
 
 
@@ -362,361 +155,100 @@ button:hover {
 }
 
 
-/* Button Container Styling */
-.button-container {
+/* Second Grid Styling */
+#second-grid-title {
+  color: #F0E6D2;
+  font-family: "beaufort";
+  font-size: 40px;
+  text-align: center;
+  margin-top: 150px;
+  display: none; /* Initially hidden */
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+/* Second Grid Styling */
+#solutions-container {
+  color: #F0E6D2;
+  font-family: "beaufort";
+  font-size: 40px;
+  text-align: center;
+  margin-top: 150px;
+  display: none; /* Initially hidden */
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+#second-grid-container {
+  display: none; /* Initially hidden */
+  margin-top: 150px;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  /*background-color: rgba(247, 0, 255, 0.267) ; */
+
+}
+
+#second-grid-title.visible,
+#second-grid-container.visible {
+  opacity: 1;
+}
+
+/* Make sure this doesn't conflict with existing styles */
+.container {
   display: flex;
-  justify-content: center; /* Centers buttons horizontally */
-  align-items: center; /* Centers buttons vertically */
-  gap: 20px; /* Adds some space between buttons */
-  margin-top: 100px; /* Adds some space above the container */
+  flex-direction: column;
+  align-items: center;
 }
 
-/* Forfeit Button Styling */
+
+
+.FF-button-container {
+  padding: 10px;
+  border: red;
+}
+
 #forfeit {
-  background-color: #ff0000; /* Red color for Forfeit button */
-  color: white; /* Text color white */
-  border: none;
-  padding: 10px 20px;
-  font-size: 25px;
-  cursor: pointer;
+  background-color: #ff0000;
+  color: #F0E6D2;
+  font-size: 25px; /* Increase font size */
+  cursor: url("images/cursor_hover.png"), auto;
   border-radius: 5px;
+  border-color: #ff0000;
   transition: background-color 0.3s ease;
+  width: 70px; /* Set a specific width if desired */
+  height: 50px; /* Set a specific height if desired */
 }
-
 #forfeit:hover {
-  background-color: #cc0000; /* Darker red on hover */
+  background-color: #F0E6D2;
+  color: red;
+  border-color: red;
 }
 
-/* Refresh Button Styling */
 #refresh {
-  background-color: #008000; /* Green color for Refresh button */
-  color: white; /* Text color white */
-  border: none;
-  padding: 10px 20px;
-  font-size: 16px;
-  cursor: pointer;
+  background-color: #F0E6D2;
+  color: #010a13;
+  font-size: 25px; /* Increase font size */
+  cursor: url("images/cursor_hover.png"), auto;
   border-radius: 5px;
+  border-color: #F0E6D2;
   transition: background-color 0.3s ease;
+  width: 50px; /* Set a specific width if desired */
+  height: 50px; /* Set a specific height if desired */
 }
 
 #refresh:hover {
-  background-color: #006400; /* Darker green on hover */
+  background-color: #010a13;
+  color: #F0E6D2;
+  border-color: #F0E6D2;
 }
 
 
 
 
-/* Tooltip styling */ /* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling */
-/* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling */
-/* Tooltip base styling */
-.tooltip {
-    position: absolute;
-    background-color: #0A1428;
-    color: #F0E6D2;
-    padding: 0; /* Remove default padding - we'll add padding to inner elements */
-    border-radius: 5px;
-    font-family: "beaufort";
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
-    z-index: 1001;
-    display: none;
-    max-width: 380px;
-    min-width: 300px;
-    border: 2px solid #C89B3C;
-    pointer-events: none; /* Ensures the tooltip doesn't interfere with mouse events */
-    
-    /* Add a small arrow pointing to the element (on the left side) */
-    &::before {
-      content: "";
-      position: absolute;
-      top: 50%;
-      left: -8px; /* Position arrow on the left */
-      margin-top: -8px;
-      border-width: 8px 8px 8px 0; /* Arrow pointing left */
-      border-style: solid;
-      border-color: transparent #C89B3C transparent transparent;
-    }
-    
-    /* Inner arrow (for border effect) */
-    &::after {
-      content: "";
-      position: absolute;
-      top: 50%;
-      left: -7px; /* Slightly offset from the outer arrow */
-      margin-top: -7px;
-      border-width: 7px 7px 7px 0;
-      border-style: solid;
-      border-color: transparent #0A1428 transparent transparent;
-    }
-    
-    /* Animation for smooth appearance */
-    animation: tooltipFadeIn 0.4s ease-in-out;
-  }
-  
-  /* Tooltip title styling */
-  .tooltip-title {
-    background-color: #091428;
-    color: #C89B3C;
-    font-size: 18px;
-    font-weight: bold;
-    padding: 10px 15px;
-    border-bottom: 2px solid #C89B3C;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    text-align: center;
-  }
-  
-  /* Container for tooltip content (image + text) */
-  .tooltip-content-container {
-    display: flex;
-    padding: 10px;
-    align-items: center;
-  }
-  
-  /* Tooltip image styling */
-  .tooltip-image {
-    margin-right: 10px;
-    flex-shrink: 0; /* Prevent image from shrinking */
-  }
-  
-  .tooltip-image img {
-    width: 130px; /* Adjust size as needed */
-    height: 240px;
-    object-fit: cover;
-    border-radius: 3px;
-    border: 1px solid rgba(218, 165, 32, 0.3);
-  }
-  
-  /* Tooltip text styling */
-  .tooltip-text {
-    font-family: "beaufort2";
-    font-size: 16px;
-    line-height: 1.5;
-    flex-grow: 1;
-    text-align: left;
-    word-break: break-word;
-  }
-  
-  @keyframes tooltipFadeIn {
-    from {
-      opacity: 0;
-      transform: translateX(-5px);
-    }
-    to {
-      opacity: 1;
-      transform: translateX(0);
-    }
-  }
-  
-  /* Add a subtle indicator that headers have tooltips */
-  .grid-header[data-tooltip-title],
-  .grid-header[data-tooltip-content],
-  .grid-header[data-tooltip-image] {
-    position: relative;
-    cursor: url("images/cursor_default.png"), auto; /* Change cursor to indicate there's information */
-  }
-  
-  .grid-header[data-tooltip-title]:hover,
-  .grid-header[data-tooltip-content]:hover,
-  .grid-header[data-tooltip-image]:hover {
-    background-color: rgba(218, 165, 32, 0.1); /* Subtle golden highlight on hover */
-    border-radius: 10px;
-}
-
-/* For the grid headers */
-.grid-header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden; /* Prevent content from spilling out */
-    padding: 10px;
-    color: #C89B3C;
-    cursor: url("images/cursor_default.png"), auto;
-}
 
 
-.rank-image {
-    object-fit: contain;
-  }
-
-.rank-image:hover {
-    transform: scale(1.1);
-}
-  
-  /* For the images */
-.column-image, .row-image{
-    max-width: 80%; /* Adjust as needed */
-    max-height: 80%;
-    object-fit: contain;
-}
-
-.column-image:hover, .row-image:hover{
-    transform: scale(1.1);
-}
-  
-  /* For the text */
-  .header-text {
-    font-family: "beaufort";
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 18px; /* Adjust as needed */
-    text-align: center;
-    margin-top: 10px;
-    width: 110%;
-  }
 
 
-/* Keep all your existing CSS unchanged */
 
-/* Add these media queries at the end of your CSS file */
 
-/* For tablets and smaller devices */
-@media screen and (max-width: 1024px) {
-    /* Adjust the grid to fit better on smaller screens */
-    .grid {
-      grid-template-columns: repeat(5, 120px);
-      grid-template-rows: repeat(4, 120px);
-      gap: 2px;
-    }
-    
-    .grid-item {
-      width: 120px;
-      height: 120px;
-    }
-    
-    /* Adjust modal width for medium screens */
-    .modal-content {
-      min-width: 80%;
-    }
-    
-    #user-answer {
-      width: 80%;
-    }
-  }
-  
-  /* For mobile phones */
-  @media screen and (max-width: 768px) {
-    /* Make navbar more compact */
-    nav {
-      padding: 15px 10px;
-      font-size: 16px;
-    }
-    
-    nav a {
-      margin: 0 8px;
-      font-size: 18px;
-    }
-    
-    nav2 {
-      padding: 25px;
-    }
-    
-    /* Make the grid much smaller to fit on mobile */
-    .grid {
-      grid-template-columns: repeat(5, 70px);
-      grid-template-rows: repeat(4, 70px);
-      gap: 1px;
-    }
-    
-    .grid-item {
-      width: 70px;
-      height: 70px;
-    }
-    
-    /* Adjust text size in grid headers */
-    .header-text {
-      font-size: 12px;
-    }
-    
-    /* Mobile-friendly modal */
-    .modal-content {
-      min-width: 90%;
-      padding: 15px;
-    }
-    
-    #modal-instruction {
-      font-size: 20px;
-    }
-    
-    #modal-cats {
-      font-size: 12px;
-      margin-bottom: 20px;
-    }
-    
-    #user-answer {
-      width: 70%;
-      font-size: 16px;
-      height: 45px;
-    }
-    
-    button {
-      width: 75px;
-      height: 45px;
-      font-size: 14px;
-    }
-    
-    /* Adjust tooltip size for mobile */
-    .tooltip {
-      max-width: 280px;
-      min-width: 200px;
-    }
-    
-    .tooltip-image img {
-      width: 100px;
-      height: 180px;
-    }
-    
-    .tooltip-title {
-      font-size: 16px;
-      padding: 8px 10px;
-    }
-    
-    .tooltip-text {
-      font-size: 14px;
-    }
-  }
-  
-  /* For very small screens */
-  @media screen and (max-width: 480px) {
-    /* Even smaller grid */
-    .grid {
-      grid-template-columns: repeat(5, 55px);
-      grid-template-rows: repeat(4, 55px);
-    }
-    
-    .grid-item {
-      width: 55px;
-      height: 55px;
-    }
-    
-    /* Simplified navbar for very small screens */
-    nav {
-      padding: 10px 5px;
-    }
-    
-    nav a {
-      margin: 0 5px;
-      font-size: 16px;
-    }
-    
-    /* Adjust header text size even more */
-    .header-text {
-      font-size: 10px;
-      margin-top: 5px;
-    }
-    
-    /* Reduce image size in headers */
-    .column-image, .row-image, .rank-image {
-      max-width: 70%;
-      max-height: 70%;
-    }
-    
-    /* Adjust modals for very small screens */
-    .modal {
-      padding-top: 100px;
-    }
-    
-    .results {
-      max-width: 200px;
-    }
-  }
+

@@ -150,28 +150,6 @@ function clearSavedGame() {
     console.log('Saved game cleared from local storage');
 }
 
-//reset buttons
-function addResetButton() {
-    // Check if button already exists
-    if (document.getElementById('reset-game-btn')) return;
-    
-    const resetBtn = document.createElement('button');
-    resetBtn.id = 'reset-game-btn';
-    resetBtn.textContent = 'Reset Game';
-    resetBtn.style.marginTop = '10px';
-    resetBtn.style.padding = '5px 10px';
-    resetBtn.style.backgroundColor = '#f44336';
-    resetBtn.style.color = 'white';
-    resetBtn.style.border = 'none';
-    resetBtn.style.borderRadius = '4px';
-    resetBtn.style.cursor = 'pointer';
-    
-    resetBtn.addEventListener('click', function() {
-      if (confirm('Are you sure you want to reset the game? All progress will be lost.')) {
-        resetGame();
-      }
-    });
-}
 
 
 // Modified window.addEventListener for page load to ensure proper order of execution
@@ -180,8 +158,6 @@ window.addEventListener('load', () => {
     
     setTimeout(() => {
         preloadChampionImages();
-        addResetButton();
-        
         // Check if the game is completed and solutions grid should be revealed
         const correctCount = correctSquares.filter(Boolean).length;
         if (guessesRemaining <= 0 || correctCount === 9) {

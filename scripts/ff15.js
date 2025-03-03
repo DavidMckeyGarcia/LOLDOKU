@@ -41,58 +41,8 @@ function setupRefreshButton() {
     
     // Show modal when Refresh button is clicked
     refreshBtn.addEventListener('click', function() {
-
-        // Clear the game state
-        clearSavedGame();
-        
-        // Reset the game
-        answers = new Array(9).fill('');
-        correctSquares = new Array(9).fill(false);
-        guessesRemaining = 9;
-        
-        // Reset the UI
-        const gridItems = document.querySelectorAll('.grid-container .grid-item');
-        gridItems.forEach((item, index) => {
-            item.classList.remove('correct', 'incorrect');
-            item.style.backgroundImage = ""; // Reset the background image
-            
-            // Re-enable click if it was disabled
-            item.style.cursor = 'pointer';
-            
-            // Remove existing event listener if any
-            if (item.clickHandler) {
-                item.removeEventListener('click', item.clickHandler);
-            }
-            
-            // Add new click handler
-            const clickHandler = function() {
-                openModal(index);
-            };
-            item.clickHandler = clickHandler;
-            item.addEventListener('click', clickHandler);
-        });
-        
-        // Hide the solutions grid if visible
-        const secondGridTitle = document.getElementById('second-grid-title');
-        const secondGridContainer = document.getElementById('second-grid-container');
-        const solutionsContainer = document.getElementById('solutions-container');
-        
-        if (secondGridTitle) {
-            secondGridTitle.style.display = 'none';
-            secondGridTitle.classList.remove('visible');
-        }
-        
-        if (secondGridContainer) {
-            secondGridContainer.style.display = 'none';
-            secondGridContainer.classList.remove('visible');
-        }
-        
-        if (solutionsContainer) {
-            solutionsContainer.classList.remove('visible');
-        }
-        
-        // Save the new state
-        saveGameState();
+        //Reset Game State
+        resetGame()
         
     });
 }

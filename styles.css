@@ -362,6 +362,49 @@ button:hover {
 }
 
 
+/* Button Container Styling */
+.button-container {
+  display: flex;
+  justify-content: center; /* Centers buttons horizontally */
+  align-items: center; /* Centers buttons vertically */
+  gap: 20px; /* Adds some space between buttons */
+  margin-top: 100px; /* Adds some space above the container */
+}
+
+/* Forfeit Button Styling */
+#forfeit {
+  background-color: #ff0000; /* Red color for Forfeit button */
+  color: white; /* Text color white */
+  border: none;
+  padding: 10px 20px;
+  font-size: 25px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+#forfeit:hover {
+  background-color: #cc0000; /* Darker red on hover */
+}
+
+/* Refresh Button Styling */
+#refresh {
+  background-color: #008000; /* Green color for Refresh button */
+  color: white; /* Text color white */
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+#refresh:hover {
+  background-color: #006400; /* Darker green on hover */
+}
+
+
+
 
 /* Tooltip styling */ /* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling */
 /* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling *//* Tooltip styling */

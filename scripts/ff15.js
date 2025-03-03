@@ -23,13 +23,15 @@ function setupFF15Button() {
     // Confirm button triggers forfeit
     ff15ConfirmBtn.addEventListener('click', function() {
         // Set guesses to 0 to trigger game over
-        guessesRemaining = 0;
+        livesRemaining = 0;
+        updateLivesDisplay();
         saveGameState();
         
-        // Check game status to reveal solutions
-        checkGameStatus();
+        // Reveal the second grid
+        setTimeout(() => {
+            revealSecondGrid();
+        }, 500);
 
-        
         // Close the modal
         ff15Modal.style.display = 'none';
     });

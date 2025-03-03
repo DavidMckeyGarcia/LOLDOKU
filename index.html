@@ -53,7 +53,7 @@
         <div class="grid-item" data-index="6"></div>
         <div class="grid-item" data-index="7"></div>
         <div class="grid-item" data-index="8"></div>
-        <div class="grid-header" id = "lives-display">
+        <div class="grid-header" id = "lives-display" ></div>
       </div>      
       <!-- FF & Reset Buttons -->
       <div class="grid-header"></div> <!-- Empty cell for the top-left corner -->
@@ -112,20 +112,40 @@
     </div>
   </div>
 
-
-
   <!-- FF15 Modal Template -->
   <div id="ff15-modal" class="modal-container">
-    <div class="ffmodal-content">
+    <div class="ff15modal-content">
       <h3>Forfeit Game?</h3>
       <p>Are you sure you want to forfeit this game? The solutions grid will be revealed.</p>
-      <div class="ffmodal-buttons">
+      <div class="ff15modal-buttons">
         <button id="ff15-cancel-btn">SCALE</button>
         <button id="ff15-confirm-btn">FF15</button>
       </div>
     </div>
   </div>
 
+  <!-- Game Over Modal -->
+<div id="game-over-modal" class="modal-container">
+  <div class="ffmodal-content">
+    <h3>Game Over</h3>
+    <p>You have run out of lives!</p>
+    <div class="ffmodal-buttons">
+      <button id="continue-btn">Continue Playing</button>
+      <button id="reveal-btn">Reveal Solutions</button>
+    </div>
+  </div>
+</div>
+
+<!-- Win Modal -->
+<div id="win-modal" class="modal-container">
+  <div class="ffmodal-content">
+    <h3>Congratulations!</h3>
+    <p>You've solved the puzzle!</p>
+    <div class="ffmodal-buttons">
+      <button id="continue-win-btn">Continue</button>
+    </div>
+  </div>
+</div>
 
   <!-- Link to external JavaScript file -->
   <script src="scripts/game.js"></script>

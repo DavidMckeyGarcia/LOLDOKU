@@ -138,8 +138,8 @@ document.addEventListener('DOMContentLoaded', function () {
   }
   
   
-  // Function to open the modal
-  function openModal(index) {
+ // Modify the submitAnswer function inside openModal to only decrease lives on incorrect answers
+function openModal(index) {
     const gridItems = document.querySelectorAll('.grid-item');
     
     // Check if the cell is already correctly answered
@@ -148,8 +148,8 @@ document.addEventListener('DOMContentLoaded', function () {
       return; // Exit the function early
     }
   
-    if (guessesRemaining <= 0) {
-      console.log(`User ran out of guesses`);
+    if (livesRemaining <= 0 && !window.unlimitedMode) {
+      console.log(`User ran out of lives`);
       return; // Exit the function early
     }
     
@@ -163,9 +163,8 @@ document.addEventListener('DOMContentLoaded', function () {
     // Show the modal
     modal.style.display = 'flex';
   
-    //update sub headers]
+    //update sub headers
     updateModalh2(currentIndex);
-  
   
     // Focus the input field
     userAnswerInput.focus();
@@ -174,12 +173,15 @@ document.addEventListener('DOMContentLoaded', function () {
       const userAnswer = userAnswerInput.value.trim();
       if (userAnswer) {
         answers[currentIndex] = userAnswer; // Store the user's answer
-  
-        // Decrease remaining guesses
-        guessesRemaining--;
         
         // Check if the answer is correct
         const isCorrect = validateAnswer(currentIndex, userAnswer);
+        
+        // Only decrease lives on incorrect answers
+        if (!isCorrect && !window.unlimitedMode) {
+          livesRemaining--;
+          updateLivesDisplay();
+        }
         
         // Update the UI based on correctness
         updateCellStatus(currentIndex, isCorrect);
@@ -195,10 +197,10 @@ document.addEventListener('DOMContentLoaded', function () {
         checkGameStatus();
         
         console.log(`User's answer for grid item ${currentIndex + 1}: ${userAnswer} - ${isCorrect ? 'Correct' : 'Incorrect'}`);
-        console.log(`Guesses remaining: ${guessesRemaining}`);
+        console.log(`Lives remaining: ${livesRemaining}`);
       }
       closeModal();
-      userAnswerInput.value =  '';
+      userAnswerInput.value = '';
     }
   
     // Updated closeModal function
@@ -309,10 +311,11 @@ document.addEventListener('DOMContentLoaded', function () {
       } else {
         gridItems[index].classList.add('incorrect');
         
-        // Add a brief shake animation for incorrect answers
-        gridItems[index].classList.add('shake');
+        // Add a brief shake animation and flash red
+        gridItems[index].classList.add('shake', 'flash');
+        
         setTimeout(() => {
-          gridItems[index].classList.remove('shake');
+          gridItems[index].classList.remove('shake', 'flash');
         }, 500);
       }
     }
@@ -367,26 +370,25 @@ document.addEventListener('DOMContentLoaded', function () {
 // Game state variables
 let answers = new Array(9).fill('');
 let correctSquares = new Array(9).fill(false);
-let guessesRemaining = 9;
+let livesRemaining = 3; // Change from guessesRemaining to livesRemaining
 
-
-
-// Modified saveGameState function 
+// Update saveGameState to save livesRemaining instead of guessesRemaining
 function saveGameState() {
     const gameState = {
       answers,
       correctSquares,
-      guessesRemaining,
-      solutionsGridVisible: document.getElementById('second-grid-container')?.style.display === 'block'
+      livesRemaining,
+      solutionsGridVisible: document.getElementById('second-grid-container')?.style.display === 'block',
+      unlimitedMode: window.unlimitedMode || false // Add tracking for unlimited mode
     };
     
     localStorage.setItem('puzzleGameState', JSON.stringify(gameState));
     console.log('Game state saved to local storage');
+    console.log('Lives remaining:', livesRemaining);
     console.log('Solutions grid visibility saved:', gameState.solutionsGridVisible);
 }
 
-
-// Modified loadGameState function 
+// Update loadGameState to load livesRemaining
 function loadGameState() {
     const savedState = localStorage.getItem('puzzleGameState');
     
@@ -394,14 +396,18 @@ function loadGameState() {
       const gameState = JSON.parse(savedState);
       answers = gameState.answers;
       correctSquares = gameState.correctSquares;
-      guessesRemaining = gameState.guessesRemaining;
+      livesRemaining = gameState.livesRemaining !== undefined ? gameState.livesRemaining : 3;
+      window.unlimitedMode = gameState.unlimitedMode || false;
       
       console.log('Game state loaded from local storage');
-      console.log(`Guesses remaining: ${guessesRemaining}`);
+      console.log(`Lives remaining: ${livesRemaining}`);
       console.log(`Correct squares: ${correctSquares.filter(Boolean).length}`);
       
+      // Update lives display
+      updateLivesDisplay();
+      
       // Check if the game is completed and solutions grid should be visible
-      const isGameCompleted = guessesRemaining <= 0 || correctSquares.filter(Boolean).length === 9;
+      const isGameCompleted = (livesRemaining <= 0 && !window.unlimitedMode) || correctSquares.filter(Boolean).length === 9;
       const shouldShowSolutionsGrid = gameState.solutionsGridVisible || isGameCompleted;
       
       if (shouldShowSolutionsGrid) {
@@ -417,52 +423,68 @@ function loadGameState() {
       // Initialize a fresh game state
       answers = new Array(9).fill('');
       correctSquares = new Array(9).fill(false);
-      guessesRemaining = 9;
+      livesRemaining = 3;
+      window.unlimitedMode = false;
       console.log('No saved game found, starting fresh');
+      
+      // Update lives display
+      updateLivesDisplay();
+    }
+}
+
+// Add a function to update the lives display
+function updateLivesDisplay() {
+    const livesDisplay = document.getElementById('lives-display');
+    if (livesDisplay) {
+        if (window.unlimitedMode) {
+            livesDisplay.innerHTML = '∞';
+        } else {
+            livesDisplay.innerHTML = '❤️'.repeat(livesRemaining) + '🖤'.repeat(3 - livesRemaining);
+        }
     }
 }
 
 
-//Check current game state
+
+// Update checkGameStatus to show modals instead of alerts
 function checkGameStatus() {
     console.log('Checking game status');
     const correctCount = correctSquares.filter(Boolean).length;
     
-    console.log(`Correct count: ${correctCount}, Guesses remaining: ${guessesRemaining}`);
+    console.log(`Correct count: ${correctCount}, Lives remaining: ${livesRemaining}`);
     
     // Game is won if all squares are correct
     if (correctCount === 9) {
-        console.log('Game won, preparing to reveal second grid');
+        console.log('Game won, showing win modal');
+        
+        // Show win modal
+        const winModal = document.getElementById('win-modal');
+        if (winModal) {
+            winModal.style.display = 'flex';
+        }
+        
+        // Reveal the second grid
         setTimeout(() => {
-            // Reveal the second grid
             revealSecondGrid();
-            alert('Congratulations! You solved the puzzle! Bonus content unlocked!');
-        }, 500); // Short delay to allow the UI to update first
+        }, 500);
     }
-    // Game is lost if no guesses remain and not all squares are correct
-    else if (guessesRemaining <= 0) {
-        console.log('Game lost, preparing to reveal second grid');
-        setTimeout(() => {
-            // Reveal the second grid
-
-            revealSecondGrid();
-            console.log("Second grid should be revealed")
-
-            alert(`Game over! You correctly identified ${correctCount} out of 9 champions. Bonus content unlocked!`);
-
-        }, 500); // Short delay to allow the UI to update first
+    // Game is lost if no lives remain and not all squares are correct
+    else if (livesRemaining <= 0 && !window.unlimitedMode) {
+        console.log('Game lost, showing game over modal');
+        
+        // Show game over modal
+        const gameOverModal = document.getElementById('game-over-modal');
+        if (gameOverModal) {
+            gameOverModal.style.display = 'flex';
+        }
     } else {
         console.log('Game still in progress');
     }
 }
 
-// Add a function to clear the saved game (useful for testing)
-function clearSavedGame() {
-    localStorage.removeItem('puzzleGameState');
-    console.log('Saved game cleared from local storage');
-}
 
-//Reset Game Function
+
+// Reset game function - update to reset lives instead of guesses
 function resetGame() {
     // Clear the game state
     clearSavedGame();
@@ -470,72 +492,110 @@ function resetGame() {
     // Reset the game
     answers = new Array(9).fill('');
     correctSquares = new Array(9).fill(false);
-    guessesRemaining = 9;
+    livesRemaining = 3;
+    window.unlimitedMode = false;
+    
+    // Update lives display
+    updateLivesDisplay();
             
     // Reset the UI
     const gridItems = document.querySelectorAll('.grid-container .grid-item');
     gridItems.forEach((item, index) => {
-    item.classList.remove('correct', 'incorrect');
-    item.style.backgroundImage = ""; // Reset the background image
+        item.classList.remove('correct', 'incorrect');
+        item.style.backgroundImage = ""; // Reset the background image
+                    
+        // Re-enable click if it was disabled
+        item.style.cursor = 'pointer';
+                    
+        // Remove existing event listener if any
+        if (item.clickHandler) {
+            item.removeEventListener('click', item.clickHandler);
+        }
                 
-    // Re-enable click if it was disabled
-    item.style.cursor = 'pointer';
-                
-    // Remove existing event listener if any
-    if (item.clickHandler) {
-        item.removeEventListener('click', item.clickHandler);
-    }
-            
-     // Add new click handler
-    const clickHandler = function() {
-        openModal(index);
+        // Add new click handler
+        const clickHandler = function() {
+            openModal(index);
         };
         item.clickHandler = clickHandler;
         item.addEventListener('click', clickHandler);
-        });
-            
+    });
+                
     // Hide the solutions grid if visible
     const secondGridTitle = document.getElementById('second-grid-title');
     const secondGridContainer = document.getElementById('second-grid-container');
     const solutionsContainer = document.getElementById('solutions-container');
-            
+                
     if (secondGridTitle) {
         secondGridTitle.style.display = 'none';
         secondGridTitle.classList.remove('visible');
     }
-            
+                
     if (secondGridContainer) {
         secondGridContainer.style.display = 'none';
         secondGridContainer.classList.remove('visible');
     }
-            
+                
     if (solutionsContainer) {
         solutionsContainer.classList.remove('visible');
     }
-            
-// Save the new state
-saveGameState();
+                
+    // Save the new state
+    saveGameState();
 }
 
 
+// Add a function to clear the saved game (useful for testing)
+function clearSavedGame() {
+    localStorage.removeItem('puzzleGameState');
+    console.log('Saved game cleared from local storage');
+}
 
 
-// Modified window.addEventListener for page load to ensure proper order of execution
-window.addEventListener('load', () => {
-    loadData(); // This will load game state and initialize the grid
+// Initialize event listeners for the new modals when the page loads
+window.addEventListener('DOMContentLoaded', function() {
+    // Game Over Modal
+    const continueBtn = document.getElementById('continue-btn');
+    const revealBtn = document.getElementById('reveal-btn');
+    const gameOverModal = document.getElementById('game-over-modal');
     
-    setTimeout(() => {
-        preloadChampionImages();
-        // Check if the game is completed and solutions grid should be revealed
-        const correctCount = correctSquares.filter(Boolean).length;
-        if (guessesRemaining <= 0 || correctCount === 9) {
-            console.log('Game is completed, ensuring solutions grid is visible');
-            if (!document.getElementById('second-grid-container') || 
-                document.getElementById('second-grid-container').style.display !== 'block') {
-                createSecondGrid();
-                updateSecondGridContent();
-                revealSecondGrid();
+    if (continueBtn) {
+        continueBtn.addEventListener('click', function() {
+            // Enable unlimited mode
+            window.unlimitedMode = true;
+            updateLivesDisplay();
+            saveGameState();
+            
+            // Hide the modal
+            if (gameOverModal) {
+                gameOverModal.style.display = 'none';
             }
-        }
-    }, 1000);
+        });
+    }
+    
+    if (revealBtn) {
+        revealBtn.addEventListener('click', function() {
+            // Reveal solutions grid
+            createSecondGrid();
+            updateSecondGridContent();
+            revealSecondGrid();
+            
+            // Hide the modal
+            if (gameOverModal) {
+                gameOverModal.style.display = 'none';
+            }
+        });
+    }
+    
+    // Win Modal
+    const continueWinBtn = document.getElementById('continue-win-btn');
+    const winModal = document.getElementById('win-modal');
+    
+    if (continueWinBtn) {
+        continueWinBtn.addEventListener('click', function() {
+            // Hide the modal
+            if (winModal) {
+                winModal.style.display = 'none';
+            }
+        });
+    }
 });

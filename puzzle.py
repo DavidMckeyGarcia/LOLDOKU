@@ -4,7 +4,7 @@ import os
 #import matplotlib.pyplot as plt
 #import numpy as np
 
-with open(r'C:\Users\s2749919\Scripts\JavaTest\champs.json', 'r') as file:
+with open(r'champs.json', 'r') as file:
     champion_data = json.load(file)
 
 def get_champions_by_constraints(constraints, champion_data):

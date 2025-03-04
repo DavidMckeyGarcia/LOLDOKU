@@ -51,40 +51,6 @@
 }
 
 
-/* Shake animation */
-@keyframes shake {
-  0% { transform: translateX(0); }
-  25% { transform: translateX(-5px); }
-  50% { transform: translateX(5px); }
-  75% { transform: translateX(-5px); }
-  100% { transform: translateX(0); }
-}
-
-.shake {
-  animation: shake 0.5s ease-in-out;
-}
-
-/* Flash animation */
-@keyframes flash {
-  0% { background-color: red !important; }
-  50% { background-color: #0A1428 } /* Restores the original background color */
-  100% { background-color: #0A1428; }
-}
-
-.flash {
-  animation: flash 0.5s ease-in-out;
-}
-
-@keyframes tooltipFadeIn {
-  from {
-    opacity: 0;
-    transform: translateX(-5px);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
 
 
 /* Initially hide the background until animation starts */
@@ -460,26 +426,41 @@ button:hover {
 
 /* Modal Title */
 .ff15modal-content h3 {
-  margin-bottom: 15px;
+  font-size: 30px;
+  margin-bottom: 10px;
+  font-family: "beaufort";
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  color: #F0E6D2;
 }
 
 /* Modal Text */
 .ff15modal-content p {
   margin-bottom: 20px;
+  font-size: 15px;
+  margin-bottom: 10px;
+  max-width: 400px;
+  font-family: "beaufort";
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  color: #F0E6D2;
 }
 
 /* Modal Buttons Container */
 .ff15modal-buttons {
   display: flex;
   justify-content: center;
-  gap: 10px;
+  margin-top: 20px;
+  gap: 30px;
 }
 
 /* Cancel Button */
 #ff15-cancel-btn {
   padding: 8px 16px;
-  background-color: #F0E6D2;
-  color: #C89B3C;
+  background-color: #C89B3C;
+  color: #F0E6D2;
   border: 2px;
   border-radius: 4px;
   cursor: pointer;
@@ -535,6 +516,7 @@ button:hover {
   animation: fadeInZoom 0.1s ease-in-out;
 }
 
+
 /* Add this class that will be temporarily applied when closing */
 #game-over-modal.closing {
   animation: zoomOut 0.15s ease-in-out forwards;
@@ -545,7 +527,7 @@ button:hover {
   font-family: "beaufort";
   font-weight: bold; /* Make the text bold */
   background-color: #010A13;
-  color: #F0E6D2 ;
+  color: #F0E6D2;
   padding: 20px;
   display: flex;
   flex-direction: column;
@@ -558,28 +540,86 @@ button:hover {
   position: relative;
 }
 
+.ffmodal-content h3{
+  font-size: 30px;
+  margin-bottom: 10px;
+  font-family: "beaufort";
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  color: #F0E6D2;
+}
+
+.ffmodal-content p{
+  font-size: 15px;
+  margin-bottom: 10px;
+  font-family: "beaufort";
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  color: #F0E6D2;
+}
+
 .ffmodal-buttons {
   display: flex;
   justify-content: center;
-  gap: 20px;
   margin-top: 20px;
+  gap: 30px;
 }
 
 .ffmodal-buttons button {
-  padding: 8px 16px;
+  padding: 16px 16px;
   border: none;
   border-radius: 4px;
-  cursor: pointer;
   font-weight: bold;
 }
 
 #continue-btn, #continue-win-btn {
-  background-color: #4CAF50;
-  color: white;
+  padding: 8px 16px;
+  background-color: #C89B3C;
+  color: #F0E6D2;
+  border: 2px;
+  border-color: #F0E6D2;
+  border-radius: 4px;
+  cursor: url("cursor_hover.png");
+  height: 60px;
+  width: 120px;
 }
 
+#continue-btn:hover, #continue-win-btn:hover {
+  padding: 8px 16px;
+  background-color: #785A28;
+  color: #F0E6D2;
+  border: 2px;
+  border-color: #F0E6D2;
+  border-radius: 4px;
+  cursor: url("cursor_hover.png");
+  height: 60px;
+  width: 120px;
+}
+
+
 #reveal-btn {
-  background-color: #f44336;
+  padding: 8px 16px;
+  background-color: red;
   color: white;
+  border-color: red;
+  border: 2px;
+  border-radius: 4px;
+  cursor: url("cursor_hover.png");
+  height: 60px;
+  width: 120px;
+}
+
+#reveal-btn:hover {
+  padding: 8px 16px;
+  background-color: rgb(187, 0, 0);
+  color: #F0E6D2;
+  border: 2px;
+  border-color: #F0E6D2;
+  border-radius: 4px;
+  cursor: url("cursor_hover.png");
+  height: 60px;
+  width: 120px;
 }
 

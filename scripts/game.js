@@ -1,3 +1,9 @@
+// Game state variables
+let answers = new Array(9).fill('');
+let correctSquares = new Array(9).fill(false);
+let livesRemaining = 3; 
+
+
 
 // Initialize search functionality
 document.addEventListener('DOMContentLoaded', function () {
@@ -5,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
   });
   
   
-  function initializeSearch() {
+function initializeSearch() {
     const searchInput = document.getElementById('user-answer');
     const searchWrapper = document.querySelector('.wrapper');
     const resultsWrapper = document.querySelector('.results');
@@ -240,7 +246,7 @@ function openModal(index) {
   }
   
   
-  function updateModalh2(index) {
+function updateModalh2(index) {
     // Use the cached data instead of fetching again
     const rows = puzzleData.rows;
     const cols = puzzleData.cols;
@@ -266,7 +272,7 @@ function openModal(index) {
   
   
   // Updated function to update the cell's visual status
-  function updateCellStatus(index, isCorrect) {
+function updateCellStatus(index, isCorrect) {
     const gridItems = document.querySelectorAll('.grid-item');
     
     if (index >= 0 && index < gridItems.length) {
@@ -323,7 +329,7 @@ function openModal(index) {
   
   
   // Function to initialize the grid based on saved state
-  function initializeGrid() {
+function initializeGrid() {
     const gridItems = document.querySelectorAll('.grid-item');
   
     gridItems.forEach((item, index) => {
@@ -351,7 +357,7 @@ function openModal(index) {
   
   
   // Function to validate user input answer
-  function validateAnswer(index, answer) {
+function validateAnswer(index, answer) {
     // Convert the answer to lowercase for case-insensitive comparison
     const normalizedAnswer = answer.trim().toLowerCase();
     
@@ -359,18 +365,8 @@ function openModal(index) {
     const cellSolutions = puzzleData.solutions[index].map(solution => solution.toLowerCase());
     
     return cellSolutions.includes(normalizedAnswer);
-  }
+}
 
-
-
-
-
-
-
-// Game state variables
-let answers = new Array(9).fill('');
-let correctSquares = new Array(9).fill(false);
-let livesRemaining = 3; // Change from guessesRemaining to livesRemaining
 
 // Update saveGameState to save livesRemaining instead of guessesRemaining
 function saveGameState() {

@@ -108,7 +108,7 @@ function initializeSearch() {
       .map((item, index) => {
         // Transform the champion name to match your image naming convention
         const championName = item.toLowerCase().replace(/\s+/g, '');
-        const imagePath = `images/Champions/${championName}Square.png`;
+        const imagePath = `images/Champions/${championName}Square.webp`;
         
         return `<li>
           <div style="display: flex; align-items: center;">
@@ -313,7 +313,7 @@ function updateCellStatus(index, isCorrect) {
           
           // Then set the background image after a tiny delay
           requestAnimationFrame(() => {
-            gridItems[index].style.backgroundImage = `url('images/Champions/${championName}Square.png')`;
+            gridItems[index].style.backgroundImage = `url('images/Champions/${championName}Square.webp')`;
           });
           
           // Remove the click event listener to prevent further changes
@@ -322,7 +322,7 @@ function updateCellStatus(index, isCorrect) {
         };
         
         // Set the image source to start loading
-        img.src = `images/Champions/${championName}Square.png`;
+        img.src = `images/Champions/${championName}Square.webp`;
         preloader.appendChild(img);
         
       } else {
@@ -348,7 +348,7 @@ function initializeGrid() {
       if (correctSquares[index]) {
         const championName = answers[index].toLowerCase().replace(/\s+/g, '');
         item.classList.add('correct');
-        item.style.backgroundImage = `url('images/Champions/${championName}Square.png')`;
+        item.style.backgroundImage = `url('images/Champions/${championName}Square.webp')`;
         item.style.cursor = 'default';
       } else {
         // Create the click handler function and store it on the element

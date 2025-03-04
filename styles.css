@@ -87,7 +87,7 @@ nav2 {
     height: 150px;
     display: flex;
     justify-content: center;
-    /*background-image: "url('images/defaultsquare.png')";*/
+    /*background-image: "url('images/defaultSquare.webp')";*/
     background-color: #0A1428;
     align-items: center;
     background-size: cover;
@@ -312,7 +312,7 @@ font-size: 40px;
   height: 150px;
   display: flex;
   justify-content: center;
-  /*background-image: "url('images/defaultsquare.png')";*/
+  /*background-image: "url('images/defaultSquare.webp')";*/
   background-color: #0A1428;
   align-items: center;
   background-size: cover;

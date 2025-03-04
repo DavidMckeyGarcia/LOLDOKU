@@ -487,7 +487,7 @@ function updateHeaders(puzzleData) {
       if (rank) {
         // Update the image as before
         const img = document.createElement('img');
-        img.src = `images/ranks/${rank.toLowerCase()}.png`;
+        img.src = `images/ranks/${rank.toLowerCase()}.webp`;
         img.alt = rank;
         img.classList.add('rank-image');
         

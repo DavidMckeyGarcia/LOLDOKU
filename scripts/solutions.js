@@ -54,7 +54,7 @@ function updateSecondGridContent() {
             
             // Format the solution string and set as background image
             const randomSolution = possibleSolutions[randomIndex].toLowerCase().replace(/\s+/g, '');
-            item.style.backgroundImage = `url('images/Champions/${randomSolution}Square.png')`;
+            item.style.backgroundImage = `url('images/Champions/${randomSolution}Square.webp')`;
         });
         
         console.log('Second grid content updated successfully');
@@ -165,7 +165,7 @@ function updateSolutionsModal(index) {
             // Create an image element for the champion
             const img = document.createElement('img');
             const championName = solution.toLowerCase().replace(/\s+/g, '');
-            img.src = `images/Champions/${championName}Square.png`;
+            img.src = `images/Champions/${championName}Square.webp`;
             img.alt = solution;
             img.style.width = '30px';  // Restore previous image size
             img.style.height = '30px';

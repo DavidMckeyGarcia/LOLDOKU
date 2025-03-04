@@ -144,6 +144,7 @@ function updateSolutionsModal(index) {
     
     // Clear previous solutions (in case the modal was opened previously)
     solutionsList.innerHTML = '';
+    updateSolutionsModalh2(index)
 
     // Ensure that solutions exist for the given index
     if (solutions && solutions.length > 0) {
@@ -202,6 +203,33 @@ function updateSolutionsModal(index) {
         solutionsList.appendChild(noSolutionItem);
     }
 }
+
+function updateSolutionsModalh2(index) {
+    // Use the cached data instead of fetching again
+    const rows = puzzleData.rows;
+    const cols = puzzleData.cols;
+    
+    // Calculate the row and column based on the flat index
+    const rowIndex = Math.floor(index / 3); // For a 3x3 grid
+    const colIndex = index % 3;
+    
+    // Ensure rowIndex and colIndex are within bounds
+    if (rowIndex >= 0 && rowIndex < rows.length && colIndex >= 0 && colIndex < cols.length) {
+      const rowValue = rows[rowIndex];
+      const colValue = cols[colIndex];
+      
+      // Find the h2 element in the modal
+      const modalHeader = document.getElementById('solutions-modal-cats');
+      
+      // Update the h2 text content with row and col values
+      modalHeader.textContent = `${rowValue} / ${colValue}`;
+    } else {
+      console.error('Index is out of bounds!', { index, rowIndex, colIndex });
+    }
+}
+  
+
+
 
 
 // Run initialization when the page loads

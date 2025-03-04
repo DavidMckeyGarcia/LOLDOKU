@@ -256,10 +256,3 @@ const champPickPercentage = {
 
 
 
-
-// Run initialization when the page loads
-document.addEventListener('DOMContentLoaded', () => {
-    // Initialize the second grid
-    initializeSecondGrid();
-
-});

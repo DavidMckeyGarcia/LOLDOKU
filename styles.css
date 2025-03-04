@@ -115,10 +115,6 @@ nav2 {
     background-position: center !important;
 }
 
-/* Apply animation to correct grid items */
-.grid-header[data-type="score"] {
-    font-size: 30px;
-}
 
 #second-grid-title{
     color: #F0E6D2;
@@ -344,10 +340,6 @@ font-size: 40px;
   background-position: center !important;
 }
 
-/* Apply animation to correct grid items */
-.grid-header[data-type="score"] {
-  font-size: 30px;
-}
 
 #second-grid-title{
   color: #F0E6D2;
@@ -454,6 +446,9 @@ border-color: #F0E6D2;
 font-size: 30px;
 }
 
+#score{
+  font-size: 35px;
+}
 
 
 

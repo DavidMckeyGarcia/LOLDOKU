@@ -57,11 +57,13 @@ cat1 = {
 
 
 cat2 = {
-    "kit": [["dash"], ["true damage"], ["shield"],  ["execute"], ["global"], ["stealth"], ["blink"], ["life steal"] ],
+    "kit": [["dash"], ["true damage"], ["shield"],  ["ult execute"], ["global"], ["invis"], ["blink"], ["life steal"] ],
 
     "skinlines": [["pool party"], ["worlds"], ["arcade"], ["prestige"], ["coven"], 
                   ["elderwood"], ["PROJECT"], ["cosmic"], ["dark star"], ["hextech"],
-                  ["Fright Night"], ["empyrean"], ["Space Groove"] ]
+                  ["Fright Night"], ["empyrean"], ["Space Groove"] ],
+
+    "release date": [["OG40"], ["Season 7+"], ["Season 2-6"]],
                                                                                                     
 }
 
@@ -71,8 +73,6 @@ cat3 = {
     "misc": [["manaless"], ["infinite"], ["arcane"], ["ult reset"],  ["riot records"], ["Immunity"], ["100% AP Ratio"], ["tether"], ["shred"]],
 
     "race": [ ["celestial"], ["yordle"], ["ascended"], ["vastayan"], ["darkin"]],
-    
-    "release date": [["OG40"], ["Season 7+"], ["Season 2-6"]],
 
     "esports": ["not played"]
 }
@@ -133,7 +133,7 @@ def puzzle_checker(sols):
 
 #assign a difficulty to a given puzzle
 def puzzle_difficulty(puzzle_solutions):
-    num_sol = [None]*len(puzzle)
+    num_sol = [None]*len(puzzle_solutions)
     for i in range(len(puzzle_solutions)):
         num_sol[i] = len(puzzle_solutions[i])
     
@@ -176,6 +176,92 @@ def create_puzzle():
 
 
 
+def create_multiple_puzzle_json_files(num_puzzles=5, output_folder="puzzle_data"):
+    """
+    Generate multiple puzzle JSON files in a specified folder.
+    
+    Args:
+    num_puzzles (int): Number of puzzle JSON files to create (default is 5)
+    output_folder (str): Name of the folder to store puzzle JSON files (default is "puzzle_data")
+    """
+    # Get the current working directory where the script is located
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # Create full path for the output folder
+    output_path = os.path.join(script_dir, output_folder)
+    
+    # Create the output folder if it doesn't exist
+    os.makedirs(output_path, exist_ok=True)
+    
+    # Generate and save multiple puzzles
+    for i in range(num_puzzles):
+        # Generate a new random solvable puzzle
+        puzzle = create_puzzle()
+        grid_solutions = puzzle_solutions(puzzle)
+        grid_categories = [sum(dic.values(), []) for dic in puzzle]
+        
+        # Extract row and column headers
+        r1,c1 = puzzle[0].values()
+        r2,c2 = puzzle[4].values()
+        r3,c3 = puzzle[8].values()
+        
+        # ROW and COL headers
+        rows, cols = [r1[0], r2[0], r3[0]], [c1[0], c2[0], c3[0]]
+        
+        # Calculate difficulty
+        difficulty = puzzle_difficulty(grid_solutions)
+        
+        # Create a dictionary to store puzzle data
+        game_data = {
+            'difficulty': difficulty,
+            'rows': rows,
+            'cols': cols,
+            'solutions': grid_solutions
+        }
+        
+        # Create filename for each puzzle
+        filename = f"puzzle_{i+1}.json"
+        file_path = os.path.join(output_path, filename)
+        
+        # Write the puzzle data to a JSON file
+        with open(file_path, 'w') as json_file:
+            json.dump(game_data, json_file, indent=4)
+        
+        print(f"Created JSON file: {filename}")
+    
+    print(f"Successfully created {num_puzzles} puzzle JSON files in '{output_folder}' folder!")
+
+# Optional: You can call the function with custom number of puzzles
+create_multiple_puzzle_json_files(num_puzzles=1000)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
 #GENERATES A RANDOM SOLVABLE PUZZLE
 puzzle = create_puzzle()
 grid_solutions = puzzle_solutions(puzzle)
@@ -214,7 +300,7 @@ def create_json_file(difficulty, rows, cols, solutions, output_file="puzzle_data
 create_json_file(difficulty, rows, cols, grid_solutions)
 
 
-'''
+
 def sol_data(iter):
     totals = [None]*iter
     for i in range(iter):
@@ -240,6 +326,4 @@ plt.title('Distribution of rank')
 plt.xlabel('Difficulty')
 plt.ylabel('Frequency')
 plt.show()
-
 '''
-

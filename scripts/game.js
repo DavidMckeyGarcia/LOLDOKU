@@ -2,6 +2,7 @@
 let answers = new Array(9).fill('');
 let correctSquares = new Array(9).fill(false);
 let livesRemaining = 3; 
+let score = 0;
 
 
 
@@ -149,7 +150,7 @@ function openModal(index) {
     const gridItems = document.querySelectorAll('.grid-item');
     
     // Check if the index is within the range of 1 to 9
-    if (index < 1 || index > 9) {
+    if (index < 0 || index > 8) {
         console.log(`Grid item index ${index + 1} is out of allowed range (1-9) and cannot open modal.`);
         return; // Exit the function early
     }
@@ -200,6 +201,8 @@ function openModal(index) {
   
         if (isCorrect) {
           correctSquares[currentIndex] = true;
+          score = score + 100
+          updateScoreDisplay()
         }
   
         // Save game state
@@ -210,6 +213,7 @@ function openModal(index) {
         
         console.log(`User's answer for grid item ${currentIndex + 1}: ${userAnswer} - ${isCorrect ? 'Correct' : 'Incorrect'}`);
         console.log(`Lives remaining: ${livesRemaining}`);
+        console.log(`Score: ${score}`)
       }
       closeModal();
       userAnswerInput.value = '';
@@ -278,7 +282,7 @@ function updateModalh2(index) {
 }
   
   
-// Updated function to update the cell's visual status
+// function to update the cell's visual status
 function updateCellStatus(index, isCorrect) {
     const gridItems = document.querySelectorAll('.grid-item');
     
@@ -381,6 +385,7 @@ function saveGameState() {
       answers,
       correctSquares,
       livesRemaining,
+      score,
       solutionsGridVisible: document.getElementById('second-grid-container')?.style.display === 'block',
       unlimitedMode: window.unlimitedMode || false // Add tracking for unlimited mode
     };
@@ -388,6 +393,7 @@ function saveGameState() {
     localStorage.setItem('puzzleGameState', JSON.stringify(gameState));
     console.log('Game state saved to local storage');
     console.log('Lives remaining:', livesRemaining);
+    console.log('Score:', score);
     console.log('Solutions grid visibility saved:', gameState.solutionsGridVisible);
 }
 
@@ -402,9 +408,11 @@ function loadGameState() {
       correctSquares = gameState.correctSquares;
       livesRemaining = gameState.livesRemaining !== undefined ? gameState.livesRemaining : 3;
       window.unlimitedMode = gameState.unlimitedMode || false;
+      score = gameState.score !== undefined ? gameState.score : 0;
       
       console.log('Game state loaded from local storage');
       console.log(`Lives remaining: ${livesRemaining}`);
+      console.log(`Score: ${score}`);
       console.log(`Correct squares: ${correctSquares.filter(Boolean).length}`);
       
       // Update lives display
@@ -443,10 +451,21 @@ function updateLivesDisplay() {
     if (livesDisplay) {
         if (window.unlimitedMode) {
             livesDisplay.innerHTML = '∞';
+
         } else {
             livesDisplay.innerHTML = '❤️'.repeat(livesRemaining) + '🖤'.repeat(3 - livesRemaining);
         }
     }
+
+}
+
+function updateScoreDisplay() {
+  const scoreDisplay = document.getElementById('score');
+  if (window.unlimitedMode) {
+    return
+  } else {
+    scoreDisplay.innerHTML = score.toString()+"G";
+  }
 }
 
 
@@ -496,10 +515,12 @@ function resetGame() {
     answers = new Array(9).fill('');
     correctSquares = new Array(9).fill(false);
     livesRemaining = 3;
+    score = 0;
     window.unlimitedMode = false;
     
     // Update lives display
     updateLivesDisplay();
+    updateScoreDisplay();
             
     // Reset the UI
     const gridItems = document.querySelectorAll('.grid-container .grid-item');

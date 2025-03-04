@@ -187,7 +187,7 @@ function updateHeaders(puzzleData) {
         case 'the void':
             tooltipTitle = 'THE VOID';
             tooltipContent = "Screaming into existence with the birth of the universe, the Void is a manifestation of the unknowable nothingness that lies beyond. It is a force of insatiable hunger, waiting through the eons until its masters, the mysterious Watchers, mark the final time of undoing.".italics();
-            tooltipImage = 'images/tooltips/void.png';
+            tooltipImage = 'images/tooltips/the void.png';
             break;
         case 'shurima':
             tooltipTitle = 'SHURIMA';
@@ -254,19 +254,6 @@ function updateHeaders(puzzleData) {
             tooltipContent = "The umbrella term Celestial refers to all the beings that originate from the celestial realm beyond Runeterra. They were among the first beings that came to be in the universe and are alien in comparison to the physical and spiritual realms."; 
             tooltipImage = 'images/tooltips/celestial.png';
                 break;
-        case "og40":
-            tooltipTitle = 'OG 40 CHAMPS';
-            tooltipContent = " When League of Legends was originally released, there were only "+ "40 champions".bold() +" you could choose from. Interestingly, out of these 40, 16 have received complete reworks or major overhauls.";
-            tooltipImage = 'images/tooltips/og40.png';
-            break;
-        case "season 7+":
-            tooltipTitle = 'SEASON 7+';
-            tooltipContent = "Champions that were relased in season 7 or above. This includes around one thrird of League of Legends current champion roster!";
-            break;
-        case "season 2-6":
-            tooltipTitle = 'SEASON 2-6';
-            tooltipContent = "Champions that were relased between the start of season 2 and the end of season 6. This includes around one thrird of League of Legends current champion roster!";
-            break;
         case "ult reset":
             tooltipTitle = 'ULTIMATE RESET';
             tooltipContent = "A champion whose ultimate ability cooldown is " +"refunded".bold() +" or its " +"duration increased/extended".bold() +" when scoring a" +"champion takedown. ".bold()+ "Ultimate resets are one of the best ways to get pentakills!";
@@ -286,7 +273,7 @@ function updateHeaders(puzzleData) {
             break;
         case "riot records":
             tooltipTitle = 'RIOT RECORDS';
-            tooltipContent = "CHampions in a league universe band";
+            tooltipContent = "Riot Games has produced a variety of music for League of Legends and its other games. In League of Legends, alternate universes exist where some champions are part of a band such as Pentakill, K/DA, True Damage and Heartsteal. ";
             tooltipImage = 'images/tooltips/riot records.png';  
             break;
         case "arcane":
@@ -390,9 +377,9 @@ function updateHeaders(puzzleData) {
             tooltipContent = "Global Ultimates are characterized by spells which have a range of" + "at least 3000 units.".bold() + " For reference, 3000 units is roughly the distance from the nexus to a Tier 2 turret.";
             tooltipImage = 'images/tooltips/global.png';
             break;
-        case 'stealth':
-            tooltipTitle = 'STEALTH';
-            tooltipContent = "Stealth refers to various positive effects that temporarily conceal a unit from enemies sight regardless of the Fog of War. If a unit is hit by a damaging ability (even if the ability deals  no damage) while stealthed, their silhouette's position shimmers for 0.6 seconds.";
+        case 'invis':
+            tooltipTitle = 'invisibilty';
+            tooltipContent = "Stealth/invisibility refers to various positive effects that temporarily conceal a unit from enemies sight regardless of the Fog of War. If a unit is hit by a damaging ability while stealthed (even if the ability deals no damage), their silhouette's position shimmers for 0.6 seconds.";
             tooltipImage = 'images/tooltips/stealth.png';
             break;
         case 'blink':
@@ -413,9 +400,9 @@ function updateHeaders(puzzleData) {
             tooltipContent = "PROJECT is a series of alternate future/universe skins in League of Legends. Set in The City of a Cyberpunk world, it features champions as humans augmented by cybernetic enhancements as well as mechanized artificial intelligence."
             tooltipImage = 'images/tooltips/project.png';
             break;
-        case 'execute':
-            tooltipTitle = 'EXECUTE ULT';
-            tooltipContent = 'Champions with an execute ultimate are any champion whose ultimate attempts an execution, can execute or has an ultimate which scales with percentage missing health.';
+        case 'ult execute':
+            tooltipTitle = 'ULTIMATE EXECUTE';
+            tooltipContent = 'Champions with an execute ultimate are any champion whose ultimate either attempts an execution, can execute or has an ultimate which scales with percentage missing health. This also includes any champions whose ultimate generates an execution bar.';
             tooltipImage = 'images/tooltips/exec.png';
             break;
         case 'true damage':
@@ -470,7 +457,19 @@ function updateHeaders(puzzleData) {
             tooltipTitle = 'EMPYREAN SKINLINE';
             tooltipContent = "Neon Strata is a series of alternate future/universe skins in League of Legends. Set in a world where the Foreglow transforms champions into an otherworldly force called "+ "Empyrean.".bold();
             break
-    
+        case "og40":
+            tooltipTitle = 'OG 40 CHAMPS';
+            tooltipContent = " When League of Legends was originally released, there were only "+ "40 champions".bold() +" you could choose from. Interestingly, out of these 40, 16 have received complete reworks or major overhauls.";
+            tooltipImage = 'images/tooltips/og40.png';
+            break;
+        case "season 7+":
+            tooltipTitle = 'SEASON 7+';
+            tooltipContent = "Champions that were relased in season 7 or above. This includes around one thrird of League of Legends current champion roster!";
+            break;
+        case "season 2-6":
+            tooltipTitle = 'SEASON 2-6';
+            tooltipContent = "Champions that were relased between the start of season 2 and the end of season 6. This includes around one thrird of League of Legends current champion roster!";
+            break;
         default:
             tooltipTitle = rows[index];
             tooltipContent = `Champion class in League of Legends`;

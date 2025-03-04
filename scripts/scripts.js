@@ -180,8 +180,93 @@ let searchable = [
   
   ]
 
+
+function preloadChampionImages() {
+  // Create hidden container for preloaded images
+  const preloadContainer = document.createElement('div');
+  preloadContainer.style.display = 'none';
+  document.body.appendChild(preloadContainer);
   
-// Update loadData function to cache all data
+  // Preload each champion image
+  searchable.forEach(champion => {
+    const img = new Image();
+    const championName = champion.toLowerCase().replace(/\s+/g, '');
+    img.src = `images/Champions/${championName}Square.png`;
+    preloadContainer.appendChild(img);
+  });
+  console.log('ChampIcons loaded')
+}
+
+
+
+
+// NEW loadData function to load a random puzzle file
+function loadData(numPuzzles = 1000) {
+  resetGame(); // DELETE FOR LOCAL STORAGE MEMORY
+  clearSavedGame(); //DELETE FOR LOCAL STORAGE MEMORY
+
+  // Dynamically generate puzzle file paths based on the number of puzzles
+  const puzzleFiles = Array.from(
+    { length: numPuzzles }, 
+    (_, i) => `puzzle_data/puzzle_${i + 1}.json`
+  );
+
+  // Select a random puzzle file
+  const randomPuzzleFile = puzzleFiles[Math.floor(Math.random() * puzzleFiles.length)];
+
+  // Fetch the selected random puzzle file
+  fetch(randomPuzzleFile)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+      // Store all data in our global variable
+      puzzleData = data;
+      
+      // Update headers using the cached data
+      updateHeaders(puzzleData);
+
+      console.log(randomPuzzleFile)
+
+      // Load game state after data is available
+      loadGameState();
+      
+      // Initialize the grid with the loaded state
+      initializeGrid();
+
+      // INITIQ
+      createSecondGrid();
+      updateSecondGridContent();
+    })
+    .catch(error => {
+      console.error('Error loading random puzzle JSON:', error);
+      
+      // Fallback to default puzzle_data.json if everything else fails
+      fetch('puzzle_data.json')
+        .then(response => response.json())
+        .then(data => {
+          puzzleData = data;
+          updateHeaders(puzzleData);
+          loadGameState();
+          initializeGrid();
+          createSecondGrid();
+          updateSecondGridContent();
+        })
+        .catch(fallbackError => {
+          console.error('Fallback to default puzzle file also failed:', fallbackError);
+        });
+    });
+}
+
+
+
+
+
+/*
+// old loadData function to cache all data
 function loadData() {
   fetch('puzzle_data.json')
     .then(response => response.json())
@@ -210,23 +295,7 @@ function loadData() {
     .catch(error => console.error('Error loading JSON data:', error));
 }
 
-
-function preloadChampionImages() {
-  // Create hidden container for preloaded images
-  const preloadContainer = document.createElement('div');
-  preloadContainer.style.display = 'none';
-  document.body.appendChild(preloadContainer);
-  
-  // Preload each champion image
-  searchable.forEach(champion => {
-    const img = new Image();
-    const championName = champion.toLowerCase().replace(/\s+/g, '');
-    img.src = `images/Champions/${championName}Square.png`;
-    preloadContainer.appendChild(img);
-  });
-  console.log('ChampIcons loaded')
-}
-
+*/
 
 
 

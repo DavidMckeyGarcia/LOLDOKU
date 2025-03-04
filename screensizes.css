@@ -52,9 +52,6 @@
   .grid-header[data-type="score"]{
     font-size: calc(30px * var(--mobile-scale-factor));
   }
-  .grid-header[data-type="row"]{
-  font-size: calc(30px * var(--mobile-scale-factor));
-  }
 
   /* Typography Scaling */
   #grid-title, #second-grid-title, #solutions-modal-instruction {

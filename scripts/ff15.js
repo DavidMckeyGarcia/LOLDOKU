@@ -45,6 +45,7 @@ function setupRefreshButton() {
     refreshBtn.addEventListener('click', function() {
         //Reset Game State
         resetGame()
+        loadData()
         
     });
 }

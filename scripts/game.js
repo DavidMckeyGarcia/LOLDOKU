@@ -148,6 +148,12 @@ function initializeSearch() {
 function openModal(index) {
     const gridItems = document.querySelectorAll('.grid-item');
     
+    // Check if the index is within the range of 1 to 9
+    if (index < 1 || index > 9) {
+        console.log(`Grid item index ${index + 1} is out of allowed range (1-9) and cannot open modal.`);
+        return; // Exit the function early
+    }
+    
     // Check if the cell is already correctly answered
     if (gridItems[index].classList.contains('correct')) {
       console.log(`Grid item ${index + 1} is already correct and cannot be changed`);
@@ -243,7 +249,7 @@ function openModal(index) {
         closeModal();
       }
     };
-  }
+}
 
   
   

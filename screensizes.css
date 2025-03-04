@@ -23,6 +23,19 @@
       font-size: calc(25px * var(--mobile-font-scale));
   }
 
+  nav2 {
+    cursor: url("images/cursor_default.png"), auto;
+    background-color: #C89B3C;
+    padding: calc(51px * var(--mobile-scale-factor));
+    border-radius: calc(15px * var(--mobile-font-scale));
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+  }
+
+
   /* Grid Scaling */
   .grid {
       grid-template-columns: repeat(5, calc(150px * var(--mobile-scale-factor)));
@@ -33,6 +46,13 @@
   .grid-item {
       width: calc(150px * var(--mobile-scale-factor));
       height: calc(150px * var(--mobile-scale-factor));
+  }
+
+  /* Apply animation to correct grid items */
+  .grid-header[data-type="score"],
+  .grid-header[data-type="row"],
+  .grid-header[data-type="column"]{
+    font-size: calc(30px * var(--mobile-scale-factor));
   }
 
   /* Typography Scaling */

@@ -144,7 +144,7 @@ function initializeSearch() {
   }
   
   
- // Open submit awnser modal
+// Open submit awnser modal
 function openModal(index) {
     const gridItems = document.querySelectorAll('.grid-item');
     
@@ -153,7 +153,7 @@ function openModal(index) {
         console.log(`Grid item index ${index + 1} is out of allowed range (1-9) and cannot open modal.`);
         return; // Exit the function early
     }
-    
+
     // Check if the cell is already correctly answered
     if (gridItems[index].classList.contains('correct')) {
       console.log(`Grid item ${index + 1} is already correct and cannot be changed`);
@@ -275,10 +275,10 @@ function updateModalh2(index) {
     } else {
       console.error('Index is out of bounds!', { index, rowIndex, colIndex });
     }
-  }
+}
   
   
-  // Updated function to update the cell's visual status
+// Updated function to update the cell's visual status
 function updateCellStatus(index, isCorrect) {
     const gridItems = document.querySelectorAll('.grid-item');
     
@@ -332,10 +332,10 @@ function updateCellStatus(index, isCorrect) {
         }, 500);
       }
     }
-  }
+}
   
   
-  // Function to initialize the grid based on saved state
+// Function to initialize the grid based on saved state
 function initializeGrid() {
     const gridItems = document.querySelectorAll('.grid-item');
   
@@ -360,10 +360,10 @@ function initializeGrid() {
         item.addEventListener('click', clickHandler);
       }
     });
-  }
+}
   
   
-  // Function to validate user input answer
+// Function to validate user input answer
 function validateAnswer(index, answer) {
     // Convert the answer to lowercase for case-insensitive comparison
     const normalizedAnswer = answer.trim().toLowerCase();
@@ -390,6 +390,7 @@ function saveGameState() {
     console.log('Lives remaining:', livesRemaining);
     console.log('Solutions grid visibility saved:', gameState.solutionsGridVisible);
 }
+
 
 // Update loadGameState to load livesRemaining
 function loadGameState() {
@@ -434,6 +435,7 @@ function loadGameState() {
       updateLivesDisplay();
     }
 }
+
 
 // Add a function to update the lives display
 function updateLivesDisplay() {

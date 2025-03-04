@@ -138,7 +138,6 @@ function openSolutionsModal(index) {
     });
 }
 
-
 function updateSolutionsModal(index) {
     const solutionsList = document.getElementById('solutions-dropdown');
     const solutions = puzzleData.solutions[index];  // Assuming puzzleData contains a solutions array
@@ -161,18 +160,38 @@ function updateSolutionsModal(index) {
             img.style.marginRight = '10px';  // Add some spacing
             img.style.verticalAlign = 'middle';
 
+            // Create an anchor element for the wiki link
+            const link = document.createElement('a');
+            link.href = `https://wiki.leagueoflegends.com/en-us/${solution.replace(/\s+/g, '')}`;
+            link.target = '_blank';  // Open in new tab
+            link.rel = 'noopener noreferrer';  // Security best practice for external links
+
             // Create a span for the text
             const textSpan = document.createElement('span');
             textSpan.textContent = solution;
 
-            // Append image and text to the list item
-            li.appendChild(img);
-            li.appendChild(textSpan);
+            // Append image and text to the link
+            link.appendChild(img);
+            link.appendChild(textSpan);
 
             // Style the list item to use flexbox for alignment
+            li.appendChild(link);
             li.style.display = 'flex';
             li.style.alignItems = 'center';
             li.style.gap = '10px';  // Space between image and text
+            
+            // Add hover and cursor styles to indicate it's clickable
+            link.style.display = 'flex';
+            link.style.alignItems = 'center';
+            link.style.textDecoration = 'none';
+            link.style.color = 'inherit';
+            link.style.cursor = 'pointer';
+            link.addEventListener('mouseover', () => {
+                link.style.textDecoration = 'underline';
+            });
+            link.addEventListener('mouseout', () => {
+                link.style.textDecoration = 'none';
+            });
 
             solutionsList.appendChild(li);
         });

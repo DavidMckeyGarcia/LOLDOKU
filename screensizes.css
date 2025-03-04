@@ -49,10 +49,11 @@
   }
 
   /* Apply animation to correct grid items */
-  .grid-header[data-type="score"],
-  .grid-header[data-type="row"],
-  .grid-header[data-type="column"]{
+  .grid-header[data-type="score"]{
     font-size: calc(30px * var(--mobile-scale-factor));
+  }
+  .grid-header[data-type="row"]{
+  font-size: calc(30px * var(--mobile-scale-factor));
   }
 
   /* Typography Scaling */

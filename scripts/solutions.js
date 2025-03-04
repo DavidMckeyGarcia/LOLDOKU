@@ -105,7 +105,6 @@ function createSecondGrid() {
 }
 
 
-// Function to open the solutions modal
 function openSolutionsModal(index) {
     const modal = document.getElementById('solutions-modal');
     
@@ -115,28 +114,40 @@ function openSolutionsModal(index) {
     // Populate modal with solutions
     updateSolutionsModal(index);
 
-    // Function to close the modal (modifying to handle animation and hiding)
-    function closeModal() {
-        const modal = document.getElementById('solutions-modal');
-    
-        // If you have any specific actions in your existing closeModal(), include them here
-        // Example: Reset modal content, remove any dynamic classes, etc.
-        modal.classList.add('closing'); // Example animation class
-
-    setTimeout(() => {
-        modal.style.display = 'none';  // Hide modal
-        modal.classList.remove('closing'); // Reset animation class
-    }, 150); // Adjust duration if needed for your closing animation
-}
-
-    // Close the modal if clicked outside the modal content (background click)
-    modal.addEventListener('click', function(event) {
+    // Create a function to handle closing
+    const handleClose = (event) => {
         // Check if the click target is the modal itself (background area)
         if (event.target === modal) {
-            closeModal();
+            closeModalG('solutions-modal');
+            
+            // Remove the event listener after closing to prevent multiple listeners
+            modal.removeEventListener('click', handleClose);
         }
-    });
+    };
+
+    // Add click event listener to the modal
+    modal.addEventListener('click', handleClose);
 }
+
+// Generic modal closing function
+function closeModalG(modalId) {
+    const modal = document.getElementById(modalId);
+    
+    if (!modal) {
+        console.error(`Modal with id ${modalId} not found`);
+        return;
+    }
+
+    // Add closing class to trigger animation
+    modal.classList.add('closing');
+
+    // Remove display and closing class after animation completes
+    setTimeout(() => {
+        modal.classList.remove('closing');
+        modal.style.display = 'none';
+    }, 150); // Match this to your CSS animation duration
+}
+
 
 function updateSolutionsModal(index) {
     const solutionsList = document.getElementById('solutions-dropdown');
@@ -144,7 +155,6 @@ function updateSolutionsModal(index) {
     
     // Clear previous solutions (in case the modal was opened previously)
     solutionsList.innerHTML = '';
-    updateSolutionsModalh2(index)
 
     // Ensure that solutions exist for the given index
     if (solutions && solutions.length > 0) {
@@ -156,43 +166,45 @@ function updateSolutionsModal(index) {
             const championName = solution.toLowerCase().replace(/\s+/g, '');
             img.src = `images/Champions/${championName}Square.png`;
             img.alt = solution;
-            img.style.width = '30px';  // Adjust size as needed
+            img.style.width = '30px';  // Restore previous image size
             img.style.height = '30px';
-            img.style.marginRight = '10px';  // Add some spacing
-            img.style.verticalAlign = 'middle';
+            img.style.marginRight = '10px';
 
             // Create an anchor element for the wiki link
             const link = document.createElement('a');
-            link.href = `https://wiki.leagueoflegends.com/en-us/${solution.replace(/\s+/g, '')}`;
-            link.target = '_blank';  // Open in new tab
-            link.rel = 'noopener noreferrer';  // Security best practice for external links
-
-            // Create a span for the text
-            const textSpan = document.createElement('span');
-            textSpan.textContent = solution;
-
-            // Append image and text to the link
-            link.appendChild(img);
-            link.appendChild(textSpan);
-
-            // Style the list item to use flexbox for alignment
-            li.appendChild(link);
-            li.style.display = 'flex';
-            li.style.alignItems = 'center';
-            li.style.gap = '10px';  // Space between image and text
-            
-            // Add hover and cursor styles to indicate it's clickable
+            // Capitalize each word and replace spaces with underscores
+            const urlChampionName = solution.split(' ')
+                .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                .join('_');
+            link.href = `https://wiki.leagueoflegends.com/en-us/${urlChampionName}`;
+            link.target = '_blank';
+            link.rel = 'noopener noreferrer';
             link.style.display = 'flex';
             link.style.alignItems = 'center';
-            link.style.textDecoration = 'none';
-            link.style.color = 'inherit';
-            link.style.cursor = 'pointer';
-            link.addEventListener('mouseover', () => {
-                link.style.textDecoration = 'underline';
-            });
-            link.addEventListener('mouseout', () => {
-                link.style.textDecoration = 'none';
-            });
+            link.style.width = '100%';
+            link.style.textDecoration = 'none';  // Remove blue underline
+
+            // Create a span for the solution name
+            const textSpan = document.createElement('span');
+            textSpan.textContent = solution;
+            textSpan.classList.add('solution-name');
+            textSpan.style.textDecoration = 'none';  // Ensure no underline
+
+            // Create a span for the pick percentage
+            const percentSpan = document.createElement('span');
+            percentSpan.textContent = `${champPickPercentage[solution] || 0}%`;
+            percentSpan.classList.add('pick-percentage');
+            percentSpan.style.marginLeft = 'auto';
+            percentSpan.style.color = '#C89B3C';
+            percentSpan.style.textDecoration = 'none';  // Ensure no underline
+
+            // Append image, text, and percentage to the link
+            link.appendChild(img);
+            link.appendChild(textSpan);
+            link.appendChild(percentSpan);
+
+            // Append the link to the list item
+            li.appendChild(link);
 
             solutionsList.appendChild(li);
         });
@@ -203,6 +215,8 @@ function updateSolutionsModal(index) {
         solutionsList.appendChild(noSolutionItem);
     }
 }
+
+
 
 function updateSolutionsModalh2(index) {
     // Use the cached data instead of fetching again
@@ -229,6 +243,12 @@ function updateSolutionsModalh2(index) {
 }
   
 
+const champPickPercentage = {
+    "Aatrox": 15.5,
+    "Yasuo": 22.3,
+    "Lux": 10.2,
+    // Add more champions and their pick percentages
+};
 
 
 
@@ -236,9 +256,5 @@ function updateSolutionsModalh2(index) {
 document.addEventListener('DOMContentLoaded', () => {
     // Initialize the second grid
     initializeSecondGrid();
-    
-    // Add any other initialization code here
-    
-    // If you have a button that reveals the second grid, you can hook it up here
-    // Example: document.getElementById('reveal-solutions').addEventListener('click', revealSecondGrid);
+
 });

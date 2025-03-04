@@ -458,44 +458,43 @@ button:hover {
 
 /* Cancel Button */
 #ff15-cancel-btn {
-  padding: 8px 16px;
-  background-color: #C89B3C;
-  color: #F0E6D2;
-  border: 2px;
+  font-size: 22px;
+  background-color: #010A13;
+  color: #C89B3C;
+  border-color: #C89B3C;
   border-radius: 4px;
-  cursor: pointer;
+  cursor: url("images/cursor_hover.png"), auto;
 }
 
 /* Cancel Button */
 #ff15-cancel-btn:hover {
-  padding: 8px 16px;
-  background-color: #785A28;
-  color: #F0E6D2;
+  font-size: 22px;
+  background-color: #C89B3C;
+  color: #010A13;
   border: 2px;
-  border-color: #F0E6D2;
+  border-color: #C89B3C;
   border-radius: 4px;
-  cursor: pointer;
+  cursor: url("images/cursor_hover.png"), auto;
 }
 
 /* Confirm Button */
 #ff15-confirm-btn {
-  padding: 8px 16px;
-  background-color: #f44336;
-  color: #F0E6D2;
-  border: 2px;
+  font-size: 22px;
+  background-color: #010a13;
+  color: red;
+  border-color: red;
   border-radius: 4px;
-  cursor: pointer;
+  cursor: url("images/cursor_hover.png"), auto;
 }
 
 /* Confirm Button */
 #ff15-confirm-btn:hover {
-  padding: 8px 16px;
-  background-color: #F0E6D2;
-  color: red;
-  border-color: #F0E6D2;
-  border: 2px;
+  font-size: 22px;
+  background-color: red;
+  color: #010A13;
+  border-color: red;
   border-radius: 4px;
-  cursor: pointer;
+  cursor: url("images/cursor_hover.png"), auto;
 }
 
 
@@ -581,7 +580,7 @@ button:hover {
   border: 2px;
   border-color: #F0E6D2;
   border-radius: 4px;
-  cursor: url("cursor_hover.png");
+  cursor: url("images/cursor_hover.png"), auto;
   height: 60px;
   width: 120px;
 }
@@ -593,7 +592,7 @@ button:hover {
   border: 2px;
   border-color: #F0E6D2;
   border-radius: 4px;
-  cursor: url("cursor_hover.png");
+  cursor: url("images/cursor_hover.png"), auto;
   height: 60px;
   width: 120px;
 }
@@ -606,7 +605,7 @@ button:hover {
   border-color: red;
   border: 2px;
   border-radius: 4px;
-  cursor: url("cursor_hover.png");
+  cursor: url("images/cursor_hover.png"), auto;
   height: 60px;
   width: 120px;
 }
@@ -618,7 +617,7 @@ button:hover {
   border: 2px;
   border-color: #F0E6D2;
   border-radius: 4px;
-  cursor: url("cursor_hover.png");
+  cursor: url("images/cursor_hover.png"), auto;
   height: 60px;
   width: 120px;
 }
@@ -684,10 +683,10 @@ button:hover {
   color: #f0e6d2a2;
 }
 
-/* Dropdown List Styling */
+/* soluition dropdown List Styling */
 #solutions-dropdown {
   width: 400px;
-  max-height: 90%;
+  max-height: 500px;
   padding: 10px;
   margin: 10px 0;
   font-size: 16px;
@@ -698,7 +697,6 @@ button:hover {
   color: #f0e6d2;
   border: 2px solid #C89B3C;
   border-radius: 4px;
-
 }
 
 
@@ -727,9 +725,48 @@ button:hover {
   margin-left: 10px;
 }
 
-/* Add this class that will be temporarily applied when closing */
-.solutions-modal.closing {
-  animation: zoomOut 0.15s ease-in-out forwards;
-  pointer-events: none; /* Prevent interaction during animation */
+#solutions-dropdown {
+  max-height: 400px;  /* Adjust this value as needed */
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #C89B3C #0A1428;
+}
+
+#solutions-dropdown::-webkit-scrollbar {
+  width: 8px;
+  cursor: url("images/cursor_default.png"), auto;
+}
+
+#solutions-dropdown::-webkit-scrollbar-track {
+  background: #0A1428;
+  cursor: url("images/cursor_default.png"), auto;
+}
+
+#solutions-dropdown::-webkit-scrollbar-thumb {
+  background-color: #C89B3C;
+  border-radius: 4px;
+  cursor: url("images/cursor_default.png"), auto;
+}
+
+@keyframes fadeOutZoom {
+  0% {
+      opacity: 1;
+      transform: scale(1);
+  }
+  50% {
+      opacity: 0.7;
+      transform: scale(1.02);
+  }
+  100% {
+      opacity: 0;
+      transform: scale(0.9);
+      display: none;
+  }
+}
+
+.solutions-modal.closing,
+.modal.closing {
+    animation: fadeOutZoom 0.15s ease-in-out forwards;
+    pointer-events: none;
 }
 

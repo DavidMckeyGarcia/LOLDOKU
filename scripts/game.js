@@ -244,6 +244,7 @@ function openModal(index) {
       }
     };
   }
+
   
   
 function updateModalh2(index) {

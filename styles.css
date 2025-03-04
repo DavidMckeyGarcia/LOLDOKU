@@ -178,50 +178,48 @@ nav2 {
   align-items: center;
 }
 
-
-
 .FF-button-container {
-  padding: 10px;
   border: red;
+  margin-top: -20px;
 }
 
 #forfeit {
-  background-color: #ff0000;
-  color: #F0E6D2;
+  background-color: #010a13;
+  color: red;
+  border-color: red;
   font-size: 25px; /* Increase font size */
   cursor: url("images/cursor_hover.png"), auto;
   border-radius: 5px;
-  border-color: #ff0000;
   transition: background-color 0.3s ease;
   width: 70px; /* Set a specific width if desired */
   height: 50px; /* Set a specific height if desired */
 }
 #forfeit:hover {
-  background-color: #F0E6D2;
-  color: red;
+  background-color: red;
+  color: #F0E6D2;
   border-color: red;
 }
 
 #refresh {
-  background-color: #F0E6D2;
-  color: #010a13;
+  background-color: #010a13;
+  color: #F0E6D2;
+  border-color: #F0E6D2;
   font-size: 25px; /* Increase font size */
   cursor: url("images/cursor_hover.png"), auto;
   border-radius: 5px;
-  border-color: #F0E6D2;
   transition: background-color 0.3s ease;
   width: 50px; /* Set a specific width if desired */
   height: 50px; /* Set a specific height if desired */
 }
 
 #refresh:hover {
-  background-color: #010a13;
-  color: #F0E6D2;
+  background-color: #F0E6D2;
+  color: #010a13;
   border-color: #F0E6D2;
 }
 
 #lives-display{
-  font-size: 25px;
+  font-size: 30px;
 }
 
 

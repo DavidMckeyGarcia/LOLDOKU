@@ -1,6 +1,3 @@
-// Add these functions to your JavaScript file (e.g., scripts.js or game.js)
-// This replaces your original createSecondGrid, updateSecondGridContent, and revealSecondGrid functions
-
 // Function to initialize the second grid
 function initializeSecondGrid() {
     console.log('Initializing second grid');
@@ -105,6 +102,7 @@ function createSecondGrid() {
     // This function now just initializes the pre-existing grid
     initializeSecondGrid();
 }
+
 
 // Generic modal closing function
 function closeModalG(modalId) {
@@ -218,7 +216,6 @@ function updateSolutionsModal(index) {
         solutionsList.appendChild(noSolutionItem);
     }
 }
-
 
 
 function updateSolutionsModalh2(index) {

@@ -144,7 +144,7 @@ function initializeSearch() {
   }
   
   
- // Modify the submitAnswer function inside openModal to only decrease lives on incorrect answers
+ // Open submit awnser modal
 function openModal(index) {
     const gridItems = document.querySelectorAll('.grid-item');
     
@@ -441,7 +441,6 @@ function updateLivesDisplay() {
 }
 
 
-
 // Update checkGameStatus to show modals instead of alerts
 function checkGameStatus() {
     console.log('Checking game status');
@@ -477,7 +476,6 @@ function checkGameStatus() {
         console.log('Game still in progress');
     }
 }
-
 
 
 // Reset game function - update to reset lives instead of guesses
@@ -545,6 +543,8 @@ function clearSavedGame() {
     localStorage.removeItem('puzzleGameState');
     console.log('Saved game cleared from local storage');
 }
+
+
 
 
 // Initialize event listeners for the new modals when the page loads

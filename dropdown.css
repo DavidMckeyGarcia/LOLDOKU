@@ -623,3 +623,113 @@ button:hover {
   width: 120px;
 }
 
+
+ 
+
+
+
+/* SOLUTION Modal Styling */
+/* Modal Styling */
+#solutions-modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  justify-content: center;
+  align-items: flex-start; /* Align at the top */
+  padding-top: 200px; /* Optional: Add some space from the top of the viewport */
+  animation: fadeInZoom 0.1s ease-in-out;
+}
+
+/* Modal content box with a fixed size */
+.solutions-modal-content {
+  font-family: "beaufort";
+  font-weight: bold; /* Make the text bold */
+  background-color: #010A13;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  min-width: 500px;
+  min-height: 100px;
+  overflow: hidden;
+  position: relative;
+}
+  
+
+/* Title Styling */
+#solutions-modal-instruction {
+  font-size: 30px;
+  margin-bottom: -10px;
+  font-family: "beaufort";
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  color: #F0E6D2;
+}
+
+
+#solutions-modal-cats {
+  font-size: 15px;
+  margin-bottom: 30px;
+  font-family: "beaufort";
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  color: #f0e6d2a2;
+}
+
+/* Dropdown List Styling */
+#solutions-dropdown {
+  width: 400px;
+  max-height: 90%;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 16px;
+  font-family: "beaufort", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: #0A1428; /* Dark background for dropdown */
+  color: #f0e6d2;
+  border: 2px solid #C89B3C;
+  border-radius: 4px;
+
+}
+
+
+#solutions-dropdown li {
+  list-style: none;
+  padding: 8px 10px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  display: flex;
+  align-items: center;
+}
+
+#solutions-dropdown li:hover {
+  background-color: #0d343d;
+}
+
+#solutions-dropdown li img {
+  border-radius: 3px;
+}
+
+#solutions-dropdown .solution-name {
+  font-size: 16px;
+  font-weight: bold;
+  color: #F0E6D2; /* Match your design */
+  text-transform: uppercase;
+  margin-left: 10px;
+}
+
+/* Add this class that will be temporarily applied when closing */
+.solutions-modal.closing {
+  animation: zoomOut 0.15s ease-in-out forwards;
+  pointer-events: none; /* Prevent interaction during animation */
+}
+

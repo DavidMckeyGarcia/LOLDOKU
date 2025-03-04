@@ -17,6 +17,23 @@ function initializeSecondGrid() {
     if (originalGridStyle.maxWidth) secondGrid.style.maxWidth = originalGridStyle.maxWidth;
     
     console.log('Second grid initialized');
+
+    // Select all grid items in the second grid
+    const gridItems = document.querySelectorAll('#second-grid-container .grid-item');
+  
+    gridItems.forEach((item) => {
+        // Retrieve the solution index from the data attribute
+        const solutionIndex = item.getAttribute('data-solution-index');
+        
+        // Create the click handler function
+        const clickHandler = function() {
+            openSolutionsModal(solutionIndex); // Pass the solution index to the modal
+            console.log(`2nd Grid item with index ${solutionIndex} clicked`);
+        };
+        
+        // Add the click event listener
+        item.addEventListener('click', clickHandler);
+    });
 }
 
 // Function to update the second grid content with solutions
@@ -86,6 +103,69 @@ function createSecondGrid() {
     // This function now just initializes the pre-existing grid
     initializeSecondGrid();
 }
+
+
+// Function to open the solutions modal
+function openSolutionsModal(index) {
+    const modal = document.getElementById('solutions-modal');
+    
+    // Show the modal
+    modal.style.display = 'flex';
+    
+    // Populate modal with solutions
+    updateSolutionsModal(index);
+
+    // Function to close the modal (modifying to handle animation and hiding)
+    function closeModal() {
+        const modal = document.getElementById('solutions-modal');
+    
+        // If you have any specific actions in your existing closeModal(), include them here
+        // Example: Reset modal content, remove any dynamic classes, etc.
+        modal.classList.add('closing'); // Example animation class
+
+    setTimeout(() => {
+        modal.style.display = 'none';  // Hide modal
+        modal.classList.remove('closing'); // Reset animation class
+    }, 150); // Adjust duration if needed for your closing animation
+}
+
+    // Close the modal if clicked outside the modal content (background click)
+    modal.addEventListener('click', function(event) {
+        // Check if the click target is the modal itself (background area)
+        if (event.target === modal) {
+            closeModal();
+        }
+    });
+}
+
+
+// Function to update the modal with solutions (populate dropdown)
+function updateSolutionsModal(index) {
+    const solutionsList = document.getElementById('solutions-dropdown');
+    const solutions = puzzleData.solutions[index];  // Assuming puzzleData contains a solutions array
+    
+    // Clear previous solutions (in case the modal was opened previously)
+    solutionsList.innerHTML = '';
+
+    // Ensure that solutions exist for the given index
+    if (solutions && solutions.length > 0) {
+        solutions.forEach(solution => {
+            const li = document.createElement('li');
+            li.textContent = solution;
+            solutionsList.appendChild(li);
+        });
+        
+    } else {
+        const noSolutionItem = document.createElement('li');
+        noSolutionItem.textContent = "No solutions available";
+        solutionsList.appendChild(noSolutionItem);
+    }
+}
+
+
+
+
+
 
 // Run initialization when the page loads
 document.addEventListener('DOMContentLoaded', () => {

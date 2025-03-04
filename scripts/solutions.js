@@ -139,7 +139,6 @@ function openSolutionsModal(index) {
 }
 
 
-// Function to update the modal with solutions (populate dropdown)
 function updateSolutionsModal(index) {
     const solutionsList = document.getElementById('solutions-dropdown');
     const solutions = puzzleData.solutions[index];  // Assuming puzzleData contains a solutions array
@@ -151,7 +150,30 @@ function updateSolutionsModal(index) {
     if (solutions && solutions.length > 0) {
         solutions.forEach(solution => {
             const li = document.createElement('li');
-            li.textContent = solution;
+            
+            // Create an image element for the champion
+            const img = document.createElement('img');
+            const championName = solution.toLowerCase().replace(/\s+/g, '');
+            img.src = `images/Champions/${championName}Square.png`;
+            img.alt = solution;
+            img.style.width = '30px';  // Adjust size as needed
+            img.style.height = '30px';
+            img.style.marginRight = '10px';  // Add some spacing
+            img.style.verticalAlign = 'middle';
+
+            // Create a span for the text
+            const textSpan = document.createElement('span');
+            textSpan.textContent = solution;
+
+            // Append image and text to the list item
+            li.appendChild(img);
+            li.appendChild(textSpan);
+
+            // Style the list item to use flexbox for alignment
+            li.style.display = 'flex';
+            li.style.alignItems = 'center';
+            li.style.gap = '10px';  // Space between image and text
+
             solutionsList.appendChild(li);
         });
         
@@ -161,10 +183,6 @@ function updateSolutionsModal(index) {
         solutionsList.appendChild(noSolutionItem);
     }
 }
-
-
-
-
 
 
 // Run initialization when the page loads

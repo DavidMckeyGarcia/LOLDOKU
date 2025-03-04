@@ -73,7 +73,8 @@ function revealSecondGrid() {
     // Get the second grid elements
     const secondGridTitle = document.getElementById('second-grid-title');
     const secondGridContainer = document.getElementById('second-grid-container');
-    const  solutionsContainer = document.getElementById('solutions-container');
+    const solutionsContainer = document.getElementById('solutions-container');
+    const statsBox = document.getElementById('stats-box');
     
     if (secondGridTitle && secondGridContainer) {
         // Make sure the content is updated before showing
@@ -89,6 +90,7 @@ function revealSecondGrid() {
         setTimeout(() => {
             // Add the visible class to trigger the CSS transition
             secondGridTitle.classList.add('visible');
+            statsBox.classList.add('visible');
             secondGridContainer.classList.add('visible');
             solutionsContainer.classList.add('visible');
             console.log('Second grid revealed');
@@ -102,31 +104,6 @@ function revealSecondGrid() {
 function createSecondGrid() {
     // This function now just initializes the pre-existing grid
     initializeSecondGrid();
-}
-
-
-function openSolutionsModal(index) {
-    const modal = document.getElementById('solutions-modal');
-    
-    // Show the modal
-    modal.style.display = 'flex';
-    
-    // Populate modal with solutions
-    updateSolutionsModal(index);
-
-    // Create a function to handle closing
-    const handleClose = (event) => {
-        // Check if the click target is the modal itself (background area)
-        if (event.target === modal) {
-            closeModalG('solutions-modal');
-            
-            // Remove the event listener after closing to prevent multiple listeners
-            modal.removeEventListener('click', handleClose);
-        }
-    };
-
-    // Add click event listener to the modal
-    modal.addEventListener('click', handleClose);
 }
 
 // Generic modal closing function
@@ -146,6 +123,32 @@ function closeModalG(modalId) {
         modal.classList.remove('closing');
         modal.style.display = 'none';
     }, 150); // Match this to your CSS animation duration
+}
+
+
+function openSolutionsModal(index) {
+    const modal = document.getElementById('solutions-modal');
+    
+    // Show the modal
+    modal.style.display = 'flex';
+    
+    // Populate modal with solutions
+    updateSolutionsModal(index);
+    updateSolutionsModalh2(index);
+
+    // Create a function to handle closing
+    const handleClose = (event) => {
+        // Check if the click target is the modal itself (background area)
+        if (event.target === modal) {
+            closeModalG('solutions-modal');
+            
+            // Remove the event listener after closing to prevent multiple listeners
+            modal.removeEventListener('click', handleClose);
+        }
+    };
+
+    // Add click event listener to the modal
+    modal.addEventListener('click', handleClose);
 }
 
 
@@ -243,12 +246,17 @@ function updateSolutionsModalh2(index) {
 }
   
 
+
+
+// CALCULATES THE PERCENTAGE OF PICKS//
 const champPickPercentage = {
     "Aatrox": 15.5,
     "Yasuo": 22.3,
     "Lux": 10.2,
     // Add more champions and their pick percentages
 };
+
+
 
 
 

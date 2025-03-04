@@ -50,7 +50,31 @@
     }
 }
 
+@keyframes fadeOutZoom {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(1.02);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0.9);
+    display: none;
+  }
+}
 
+/* Consistent closing animation for all modals */
+.modal.closing,
+#game-over-modal.closing,
+#win-modal.closing,
+#solutions-modal.closing,
+#ff15-modal.closing {
+  animation: fadeOutZoom 0.15s ease-in-out forwards;
+  pointer-events: none; /* Prevent interaction during animation */
+}
 
 
 /* Initially hide the background until animation starts */

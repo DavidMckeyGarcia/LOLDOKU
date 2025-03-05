@@ -4,12 +4,6 @@ let correctSquares = new Array(9).fill(false);
 let livesRemaining = 3; 
 let score = 0;
 
-
-
-// Initialize search functionality
-document.addEventListener('DOMContentLoaded', function () {
-    initializeSearch();
-  });
   
   
 function initializeSearch() {
@@ -573,7 +567,6 @@ function clearSavedGame() {
     localStorage.removeItem('puzzleGameState');
     console.log('Saved game cleared from local storage');
 }
-
 
 
 

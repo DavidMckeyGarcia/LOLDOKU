@@ -544,7 +544,12 @@ function updateHeaders(puzzleData) {
 
 // Make sure to initialize tooltips when the page loads
 document.addEventListener('DOMContentLoaded', function() {
-    // This will apply tooltips to any static headers
-    // Dynamic headers will get tooltips when updateHeaders is called
+    loadData(); 
+    console.log('data ready')
+    initializeSearch();
+    console.log('searchbar ready')
     initializeTooltips();
+    console.log('tooltipcs ready')
+    initializeButtons(); // Initialize the FF15 and Refresh buttons
+    console.log('buttons ready')
   });

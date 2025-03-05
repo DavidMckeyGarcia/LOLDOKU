@@ -54,15 +54,12 @@ function setupRefreshButton() {
 function initializeButtons() {
     setupFF15Button();
     setupRefreshButton();
-    console.log("buttons setup")
 }
 
 // Ensure these changes are applied when the page loads
 window.addEventListener('load', () => {
-    loadData(); // This will load game state and initialize the grid
     
     setTimeout(() => {
-        initializeButtons(); // Initialize the FF15 and Refresh buttons
         
         // Check if the game is completed and solutions grid should be revealed
         const correctCount = correctSquares.filter(Boolean).length;

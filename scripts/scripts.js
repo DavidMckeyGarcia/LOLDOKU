@@ -343,7 +343,7 @@ function loadData(numPuzzles = 1000) {
         });
     });
 
-    console.log('DATA LOADED');
+    console.log('Ran LoadData');
   }
 
 

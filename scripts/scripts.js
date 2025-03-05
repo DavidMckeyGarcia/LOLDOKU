@@ -181,22 +181,14 @@ let searchable = [
   ]
 
 
-function preloadChampionImages() {
+function preloadImages() {
   // Create hidden container for preloaded images
   const preloadContainer = document.createElement('div');
   preloadContainer.style.display = 'none';
   document.body.appendChild(preloadContainer);
-  
-  // Preload each champion image
-  searchable.forEach(champion => {
-    const img = new Image();
-    const championName = champion.toLowerCase().replace(/\s+/g, '');
-    img.src = `images/Champions/${championName}Square.webp`;
-    preloadContainer.appendChild(img);
-  });
 
-   // Preload header images
-   const headerImages = [
+  // Preload header images
+  const headerImages = [
     'Adc.png',
     'jungle.png',
     'mid.png',
@@ -243,7 +235,7 @@ function preloadChampionImages() {
     'pool party.png',
     'prestige.png',
     'project.png',
-    'riot record.png',
+    'riot records.png',
     'root.png',
     'season 2-6.png',
     'season 7+.png',
@@ -254,7 +246,6 @@ function preloadChampionImages() {
     'silence.png',
     'slow.png',
     'space groove.png',
-    'spirit blossom.png',
     'star guardian.png',
     'stun.png',
     'support.png',
@@ -265,7 +256,6 @@ function preloadChampionImages() {
     'ult reset.png',
     'unstoppable.png',
     'vastayan.png',
-    'victorious.png',
     'worlds.png',
     'yordle.png',
     'zaun.png',
@@ -277,28 +267,22 @@ function preloadChampionImages() {
     preloadContainer.appendChild(img);
   });
 
-  /* Preload tooltip images
-  const tooltipImages = [
-    'ability-tooltip-bg.png',
-    'item-tooltip-frame.png',
-    'rune-tooltip-icon.png',
-    // Add more tooltip image filenames here
-  ];
-
-  tooltipImages.forEach(imageName => {
+  
+  // Preload each champion image
+  searchable.forEach(champion => {
     const img = new Image();
-    img.src = `images/tooltips/${imageName}`;
+    const championName = champion.toLowerCase().replace(/\s+/g, '');
+    img.src = `images/Champions/${championName}Square.webp`;
     preloadContainer.appendChild(img);
-  }); */
-
+  });
   console.log('Champion, Header, and Tooltip Images Preloaded');
 }
 
 
 
-
 // NEW loadData function to load a random puzzle file
 function loadData(numPuzzles = 1000) {
+  preloadImages()
   resetGame(); // DELETE FOR LOCAL STORAGE MEMORY
   clearSavedGame(); //DELETE FOR LOCAL STORAGE MEMORY
 
@@ -357,42 +341,6 @@ function loadData(numPuzzles = 1000) {
         });
     });
 }
-
-
-
-
-
-/*
-// old loadData function to cache all data
-function loadData() {
-  fetch('puzzle_data.json')
-    .then(response => response.json())
-    .then(data => {
-      // Store all data in our global variable
-      puzzleData = data;
-      
-      // Update headers using the cached data
-      updateHeaders(puzzleData);
-
-      console.log('Rows:', puzzleData.rows); 
-      console.log('Cols:', puzzleData.cols);
-      console.log('sols:', puzzleData.solutions);
-      console.log('rank:', puzzleData.difficulty);
-
-      // Load game state after data is available
-      loadGameState();
-      
-      // Initialize the grid with the loaded state
-      initializeGrid();
-
-      // INITIQ
-      createSecondGrid();
-      updateSecondGridContent();
-    })
-    .catch(error => console.error('Error loading JSON data:', error));
-}
-
-*/
 
 
 

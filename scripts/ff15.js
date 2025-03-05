@@ -62,7 +62,6 @@ window.addEventListener('load', () => {
     loadData(); // This will load game state and initialize the grid
     
     setTimeout(() => {
-        preloadChampionImages();
         initializeButtons(); // Initialize the FF15 and Refresh buttons
         
         // Check if the game is completed and solutions grid should be revealed

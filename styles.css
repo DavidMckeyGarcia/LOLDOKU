@@ -67,7 +67,7 @@ nav2 {
     position: relative; /* Important for absolute positioning of the button */
     flex-direction: column; /* Stack grids vertically */
     align-items: center; /* Optional: Center grids horizontally */
-    animation: fadeInZoom 1.5s ease-in-out;
+    animation: fadeInZoom 2.5s ease-in-out;
 
 }
 

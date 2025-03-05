@@ -268,6 +268,7 @@ function preloadImages() {
   });
 
   
+  console.log('Champion, Header, and Tooltip Images Preloaded');
 }
 
 

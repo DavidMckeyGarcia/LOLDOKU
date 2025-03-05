@@ -108,7 +108,7 @@ function updateHeaders(puzzleData) {
         
         // Create and add the image
         const img = document.createElement('img');
-        img.src = `images/Headers/${cols[index].toLowerCase()}.png`; 
+        img.src = `images/headers/${cols[index].toLowerCase()}.webp`; 
         img.alt = cols[index];
         img.classList.add('column-image');
         
@@ -321,7 +321,7 @@ function updateHeaders(puzzleData) {
           
           // Create and add the image
           const img = document.createElement('img');
-          img.src = `images/headers/${rows[index].toLowerCase()}.png`;
+          img.src = `images/headers/${rows[index].toLowerCase()}.webp`;
           img.alt = rows[index];
           img.classList.add('row-image');
           

@@ -181,6 +181,7 @@ let searchable = [
   ]
 
 
+/*
 function preloadImages() {
   // Create hidden container for preloaded images
   const preloadContainer = document.createElement('div');
@@ -277,13 +278,13 @@ function preloadImages() {
   });
   
   console.log('Champion, Header, and Tooltip Images Preloaded');
-}
+}*/
 
 
 
 // NEW loadData function to load a random puzzle file
+
 function loadData(numPuzzles = 1000) {
-  preloadImages()
   resetGame(); // DELETE FOR LOCAL STORAGE MEMORY
   clearSavedGame(); //DELETE FOR LOCAL STORAGE MEMORY
 
@@ -341,7 +342,9 @@ function loadData(numPuzzles = 1000) {
           console.error('Fallback to default puzzle file also failed:', fallbackError);
         });
     });
-}
+
+    console.log('DATA LOADED');
+  }
 
 
 

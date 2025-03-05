@@ -268,6 +268,14 @@ function preloadImages() {
   });
 
   
+  // Preload each champion image
+  searchable.forEach(champion => {
+    const img = new Image();
+    const championName = champion.toLowerCase().replace(/\s+/g, '');
+    img.src = `images/Champions/${championName}Square.webp`;
+    preloadContainer.appendChild(img);
+  });
+  
   console.log('Champion, Header, and Tooltip Images Preloaded');
 }
 

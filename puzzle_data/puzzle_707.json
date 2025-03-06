@@ -1,73 +1,91 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "PROJECT",
-        "OG40"
+        "Jungle",
+        "prestige",
+        "global"
     ],
     "cols": [
-        "Shadow Isles",
         "root",
-        "arcane"
+        "Shadow Isles",
+        "ascended"
     ],
     "solutions": [
         [
-            "Karthus",
-            "Vex"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Hwei",
-            "Karma",
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
             "LeBlanc",
+            "Lee sin",
+            "Leona",
             "Lissandra",
             "Lux",
-            "Mel",
+            "Morgana",
             "Neeko",
             "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Senna"
-        ],
-        [
-            "Jhin",
-            "Jinx",
-            "Leona",
+            "Renata glasc",
             "Senna",
-            "Varus"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Karthus"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
             "Shaco",
-            "Singed",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Senna",
+            "Thresh"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
             "Soraka"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Warwick"
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Pantheon",
+            "Xerath"
         ]
     ]
 }

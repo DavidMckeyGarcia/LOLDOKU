@@ -1,96 +1,80 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "cosmic",
-        "shield"
+        "Adc",
+        "Season 2-6",
+        "dash"
     ],
     "cols": [
-        "Ionia",
+        "The Void",
         "root",
-        "ult reset"
+        "0 games"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Mel",
+            "Samira"
+        ],
+        [
+            "Khazix",
+            "Reksai",
+            "Velkoz"
         ],
         [
             "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
             "Nautilus",
-            "Nunu",
-            "Qiyana",
             "Rengar",
-            "Shaco",
+            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Master yi",
-            "Rakan",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Lux",
-            "Nautilus",
-            "Nunu",
-            "Varus",
-            "Xayah"
+            "Illaoi"
         ],
         [
             "Belveth",
-            "Master yi"
+            "Kaisa",
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Hwei",
-            "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
+            "Caitlyn",
             "Ivern",
             "Ksante",
-            "Karma",
             "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
+            "Leona",
+            "Maokai",
             "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
         ],
         [
+            "Ambessa",
+            "Briar",
+            "Illaoi",
             "Naafiri",
-            "Olaf",
-            "Sivir",
-            "Vex",
-            "Viktor"
+            "Samira",
+            "Vex"
         ]
     ]
 }

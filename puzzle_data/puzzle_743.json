@@ -1,104 +1,65 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "dark star",
-        "blink"
+        "Support",
+        "blink",
+        "dark star"
     ],
     "cols": [
         "Noxus",
-        "slow",
-        "ascended"
+        "knock-up",
+        "never played"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
             "Swain"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Camille",
-            "Chogath",
-            "Darius",
-            "Dr. Mundo",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
-            "Jarvan IV",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Ornn",
-            "Pantheon",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
             "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
-            "Sion",
-            "Skarner",
-            "Swain",
-            "Sylas",
+            "Rakan",
+            "Rell",
             "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
-            "Zac"
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Mordekaiser"
-        ],
-        [
-            "Chogath",
-            "Jarvan IV",
-            "Jhin",
-            "Karma",
-            "Khazix",
-            "Lissandra",
-            "Lux",
-            "Malphite",
-            "Mordekaiser",
-            "Orianna",
-            "Shaco",
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
             "Thresh",
-            "Varus",
-            "Xerath"
-        ],
-        [
-            "Varus",
-            "Xerath"
+            "Yuumi",
+            "Zyra"
         ],
         [
             "Ambessa",
@@ -106,21 +67,34 @@
             "LeBlanc"
         ],
         [
-            "Ekko",
-            "Kassadin",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
             "Reksai",
-            "Ryze",
-            "Shen",
             "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Zed"
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Pantheon"
+            "Pyke",
+            "Reksai",
+            "Shen",
+            "Tahm kench",
+            "Viego"
+        ],
+        [
+            "Mordekaiser"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Malphite"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Jhin",
+            "Malphite",
+            "Mordekaiser",
+            "Shaco",
+            "Thresh"
         ]
     ]
 }

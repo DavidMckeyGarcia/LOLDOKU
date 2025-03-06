@@ -1,51 +1,48 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "dark star"
+        "Adc",
+        "ult execute",
+        "Season 7+"
     ],
     "cols": [
-        "Shurima",
         "root",
+        "Shadow Isles",
         "riot records"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Kalista",
+            "Senna"
         ],
         [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
             "Viego"
         ],
         [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
+            "Akali",
+            "Evelynn",
+            "Viego"
         ],
         [
             "Aphelios",
@@ -59,6 +56,12 @@
             "Xayah"
         ],
         [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
             "Aphelios",
             "Ksante",
             "Kaisa",
@@ -67,20 +70,6 @@
             "Sett",
             "Viego",
             "Yone"
-        ],
-        [
-            "Xerath"
-        ],
-        [
-            "Jhin",
-            "Karma",
-            "Lissandra",
-            "Lux",
-            "Shaco",
-            "Varus"
-        ],
-        [
-            "Mordekaiser"
         ]
     ]
 }

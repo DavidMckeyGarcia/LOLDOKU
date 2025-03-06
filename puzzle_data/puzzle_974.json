@@ -1,68 +1,91 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "Season 2-6",
+        "Mid",
+        "OG40",
         "ult execute"
     ],
     "cols": [
-        "Demacia",
+        "The Void",
         "stun",
-        "yordle"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
         ],
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Corki",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
             "Aurelion Sol",
-            "Bard",
-            "Braum",
+            "Brand",
+            "Cassiopeia",
             "Ekko",
             "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
             "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
             "Syndra",
-            "Tahm kench",
             "Taliyah",
-            "Thresh",
+            "Twisted fate",
+            "Veigar",
             "Velkoz",
-            "Vi",
             "Viktor",
-            "Volibear",
-            "Zac"
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "Garen"
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
+        ],
+        [
+            "Chogath",
+            "Reksai"
         ],
         [
             "Pyke",
@@ -73,7 +96,8 @@
             "Viego"
         ],
         [
-            "Veigar"
+            "Darius",
+            "Viego"
         ]
     ]
 }

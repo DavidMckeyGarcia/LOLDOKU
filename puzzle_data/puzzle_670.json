@@ -1,80 +1,141 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "true damage",
+        "Mid",
+        "shield",
         "OG40"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "yordle"
+        "Freljord",
+        "stun",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
             "Morgana",
             "Nautilus",
             "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
             "Renata glasc",
-            "Senna",
+            "Riven",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
+        ],
+        [
+            "Azir",
+            "Galio",
+            "Orianna",
+            "Viktor"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
             "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
             "Amumu",
-            "Corki"
-        ],
-        [
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
             "Morgana",
             "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Amumu",
             "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Ryze"
         ]
     ]
 }

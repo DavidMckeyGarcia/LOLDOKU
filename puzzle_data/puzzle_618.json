@@ -1,123 +1,94 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
         "Support",
-        "prestige",
-        "OG40"
+        "true damage",
+        "Season 2-6"
     ],
     "cols": [
-        "Demacia",
-        "stun",
-        "arcane"
+        "knock-up",
+        "The Void",
+        "yordle"
     ],
     "solutions": [
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
             "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
             "Blitzcrank",
-            "Brand",
             "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
+            "Galio",
+            "Janna",
+            "Lulu",
             "Nami",
             "Nautilus",
             "Neeko",
-            "Pantheon",
             "Poppy",
-            "Pyke",
+            "Rakan",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
             "Tahm kench",
-            "Taric",
-            "Thresh",
             "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Zyra"
+        ],
+        [
+            "Velkoz"
         ],
         [
             "Heimerdinger",
-            "Janna",
-            "Mel"
+            "Lulu",
+            "Poppy"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Sona",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
+            "Belveth",
+            "Chogath",
+            "Ivern",
             "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "LeBlanc"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
             "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Samira",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Warwick"
+            "Belveth",
+            "Chogath",
+            "Kogmaw",
+            "Velkoz"
+        ],
+        [
+            "Amumu",
+            "Corki"
+        ],
+        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Khazix",
+            "Reksai",
+            "Velkoz"
+        ],
+        [
+            "Gnar",
+            "Kled",
+            "Lulu",
+            "Ziggs"
         ]
     ]
 }

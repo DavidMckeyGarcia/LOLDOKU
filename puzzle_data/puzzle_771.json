@@ -1,58 +1,72 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "ult execute",
-        "OG40"
+        "Top",
+        "Season 7+",
+        "hextech"
     ],
     "cols": [
-        "Bilgewater",
-        "silence",
-        "arcane"
+        "root",
+        "Shurima",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Kassadin",
-            "Malzahar"
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "LeBlanc",
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
             "Mel",
-            "Orianna",
-            "Viktor"
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Pyke"
+            "Akshan",
+            "Ksante",
+            "Naafiri"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
         ],
         [
-            "Jinx"
+            "Singed",
+            "Swain"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Amumu",
+            "Rammus",
+            "Renekton"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Warwick"
+            "Singed",
+            "Swain"
         ]
     ]
 }

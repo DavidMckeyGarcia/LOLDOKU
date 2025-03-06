@@ -1,110 +1,131 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "Space Groove"
+        "Top",
+        "global",
+        "OG40"
     ],
     "cols": [
-        "stun",
-        "Noxus",
-        "shred"
+        "Shadow Isles",
+        "knock-up",
+        "never played"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
+            "Gwen",
+            "Maokai",
+            "Yorick"
+        ],
+        [
+            "Aatrox",
+            "Chogath",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Corki",
-            "Karthus",
-            "Zoe"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
+            "Jarvan IV",
             "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Briar",
             "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
+            "Chogath",
+            "Dr. Mundo",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
+            "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
+        ],
+        [
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Aurelion Sol",
             "Briar",
-            "Rell",
-            "Zoe"
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
         ],
         [
+            "Ashe",
+            "Bard",
+            "Briar",
+            "Draven",
+            "Jinx",
+            "Kled",
+            "Lillia",
+            "Maokai",
+            "Senna",
+            "Shen",
+            "Soraka"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Alistar",
+            "Anivia",
             "Blitzcrank",
-            "Gragas",
-            "Lissandra",
-            "Nami",
+            "Chogath",
+            "Janna",
+            "Malphite",
             "Nunu",
-            "Taric",
-            "Twisted fate"
+            "Sion"
         ],
         [
-            "Samira"
-        ],
-        [
-            "Nasus",
-            "Rumble"
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ]
     ]
 }

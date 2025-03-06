@@ -1,65 +1,96 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "shield"
+        "Adc",
+        "evolver",
+        "Season 2-6"
     ],
     "cols": [
-        "silence",
-        "Shadow Isles",
-        "yordle"
+        "Noxus",
+        "stun",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Kayn",
+            "Smolder"
+        ],
+        [
+            "Bard",
+            "Viktor"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Elise",
             "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Riven"
         ],
         [
-            "Lulu"
-        ],
-        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
             "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Senna",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
             "Thresh",
-            "Vex"
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Kled",
+            "Aatrox",
+            "Azir",
+            "Braum",
+            "Elise",
+            "Gnar",
+            "Jayce",
+            "Jhin",
+            "Lucian",
             "Lulu",
-            "Poppy",
-            "Rumble",
-            "Vex"
+            "Sejuani",
+            "Syndra",
+            "Thresh",
+            "Varus"
         ]
     ]
 }

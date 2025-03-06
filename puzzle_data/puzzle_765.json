@@ -1,104 +1,80 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "elderwood",
+        "Jungle",
+        "global",
         "Season 2-6"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "manaless"
+        "The Void",
+        "root",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "LeBlanc"
-        ],
-        [
-            "Azir",
-            "Rakan",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "Gnar",
+            "Belveth",
+            "Khazix",
             "Reksai"
         ],
         [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
             "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
             "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
             "Zac",
-            "Ziggs",
             "Zyra"
         ],
         [
-            "Aatrox",
+            "Amumu",
+            "Fizz",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Khazix",
+            "Reksai",
+            "Velkoz"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
             "Gnar",
             "Kled",
-            "Reksai",
-            "Rengar",
-            "Yasuo",
-            "Zac",
-            "Zed"
+            "Lulu",
+            "Ziggs"
         ]
     ]
 }

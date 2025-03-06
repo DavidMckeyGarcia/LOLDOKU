@@ -1,97 +1,81 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "pool party",
-        "Season 2-6"
+        "Mid",
+        "Season 7+",
+        "hextech"
     ],
     "cols": [
-        "knock-up",
-        "Demacia",
-        "arcane"
+        "The Void",
+        "fear",
+        "never played"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
+        ],
+        [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Elise",
+            "Heimerdinger",
+            "Kennen",
+            "Naafiri"
+        ],
+        [
+            "Belveth",
+            "Kaisa"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
             "Rakan",
             "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Kassadin",
+            "Kogmaw",
+            "Malzahar"
         ],
         [
-            "Heimerdinger",
+            "Nocturne"
+        ],
+        [
+            "Alistar",
+            "Amumu",
             "Janna",
-            "Mel"
-        ],
-        [
-            "Braum",
             "Jarvan IV",
-            "Lee sin",
-            "Lulu",
-            "Reksai",
-            "Taliyah",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Fiora",
-            "Jarvan IV"
-        ],
-        [
-            "Caitlyn",
-            "Heimerdinger",
-            "Orianna"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Ekko",
-            "Jayce",
-            "Jinx",
-            "Vi",
-            "Viktor"
+            "Rammus",
+            "Sejuani"
         ]
     ]
 }

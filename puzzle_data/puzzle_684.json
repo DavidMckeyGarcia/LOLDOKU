@@ -1,94 +1,61 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "worlds",
-        "OG40"
+        "Jungle",
+        "OG40",
+        "ult execute"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "tether"
+        "silence",
+        "Shurima",
+        "arcane"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Fiddlesticks"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
         ],
         [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Ekko",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Alistar",
-            "Elise",
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Aatrox",
-            "Kalista",
-            "LeBlanc",
-            "Yuumi",
-            "Zac"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
             "Soraka"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Jinx"
         ]
     ]
 }

@@ -1,29 +1,76 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
+        "Mid",
         "invis",
-        "coven"
+        "OG40"
     ],
     "cols": [
-        "Freljord",
         "stun",
-        "vastayan"
+        "Noxus",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ashe"
-        ],
-        [
-            "Ashe",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
             "Seraphine",
-            "Vayne"
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Xayah"
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Aurora"
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
         ],
         [
             "Neeko",
@@ -33,28 +80,58 @@
             "Viego"
         ],
         [
-            "Aurora",
+            "LeBlanc",
+            "Talon"
+        ],
+        [
+            "Kaisa",
             "Neeko",
-            "Rengar",
+            "Viego",
             "Wukong"
         ],
         [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
-            "Lissandra"
-        ],
-        [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
             "Morgana",
-            "Nami",
-            "Syndra"
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Ahri",
-            "Nami"
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ]
     ]
 }

@@ -1,73 +1,76 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "PROJECT",
-        "life steal"
+        "Jungle",
+        "blink",
+        "Season 2-6"
     ],
     "cols": [
-        "Freljord",
+        "Piltover",
         "root",
-        "infinite"
+        "riot records"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Camille"
         ],
         [
-            "Ksante",
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Chogath",
-            "Gangplank",
-            "Nasus",
-            "Sion",
-            "Swain",
-            "Sylas"
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
+            "Sett",
+            "Viego"
         ],
         [
-            "Ashe",
-            "Sejuani"
+            "Ezreal"
         ],
         [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Ekko",
+            "Ezreal",
+            "Viego",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Jayce"
+        ],
+        [
+            "Ivern",
             "Jhin",
             "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Gangplank",
-            "Senna",
-            "Sylas"
-        ],
-        [
-            "Olaf",
-            "Trundle",
-            "Udyr"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Nasus",
-            "Senna",
-            "Sion"
+            "Ahri",
+            "Ekko",
+            "Yasuo"
         ]
     ]
 }

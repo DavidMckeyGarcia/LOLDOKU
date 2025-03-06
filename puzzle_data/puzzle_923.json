@@ -1,64 +1,131 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "Season 7+",
-        "global"
+        "Support",
+        "Season 2-6",
+        "blink"
     ],
     "cols": [
-        "Shadow Isles",
-        "fear",
-        "tether"
+        "The Void",
+        "knock-up",
+        "never played"
     ],
     "solutions": [
         [
-            "Gwen",
+            "Velkoz"
+        ],
+        [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
             "Maokai",
-            "Yorick"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
             "Renata glasc",
-            "Sylas",
-            "Yuumi"
-        ],
-        [
-            "Karthus",
-            "Maokai",
             "Senna",
-            "Vex"
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
         ],
         [
-            "Briar",
-            "Nocturne",
-            "Vex"
+            "Khazix",
+            "Reksai",
+            "Velkoz"
         ],
         [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Bard",
+            "Braum",
+            "Draven",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kindred",
             "Kled",
-            "Nocturne"
+            "Nami",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Volibear",
+            "Zyra"
+        ],
+        [
+            "Kassadin",
+            "Reksai"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Pyke",
+            "Reksai",
+            "Shen",
+            "Tahm kench",
+            "Viego"
         ]
     ]
 }

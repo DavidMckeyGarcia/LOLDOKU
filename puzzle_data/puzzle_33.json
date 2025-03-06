@@ -1,80 +1,135 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "ult execute",
-        "coven"
+        "Adc",
+        "evolver",
+        "OG40"
     ],
     "cols": [
-        "root",
         "Ionia",
-        "shred"
+        "slow",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Ivern",
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Kayn"
+        ],
+        [
+            "Bard",
+            "Belveth",
+            "Gangplank",
+            "Kaisa",
+            "Kayle",
             "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
+            "Khazix",
+            "Smolder",
+            "Viktor"
         ],
         [
-            "Briar",
+            "Belveth",
+            "Gangplank",
+            "Kaisa",
+            "Smolder",
+            "Viktor"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
             "Evelynn",
-            "Jarvan IV",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
             "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Akali",
-            "Jhin",
-            "Syndra"
-        ],
-        [
-            "Evelynn",
-            "Garen"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
             "Morgana",
-            "Zyra"
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Syndra"
-        ],
-        [
-            "Evelynn"
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ]
     ]
 }

@@ -1,73 +1,132 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "ult execute",
-        "OG40"
+        "Support",
+        "OG40",
+        "true damage"
     ],
     "cols": [
-        "Ionia",
-        "root",
-        "yordle"
+        "Bilgewater",
+        "knock-up",
+        "never played"
     ],
     "solutions": [
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
             "Yone"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Akali",
-            "Jhin",
-            "Syndra"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Veigar"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
+            "Akshan",
             "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

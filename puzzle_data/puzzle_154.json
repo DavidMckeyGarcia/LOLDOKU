@@ -1,96 +1,73 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "Season 2-6",
-        "true damage"
+        "Adc",
+        "OG40",
+        "invis"
     ],
     "cols": [
-        "The Void",
-        "knock-up",
-        "infinite"
+        "Noxus",
+        "stun",
+        "tether"
     ],
     "solutions": [
         [
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
-        [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
+            "Draven",
             "Mel",
-            "Swain",
-            "Sylas",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Kalista"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
             "Veigar",
+            "Warwick",
             "Zilean"
         ],
         [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ],
         [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "LeBlanc",
+            "Talon"
         ],
         [
-            "Bard",
-            "Draven",
-            "Kindred",
-            "Thresh"
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Chogath",
-            "Draven",
-            "Gangplank"
+            "LeBlanc"
         ]
     ]
 }

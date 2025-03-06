@@ -1,94 +1,66 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "shield"
+        "Adc",
+        "arcade",
+        "Season 7+"
     ],
     "cols": [
-        "Freljord",
-        "root",
-        "ascended"
+        "knock-up",
+        "Shadow Isles",
+        "yordle"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
+            "Kalista",
+            "Senna"
+        ],
+        [
+            "Corki",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Corki",
+            "Veigar",
+            "Ziggs"
+        ],
+        [
+            "Belveth",
+            "Briar",
             "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Aatrox",
             "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
-        ],
-        [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
             "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Taric"
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

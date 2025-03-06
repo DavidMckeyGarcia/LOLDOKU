@@ -1,42 +1,100 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "global",
-        "Season 2-6"
+        "Support",
+        "Season 7+",
+        "global"
     ],
     "cols": [
         "root",
-        "Shadow Isles",
-        "manaless"
+        "Targon",
+        "never played"
     ],
     "solutions": [
         [
-            "Hwei",
             "Karma",
-            "LeBlanc",
-            "Lissandra",
+            "Leona",
             "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
             "Mel",
             "Neeko",
-            "Qiyana",
-            "Ryze",
+            "Renata glasc",
+            "Senna",
             "Seraphine",
-            "Swain"
+            "Xayah"
         ],
         [
-            "Karthus",
-            "Vex"
+            "Aphelios",
+            "Zoe"
         ],
         [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ],
         [
             "Caitlyn",
@@ -49,41 +107,22 @@
             "Soraka"
         ],
         [
-            "Karthus",
+            "Aurelion Sol",
+            "Pantheon",
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Bard",
+            "Briar",
+            "Draven",
+            "Jinx",
+            "Kled",
+            "Lillia",
             "Maokai",
             "Senna",
-            "Vex"
-        ],
-        [
-            "Briar",
-            "Kled",
-            "Shen"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Kled",
-            "Reksai",
-            "Rengar",
-            "Yasuo",
-            "Zac",
-            "Zed"
+            "Shen",
+            "Soraka"
         ]
     ]
 }

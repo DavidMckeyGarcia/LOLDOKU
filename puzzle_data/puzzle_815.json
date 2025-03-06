@@ -1,20 +1,20 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
         "Top",
-        "dark star",
-        "OG40"
+        "dash",
+        "Season 2-6"
     ],
     "cols": [
-        "Shadow Isles",
+        "Bilgewater",
         "root",
-        "manaless"
+        "darkin"
     ],
     "solutions": [
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
         ],
         [
             "Ksante",
@@ -25,52 +25,54 @@
         ],
         [
             "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
+            "Kayn"
+        ],
+        [
+            "Fizz",
+            "Graves",
+            "Illaoi",
+            "Nautilus",
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
             "Zac"
         ],
         [
-            "Thresh"
+            "Aatrox",
+            "Kayn",
+            "Naafiri"
         ],
         [
+            "Illaoi",
+            "Nami",
+            "Nautilus",
+            "Tahm kench"
+        ],
+        [
+            "Ivern",
             "Jhin",
-            "Karma",
+            "Jinx",
             "Lissandra",
-            "Lux",
-            "Shaco",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
             "Varus"
-        ],
-        [
-            "Mordekaiser"
-        ],
-        [
-            "Karthus"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
         ]
     ]
 }

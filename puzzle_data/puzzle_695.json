@@ -1,50 +1,60 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "cosmic",
-        "Season 2-6"
+        "Mid",
+        "Season 2-6",
+        "elderwood"
     ],
     "cols": [
         "Freljord",
-        "root",
-        "darkin"
+        "stun",
+        "ascended"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Kayn"
-        ],
-        [
             "Anivia",
-            "Nunu"
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Lux",
-            "Nautilus",
-            "Nunu",
-            "Varus",
-            "Xayah"
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Varus"
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
         ],
         [
             "Braum",
@@ -55,19 +65,47 @@
             "Volibear"
         ],
         [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
             "Ivern",
-            "Jhin",
-            "Jinx",
             "Lissandra",
+            "Nami",
             "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
             "Aatrox",
+            "Azir",
+            "Diana",
             "Varus"
+        ],
+        [
+            "Gnar"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
+        ],
+        [
+            "Azir"
         ]
     ]
 }

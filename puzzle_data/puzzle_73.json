@@ -1,29 +1,16 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
         "Jungle",
-        "arcade",
-        "OG40"
+        "Season 7+",
+        "life steal"
     ],
     "cols": [
-        "root",
         "Freljord",
-        "arcane"
+        "knock-up",
+        "100+ games"
     ],
     "solutions": [
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
         [
             "Brand",
             "Gragas",
@@ -36,38 +23,84 @@
             "Volibear"
         ],
         [
-            "Ekko",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
             "Vi",
-            "Warwick"
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Caitlyn",
-            "Qiyana"
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
         ],
         [
-            "Brand"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "Caitlyn"
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
+            "Olaf",
+            "Trundle",
+            "Udyr"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Warwick"
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Aatrox",
+            "Lee sin"
         ]
     ]
 }

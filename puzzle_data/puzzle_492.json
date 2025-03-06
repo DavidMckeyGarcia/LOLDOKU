@@ -1,90 +1,81 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "worlds",
-        "Season 7+"
+        "Adc",
+        "arcade",
+        "shield"
     ],
     "cols": [
-        "root",
-        "Shurima",
-        "yordle"
+        "knock-up",
+        "Piltover",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
-        ],
-        [
-            "Amumu",
-            "Fizz",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Aphelios",
             "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
+            "Ezreal",
+            "Jayce",
+            "Seraphine"
         ],
         [
-            "Aatrox",
+            "Corki"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Ahri",
+            "Corki"
+        ],
+        [
             "Azir",
-            "Jax",
-            "Renekton",
-            "Taliyah"
-        ],
-        [
-            "Corki",
-            "Gnar",
-            "Kennen"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Ksante",
-            "Mel",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Nunu",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
+            "Camille",
+            "Orianna",
+            "Seraphine"
         ],
         [
-            "Vex"
+            "Azir",
+            "Galio",
+            "Orianna",
+            "Viktor"
         ]
     ]
 }

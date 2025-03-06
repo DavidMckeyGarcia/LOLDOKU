@@ -2,49 +2,63 @@
     "difficulty": "challenger",
     "rows": [
         "Top",
-        "true damage",
-        "dark star"
+        "shield",
+        "Season 2-6"
     ],
     "cols": [
+        "Ixtal",
         "silence",
-        "Shadow Isles",
-        "tether"
+        "yordle"
     ],
     "solutions": [
         [
+            "Malphite",
+            "Skarner"
+        ],
+        [
             "Chogath",
             "Garen"
         ],
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
             "Kled",
-            "Sylas",
-            "Zac"
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Malphite",
+            "Milio",
+            "Neeko",
+            "Skarner"
         ],
         [
-            "Gwen"
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
         ],
         [
-            "Renata glasc"
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ],
         [
-            "Chogath"
+            "Rengar",
+            "Zyra"
         ],
         [
-            "Thresh"
+            "Lulu"
         ],
         [
-            "Karma"
+            "Gnar",
+            "Kled",
+            "Lulu",
+            "Ziggs"
         ]
     ]
 }

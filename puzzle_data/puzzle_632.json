@@ -1,87 +1,109 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "ult execute",
-        "arcade"
+        "Mid",
+        "Season 2-6",
+        "shield"
     ],
     "cols": [
+        "Demacia",
         "root",
-        "Bandle City",
-        "100% AP Ratio"
+        "manaless"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
             "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Kennen",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
             "Rengar",
-            "Shaco",
+            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Fizz",
-            "Rumble",
-            "Teemo"
+            "Aatrox",
+            "Gnar",
+            "Kled",
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Fizz",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
             "Nunu",
-            "Pantheon",
-            "Rammus",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Ambessa",
+            "Garen",
+            "Kled",
+            "Lee sin",
+            "Mordekaiser",
+            "Rumble",
+            "Sett",
             "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Veigar"
-        ],
-        [
-            "Chogath",
-            "Evelynn",
-            "Jhin",
-            "Jinx",
-            "Veigar",
-            "Viego"
-        ],
-        [
-            "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Corki",
-            "Veigar"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Veigar"
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

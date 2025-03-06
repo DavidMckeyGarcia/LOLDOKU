@@ -1,48 +1,112 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "Season 2-6",
-        "cosmic"
+        "Jungle",
+        "cosmic",
+        "Season 2-6"
     ],
     "cols": [
         "slow",
-        "Demacia",
-        "darkin"
+        "Noxus",
+        "yordle"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jayce",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Diana",
+            "Dr. Mundo",
+            "Ekko",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Fizz",
+            "Gragas",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Karthus",
+            "Kayn",
+            "Khazix",
+            "Kindred",
+            "Lee sin",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nami",
+            "Nasus",
+            "Nautilus",
+            "Nocturne",
+            "Nunu",
+            "Olaf",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sejuani",
+            "Sett",
+            "Shaco",
+            "Shen",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell"
+        ],
+        [
+            "Amumu",
+            "Fizz",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Hecarim",
+            "Illaoi",
             "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
+            "Kassadin",
+            "Lissandra",
+            "Lulu",
+            "Lux",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Skarner",
             "Varus",
-            "Zeri",
-            "Ziggs"
+            "Vladimir",
+            "Xin Zhao"
         ],
         [
-            "Lucian",
-            "Vayne"
+            "Sion",
+            "Vladimir"
         ],
         [
-            "Varus"
+            "Lulu"
         ],
         [
             "Aatrox",
@@ -90,38 +154,17 @@
             "Zyra"
         ],
         [
-            "Fiora",
-            "Lucian",
-            "Quinn"
+            "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
         ],
         [
-            "Aatrox",
-            "Varus"
-        ],
-        [
-            "Anivia",
-            "Belveth",
-            "Hecarim",
-            "Illaoi",
-            "Kassadin",
+            "Gnar",
+            "Kled",
             "Lulu",
-            "Lux",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Rakan",
-            "Sion",
-            "Skarner",
-            "Varus",
-            "Vladimir",
-            "Xin Zhao"
-        ],
-        [
-            "Lux",
-            "Xin Zhao"
-        ],
-        [
-            "Varus"
+            "Ziggs"
         ]
     ]
 }

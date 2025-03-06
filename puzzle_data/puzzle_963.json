@@ -1,107 +1,76 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
+        "Jungle",
         "Season 7+",
-        "Space Groove"
+        "global"
     ],
     "cols": [
-        "Demacia",
-        "slow",
-        "tether"
+        "root",
+        "Targon",
+        "ascended"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Diana",
+            "Pantheon"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
         ],
         [
             "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jayce",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Kalista"
-        ],
-        [
-            "Sylas"
-        ],
-        [
-            "Aphelios",
-            "Aurora",
-            "Belveth",
-            "Briar",
-            "Camille",
-            "Gwen",
             "Hwei",
             "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Lillia",
             "Mel",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Ornn",
-            "Pyke",
-            "Rakan",
+            "Neeko",
             "Renata glasc",
-            "Samira",
             "Senna",
             "Seraphine",
-            "Sett",
-            "Smolder",
-            "Sylas",
-            "Vex",
-            "Viego",
-            "Yuumi",
-            "Zeri",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
             "Zoe"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Kayn",
+            "Naafiri"
         ],
         [
-            "Lux"
-        ],
-        [
-            "Gragas",
-            "Lissandra",
-            "Lulu",
+            "Caitlyn",
+            "Jinx",
             "Lux",
-            "Nami",
-            "Nasus",
-            "Nunu",
-            "Rumble",
-            "Samira",
-            "Teemo",
-            "Twisted fate"
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Taric"
+            "Aurelion Sol",
+            "Pantheon",
+            "Soraka"
+        ],
+        [
+            "Pantheon",
+            "Xerath"
         ]
     ]
 }

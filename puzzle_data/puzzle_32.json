@@ -1,125 +1,76 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "dash",
-        "Season 2-6"
+        "Jungle",
+        "Season 2-6",
+        "arcade"
     ],
     "cols": [
-        "Targon",
-        "knock-up",
-        "shred"
+        "Zaun",
+        "root",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Aurelion Sol",
-            "Diana",
-            "Pantheon",
-            "Zoe"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Karthus",
-            "Zoe"
-        ],
-        [
-            "Aurelion Sol",
-            "Diana",
-            "Leona",
-            "Pantheon"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Fizz",
-            "Galio",
-            "Gragas",
             "Ivern",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
             "Lee sin",
-            "Malphite",
+            "Maokai",
+            "Morgana",
             "Nautilus",
-            "Ornn",
-            "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Yone",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Briar",
-            "Corki",
-            "Jarvan IV",
-            "Jayce",
-            "Rell",
-            "Renekton",
+            "Nunu",
+            "Qiyana",
             "Rengar",
-            "Vi",
-            "Wukong"
-        ],
-        [
-            "Aurelion Sol",
-            "Diana"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
+            "Shaco",
             "Zac",
-            "Ziggs",
             "Zyra"
         ],
         [
-            "Jayce",
+            "Taliyah"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
             "Rengar",
-            "Vi"
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Blitzcrank",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Ahri",
+            "Corki"
         ]
     ]
 }

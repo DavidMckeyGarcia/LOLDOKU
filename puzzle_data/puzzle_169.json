@@ -1,120 +1,73 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "prestige"
+        "Jungle",
+        "life steal",
+        "dark star"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "ult reset"
+        "root",
+        "Noxus",
+        "arcane"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
             "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Fizz",
-            "Twisted fate"
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell"
         ],
         [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
+            "Ekko",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
         ],
         [
             "Ambessa",
             "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Kayn",
+            "Samira",
+            "Sion",
+            "Vladimir"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Ambessa",
+            "Warwick"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
+            "Jhin",
+            "Karma",
             "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
+            "Lux",
+            "Shaco",
+            "Varus"
         ],
         [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
+            "Mordekaiser"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Sivir",
-            "Swain",
-            "Vayne"
+            "Orianna"
         ]
     ]
 }

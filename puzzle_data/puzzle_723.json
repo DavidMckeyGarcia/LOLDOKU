@@ -1,64 +1,100 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "true damage",
-        "OG40"
+        "global",
+        "prestige"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "infinite"
+        "root",
+        "Shurima",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
-        ],
-        [
-            "Chogath",
-            "Gangplank",
-            "Nasus",
-            "Sion",
+            "Ksante",
+            "Maokai",
+            "Singed",
             "Swain",
-            "Sylas"
+            "Zac"
         ],
         [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Chogath",
-            "Draven",
-            "Gangplank"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Chogath",
-            "Gangplank",
+            "Aatrox",
+            "Jax",
+            "Ksante",
             "Nasus",
+            "Renekton"
+        ],
+        [
+            "Camille",
+            "Fiora",
+            "Kayle",
+            "Kayn",
+            "Kled",
             "Sion",
-            "Veigar",
-            "Zilean"
+            "Zac"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Taliyah",
+            "Xerath"
+        ],
+        [
+            "Bard",
+            "Ekko",
+            "Galio",
+            "Karthus",
+            "Kled",
+            "Mel",
+            "Ryze",
+            "Sion"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Sivir"
+        ],
+        [
+            "Camille",
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Kayle",
+            "Kayn",
+            "Lissandra",
+            "Xayah",
+            "Yuumi",
+            "Zed"
         ]
     ]
 }

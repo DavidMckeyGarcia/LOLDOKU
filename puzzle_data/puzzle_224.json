@@ -1,71 +1,96 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "Fright Night"
+        "Mid",
+        "global",
+        "Season 2-6"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "tether"
+        "Zaun",
+        "fear",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Briar",
+            "Ekko",
             "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
+            "Shen",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
+            "Ziggs"
         ],
         [
             "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Darius",
+            "Hecarim"
         ],
         [
-            "Ivern",
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
             "Jhin",
             "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
+            "Tahm kench",
+            "Thresh",
             "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kalista",
-            "Kled",
-            "Zac"
-        ],
-        [
-            "Nautilus",
-            "Nunu",
-            "Renata glasc",
-            "Shaco"
-        ],
-        [
-            "Nautilus",
-            "Pyke"
-        ],
-        [
-            "Renata glasc"
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

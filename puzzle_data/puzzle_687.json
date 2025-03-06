@@ -1,160 +1,71 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "OG40",
-        "PROJECT"
+        "Adc",
+        "Season 2-6",
+        "hextech"
     ],
     "cols": [
-        "slow",
-        "Ionia",
-        "ascended"
+        "Shurima",
+        "root",
+        "arcane"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Diana",
-            "Dr. Mundo",
-            "Ekko",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Fizz",
-            "Gragas",
-            "Graves",
-            "Hecarim",
+            "Sivir"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Caitlyn",
+            "Jayce",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Taliyah"
+        ],
+        [
             "Ivern",
-            "Jarvan IV",
-            "Karthus",
-            "Kayn",
-            "Khazix",
-            "Kindred",
-            "Lee sin",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nami",
-            "Nasus",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
             "Nautilus",
-            "Nocturne",
-            "Nunu",
-            "Olaf",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Reksai",
             "Rengar",
-            "Rumble",
-            "Sejuani",
-            "Sett",
-            "Shaco",
-            "Shen",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
+            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Nasus",
-            "Taric"
-        ],
-        [
-            "Akali",
-            "Ashe",
             "Ekko",
-            "Fiora",
-            "Gangplank",
-            "Irelia",
-            "Jhin",
+            "Jayce",
             "Jinx",
-            "Leona",
-            "Mordekaiser",
-            "Pyke",
-            "Sejuani",
-            "Senna",
-            "Sylas",
-            "Varus",
-            "Warwick",
-            "Zed"
+            "Vi",
+            "Viktor"
         ],
         [
-            "Akali",
-            "Irelia",
-            "Jhin",
-            "Master yi",
-            "Varus",
-            "Yasuo",
-            "Zed"
+            "Amumu",
+            "Rammus",
+            "Renekton"
         ],
         [
-            "Leona",
-            "Renekton",
-            "Varus"
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Janna",
+            "Singed"
         ]
     ]
 }

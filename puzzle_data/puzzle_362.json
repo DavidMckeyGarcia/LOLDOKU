@@ -1,83 +1,92 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "pool party",
-        "OG40"
+        "Mid",
+        "Season 2-6",
+        "invis"
     ],
     "cols": [
         "Freljord",
-        "root",
-        "yordle"
+        "fear",
+        "never played"
     ],
     "solutions": [
         [
+            "Anivia",
+            "Aurora",
             "Brand",
             "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Elise",
+            "Heimerdinger",
+            "Kennen",
+            "Naafiri"
+        ],
+        [
+            "Braum",
+            "Gnar",
             "Kindred",
-            "Nunu",
-            "Olaf",
+            "Lissandra",
             "Sejuani",
-            "Trundle",
-            "Udyr",
             "Volibear"
         ],
         [
+            "Aatrox",
+            "Darius",
+            "Hecarim"
+        ],
+        [
+            "Bard",
+            "Braum",
+            "Draven",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
             "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kindred",
+            "Kled",
+            "Nami",
+            "Reksai",
             "Rengar",
-            "Shaco",
-            "Zac",
+            "Sejuani",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Volibear",
             "Zyra"
         ],
         [
-            "Amumu",
-            "Fizz",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Aurora"
         ],
         [
-            "Braum"
+            "Shaco"
         ],
         [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Ziggs"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
+            "Akshan",
+            "Pyke",
+            "Reksai",
+            "Rengar",
+            "Senna",
             "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
             "Teemo",
-            "Tristana",
-            "Veigar"
+            "Twitch",
+            "Vayne",
+            "Viego",
+            "Wukong"
         ]
     ]
 }

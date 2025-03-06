@@ -1,27 +1,20 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "iron",
     "rows": [
         "Jungle",
-        "OG40",
-        "ult execute"
+        "true damage",
+        "Season 2-6"
     ],
     "cols": [
-        "Demacia",
         "knock-up",
-        "infinite"
+        "Shurima",
+        "never played"
     ],
     "solutions": [
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
             "Belveth",
             "Briar",
+            "Diana",
             "Fizz",
             "Gragas",
             "Ivern",
@@ -45,45 +38,138 @@
             "Zyra"
         ],
         [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
+        ],
+        [
+            "Amumu",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Dr. Mundo",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
             "Kindred",
-            "Nasus",
-            "Shyvana",
-            "Sylas"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nami",
             "Nunu",
-            "Sion"
-        ],
-        [
-            "Chogath",
-            "Gangplank",
-            "Nasus",
-            "Sion",
-            "Veigar",
-            "Zilean"
-        ],
-        [
-            "Garen"
-        ],
-        [
-            "Chogath",
+            "Rammus",
             "Reksai",
-            "Riven"
+            "Rell",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zyra"
         ],
         [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Belveth",
             "Chogath",
             "Draven",
-            "Veigar"
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Taliyah"
+        ],
+        [
+            "Bard",
+            "Braum",
+            "Draven",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kindred",
+            "Kled",
+            "Nami",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Volibear",
+            "Zyra"
         ]
     ]
 }

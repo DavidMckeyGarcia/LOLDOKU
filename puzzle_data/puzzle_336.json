@@ -1,67 +1,113 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "hextech"
+        "Adc",
+        "OG40",
+        "dark star"
     ],
     "cols": [
-        "Shurima",
-        "fear",
-        "yordle"
+        "slow",
+        "Demacia",
+        "tether"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Taliyah"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
-        ],
-        [
-            "Amumu",
-            "Rammus",
-            "Renekton"
-        ],
-        [
-            "Nocturne"
-        ],
-        [
-            "Amumu",
-            "Poppy",
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
             "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
             "Ziggs"
+        ],
+        [
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Kalista"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Jhin",
+            "Karma",
+            "Khazix",
+            "Lissandra",
+            "Lux",
+            "Malphite",
+            "Mordekaiser",
+            "Orianna",
+            "Shaco",
+            "Thresh",
+            "Varus",
+            "Xerath"
+        ],
+        [
+            "Jarvan IV",
+            "Lux"
+        ],
+        [
+            "Karma"
         ]
     ]
 }

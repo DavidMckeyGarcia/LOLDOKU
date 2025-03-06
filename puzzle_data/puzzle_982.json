@@ -1,21 +1,16 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
         "Jungle",
-        "Season 7+",
-        "life steal"
+        "shield",
+        "Season 2-6"
     ],
     "cols": [
-        "The Void",
         "fear",
-        "darkin"
+        "Bandle City",
+        "0 games"
     ],
     "solutions": [
-        [
-            "Belveth",
-            "Khazix",
-            "Reksai"
-        ],
         [
             "Briar",
             "Fiddlesticks",
@@ -25,32 +20,45 @@
             "Warwick"
         ],
         [
-            "Kayn"
-        ],
-        [
-            "Belveth",
-            "Kaisa"
+            "Fizz",
+            "Rumble",
+            "Teemo"
         ],
         [
             "Briar",
+            "Master yi",
+            "Nunu"
+        ],
+        [
             "Hwei",
+            "Nocturne",
+            "Urgot",
             "Vex"
         ],
         [
-            "Kayn",
-            "Naafiri"
+            "Lulu",
+            "Rumble",
+            "Yuumi"
         ],
         [
-            "Belveth"
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nunu",
+            "Vex"
         ],
         [
             "Aatrox",
-            "Briar",
-            "Warwick"
+            "Darius",
+            "Hecarim"
         ],
         [
-            "Aatrox",
-            "Kayn"
+            "Lulu"
+        ],
+        [
+            "Illaoi"
         ]
     ]
 }

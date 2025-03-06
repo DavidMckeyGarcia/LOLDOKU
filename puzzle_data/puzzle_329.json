@@ -1,77 +1,125 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "invis"
+        "Mid",
+        "Season 7+",
+        "dash"
     ],
     "cols": [
         "Bilgewater",
-        "fear",
-        "manaless"
+        "root",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
             "Fizz",
-            "Graves",
-            "Nami",
-            "Nautilus"
+            "Twisted fate"
         ],
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
-            "Zac"
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Kled",
-            "Reksai",
-            "Rengar",
-            "Yasuo",
-            "Zac",
-            "Zed"
-        ],
-        [
+            "Nilah",
             "Pyke"
         ],
         [
-            "Shaco"
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Akali",
-            "Reksai",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Kaisa",
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
+        ],
+        [
+            "Fizz",
+            "Graves",
+            "Illaoi",
+            "Nautilus",
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
             "Rengar",
-            "Viego"
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Alistar",
+            "Aurelion Sol",
+            "Belveth",
+            "Briar",
+            "Corki",
+            "Ekko",
+            "Fiora",
+            "Fizz",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Kaisa",
+            "Nocturne",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Thresh",
+            "Tristana",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zeri"
         ]
     ]
 }

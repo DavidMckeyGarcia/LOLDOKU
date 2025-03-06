@@ -1,77 +1,67 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "blink",
-        "pool party"
+        "Jungle",
+        "OG40",
+        "global"
     ],
     "cols": [
         "Zaun",
-        "knock-up",
+        "fear",
         "ascended"
     ],
     "solutions": [
         [
+            "Dr. Mundo",
             "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Azir",
             "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Ekko"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
+            "Kayn",
+            "Nasus",
             "Pantheon"
         ],
         [
+            "Blitzcrank",
             "Dr. Mundo",
-            "Orianna",
+            "Janna",
             "Singed",
-            "Zac",
-            "Ziggs"
+            "Twitch",
+            "Warwick"
         ],
         [
-            "Braum",
-            "Jarvan IV",
-            "Lee sin",
-            "Lulu",
-            "Reksai",
-            "Taliyah",
-            "Zac",
-            "Ziggs"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Leona",
-            "Renekton",
+            "Nasus",
             "Taric"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Pantheon",
+            "Xerath"
         ]
     ]
 }

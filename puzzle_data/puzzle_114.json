@@ -2,15 +2,25 @@
     "difficulty": "gold",
     "rows": [
         "Top",
-        "Season 7+",
-        "pool party"
+        "invis",
+        "hextech"
     ],
     "cols": [
+        "Demacia",
         "knock-up",
-        "Freljord",
         "100% AP Ratio"
     ],
     "solutions": [
+        [
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
         [
             "Aatrox",
             "Chogath",
@@ -32,16 +42,6 @@
             "Zac"
         ],
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
             "Chogath",
             "Fiora",
             "Gangplank",
@@ -56,49 +56,40 @@
             "Wukong"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
+            "Vayne"
+        ],
+        [
             "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
-        ],
-        [
-            "Braum",
-            "Jarvan IV",
-            "Lee sin",
-            "Lulu",
             "Reksai",
-            "Taliyah",
-            "Zac",
+            "Wukong"
+        ],
+        [
+            "Kaisa",
+            "Neeko",
+            "Viego",
+            "Wukong"
+        ],
+        [
+            "Galio",
+            "Jarvan IV",
+            "Poppy"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
             "Ziggs"
         ],
         [
-            "Braum"
-        ],
-        [
-            "Fiora",
-            "Gangplank"
+            "Alistar",
+            "Nocturne",
+            "Rammus",
+            "Tristana"
         ]
     ]
 }

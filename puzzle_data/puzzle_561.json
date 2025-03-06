@@ -1,86 +1,157 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "dark star",
-        "global"
+        "Mid",
+        "dash",
+        "prestige"
     ],
     "cols": [
-        "silence",
-        "Shadow Isles",
-        "100% AP Ratio"
+        "stun",
+        "Targon",
+        "ascended"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
-        ],
-        [
-            "Belveth",
-            "Briar",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
             "Ekko",
-            "Evelynn",
-            "Fizz",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
             "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Alistar",
+            "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
             "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
             "Vi",
             "Viego",
             "Volibear",
             "Warwick",
-            "Wukong",
-            "Xin Zhao"
+            "Xin Zhao",
+            "Yone",
+            "Zac"
         ],
         [
-            "Chogath"
-        ],
-        [
-            "Thresh"
-        ],
-        [
-            "Chogath",
-            "Jhin",
-            "Karma",
-            "Lux",
-            "Thresh",
-            "Varus",
-            "Xerath"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Karthus",
-            "Maokai",
-            "Senna",
-            "Vex"
-        ],
-        [
-            "Ashe",
             "Aurelion Sol",
-            "Briar",
-            "Ekko",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Nocturne",
+            "Diana",
+            "Leona",
+            "Pantheon"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Naafiri",
             "Pantheon",
-            "Shen",
-            "Twisted fate",
-            "Xerath"
+            "Renekton"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Zoe"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ]
     ]
 }

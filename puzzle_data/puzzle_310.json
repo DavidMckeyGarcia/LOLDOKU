@@ -1,78 +1,120 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "invis",
-        "elderwood"
+        "Mid",
+        "dash",
+        "Season 7+"
     ],
     "cols": [
-        "Freljord",
-        "stun",
+        "Piltover",
+        "knock-up",
         "ult reset"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
+            "Ezreal",
             "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
+            "Sylas",
+            "Taliyah",
             "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Swain"
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "Aurora"
+            "Caitlyn",
+            "Camille",
+            "Ezreal",
+            "Jayce"
         ],
         [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Belveth",
+            "Naafiri",
+            "Vayne",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Camille",
+            "Seraphine"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
             "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Vex",
             "Viego"
-        ],
-        [
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Gnar"
-        ],
-        [
-            "Bard",
-            "Gnar",
-            "Hecarim",
-            "Veigar"
-        ],
-        [
-            "Ahri"
         ]
     ]
 }

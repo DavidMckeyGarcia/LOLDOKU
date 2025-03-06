@@ -1,127 +1,76 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "shield",
-        "Season 7+"
+        "Mid",
+        "dark star",
+        "blink"
     ],
     "cols": [
-        "Freljord",
-        "stun",
-        "ascended"
+        "Shadow Isles",
+        "knock-up",
+        "manaless"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Brand",
-            "Braum"
+            "Karthus",
+            "Vex"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
-        ],
-        [
+            "Anivia",
+            "Aurelion Sol",
             "Azir",
+            "Chogath",
             "Diana",
-            "Naafiri",
-            "Taric"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
             "Sylas",
-            "Viego",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Kennen",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Thresh"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Malphite"
+        ],
+        [
+            "Mordekaiser"
+        ],
+        [
+            "Viego"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Kayn",
-            "Naafiri"
+            "Ambessa",
+            "Katarina",
+            "Reksai",
+            "Shen",
+            "Viego",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ]
     ]
 }

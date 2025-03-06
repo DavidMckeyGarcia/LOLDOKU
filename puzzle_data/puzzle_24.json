@@ -1,47 +1,48 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Support",
+        "Mid",
         "Season 2-6",
-        "empyrean"
+        "elderwood"
     ],
     "cols": [
-        "Shurima",
         "root",
-        "tether"
+        "Shurima",
+        "30+ wins"
     ],
     "solutions": [
         [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
             "Xerath",
             "Zilean"
         ],
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Aatrox",
+            "Ahri",
             "Azir",
-            "Taliyah"
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ],
         [
             "Ivern",
@@ -56,26 +57,27 @@
         ],
         [
             "Aatrox",
-            "Illaoi",
-            "Kalista",
-            "Kled",
-            "Zac"
+            "Azir",
+            "Taliyah"
         ],
         [
-            "Jax",
-            "Ksante"
+            "Ahri",
+            "Azir",
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
         ],
         [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
+            "LeBlanc",
+            "Xayah"
         ],
         [
-            "Malzahar",
-            "Nocturne",
-            "Zac"
+            "Azir"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "LeBlanc"
         ]
     ]
 }

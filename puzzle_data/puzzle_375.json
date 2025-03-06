@@ -1,75 +1,88 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "dark star",
-        "global"
+        "Support",
+        "coven",
+        "Season 7+"
     ],
     "cols": [
-        "Demacia",
-        "root",
-        "shred"
+        "knock-up",
+        "Noxus",
+        "riot records"
     ],
     "solutions": [
         [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
             "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
+            "Alistar",
+            "Annie",
             "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
+            "Rell",
             "Swain"
         ],
         [
-            "Corki",
-            "Karthus",
-            "Zoe"
+            "Senna"
         ],
         [
-            "Jarvan IV",
-            "Lux"
+            "Nami",
+            "Zyra"
         ],
         [
-            "Jhin",
-            "Karma",
-            "Lissandra",
-            "Lux",
-            "Shaco",
-            "Varus"
+            "Cassiopeia",
+            "Elise",
+            "LeBlanc"
         ],
         [
-            "Jarvan IV",
-            "Mordekaiser"
+            "Ahri",
+            "Akali",
+            "Evelynn"
         ],
         [
-            "Galio",
-            "Lux"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
+            "Belveth",
             "Briar",
-            "Karthus",
-            "Sion"
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
         ]
     ]
 }

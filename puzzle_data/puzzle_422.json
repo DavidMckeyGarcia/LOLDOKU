@@ -1,91 +1,69 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "OG40",
-        "blink"
+        "Adc",
+        "Season 2-6",
+        "Space Groove"
     ],
     "cols": [
         "Freljord",
-        "knock-up",
-        "arcane"
+        "root",
+        "0 games"
     ],
     "solutions": [
         [
-            "Brand",
-            "Gragas",
+            "Ashe"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Mel",
+            "Samira"
+        ],
+        [
+            "Braum",
+            "Gnar",
             "Kindred",
-            "Nunu",
-            "Olaf",
+            "Lissandra",
             "Sejuani",
-            "Trundle",
-            "Udyr",
             "Volibear"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Fizz",
-            "Gragas",
             "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nami",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
             "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
+            "Rengar",
+            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Ekko",
-            "Vi",
-            "Warwick"
+            "Illaoi"
         ],
         [
-            "Anivia",
-            "Ashe",
+            "Gragas",
+            "Lissandra",
+            "Nunu"
+        ],
+        [
+            "Lissandra",
+            "Lux",
+            "Nunu"
+        ],
+        [
             "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Warwick"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "LeBlanc"
+            "Samira"
         ]
     ]
 }

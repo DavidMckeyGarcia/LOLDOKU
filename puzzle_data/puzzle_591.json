@@ -1,52 +1,59 @@
 {
     "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "invis",
-        "Fright Night"
+        "Jungle",
+        "global",
+        "OG40"
     ],
     "cols": [
+        "The Void",
         "fear",
-        "Freljord",
-        "shred"
+        "ascended"
     ],
     "solutions": [
         [
-            "Hwei",
+            "Belveth",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Briar",
+            "Nocturne",
             "Vex"
         ],
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Pantheon",
+            "Xerath"
         ],
         [
-            "Corki",
-            "Karthus",
-            "Zoe"
+            "Chogath",
+            "Kassadin"
         ],
         [
-            "Shaco"
-        ],
-        [
-            "Aurora"
-        ],
-        [
-            "Rengar",
-            "Wukong"
-        ],
-        [
+            "Fiddlesticks",
             "Shaco",
-            "Urgot"
+            "Warwick"
         ],
         [
-            "Nunu",
-            "Trundle"
-        ],
-        [
-            "Trundle"
+            "Nasus",
+            "Taric"
         ]
     ]
 }

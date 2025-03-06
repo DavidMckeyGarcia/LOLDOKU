@@ -1,61 +1,121 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "arcade",
-        "OG40"
+        "Jungle",
+        "true damage",
+        "Season 2-6"
     ],
     "cols": [
-        "fear",
-        "Noxus",
-        "arcane"
+        "Demacia",
+        "stun",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
+        ],
+        [
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Taliyah"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
             "Urgot",
-            "Warwick"
+            "Vayne",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
+            "Ahri",
+            "Corki"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
             "Riven",
-            "Sion",
-            "Swain"
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Ambessa",
-            "Heimerdinger",
-            "Warwick"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Riven"
-        ],
-        [
-            "Caitlyn"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Warwick"
+            "Ahri",
+            "Azir",
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
         ]
     ]
 }

@@ -1,73 +1,65 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Support",
-        "Fright Night",
-        "Season 7+"
+        "Mid",
+        "cosmic",
+        "shield"
     ],
     "cols": [
-        "Zaun",
-        "root",
-        "yordle"
+        "silence",
+        "The Void",
+        "30+ wins"
     ],
     "solutions": [
         [
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Belveth",
+            "Kassadin"
+        ],
+        [
+            "Lissandra"
+        ],
+        [
             "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Garen",
+            "Kassadin",
+            "Lulu"
         ],
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Kaisa",
+            "Kassadin"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Renata glasc",
-            "Urgot",
-            "Zeri"
-        ],
-        [
-            "Nautilus",
-            "Nunu",
-            "Renata glasc",
-            "Shaco"
-        ],
-        [
-            "Veigar"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Vex"
+            "Azir",
+            "Galio",
+            "Orianna",
+            "Viktor"
         ]
     ]
 }

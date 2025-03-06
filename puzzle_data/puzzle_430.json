@@ -1,96 +1,73 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "ult execute"
+        "Top",
+        "arcade",
+        "Season 2-6"
     ],
     "cols": [
-        "knock-up",
         "Shadow Isles",
-        "Immunity"
+        "fear",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Fizz",
+            "Gwen",
+            "Maokai",
+            "Yorick"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
             "Gragas",
-            "Ivern",
             "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Jax",
+            "Maokai",
+            "Renekton",
+            "Rumble",
+            "Shen"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa"
         ],
         [
             "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
+            "Kalista",
+            "Thresh"
         ],
         [
-            "Camille",
-            "Ekko",
-            "Evelynn",
-            "Fizz",
-            "Karthus",
-            "Kayn",
-            "Viego",
-            "Zac"
+            "Aatrox",
+            "Darius",
+            "Hecarim"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Aurora",
-            "Camille",
-            "Kayn",
-            "Mel",
-            "Viego",
-            "Xayah",
-            "Yuumi"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Viego"
-        ],
-        [
-            "Evelynn",
-            "Viego"
+            "Aatrox",
+            "Azir",
+            "Braum",
+            "Elise",
+            "Gnar",
+            "Jayce",
+            "Jhin",
+            "Lucian",
+            "Lulu",
+            "Sejuani",
+            "Syndra",
+            "Thresh",
+            "Varus"
         ]
     ]
 }

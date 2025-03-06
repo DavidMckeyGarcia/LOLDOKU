@@ -1,58 +1,70 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 7+",
-        "arcade"
+        "Support",
+        "arcade",
+        "invis"
     ],
     "cols": [
-        "Freljord",
-        "fear",
+        "The Void",
+        "knock-up",
         "vastayan"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Velkoz"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
+            "Nami",
+            "Neeko",
+            "Rakan"
+        ],
+        [
+            "Belveth",
+            "Kaisa",
+            "Malzahar"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Ahri"
+        ],
+        [
+            "Kaisa",
+            "Reksai"
+        ],
+        [
+            "Neeko",
+            "Reksai",
             "Wukong"
         ],
         [
             "Aurora",
-            "Ornn"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Aurora",
             "Neeko",
-            "Rakan",
-            "Xayah"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Ahri"
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

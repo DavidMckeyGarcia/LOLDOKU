@@ -1,56 +1,46 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "shield",
-        "Season 7+"
+        "Jungle",
+        "Season 7+",
+        "pool party"
     ],
     "cols": [
         "root",
-        "Bandle City",
-        "vastayan"
+        "Bilgewater",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Heimerdinger",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Wukong"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
             "Ivern",
-            "Ksante",
-            "Karma",
             "Lee sin",
-            "Lux",
-            "Mel",
+            "Maokai",
             "Morgana",
             "Nautilus",
-            "Neeko",
             "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Lulu",
+            "Fizz",
+            "Graves",
+            "Nami",
+            "Nautilus"
+        ],
+        [
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
             "Rumble",
-            "Yuumi"
-        ],
-        [
-            "Neeko",
-            "Rakan"
+            "Sejuani",
+            "Shen"
         ],
         [
             "Aphelios",
@@ -64,13 +54,37 @@
             "Xayah"
         ],
         [
-            "Yuumi"
+            "Nilah",
+            "Pyke"
         ],
         [
-            "Aurora",
-            "Neeko",
+            "Kaisa",
             "Rakan",
             "Xayah"
+        ],
+        [
+            "Caitlyn",
+            "Lee sin",
+            "Leona",
+            "Singed",
+            "Zac"
+        ],
+        [
+            "Gangplank",
+            "Graves",
+            "Miss Fortune"
+        ],
+        [
+            "Braum",
+            "Caitlyn",
+            "Graves",
+            "Jarvan IV",
+            "Lee sin",
+            "Leona",
+            "Lulu",
+            "Orianna",
+            "Renekton",
+            "Syndra"
         ]
     ]
 }

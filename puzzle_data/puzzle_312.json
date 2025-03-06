@@ -1,14 +1,14 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
         "Top",
-        "OG40",
-        "life steal"
+        "prestige",
+        "OG40"
     ],
     "cols": [
         "knock-up",
-        "Demacia",
-        "tether"
+        "Piltover",
+        "never played"
     ],
     "solutions": [
         [
@@ -32,21 +32,86 @@
             "Zac"
         ],
         [
+            "Camille",
+            "Heimerdinger"
+        ],
+        [
+            "Chogath",
+            "Dr. Mundo",
             "Fiora",
             "Garen",
+            "Gnar",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
             "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
         ],
         [
             "Aatrox",
-            "Illaoi",
-            "Kled",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
             "Sylas",
-            "Zac"
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Caitlyn",
+            "Camille",
+            "Ezreal"
+        ],
+        [
+            "Brand",
+            "Evelynn",
+            "Fiora",
+            "Garen",
+            "Jinx",
+            "Kayn",
+            "Kindred",
+            "Leona",
+            "Malphite",
+            "Miss Fortune",
+            "Morgana",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Sivir",
+            "Sona",
+            "Soraka",
+            "Teemo",
+            "Thresh",
+            "Vayne",
+            "Volibear",
+            "Xayah",
+            "Yuumi",
+            "Zeri",
+            "Zyra"
         ],
         [
             "Alistar",
@@ -59,32 +124,29 @@
             "Sion"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Heimerdinger"
         ],
         [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
             "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
             "Morgana",
-            "Taric"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
-        ],
-        [
-            "Morgana"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Morgana"
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ]
     ]
 }

@@ -1,59 +1,116 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "Season 7+",
-        "shield"
+        "Support",
+        "Season 2-6",
+        "global"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "vastayan"
+        "Freljord",
+        "knock-up",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Ashe",
+            "Brand",
+            "Braum"
+        ],
+        [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Braum",
+            "Janna",
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
+        ],
+        [
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Wukong"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
-        ],
-        [
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
             "Nautilus",
-            "Nilah",
-            "Tahm kench"
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
+            "Aatrox",
+            "Azir",
+            "Braum",
+            "Elise",
+            "Gnar",
+            "Jayce",
+            "Jhin",
+            "Lucian",
+            "Lulu",
+            "Sejuani",
+            "Syndra",
+            "Thresh",
+            "Varus"
         ],
         [
-            "Neeko",
-            "Rakan"
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

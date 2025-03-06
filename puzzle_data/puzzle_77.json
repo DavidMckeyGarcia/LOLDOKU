@@ -1,96 +1,78 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "dash",
-        "worlds"
+        "Top",
+        "true damage",
+        "Season 2-6"
     ],
     "cols": [
         "root",
-        "Targon",
+        "Zaun",
         "yordle"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
+            "Ksante",
             "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Diana",
-            "Pantheon"
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Amumu",
-            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
             "Poppy",
             "Rumble",
             "Teemo"
         ],
         [
-            "Caitlyn",
             "Ivern",
             "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
+            "Nunu",
+            "Renata glasc"
         ],
         [
-            "Aurelion Sol",
-            "Diana",
-            "Leona",
-            "Pantheon"
+            "Renata glasc",
+            "Twitch",
+            "Urgot"
         ],
         [
             "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Kled",
-            "Poppy",
-            "Tristana",
-            "Vex",
-            "Ziggs"
+            "Corki"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
+            "Ivern",
             "Jhin",
             "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
+            "Lissandra",
+            "Nautilus",
             "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
+            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Aphelios",
-            "Leona",
-            "Zoe"
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Corki",
             "Gnar",
-            "Kennen"
+            "Kled",
+            "Lulu",
+            "Ziggs"
         ]
     ]
 }

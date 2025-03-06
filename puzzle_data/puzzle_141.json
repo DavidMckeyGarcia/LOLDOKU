@@ -1,55 +1,37 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
+        "Jungle",
         "Season 2-6",
-        "life steal"
+        "shield"
     ],
     "cols": [
-        "Zaun",
         "fear",
-        "manaless"
+        "Freljord",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Urgot",
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
             "Warwick"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
+            "Taliyah"
         ],
         [
             "Aatrox",
@@ -57,31 +39,38 @@
             "Hecarim"
         ],
         [
-            "Aatrox",
+            "Braum",
             "Gnar",
-            "Kled",
-            "Reksai",
-            "Rengar",
-            "Yasuo",
-            "Zac",
-            "Zed"
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
         ],
         [
-            "Warwick"
+            "Ahri",
+            "Azir",
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
         ],
         [
-            "Aatrox",
-            "Briar",
-            "Warwick"
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
         ],
         [
-            "Aatrox",
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Lee sin",
-            "Viego",
-            "Vladimir"
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Azir",
+            "Galio",
+            "Orianna",
+            "Viktor"
         ]
     ]
 }

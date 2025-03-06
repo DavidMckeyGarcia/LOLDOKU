@@ -1,72 +1,133 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "hextech",
-        "global"
+        "Jungle",
+        "life steal",
+        "Season 2-6"
     ],
     "cols": [
-        "Demacia",
-        "root",
-        "tether"
+        "Freljord",
+        "knock-up",
+        "manaless"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
-        ],
-        [
-            "Galio",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Gragas",
+            "Ivern",
             "Jarvan IV",
-            "Poppy"
+            "Kayn",
+            "Lee sin",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Singed",
-            "Swain"
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
         ],
         [
-            "Malzahar",
-            "Nocturne"
+            "Olaf",
+            "Trundle",
+            "Udyr"
         ],
         [
-            "Galio",
-            "Lux"
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
         ],
         [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
+            "Aatrox",
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Lee sin",
+            "Viego",
+            "Vladimir"
         ],
         [
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
             "Kled",
-            "Nocturne"
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ]
     ]
 }

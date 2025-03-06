@@ -1,110 +1,146 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "Season 2-6",
-        "PROJECT"
+        "true damage",
+        "empyrean"
     ],
     "cols": [
-        "Bilgewater",
-        "stun",
-        "darkin"
+        "Freljord",
+        "slow",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Ambessa",
+            "Ahri",
+            "Akali",
             "Anivia",
-            "Annie",
             "Aurelion Sol",
+            "Aurora",
+            "Azir",
             "Brand",
             "Cassiopeia",
+            "Chogath",
+            "Corki",
+            "Diana",
             "Ekko",
             "Elise",
+            "Fizz",
+            "Galio",
             "Gragas",
             "Heimerdinger",
+            "Hwei",
             "Irelia",
-            "Kennen",
+            "Karma",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
             "Lissandra",
-            "Malzahar",
-            "Neeko",
+            "Lux",
+            "Mel",
+            "Naafiri",
             "Orianna",
             "Pantheon",
             "Qiyana",
+            "Ryze",
             "Seraphine",
+            "Swain",
             "Sylas",
             "Syndra",
             "Taliyah",
+            "Talon",
+            "Tristana",
             "Twisted fate",
-            "Veigar",
             "Velkoz",
+            "Vex",
             "Viktor",
+            "Vladimir",
             "Xerath",
-            "Yone",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
+        ],
+        [
+            "Aurora",
+            "Ekko",
+            "Fizz",
+            "Galio",
+            "Karthus",
+            "Kayle",
+            "Lissandra",
+            "Mel",
+            "Ryze",
+            "Vladimir",
+            "Zed",
             "Zilean"
         ],
         [
-            "Naafiri"
+            "Nunu",
+            "Olaf"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
+            "Ahri",
+            "Akali",
+            "Belveth",
+            "Camille",
+            "Chogath",
+            "Corki",
+            "Darius",
+            "Draven",
             "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Varus"
-        ],
-        [
             "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Irelia",
-            "Jax",
-            "Leona",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Ksante",
+            "Kogmaw",
+            "Lillia",
+            "Nunu",
+            "Olaf",
             "Pyke",
-            "Renekton",
-            "Sejuani",
-            "Sylas",
-            "Vayne",
-            "Vi",
-            "Warwick"
+            "Renata glasc",
+            "Samira",
+            "Sett",
+            "Syndra",
+            "Twitch",
+            "Urgot",
+            "Velkoz",
+            "Zoe"
         ],
         [
-            "Varus"
+            "Camille",
+            "Fiora",
+            "Kogmaw"
+        ],
+        [
+            "Brand"
+        ],
+        [
+            "Akali",
+            "Brand",
+            "Jhin",
+            "Ksante",
+            "Kayle",
+            "Lux",
+            "Nocturne",
+            "Pyke",
+            "Varus",
+            "Vex",
+            "Zac",
+            "Zed"
+        ],
+        [
+            "Kayle",
+            "Zac",
+            "Zed"
         ]
     ]
 }

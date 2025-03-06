@@ -1,96 +1,84 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "worlds",
-        "dash"
+        "Support",
+        "invis",
+        "coven"
     ],
     "cols": [
-        "root",
-        "Piltover",
-        "arcane"
+        "stun",
+        "Ixtal",
+        "shred"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
             "Morgana",
+            "Nami",
             "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Milio",
+            "Neeko",
             "Zyra"
         ],
         [
-            "Camille"
+            "Rell"
         ],
         [
-            "Ekko",
-            "Vi",
-            "Warwick"
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
+            "Neeko",
+            "Qiyana",
+            "Rengar"
+        ],
+        [
             "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
+            "Wukong"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
             "Zyra"
         ],
         [
-            "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce",
-            "Orianna"
-        ],
-        [
-            "Caitlyn",
-            "Ekko",
-            "Janna",
-            "Jayce",
-            "Jinx",
-            "LeBlanc",
-            "Orianna"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce"
-        ],
-        [
-            "Ambessa",
-            "Caitlyn",
-            "Ekko",
-            "Jayce",
-            "Vi",
-            "Warwick"
+            "Evelynn"
         ]
     ]
 }

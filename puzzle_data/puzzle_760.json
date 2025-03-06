@@ -1,76 +1,110 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "ult execute",
-        "dark star"
+        "global",
+        "Season 7+"
     ],
     "cols": [
-        "Shadow Isles",
-        "knock-up",
-        "riot records"
+        "stun",
+        "Demacia",
+        "0 games"
     ],
     "solutions": [
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
             "Gragas",
-            "Jarvan IV",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
             "Ksante",
-            "Kayn",
-            "Malphite",
+            "Kennen",
             "Ornn",
+            "Pantheon",
             "Poppy",
+            "Renekton",
             "Riven",
+            "Sett",
             "Sion",
+            "Skarner",
             "Sylas",
             "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
             "Yone",
             "Zac"
         ],
         [
-            "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
-            "Yasuo",
-            "Yone",
-            "Yorick"
-        ],
-        [
-            "Viego"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Akali",
-            "Evelynn",
-            "Viego"
-        ],
-        [
-            "Thresh"
-        ],
-        [
-            "Chogath",
+            "Fiora",
+            "Garen",
             "Jarvan IV",
-            "Malphite"
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Mordekaiser"
+            "Ambessa",
+            "Illaoi"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Galio",
+            "Lux"
+        ],
+        [
+            "Briar",
+            "Mel",
+            "Vex"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

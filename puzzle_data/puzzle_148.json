@@ -2,15 +2,20 @@
     "difficulty": "diamond",
     "rows": [
         "Adc",
-        "global",
-        "Season 7+"
+        "OG40",
+        "hextech"
     ],
     "cols": [
+        "knock-up",
         "Zaun",
-        "root",
-        "ascended"
+        "tether"
     ],
     "solutions": [
+        [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
         [
             "Jinx",
             "Twitch",
@@ -18,56 +23,50 @@
             "Ziggs"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Kalista"
         ],
         [
-            "Varus"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Ekko",
-            "Jinx",
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
             "Ziggs"
         ],
         [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
+            "Janna",
+            "Singed",
+            "Ziggs"
         ],
         [
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Kayn",
-            "Naafiri"
+            "Malzahar",
+            "Nocturne"
         ]
     ]
 }

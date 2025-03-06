@@ -1,152 +1,87 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
         "Support",
         "life steal",
-        "Season 2-6"
+        "dark star"
     ],
     "cols": [
-        "Zaun",
-        "slow",
-        "ascended"
+        "The Void",
+        "root",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Velkoz"
         ],
         [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
             "Karma",
             "Leona",
-            "Lulu",
             "Lux",
             "Maokai",
             "Mel",
-            "Milio",
             "Morgana",
-            "Nami",
             "Nautilus",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
+            "Neeko",
             "Renata glasc",
             "Senna",
             "Seraphine",
-            "Sona",
             "Soraka",
             "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
             "Zyra"
         ],
         [
-            "Leona",
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
             "Pantheon",
-            "Taric",
-            "Xerath"
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Warwick"
+            "Belveth"
         ],
         [
-            "Aatrox",
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
             "Aphelios",
             "Belveth",
             "Briar",
-            "Gwen",
-            "Illaoi",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Morgana",
-            "Nasus",
-            "Nilah",
-            "Olaf",
-            "Samira",
-            "Senna",
-            "Sion",
-            "Trundle",
-            "Udyr",
             "Viego",
             "Vladimir",
             "Warwick"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus"
+            "Chogath",
+            "Khazix"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Aurelion Sol",
-            "Azir",
-            "Bard",
-            "Braum",
-            "Darius",
-            "Diana",
-            "Draven",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jayce",
             "Jhin",
-            "Jinx",
-            "Kalista",
-            "Khazix",
-            "Kindred",
-            "Kled",
+            "Karma",
             "Lissandra",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Quinn",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
+            "Lux",
+            "Shaco",
+            "Varus"
+        ],
+        [
+            "Chogath",
+            "Jhin",
+            "Karma",
+            "Lux",
             "Thresh",
             "Varus",
-            "Velkoz",
-            "Viktor",
-            "Volibear",
-            "Zac",
-            "Zed",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
+            "Xerath"
         ]
     ]
 }

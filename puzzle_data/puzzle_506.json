@@ -1,110 +1,65 @@
 {
-    "difficulty": "silver",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "OG40",
-        "global"
+        "Mid",
+        "life steal",
+        "dark star"
     ],
     "cols": [
-        "Noxus",
-        "fear",
-        "100% AP Ratio"
+        "Zaun",
+        "root",
+        "darkin"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Belveth",
-            "Briar",
             "Ekko",
-            "Evelynn",
-            "Fizz",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
-            "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Briar",
-            "Draven",
-            "Kled",
-            "Mel",
-            "Sion"
-        ],
-        [
-            "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Briar",
-            "Ekko",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
             "Lux",
-            "Nocturne",
-            "Pantheon",
-            "Shen",
-            "Twisted fate",
-            "Xerath"
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Naafiri"
+        ],
+        [
+            "Warwick"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Aatrox",
+            "Kayn"
+        ],
+        [
+            "Orianna"
+        ],
+        [
+            "Jhin",
+            "Karma",
+            "Lissandra",
+            "Lux",
+            "Shaco",
+            "Varus"
+        ],
+        [
+            "Varus"
         ]
     ]
 }

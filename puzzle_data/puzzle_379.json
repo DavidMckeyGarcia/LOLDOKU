@@ -1,49 +1,72 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Support",
+        "Jungle",
         "Season 7+",
-        "cosmic"
+        "ult execute"
     ],
     "cols": [
-        "Demacia",
+        "Noxus",
         "knock-up",
-        "Immunity"
+        "manaless"
     ],
     "solutions": [
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell"
         ],
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
             "Nami",
             "Nautilus",
-            "Neeko",
+            "Nunu",
             "Poppy",
-            "Rakan",
+            "Reksai",
             "Rell",
-            "Tahm kench",
-            "Velkoz",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
             "Zyra"
         ],
         [
-            "Bard",
-            "Galio",
-            "Mel",
-            "Yuumi",
-            "Zilean"
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
         ],
         [
-            "Sylas"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
             "Belveth",
@@ -59,33 +82,28 @@
             "Yone"
         ],
         [
-            "Aurora",
-            "Camille",
-            "Kayn",
-            "Mel",
-            "Viego",
-            "Xayah",
-            "Yuumi"
-        ],
-        [
-            "Lux",
-            "Xin Zhao"
-        ],
-        [
-            "Anivia",
+            "Ambessa",
             "Belveth",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Rakan",
-            "Sion",
-            "Xin Zhao"
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
         ],
         [
-            "Sion",
-            "Vladimir",
-            "Xayah"
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Akali",
+            "Garen",
+            "Reksai",
+            "Viego"
         ]
     ]
 }

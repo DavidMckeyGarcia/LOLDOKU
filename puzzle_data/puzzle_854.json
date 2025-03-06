@@ -1,80 +1,131 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "pool party",
-        "life steal"
+        "Top",
+        "Season 7+",
+        "global"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "Immunity"
+        "stun",
+        "Shadow Isles",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell"
-        ],
-        [
+            "Ambessa",
             "Camille",
-            "Ekko",
-            "Evelynn",
-            "Fizz",
-            "Karthus",
-            "Kayn",
-            "Viego",
-            "Zac"
-        ],
-        [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
-        ],
-        [
-            "Draven"
-        ],
-        [
             "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
             "Zac"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
+            "Gwen",
+            "Maokai",
+            "Yorick"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
         ],
         [
             "Ambessa",
             "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Kayn",
-            "Sion",
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Kaisa",
+            "Milio",
+            "Neeko",
+            "Smolder",
             "Viego",
-            "Vladimir"
+            "Zeri"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Briar",
+            "Ekko",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
+            "Shen",
+            "Twisted fate",
+            "Xerath"
         ]
     ]
 }

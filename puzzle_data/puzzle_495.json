@@ -1,57 +1,77 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "invis"
+        "Adc",
+        "blink",
+        "elderwood"
     ],
     "cols": [
-        "Demacia",
-        "fear",
-        "vastayan"
+        "Freljord",
+        "root",
+        "never played"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Ashe"
         ],
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Ahri",
-            "Aurora",
-            "Neeko"
-        ],
-        [
-            "Sylas"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rakan",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
             "Xayah"
         ],
         [
-            "Vayne"
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
         ],
         [
-            "Shaco"
+            "Lissandra"
         ],
         [
-            "Aurora",
-            "Neeko",
-            "Rengar",
-            "Wukong"
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Pyke",
+            "Reksai",
+            "Shen",
+            "Tahm kench",
+            "Viego"
+        ],
+        [
+            "Gnar"
+        ],
+        [
+            "LeBlanc",
+            "Xayah"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Rakan",
+            "Reksai",
+            "Wukong",
+            "Xayah"
         ]
     ]
 }

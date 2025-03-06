@@ -1,89 +1,86 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "true damage"
+        "Support",
+        "global",
+        "Season 7+"
     ],
     "cols": [
-        "Zaun",
-        "knock-up",
-        "ult reset"
+        "Demacia",
+        "root",
+        "riot records"
     ],
     "solutions": [
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Fizz",
             "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
-            "Ahri",
-            "Naafiri",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
             "Swain",
-            "Vex",
-            "Viktor"
+            "Zyra"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Senna"
         ],
         [
-            "Belveth",
-            "Briar",
+            "Galio",
+            "Lux"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Ekko",
+            "Ezreal",
+            "Kaisa",
+            "Karthus",
+            "Senna"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
             "Ksante",
-            "Kayn",
+            "Mel",
             "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
-        ],
-        [
             "Renata glasc",
-            "Twitch",
-            "Urgot"
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Ivern",
+            "Aphelios",
             "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
             "Yone"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Vayne"
         ]
     ]
 }

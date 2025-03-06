@@ -1,146 +1,102 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "true damage",
-        "Season 2-6"
+        "Top",
+        "evolver",
+        "prestige"
     ],
     "cols": [
-        "Shurima",
-        "slow",
+        "stun",
+        "The Void",
         "ult reset"
     ],
     "solutions": [
         [
-            "Sivir"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jayce",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Sivir",
-            "Vayne"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Ksante"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Belveth",
+            "Ambessa",
             "Camille",
-            "Chogath",
-            "Corki",
-            "Darius",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Ksante",
-            "Kogmaw",
-            "Lillia",
-            "Nunu",
-            "Olaf",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Sett",
-            "Syndra",
-            "Twitch",
-            "Urgot",
-            "Velkoz",
-            "Zoe"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Vayne"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Taliyah"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Aurelion Sol",
-            "Azir",
-            "Bard",
-            "Braum",
-            "Darius",
-            "Diana",
-            "Draven",
-            "Ekko",
-            "Elise",
             "Fiora",
             "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jayce",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Khazix",
-            "Kindred",
-            "Kled",
-            "Lissandra",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Quinn",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Syndra",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
             "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Varus",
-            "Velkoz",
-            "Viktor",
+            "Udyr",
+            "Urgot",
+            "Vayne",
             "Volibear",
-            "Zac",
-            "Zed",
-            "Ziggs",
-            "Zyra"
+            "Warwick",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Chogath"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Bard",
+            "Viktor"
+        ],
+        [
+            "Belveth",
+            "Kaisa",
+            "Khazix"
+        ],
+        [
+            "Belveth",
+            "Viktor"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Kaisa"
         ],
         [
             "Aatrox",
             "Ahri",
             "Darius",
-            "Viktor"
+            "Sivir",
+            "Swain",
+            "Vayne"
         ]
     ]
 }

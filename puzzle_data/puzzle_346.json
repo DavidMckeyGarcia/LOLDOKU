@@ -1,57 +1,80 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "Season 2-6",
-        "ult execute"
+        "Support",
+        "OG40",
+        "true damage"
     ],
     "cols": [
-        "silence",
-        "Bilgewater",
-        "infinite"
+        "knock-up",
+        "Shurima",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Kassadin",
-            "Malzahar"
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Mel",
-            "Swain",
-            "Sylas",
-            "Veigar",
+            "Xerath",
             "Zilean"
         ],
         [
-            "Lulu"
+            "Galio"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Bard",
-            "Draven",
-            "Kindred",
-            "Thresh"
-        ],
-        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
             "Chogath",
-            "Garen"
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Pyke"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
         ],
         [
+            "Corki",
+            "Ryze"
+        ],
+        [
+            "Belveth",
             "Chogath",
-            "Draven",
-            "Veigar"
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Ahri",
+            "Corki"
         ]
     ]
 }

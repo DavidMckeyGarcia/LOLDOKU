@@ -1,80 +1,101 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "PROJECT",
-        "OG40"
+        "Mid",
+        "OG40",
+        "elderwood"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
+        "stun",
+        "Freljord",
         "ascended"
     ],
     "solutions": [
         [
-            "Alistar",
+            "Ambessa",
+            "Anivia",
             "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
-        ],
-        [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
             "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
             "Velkoz",
-            "Zyra"
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Leona",
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
             "Pantheon",
-            "Taric",
             "Xerath"
         ],
         [
-            "Katarina",
-            "Mordekaiser"
-        ],
-        [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Leona",
-            "Renekton",
-            "Varus"
-        ],
-        [
             "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
+            "Amumu",
             "Anivia",
+            "Annie",
+            "Ashe",
             "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
             "Nunu",
-            "Sion"
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
             "Nasus",
             "Taric"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
+        ],
+        [
+            "Gnar"
+        ],
+        [
+            "Azir"
         ]
     ]
 }

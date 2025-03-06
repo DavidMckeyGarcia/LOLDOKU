@@ -1,21 +1,35 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
         "Top",
-        "Season 7+",
-        "life steal"
+        "OG40",
+        "dash"
     ],
     "cols": [
-        "fear",
+        "knock-up",
         "Zaun",
-        "ascended"
+        "yordle"
     ],
     "solutions": [
         [
             "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
             "Dr. Mundo",
@@ -25,37 +39,96 @@
             "Zac"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Kayn",
-            "Naafiri"
-        ],
-        [
-            "Aatrox",
-            "Briar",
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
             "Warwick"
         ],
         [
-            "Warwick"
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
             "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
             "Kayn",
-            "Nasus"
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Ekko",
+            "Urgot",
+            "Vi",
+            "Warwick",
+            "Zac",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Kled",
+            "Poppy",
+            "Tristana",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

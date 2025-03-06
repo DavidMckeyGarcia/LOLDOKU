@@ -1,58 +1,71 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
         "Jungle",
-        "OG40",
-        "pool party"
+        "shield",
+        "Season 2-6"
     ],
     "cols": [
-        "Bilgewater",
-        "silence",
-        "arcane"
+        "fear",
+        "The Void",
+        "tether"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Graves",
-            "Nami",
-            "Nautilus"
-        ],
-        [
-            "Fiddlesticks"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
+            "Briar",
             "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
             "Warwick"
         ],
         [
-            "Gangplank",
-            "Graves",
-            "Miss Fortune"
+            "Belveth",
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Lulu"
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
         ],
         [
-            "Caitlyn",
-            "Heimerdinger",
-            "Orianna"
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
+        ],
+        [
+            "Kaisa",
+            "Kassadin"
+        ],
+        [
+            "Karma",
+            "Kled",
+            "Morgana",
+            "Nocturne",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Hecarim"
+        ],
+        [
+            "Khazix",
+            "Reksai",
+            "Velkoz"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kalista",
+            "Kled",
+            "Zac"
         ]
     ]
 }

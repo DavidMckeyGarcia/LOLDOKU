@@ -1,83 +1,118 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "invis",
-        "OG40"
+        "Mid",
+        "worlds skin",
+        "life steal"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "manaless"
+        "Demacia",
+        "stun",
+        "shred"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
             "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Fizz",
-            "Graves",
+            "Corki",
+            "Karthus",
+            "Zoe"
+        ],
+        [
+            "Fiora",
+            "Jarvan IV",
+            "Vayne"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Irelia",
+            "Jax",
+            "Kennen",
+            "Leona",
             "Nami",
-            "Nautilus"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
+            "Nunu",
+            "Orianna",
+            "Renekton",
+            "Syndra",
+            "Taliyah",
+            "Thresh",
+            "Twisted fate",
+            "Vayne",
             "Viego",
             "Zac"
         ],
         [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
+            "Corki",
+            "Jarvan IV",
+            "Jayce",
+            "Karthus",
+            "Renekton",
             "Rengar",
-            "Senna",
-            "Shaco"
+            "Zoe"
         ],
         [
-            "Pyke"
+            "Morgana"
         ],
         [
-            "Akali",
-            "Reksai",
-            "Rengar",
-            "Viego"
-        ],
-        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
             "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
+            "Briar",
+            "Nasus",
+            "Olaf",
+            "Sion",
+            "Trundle"
         ]
     ]
 }

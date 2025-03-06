@@ -1,60 +1,75 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
         "Top",
-        "hextech",
-        "true damage"
+        "Season 7+",
+        "prestige"
     ],
     "cols": [
-        "The Void",
-        "silence",
-        "yordle"
+        "fear",
+        "Ixtal",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Chogath"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Malphite",
+            "Skarner"
         ],
         [
+            "Aatrox",
             "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
+            "Gragas",
+            "Jarvan IV",
+            "Jax",
+            "Maokai",
+            "Renekton",
             "Rumble",
-            "Teemo"
+            "Shen"
         ],
         [
-            "Kassadin",
-            "Kogmaw",
-            "Malzahar"
+            "Briar",
+            "Hwei",
+            "Vex"
         ],
         [
-            "Kassadin",
-            "Malzahar"
+            "Milio",
+            "Neeko"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Tristana",
-            "Ziggs"
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
+            "Aatrox",
+            "Darius",
+            "Shaco"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Malphite",
+            "Neeko",
+            "Qiyana",
+            "Zyra"
         ],
         [
-            "Amumu",
-            "Corki"
+            "Aatrox",
+            "Caitlyn",
+            "Ezreal",
+            "Jax",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Lulu",
+            "Rakan",
+            "Thresh",
+            "Xayah"
         ]
     ]
 }

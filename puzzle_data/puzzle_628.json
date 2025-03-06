@@ -1,72 +1,109 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
         "Jungle",
-        "shield",
-        "Season 7+"
+        "Season 7+",
+        "prestige"
     ],
     "cols": [
-        "Freljord",
-        "fear",
-        "ascended"
+        "Ixtal",
+        "root",
+        "manaless"
     ],
     "solutions": [
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
         ],
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
             "Shaco",
-            "Warwick"
+            "Zac",
+            "Zyra"
         ],
         [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
-        ],
-        [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Taric"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
+            "Belveth",
             "Briar",
-            "Hwei",
-            "Vex"
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
         ],
         [
-            "Kayn",
-            "Naafiri"
+            "Milio",
+            "Neeko"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Malphite",
+            "Neeko",
+            "Qiyana",
+            "Zyra"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Garen",
+            "Katarina",
+            "Lee sin",
+            "Sett",
+            "Yasuo",
+            "Zed"
         ]
     ]
 }

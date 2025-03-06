@@ -1,29 +1,67 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "true damage",
-        "Season 2-6"
+        "Top",
+        "elderwood",
+        "true damage"
     ],
     "cols": [
+        "Freljord",
         "knock-up",
-        "Bilgewater",
-        "yordle"
+        "vastayan"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Corki",
-            "Tristana",
-            "Ziggs"
+            "Wukong"
+        ],
+        [
+            "Gnar"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Ahri",
+            "Rakan",
+            "Wukong",
+            "Xayah"
+        ],
+        [
+            "Nunu",
+            "Olaf"
         ],
         [
             "Belveth",
@@ -36,46 +74,7 @@
             "Yone"
         ],
         [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Amumu",
-            "Corki"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
+            "Ahri"
         ]
     ]
 }

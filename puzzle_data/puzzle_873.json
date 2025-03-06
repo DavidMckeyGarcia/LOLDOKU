@@ -1,92 +1,77 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
         "Adc",
         "Season 7+",
-        "shield"
+        "ult execute"
     ],
     "cols": [
-        "knock-up",
-        "Piltover",
-        "arcane"
+        "Shurima",
+        "stun",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Sivir"
         ],
         [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Ashe",
             "Caitlyn",
             "Ezreal",
             "Jayce",
-            "Seraphine"
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Caitlyn",
-            "Jayce",
-            "Jinx",
-            "Mel"
-        ],
-        [
-            "Belveth",
-            "Briar",
+            "Akshan",
             "Ksante",
-            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
             "Neeko",
             "Ornn",
-            "Rakan",
+            "Pyke",
             "Rell",
-            "Samira",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
             "Sylas",
+            "Viego",
             "Yone"
         ],
         [
-            "Camille",
-            "Seraphine"
-        ],
-        [
-            "Ambessa",
-            "Mel"
-        ],
-        [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Poppy",
+            "Kaisa",
             "Rakan",
-            "Rell",
+            "Xayah"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Pyke",
             "Riven",
-            "Sion",
-            "Tahm kench",
-            "Vi",
-            "Yasuo",
-            "Yone"
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
         ],
         [
-            "Camille",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Janna",
-            "Mel",
-            "Orianna",
-            "Vi",
-            "Viktor"
+            "Jhin",
+            "Syndra"
         ]
     ]
 }

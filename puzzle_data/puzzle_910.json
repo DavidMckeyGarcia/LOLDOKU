@@ -1,93 +1,103 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "dash",
-        "OG40"
+        "Jungle",
+        "shield",
+        "Season 7+"
     ],
     "cols": [
-        "Demacia",
-        "fear",
-        "Immunity"
+        "root",
+        "Ixtal",
+        "shred"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
         ],
         [
-            "Aurora",
-            "Ekko",
-            "Fizz",
-            "Galio",
-            "Karthus",
-            "Kayle",
-            "Lissandra",
-            "Mel",
-            "Ryze",
-            "Vladimir",
-            "Zed",
-            "Zilean"
-        ],
-        [
-            "Fiora",
-            "Galio",
-            "Jarvan IV",
-            "Lucian",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sylas",
-            "Vayne",
-            "Xin Zhao"
-        ],
-        [
-            "Aatrox",
             "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Aurora",
-            "Bard",
-            "Camille",
-            "Ekko",
-            "Fiora",
-            "Fizz",
-            "Galio",
-            "Kayn",
-            "Kled",
-            "Viego",
-            "Yuumi",
-            "Zac"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
             "Evelynn",
+            "Jarvan IV",
             "Karthus",
-            "Kayle",
-            "Ryze",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Malphite",
+            "Milio",
+            "Neeko",
+            "Skarner"
+        ],
+        [
+            "Garen",
+            "Jarvan IV",
+            "Mordekaiser",
+            "Olaf",
+            "Rell",
+            "Rumble",
             "Sion",
-            "Zilean"
+            "Vi"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Milio",
+            "Neeko"
+        ],
+        [
+            "Briar",
+            "Rell",
+            "Zoe"
         ]
     ]
 }

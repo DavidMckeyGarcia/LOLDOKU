@@ -1,74 +1,69 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "empyrean"
+        "Adc",
+        "arcade",
+        "OG40"
     ],
     "cols": [
-        "root",
         "The Void",
-        "ascended"
+        "root",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Corki",
+            "Tristana",
+            "Ziggs"
         ],
         [
             "Belveth",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
-        ],
-        [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
-        ],
-        [
+            "Kaisa",
             "Malzahar"
         ],
         [
-            "Varus"
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Corki",
+            "Veigar",
+            "Ziggs"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

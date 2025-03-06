@@ -1,64 +1,131 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "elderwood",
+        "Adc",
+        "PROJECT",
         "Season 2-6"
     ],
     "cols": [
-        "Freljord",
-        "fear",
-        "vastayan"
+        "Demacia",
+        "stun",
+        "never played"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Lucian",
+            "Vayne"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
             "Warwick"
         ],
         [
-            "Wukong"
-        ],
-        [
-            "Gnar"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Ahri",
-            "Rakan",
-            "Wukong",
-            "Xayah"
-        ],
-        [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
+            "Ashe",
+            "Fiora",
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Mordekaiser",
+            "Pyke",
             "Sejuani",
-            "Volibear"
+            "Senna",
+            "Vayne",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
+            "Fiora",
+            "Lucian",
+            "Quinn"
         ],
         [
-            "Ahri",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
             "Nami",
-            "Rengar"
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
+        ],
+        [
+            "Bard",
+            "Braum",
+            "Draven",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kindred",
+            "Kled",
+            "Nami",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Volibear",
+            "Zyra"
         ]
     ]
 }

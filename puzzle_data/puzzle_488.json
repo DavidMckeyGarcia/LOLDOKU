@@ -1,84 +1,98 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
+        "Jungle",
         "Season 2-6",
-        "blink"
+        "elderwood"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "riot records"
+        "Bandle City",
+        "knock-up",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Fizz",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
-            "Yasuo",
-            "Yone",
-            "Yorick"
-        ],
-        [
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Gragas",
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nami",
             "Nautilus",
-            "Rengar",
-            "Varus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
             "Zac",
             "Zyra"
         ],
         [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
+            "Amumu",
+            "Fizz",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
+            "Lulu"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Ambessa",
-            "Katarina",
-            "LeBlanc"
-        ],
-        [
-            "Ekko",
-            "Ezreal",
-            "Viego",
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
             "Yasuo",
-            "Yone"
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Gnar",
+            "Kled",
+            "Lulu",
+            "Ziggs"
+        ],
+        [
+            "Veigar"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Gnar",
+            "Veigar"
         ]
     ]
 }

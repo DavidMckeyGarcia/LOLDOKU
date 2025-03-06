@@ -1,16 +1,28 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "dark star",
-        "invis"
+        "elderwood",
+        "OG40"
     ],
     "cols": [
+        "Noxus",
         "stun",
-        "Ionia",
-        "Immunity"
+        "100+ games"
     ],
     "solutions": [
+        [
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
         [
             "Ambessa",
             "Anivia",
@@ -43,59 +55,63 @@
             "Zilean"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Kennen",
+            "Azir",
+            "Elise",
+            "Ezreal",
+            "Gragas",
+            "Lucian",
+            "Orianna",
+            "Ryze",
             "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Tristana"
         ],
         [
-            "Aurora",
-            "Ekko",
-            "Fizz",
-            "Galio",
-            "Karthus",
-            "Kayle",
-            "Lissandra",
-            "Mel",
-            "Ryze",
-            "Vladimir",
-            "Zed",
+            "LeBlanc"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
+        ],
+        [
+            "Azir",
+            "Gnar",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
             "Zilean"
         ],
         [
-            "Lissandra",
-            "Orianna",
-            "Thresh",
-            "Xerath"
-        ],
-        [
-            "Jhin",
-            "Karma",
-            "Varus"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Akali",
-            "Wukong"
-        ],
-        [
-            "Aurora",
-            "Viego"
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

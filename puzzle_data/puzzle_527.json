@@ -1,61 +1,120 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
-        "arcade",
-        "OG40"
+        "blink",
+        "Season 7+"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "infinite"
+        "stun",
+        "Freljord",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Graves",
-            "Nami",
-            "Nautilus"
-        ],
-        [
+            "Amumu",
+            "Brand",
             "Briar",
-            "Fiddlesticks",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
             "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
+            "Brand",
+            "Gragas",
             "Kindred",
-            "Nasus",
-            "Shyvana",
-            "Sylas"
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Miss Fortune"
+            "Camille",
+            "Ekko",
+            "Evelynn",
+            "Fizz",
+            "Karthus",
+            "Kayn",
+            "Viego",
+            "Zac"
         ],
         [
-            "Hecarim"
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
         ],
         [
-            "Veigar"
+            "Lissandra"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Ekko",
+            "Lissandra",
+            "Ryze",
+            "Viego",
+            "Zed"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Chogath",
-            "Gangplank",
-            "Nasus",
-            "Sion",
-            "Veigar",
-            "Zilean"
+            "Aurora",
+            "Ornn"
+        ],
+        [
+            "Aurora",
+            "Camille",
+            "Kayn",
+            "Mel",
+            "Viego",
+            "Xayah",
+            "Yuumi"
         ]
     ]
 }

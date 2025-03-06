@@ -1,102 +1,85 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 7+",
-        "life steal"
+        "Jungle",
+        "dark star",
+        "Season 2-6"
     ],
     "cols": [
-        "Zaun",
-        "stun",
-        "tether"
+        "silence",
+        "Shadow Isles",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Fiddlesticks"
         ],
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Fizz",
+            "Hecarim",
             "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
             "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
+            "Rammus",
+            "Shen",
+            "Shyvana",
             "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
+            "Vi",
+            "Viego",
             "Volibear",
             "Warwick",
-            "Yone",
-            "Zac"
+            "Wukong",
+            "Xin Zhao"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Chogath"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Thresh"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Chogath",
+            "Jhin",
+            "Karma",
+            "Lux",
+            "Thresh",
+            "Varus",
+            "Xerath"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Lulu"
         ],
         [
-            "Warwick"
+            "Hecarim",
+            "Kalista",
+            "Thresh"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Morgana"
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

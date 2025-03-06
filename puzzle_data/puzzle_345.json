@@ -1,23 +1,16 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
         "Top",
-        "PROJECT",
-        "dash"
+        "hextech",
+        "evolver"
     ],
     "cols": [
-        "Zaun",
         "slow",
-        "darkin"
+        "Zaun",
+        "100% AP Ratio"
     ],
     "solutions": [
-        [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
         [
             "Aatrox",
             "Akali",
@@ -68,127 +61,74 @@
             "Zac"
         ],
         [
-            "Aatrox",
-            "Kayn"
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Akali",
-            "Ashe",
-            "Ekko",
+            "Chogath",
             "Fiora",
             "Gangplank",
-            "Irelia",
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Mordekaiser",
-            "Pyke",
-            "Sejuani",
-            "Senna",
-            "Sylas",
-            "Varus",
-            "Warwick",
-            "Zed"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Ekko",
-            "Urgot",
-            "Vi",
-            "Warwick",
-            "Zac",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Akali",
-            "Aurelion Sol",
-            "Aurora",
-            "Azir",
-            "Bard",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Caitlyn",
-            "Camille",
-            "Corki",
-            "Diana",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Fizz",
-            "Galio",
             "Gnar",
-            "Gragas",
-            "Graves",
-            "Gwen",
-            "Hecarim",
-            "Illaoi",
-            "Irelia",
-            "Ivern",
-            "Jarvan IV",
-            "Jayce",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Khazix",
-            "Kindred",
-            "Kled",
-            "Lee sin",
-            "Leona",
-            "Lillia",
-            "Malphite",
-            "Maokai",
-            "Naafiri",
-            "Nautilus",
-            "Nilah",
-            "Nocturne",
-            "Ornn",
+            "Jax",
             "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Qiyana",
-            "Quinn",
-            "Rakan",
-            "Rammus",
-            "Reksai",
-            "Rengar",
-            "Samira",
-            "Sejuani",
-            "Sett",
-            "Shaco",
             "Shen",
-            "Sylas",
-            "Taliyah",
-            "Talon",
-            "Thresh",
-            "Tristana",
-            "Tryndamere",
-            "Urgot",
-            "Vex",
-            "Viego",
+            "Skarner",
+            "Tahm kench",
             "Volibear",
             "Warwick",
-            "Xin Zhao",
-            "Yuumi",
-            "Zac",
-            "Zeri",
+            "Wukong"
+        ],
+        [
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Kassadin",
+            "Kogmaw",
+            "Nocturne",
+            "Poppy",
+            "Rammus",
+            "Sejuani",
+            "Singed",
+            "Sion",
+            "Swain",
+            "Tristana",
             "Ziggs"
         ],
         [
-            "Aatrox",
+            "Janna",
+            "Singed",
+            "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Nocturne",
+            "Rammus",
+            "Tristana"
+        ],
+        [
+            "Bard",
+            "Belveth",
+            "Gangplank",
+            "Kaisa",
+            "Kayle",
             "Kayn",
-            "Naafiri"
+            "Khazix",
+            "Smolder",
+            "Viktor"
+        ],
+        [
+            "Viktor"
+        ],
+        [
+            "Belveth",
+            "Gangplank",
+            "Kaisa",
+            "Smolder",
+            "Viktor"
         ]
     ]
 }

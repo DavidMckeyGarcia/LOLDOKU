@@ -1,62 +1,159 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "invis",
-        "Season 2-6"
+        "Adc",
+        "OG40",
+        "dash"
     ],
     "cols": [
         "Shadow Isles",
-        "fear",
-        "vastayan"
+        "stun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Nami",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Senna",
-            "Viego"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Hecarim",
             "Kalista",
-            "Thresh"
+            "Senna"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar"
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Gwen",
+            "Hecarim",
+            "Maokai",
+            "Thresh",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Alistar",
+            "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Alistar",
+            "Aurelion Sol",
+            "Belveth",
+            "Briar",
+            "Corki",
+            "Ekko",
+            "Fiora",
+            "Fizz",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Kaisa",
+            "Nocturne",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Thresh",
+            "Tristana",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zeri"
         ]
     ]
 }

@@ -1,147 +1,87 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "OG40",
-        "invis"
+        "Mid",
+        "cosmic",
+        "OG40"
     ],
     "cols": [
-        "slow",
         "The Void",
-        "ult reset"
+        "root",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Diana",
-            "Dr. Mundo",
-            "Ekko",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Fizz",
-            "Gragas",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Karthus",
-            "Kayn",
-            "Khazix",
-            "Kindred",
-            "Lee sin",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nami",
-            "Nasus",
-            "Nautilus",
-            "Nocturne",
-            "Nunu",
-            "Olaf",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sejuani",
-            "Sett",
-            "Shaco",
-            "Shen",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Belveth",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Anivia",
-            "Ashe",
             "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
             "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
+            "Malzahar",
+            "Velkoz"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
             "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Aurora",
+            "Ekko",
+            "Fizz",
+            "Galio",
+            "Karthus",
+            "Kayle",
+            "Lissandra",
+            "Mel",
+            "Ryze",
+            "Vladimir",
+            "Zed",
             "Zilean"
+        ],
+        [
+            "Belveth",
+            "Kassadin"
+        ],
+        [
+            "Jhin",
+            "Lissandra",
+            "Lux",
+            "Nautilus",
+            "Nunu",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Lissandra",
+            "Sion",
+            "Vladimir",
+            "Xayah"
         ],
         [
             "Chogath",
             "Kassadin"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
-        ],
-        [
-            "Akali",
-            "Aurora",
-            "Kaisa",
-            "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
-            "Senna",
+            "Morgana",
+            "Nunu",
+            "Ryze",
             "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
+            "Singed",
+            "Soraka"
         ],
         [
-            "Kaisa",
-            "Reksai"
-        ],
-        [
-            "Vayne",
-            "Viego"
+            "Evelynn",
+            "Karthus",
+            "Kayle",
+            "Ryze",
+            "Sion",
+            "Zilean"
         ]
     ]
 }

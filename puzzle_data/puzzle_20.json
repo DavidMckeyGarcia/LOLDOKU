@@ -1,78 +1,52 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "invis",
-        "Season 7+"
+        "Mid",
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "Zaun",
+        "Freljord",
         "knock-up",
-        "shred"
+        "never played"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Belveth",
-            "Briar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
             "Fizz",
+            "Galio",
             "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
+            "Neeko",
             "Sylas",
             "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Elise",
+            "Heimerdinger",
+            "Kennen",
+            "Naafiri"
         ],
         [
-            "Twitch"
-        ],
-        [
-            "Neeko",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
+            "Aurora",
+            "Ornn"
         ],
         [
             "Belveth",
@@ -88,9 +62,47 @@
             "Yone"
         ],
         [
+            "Akshan",
+            "Aphelios",
+            "Belveth",
             "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
             "Rell",
-            "Zoe"
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Akshan",
+            "Pyke",
+            "Reksai",
+            "Rengar",
+            "Senna",
+            "Shaco",
+            "Teemo",
+            "Twitch",
+            "Vayne",
+            "Viego",
+            "Wukong"
         ]
     ]
 }

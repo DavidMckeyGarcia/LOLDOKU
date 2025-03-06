@@ -1,84 +1,64 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "life steal",
-        "PROJECT"
+        "Top",
+        "ult execute",
+        "Season 2-6"
     ],
     "cols": [
-        "root",
-        "Ionia",
-        "ascended"
+        "Demacia",
+        "fear",
+        "arcane"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Kayn",
-            "Lee sin"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
             "Aatrox",
-            "Kayn",
-            "Nasus"
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Jhin",
+            "Ambessa",
+            "Heimerdinger",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Garen"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Jinx"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Hecarim"
+        ],
+        [
+            "Ekko",
+            "Jayce",
             "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
-        ],
-        [
-            "Akali",
-            "Irelia",
-            "Jhin",
-            "Master yi",
-            "Varus",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Leona",
-            "Renekton",
-            "Varus"
+            "Vi",
+            "Viktor"
         ]
     ]
 }

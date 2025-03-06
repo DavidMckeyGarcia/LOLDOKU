@@ -1,68 +1,56 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
+        "Support",
         "arcade",
-        "OG40"
+        "ult execute"
     ],
     "cols": [
-        "Ionia",
+        "Bandle City",
         "stun",
-        "yordle"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
+            "Heimerdinger",
+            "Lulu",
+            "Yuumi"
         ],
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
             "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
             "Pantheon",
             "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
             "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Swain"
         ],
         [
-            "Ahri",
-            "Yasuo"
+            "Corki",
+            "Veigar"
         ],
         [
             "Blitzcrank",
@@ -75,39 +63,23 @@
             "Veigar"
         ],
         [
-            "Corki",
-            "Veigar",
-            "Ziggs"
+            "Ahri",
+            "Belveth"
         ],
         [
-            "Master yi"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
             "Veigar"
+        ],
+        [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Darius",
+            "Viego"
         ]
     ]
 }

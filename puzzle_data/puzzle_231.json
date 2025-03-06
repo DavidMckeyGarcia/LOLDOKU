@@ -1,75 +1,89 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "true damage"
+        "Mid",
+        "dash",
+        "Space Groove"
     ],
     "cols": [
+        "Demacia",
         "root",
-        "Piltover",
-        "ult reset"
+        "ascended"
     ],
     "solutions": [
         [
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Jarvan IV",
+            "Lucian",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sylas",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Caitlyn",
             "Ivern",
+            "Ksante",
             "Lee sin",
+            "Leona",
             "Maokai",
-            "Morgana",
             "Nautilus",
-            "Nunu",
             "Qiyana",
             "Rengar",
             "Shaco",
-            "Zac",
-            "Zyra"
+            "Zac"
         ],
         [
-            "Camille"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Camille",
-            "Seraphine"
-        ],
-        [
-            "Belveth",
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Kayn",
+            "Leona",
             "Naafiri",
-            "Vex",
-            "Viego"
+            "Pantheon",
+            "Renekton"
         ],
         [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
+            "Lux"
         ],
         [
-            "Camille"
+            "Lissandra",
+            "Lux",
+            "Nunu"
         ],
         [
-            "Ahri",
-            "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Vayne"
+            "Nasus",
+            "Taric"
         ]
     ]
 }

@@ -1,82 +1,87 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Top",
-        "Season 7+",
-        "prestige"
+        "Mid",
+        "Season 2-6",
+        "cosmic"
     ],
     "cols": [
-        "Bilgewater",
         "root",
-        "vastayan"
+        "Freljord",
+        "yordle"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Wukong"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aphelios",
             "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
-        ],
-        [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
+            "Karma",
             "LeBlanc",
-            "Lee sin",
-            "Leona",
             "Lissandra",
             "Lux",
-            "Morgana",
+            "Mel",
             "Neeko",
             "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Kennen",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
             "Zyra"
         ],
         [
-            "Ahri",
-            "Neeko",
-            "Rakan",
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Gnar",
+            "Kled",
+            "Lulu",
+            "Ziggs"
+        ],
+        [
+            "Jhin",
+            "Lissandra",
+            "Lux",
+            "Nautilus",
+            "Nunu",
+            "Varus",
             "Xayah"
+        ],
+        [
+            "Anivia",
+            "Lissandra",
+            "Nunu"
+        ],
+        [
+            "Lulu"
         ]
     ]
 }

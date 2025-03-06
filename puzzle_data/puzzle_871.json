@@ -1,78 +1,136 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "empyrean",
-        "Season 2-6"
+        "Support",
+        "shield",
+        "worlds skin"
     ],
     "cols": [
-        "knock-up",
-        "Shadow Isles",
-        "darkin"
+        "Bandle City",
+        "stun",
+        "ascended"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Fizz",
-            "Galio",
-            "Gragas",
+            "Heimerdinger",
+            "Lulu",
+            "Yuumi"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Sylas",
-            "Taliyah",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
             "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Karthus",
-            "Vex"
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
-            "Naafiri"
+            "Lulu",
+            "Rumble",
+            "Yuumi"
         ],
         [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
             "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Taric"
+        ],
+        [
+            "Corki",
+            "Yuumi"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Irelia",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Nami",
+            "Nunu",
+            "Orianna",
+            "Renekton",
+            "Syndra",
+            "Taliyah",
+            "Thresh",
+            "Twisted fate",
+            "Vayne",
+            "Viego",
             "Zac"
         ],
         [
-            "Vex"
-        ],
-        [
-            "Varus"
-        ],
-        [
             "Aatrox",
-            "Aurelion Sol",
             "Azir",
-            "Braum",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
-            "Aatrox",
-            "Varus"
+            "Leona",
+            "Renekton"
         ]
     ]
 }

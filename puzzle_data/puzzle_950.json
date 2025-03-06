@@ -1,110 +1,122 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "hextech"
+        "Support",
+        "dash",
+        "OG40"
     ],
     "cols": [
-        "Shurima",
-        "stun",
-        "ult reset"
+        "knock-up",
+        "Zaun",
+        "tether"
     ],
     "solutions": [
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
+            "Poppy",
+            "Rakan",
             "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
+        ],
+        [
+            "Karma",
+            "Morgana",
             "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Taric",
+            "Yuumi"
         ],
         [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
             "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Amumu",
-            "Rammus",
-            "Renekton"
+            "Ekko",
+            "Urgot",
+            "Vi",
+            "Warwick",
+            "Zac",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Nocturne",
+            "Sylas",
+            "Yuumi",
+            "Zac"
         ],
         [
             "Alistar",
-            "Amumu",
             "Anivia",
-            "Annie",
-            "Malzahar",
-            "Poppy",
-            "Rammus",
-            "Renekton",
-            "Sejuani",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
             "Sion"
         ],
         [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
             "Singed",
-            "Swain"
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

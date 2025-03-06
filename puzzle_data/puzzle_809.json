@@ -1,21 +1,16 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
         "Support",
-        "Season 7+",
-        "dark star"
+        "Season 2-6",
+        "global"
     ],
     "cols": [
-        "Zaun",
         "root",
-        "100% AP Ratio"
+        "Piltover",
+        "shred"
     ],
     "solutions": [
-        [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
         [
             "Karma",
             "Leona",
@@ -33,64 +28,49 @@
             "Zyra"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
+            "Heimerdinger",
+            "Seraphine"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Rell"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
-        ],
-        [
-            "Orianna"
-        ],
-        [
+            "Ivern",
             "Jhin",
-            "Karma",
+            "Jinx",
             "Lissandra",
-            "Lux",
-            "Shaco",
-            "Varus"
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Chogath",
-            "Jhin",
-            "Karma",
+            "Jayce"
+        ],
+        [
+            "Jayce",
+            "Rengar",
+            "Vi"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
             "Lux",
-            "Thresh",
-            "Varus",
-            "Xerath"
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Briar",
+            "Karthus",
+            "Sion"
         ]
     ]
 }

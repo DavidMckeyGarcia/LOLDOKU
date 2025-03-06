@@ -1,63 +1,75 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "ult execute",
-        "OG40"
+        "Adc",
+        "invis",
+        "Season 7+"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "Immunity"
+        "root",
+        "Noxus",
+        "yordle"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Camille",
-            "Fiora",
-            "Kayle",
+            "Corki",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "LeBlanc",
+            "Talon"
+        ],
+        [
+            "Teemo"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Ambessa",
+            "Briar",
             "Kayn",
-            "Kled",
-            "Sion",
-            "Zac"
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Pyke"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Evelynn",
-            "Viego"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle",
-            "Ryze",
-            "Sion",
-            "Zilean"
+            "Vex"
         ]
     ]
 }

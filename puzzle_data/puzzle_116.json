@@ -1,78 +1,100 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "OG40",
-        "invis"
+        "Adc",
+        "Space Groove",
+        "Season 7+"
     ],
     "cols": [
         "knock-up",
-        "Shadow Isles",
-        "infinite"
+        "Zaun",
+        "never played"
     ],
     "solutions": [
         [
-            "Alistar",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
+        ],
+        [
             "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
+            "Gragas",
             "Lulu",
             "Nami",
-            "Nautilus",
+            "Nunu",
+            "Samira"
+        ],
+        [
+            "Blitzcrank"
+        ],
+        [
+            "Blitzcrank",
+            "Nami",
+            "Nunu",
+            "Samira",
+            "Teemo"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
             "Neeko",
-            "Poppy",
+            "Ornn",
             "Rakan",
             "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Maokai",
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
             "Senna",
-            "Thresh"
-        ],
-        [
-            "Bard",
-            "Mel",
-            "Senna",
-            "Swain",
-            "Thresh",
-            "Zilean"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Karthus"
-        ],
-        [
-            "Chogath",
-            "Gangplank",
-            "Nasus",
-            "Sion",
-            "Veigar",
-            "Zilean"
-        ],
-        [
-            "Neeko",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "Senna",
-            "Viego"
-        ],
-        [
-            "Senna"
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ]
     ]
 }

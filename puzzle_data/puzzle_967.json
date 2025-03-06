@@ -1,92 +1,75 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 7+",
-        "prestige"
+        "Support",
+        "arcade",
+        "global"
     ],
     "cols": [
-        "fear",
-        "Demacia",
-        "manaless"
+        "root",
+        "Bilgewater",
+        "riot records"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Sylas"
-        ],
-        [
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Sett",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Kayle",
-            "Lucian",
+            "Karma",
+            "Leona",
             "Lux",
+            "Maokai",
+            "Mel",
             "Morgana",
-            "Sona",
-            "Sylas",
-            "Vayne"
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Garen",
-            "Katarina",
-            "Lee sin",
-            "Sett",
-            "Yasuo",
-            "Zed"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Senna"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Miss Fortune"
+        ],
+        [
+            "Ahri",
+            "Ezreal",
+            "Kaisa",
+            "Qiyana",
+            "Yasuo"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Ekko",
+            "Ezreal",
+            "Kaisa",
+            "Karthus",
+            "Senna"
         ]
     ]
 }

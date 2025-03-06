@@ -1,98 +1,83 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "ult execute",
-        "OG40"
+        "Adc",
+        "Season 2-6",
+        "arcade"
     ],
     "cols": [
-        "Demacia",
-        "root",
-        "100% AP Ratio"
+        "Shadow Isles",
+        "stun",
+        "arcane"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Kalista",
+            "Senna"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
+            "Ashe",
             "Seraphine",
-            "Swain"
+            "Vayne"
+        ],
+        [
+            "Caitlyn",
+            "Jayce",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Hecarim",
+            "Kalista",
+            "Thresh"
         ],
         [
             "Aurelion Sol",
-            "Corki",
+            "Bard",
+            "Braum",
             "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
             "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
+            "Volibear",
+            "Zac"
         ],
         [
-            "Garen"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Chogath",
-            "Evelynn",
-            "Jhin",
+            "Ekko",
+            "Jayce",
             "Jinx",
-            "Veigar",
-            "Viego"
+            "Vi",
+            "Viktor"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Hecarim"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Alistar",
-            "Ashe",
             "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
-            "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Caitlyn"
         ]
     ]
 }

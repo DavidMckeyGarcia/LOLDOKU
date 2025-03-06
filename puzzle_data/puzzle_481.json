@@ -1,84 +1,98 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "empyrean",
-        "true damage"
+        "Jungle",
+        "blink",
+        "coven"
     ],
     "cols": [
-        "Ionia",
-        "knock-up",
-        "100% AP Ratio"
+        "stun",
+        "Bilgewater",
+        "tether"
     ],
     "solutions": [
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Akali",
-            "Jhin",
-            "Varus",
-            "Zed"
-        ],
-        [
-            "Ksante",
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
             "Zac"
         ],
         [
-            "Jax",
-            "Jhin",
-            "Lux",
+            "Fizz",
+            "Graves",
+            "Nami",
+            "Nautilus"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
             "Nocturne",
-            "Varus"
+            "Sylas",
+            "Zac"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ivern",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Syndra",
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
             "Yone"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
-            "Nunu"
+            "LeBlanc"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Nami",
+            "Nilah"
+        ],
+        [
+            "LeBlanc",
+            "Morgana"
         ]
     ]
 }

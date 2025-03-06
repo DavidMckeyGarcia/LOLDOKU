@@ -1,94 +1,101 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "invis",
-        "empyrean"
+        "Adc",
+        "shield",
+        "dark star"
     ],
     "cols": [
-        "stun",
         "Demacia",
-        "Immunity"
+        "root",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Lucian",
+            "Vayne"
         ],
         [
-            "Fiora",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Galio",
             "Garen",
             "Jarvan IV",
-            "Kayle",
+            "Lux",
+            "Morgana",
             "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Sona"
         ],
         [
-            "Camille",
-            "Fiora",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Sion",
-            "Zac"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Vayne"
-        ],
-        [
-            "Aurora",
-            "Viego"
-        ],
-        [
-            "Brand",
-            "Jax",
+            "Aphelios",
+            "Hwei",
+            "Ivern",
             "Ksante",
-            "Malzahar",
-            "Pyke",
-            "Zac"
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
         ],
         [
-            "Kayle",
+            "Azir",
+            "Braum",
+            "Janna",
+            "Jarvan IV",
+            "Kaisa",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Rakan",
+            "Rumble",
+            "Shen",
+            "Thresh"
+        ],
+        [
+            "Jarvan IV",
             "Lux"
         ],
         [
-            "Kayle",
-            "Zac",
-            "Zed"
+            "Jhin",
+            "Karma",
+            "Lissandra",
+            "Lux",
+            "Shaco",
+            "Varus"
+        ],
+        [
+            "Jarvan IV",
+            "Jhin",
+            "Orianna",
+            "Thresh",
+            "Varus"
         ]
     ]
 }

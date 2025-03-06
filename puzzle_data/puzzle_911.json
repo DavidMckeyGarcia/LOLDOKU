@@ -1,92 +1,86 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "blink",
-        "prestige"
+        "Adc",
+        "life steal",
+        "Season 2-6"
     ],
     "cols": [
-        "Freljord",
-        "knock-up",
-        "ascended"
+        "Ionia",
+        "stun",
+        "0 games"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Mel",
+            "Samira"
+        ],
+        [
             "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
+            "Lee sin"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
             "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Illaoi",
+            "Samira"
+        ],
+        [
+            "Ahri",
+            "Ivern",
+            "Jhin",
+            "Syndra",
+            "Varus",
             "Yasuo",
-            "Yone",
+            "Zed"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
             "Zac"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Pantheon"
-        ],
-        [
-            "Brand",
-            "Kindred",
-            "Lissandra",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Pantheon"
+            "Illaoi"
         ]
     ]
 }

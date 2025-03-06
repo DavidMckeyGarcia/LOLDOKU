@@ -1,87 +1,93 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "dash",
-        "cosmic"
+        "Jungle",
+        "Season 7+",
+        "pool party"
     ],
     "cols": [
+        "Freljord",
         "root",
-        "Noxus",
-        "tether"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Caitlyn",
             "Ivern",
-            "Ksante",
             "Lee sin",
-            "Leona",
             "Maokai",
+            "Morgana",
             "Nautilus",
+            "Nunu",
             "Qiyana",
             "Rengar",
             "Shaco",
-            "Zac"
+            "Zac",
+            "Zyra"
         ],
         [
-            "Alistar",
-            "Ambessa",
-            "Briar",
             "Elise",
-            "Kayn",
-            "Kled",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Talon"
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Nocturne",
-            "Sylas",
-            "Yuumi",
-            "Zac"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "Lux",
-            "Nautilus",
-            "Nunu",
-            "Varus",
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
             "Xayah"
         ],
         [
-            "Sion",
-            "Vladimir"
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ],
         [
-            "Illaoi"
+            "Braum"
+        ],
+        [
+            "Caitlyn",
+            "Lee sin",
+            "Leona",
+            "Singed",
+            "Zac"
+        ],
+        [
+            "Braum",
+            "Caitlyn",
+            "Graves",
+            "Jarvan IV",
+            "Lee sin",
+            "Leona",
+            "Lulu",
+            "Orianna",
+            "Renekton",
+            "Syndra"
         ]
     ]
 }

@@ -1,167 +1,82 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "life steal",
-        "Season 2-6"
+        "global",
+        "OG40"
     ],
     "cols": [
-        "Targon",
-        "slow",
-        "riot records"
+        "Bilgewater",
+        "knock-up",
+        "ascended"
     ],
     "solutions": [
         [
-            "Pantheon"
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
         ],
         [
             "Aatrox",
-            "Akali",
-            "Camille",
             "Chogath",
-            "Darius",
-            "Dr. Mundo",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gnar",
             "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
             "Jarvan IV",
             "Ksante",
-            "Kayle",
             "Kayn",
-            "Kled",
             "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
             "Ornn",
-            "Pantheon",
             "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
+            "Riven",
             "Sion",
-            "Skarner",
-            "Swain",
             "Sylas",
             "Tahm kench",
-            "Teemo",
             "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
+            "Wukong",
+            "Yasuo",
+            "Yone",
             "Zac"
         ],
         [
-            "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
-            "Yasuo",
-            "Yone",
-            "Yorick"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
             "Aatrox",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
-            "Ksante",
             "Kayn",
-            "Lee sin",
-            "Morgana",
             "Nasus",
-            "Nilah",
-            "Olaf",
-            "Samira",
-            "Senna",
+            "Pantheon",
+            "Renekton"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
             "Sion",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Vladimir",
-            "Warwick"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Kayn",
-            "Olaf",
-            "Senna",
-            "Viego"
-        ],
-        [
-            "Aurelion Sol",
-            "Diana"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Aurelion Sol",
-            "Azir",
-            "Bard",
-            "Braum",
-            "Darius",
-            "Diana",
-            "Draven",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jayce",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Khazix",
-            "Kindred",
-            "Kled",
-            "Lissandra",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Quinn",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
             "Taliyah",
-            "Thresh",
-            "Varus",
-            "Velkoz",
-            "Viktor",
-            "Volibear",
-            "Zac",
-            "Zed",
-            "Ziggs",
-            "Zyra"
+            "Ziggs"
         ],
         [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Nasus",
+            "Taric"
         ]
     ]
 }

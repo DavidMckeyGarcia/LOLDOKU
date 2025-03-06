@@ -1,104 +1,61 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "shield",
-        "OG40"
+        "Top",
+        "OG40",
+        "coven"
     ],
     "cols": [
-        "Ixtal",
         "stun",
-        "yordle"
+        "Demacia",
+        "tether"
     ],
     "solutions": [
         [
-            "Milio",
-            "Neeko",
-            "Zyra"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
             "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
             "Pantheon",
             "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Malphite",
-            "Milio",
-            "Neeko",
-            "Skarner"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
+            "Renekton",
             "Riven",
-            "Seraphine",
             "Sett",
             "Sion",
             "Skarner",
-            "Sona",
+            "Sylas",
             "Tahm kench",
-            "Taric",
-            "Thresh",
             "Udyr",
             "Urgot",
-            "Vi",
-            "Viktor",
+            "Vayne",
             "Volibear",
-            "Yone"
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
-            "Kled",
-            "Lulu",
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
             "Poppy",
-            "Rumble",
-            "Vex"
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Malphite"
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
         ],
         [
             "Alistar",
@@ -120,12 +77,30 @@
             "Zilean"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "LeBlanc",
+            "Morgana"
         ]
     ]
 }

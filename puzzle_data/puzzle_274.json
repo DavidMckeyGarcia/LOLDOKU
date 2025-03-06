@@ -1,113 +1,91 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Top",
-        "global",
+        "Mid",
+        "ult execute",
         "OG40"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "infinite"
+        "Noxus",
+        "knock-up",
+        "yordle"
     ],
     "solutions": [
         [
             "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Kennen",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Riven"
         ],
         [
             "Chogath",
-            "Gangplank",
-            "Nasus",
-            "Sion",
-            "Swain",
-            "Sylas"
+            "Reksai",
+            "Riven"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Veigar"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Bard",
-            "Draven",
-            "Gangplank",
-            "Mel",
-            "Senna",
+            "Alistar",
+            "Annie",
+            "Katarina",
             "Sion"
         ],
         [
             "Alistar",
-            "Amumu",
             "Anivia",
-            "Annie",
-            "Ashe",
             "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
             "Chogath",
-            "Gangplank",
-            "Nasus",
-            "Sion",
-            "Veigar",
-            "Zilean"
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

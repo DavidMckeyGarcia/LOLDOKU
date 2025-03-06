@@ -1,141 +1,111 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
         "Mid",
         "shield",
-        "elderwood"
+        "OG40"
     ],
     "cols": [
-        "stun",
-        "The Void",
-        "100% AP Ratio"
+        "knock-up",
+        "Shurima",
+        "tether"
     ],
     "solutions": [
         [
-            "Ambessa",
             "Anivia",
-            "Annie",
             "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
-        [
-            "Aurelion Sol",
-            "Corki",
-            "Ekko",
+            "Azir",
+            "Chogath",
+            "Diana",
             "Fizz",
-            "Karma",
-            "Lux",
+            "Galio",
+            "Gragas",
             "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
             "Xerath",
             "Zilean"
         ],
         [
-            "Ambessa",
-            "Annie",
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Azir",
             "Blitzcrank",
             "Braum",
-            "Camille",
-            "Ekko",
+            "Diana",
+            "Galio",
             "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Ksante",
-            "Milio",
-            "Morgana",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
             "Nautilus",
             "Neeko",
             "Nunu",
-            "Orianna",
             "Poppy",
+            "Rakan",
             "Rell",
-            "Renata glasc",
             "Riven",
-            "Seraphine",
-            "Sett",
             "Sion",
-            "Skarner",
-            "Sona",
             "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
             "Vi",
-            "Viktor",
-            "Volibear",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Kaisa",
-            "Kassadin"
+            "Akshan",
+            "Azir",
+            "Ksante",
+            "Naafiri",
+            "Sivir"
         ],
         [
-            "Aphelios",
-            "Blitzcrank",
-            "Ekko",
-            "Kaisa",
             "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
+            "Kled",
+            "Morgana",
             "Nocturne",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
             "Nunu",
-            "Shen",
+            "Sion"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
             "Sivir",
-            "Skarner",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Viktor",
-            "Volibear"
+            "Zilean"
         ],
         [
-            "Bard",
-            "Gnar",
-            "Hecarim",
-            "Veigar"
-        ],
-        [
-            "Reksai"
-        ],
-        [
-            "Gnar",
-            "Hecarim",
-            "Veigar",
-            "Wukong"
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

@@ -1,75 +1,126 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "true damage",
-        "cosmic"
+        "Jungle",
+        "dark star",
+        "dash"
     ],
     "cols": [
-        "Freljord",
-        "root",
-        "ult reset"
+        "knock-up",
+        "Ixtal",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Fizz",
             "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
+        ],
+        [
+            "Camille",
+            "Ekko",
+            "Evelynn",
+            "Fizz",
+            "Karthus",
+            "Kayn",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Malphite"
+        ],
+        [
+            "Malphite"
+        ],
+        [
             "Lissandra"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Ivern",
+            "Jarvan IV",
             "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Vayne"
-        ],
-        [
-            "Anivia",
-            "Nunu"
-        ],
-        [
-            "Lux",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
             "Nautilus",
-            "Nunu",
-            "Varus",
-            "Xayah"
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Belveth",
-            "Master yi"
+            "Malphite",
+            "Nidalee",
+            "Qiyana",
+            "Rengar"
+        ],
+        [
+            "Aurora",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Fiora",
+            "Fizz",
+            "Galio",
+            "Kayn",
+            "Kled",
+            "Viego",
+            "Yuumi",
+            "Zac"
         ]
     ]
 }

@@ -1,74 +1,90 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "OG40",
-        "true damage"
+        "Support",
+        "Season 2-6",
+        "invis"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "infinite"
+        "knock-up",
+        "Ionia",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Fizz",
-            "Twisted fate"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Mel",
-            "Swain",
-            "Sylas",
-            "Veigar",
-            "Zilean"
+            "Galio"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Chogath",
-            "Gangplank",
-            "Nasus",
-            "Sion",
-            "Veigar",
-            "Zilean"
-        ],
-        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
             "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Gangplank",
-            "Pyke"
+            "Ahri",
+            "Ivern",
+            "Jhin",
+            "Syndra",
+            "Varus",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Chogath",
-            "Draven",
-            "Gangplank"
+            "Ahri",
+            "Azir",
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Akali",
+            "Wukong"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

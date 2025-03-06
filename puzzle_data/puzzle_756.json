@@ -1,62 +1,80 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "OG40",
-        "hextech"
+        "Adc",
+        "life steal",
+        "Season 2-6"
     ],
     "cols": [
-        "silence",
-        "Bandle City",
-        "infinite"
+        "root",
+        "Freljord",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Fizz",
-            "Rumble",
-            "Teemo"
+            "Ashe"
         ],
         [
+            "Kogmaw",
+            "Mel",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Olaf",
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Kayn",
+            "Sion",
+            "Viego",
+            "Vladimir"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Braum",
+            "Gnar",
             "Kindred",
-            "Nasus",
-            "Shyvana",
-            "Sylas"
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Chogath",
-            "Gangplank",
-            "Nasus",
-            "Sion",
-            "Veigar",
-            "Zilean"
-        ],
-        [
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Tristana"
-        ],
-        [
-            "Sion",
-            "Swain"
+            "Bard",
+            "Ekko",
+            "Fiora",
+            "Kled",
+            "Lissandra",
+            "Zac",
+            "Zed"
         ]
     ]
 }

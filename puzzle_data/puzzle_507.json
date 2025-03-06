@@ -1,110 +1,90 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Mid",
+        "Jungle",
         "OG40",
-        "global"
+        "worlds skin"
     ],
     "cols": [
-        "stun",
-        "Freljord",
-        "ult reset"
+        "root",
+        "Demacia",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
             "Qiyana",
-            "Seraphine",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
             "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Xin Zhao"
         ],
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Alistar",
             "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
+            "Fizz",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
             "Morgana",
             "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Master yi",
+            "Ryze",
+            "Shaco",
             "Singed",
-            "Sivir"
+            "Soraka"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Ashe",
-            "Ornn"
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Vex"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Singed",
+            "Xayah",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Fiora",
+            "Jarvan IV",
+            "Vayne"
+        ],
+        [
+            "Corki",
+            "Gnar",
+            "Kennen"
         ]
     ]
 }

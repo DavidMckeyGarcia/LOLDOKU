@@ -1,58 +1,78 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
+        "Jungle",
         "Season 2-6",
-        "blink"
+        "arcade"
     ],
     "cols": [
-        "Freljord",
         "knock-up",
-        "ascended"
+        "Ixtal",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
+            "Belveth",
+            "Briar",
+            "Diana",
             "Fizz",
-            "Galio",
             "Gragas",
-            "Neeko",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
             "Sylas",
             "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Azir",
-            "Diana",
-            "Naafiri",
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Fizz",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
             "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
         ],
         [
             "Aatrox",
             "Aurelion Sol",
             "Azir",
             "Braum",
+            "Diana",
             "Ivern",
             "Kalista",
             "Lulu",
@@ -71,22 +91,41 @@
             "Zyra"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
+            "Rengar",
+            "Zyra"
         ],
         [
-            "Lissandra"
-        ],
-        [
-            "Reksai",
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
             "Tahm kench",
-            "Yasuo",
-            "Yone"
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ],
         [
-            "Pantheon"
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Qiyana"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Corki",
+            "Hecarim",
+            "Kaisa",
+            "Veigar"
         ]
     ]
 }

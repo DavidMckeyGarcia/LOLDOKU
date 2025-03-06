@@ -1,64 +1,50 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "prestige",
+        "Jungle",
+        "arcade",
         "Season 2-6"
     ],
     "cols": [
-        "Ixtal",
+        "Piltover",
         "root",
-        "darkin"
+        "arcane"
     ],
     "solutions": [
         [
-            "Malphite",
-            "Skarner"
+            "Camille"
         ],
         [
-            "Ksante",
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Kayn"
-        ],
-        [
-            "Malphite",
-            "Neeko",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
             "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
             "Zyra"
+        ],
+        [
+            "Ekko",
+            "Vi",
+            "Warwick"
         ],
         [
             "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
+            "Ezreal"
         ],
         [
-            "Aatrox",
-            "Kayn"
+            "Caitlyn",
+            "Qiyana"
         ],
         [
-            "Rengar",
-            "Zyra"
+            "Caitlyn"
+        ],
+        [
+            "Jayce"
         ],
         [
             "Ivern",
@@ -72,8 +58,11 @@
             "Zyra"
         ],
         [
-            "Aatrox",
-            "Varus"
+            "Ekko",
+            "Jayce",
+            "Jinx",
+            "Vi",
+            "Viktor"
         ]
     ]
 }

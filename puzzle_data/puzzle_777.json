@@ -1,91 +1,112 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "shield"
+        "Support",
+        "global",
+        "Season 2-6"
     ],
     "cols": [
-        "Bilgewater",
-        "root",
-        "ascended"
+        "Freljord",
+        "stun",
+        "celestial"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Graves",
-            "Nami",
-            "Nautilus"
+            "Ashe",
+            "Brand",
+            "Braum"
         ],
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
             "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
-        ],
-        [
-            "Illaoi",
             "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
-        ],
-        [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
             "Nautilus",
             "Neeko",
-            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
             "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Taric"
+            "Bard",
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Soraka"
+        ],
+        [
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard"
         ]
     ]
 }

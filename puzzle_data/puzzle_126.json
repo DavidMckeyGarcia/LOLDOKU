@@ -1,79 +1,111 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "PROJECT",
-        "OG40"
+        "Support",
+        "Season 2-6",
+        "arcade"
     ],
     "cols": [
-        "Demacia",
-        "knock-up",
-        "ult reset"
+        "stun",
+        "Bilgewater",
+        "tether"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Master yi",
-            "Vayne"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
             "Alistar",
-            "Anivia",
+            "Annie",
+            "Ashe",
+            "Bard",
             "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus",
+            "Tahm kench"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kalista",
+            "Kled",
+            "Zac"
+        ],
+        [
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Miss Fortune"
+        ],
+        [
+            "Malzahar"
         ]
     ]
 }

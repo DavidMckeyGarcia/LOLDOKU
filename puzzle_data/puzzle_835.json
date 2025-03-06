@@ -1,66 +1,137 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "arcade",
-        "Season 7+"
+        "Top",
+        "Season 7+",
+        "true damage"
     ],
     "cols": [
-        "Bilgewater",
-        "root",
-        "ult reset"
+        "Bandle City",
+        "knock-up",
+        "never played"
     ],
     "solutions": [
         [
-            "Miss Fortune",
-            "Nilah"
+            "Heimerdinger",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Sivir",
-            "Vayne"
-        ],
-        [
-            "Miss Fortune"
-        ],
-        [
-            "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Ahri",
-            "Belveth"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
             "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Chogath",
+            "Dr. Mundo",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
+            "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
+        ],
+        [
+            "Yuumi"
         ],
         [
             "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
             "Naafiri",
-            "Vex",
-            "Viego"
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

@@ -1,65 +1,93 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "ult execute",
-        "hextech"
+        "Adc",
+        "shield",
+        "empyrean"
     ],
     "cols": [
-        "Noxus",
-        "silence",
-        "arcane"
+        "stun",
+        "Ionia",
+        "darkin"
     ],
     "solutions": [
         [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Jhin",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Varus"
+        ],
+        [
             "Ambessa",
             "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Ambessa",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
             "Ekko",
-            "Heimerdinger",
-            "LeBlanc",
-            "Mel",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
             "Orianna",
-            "Viktor"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Riven"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Jinx"
-        ],
-        [
-            "Alistar",
-            "Annie",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
             "Sion",
-            "Swain"
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Kassadin",
-            "Malzahar"
+            "Hwei",
+            "Ivern",
+            "Karma",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Janna"
+            "Naafiri"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Jhin",
+            "Varus",
+            "Zed"
+        ],
+        [
+            "Varus"
         ]
     ]
 }

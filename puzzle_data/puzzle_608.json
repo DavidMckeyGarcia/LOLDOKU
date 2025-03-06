@@ -1,109 +1,60 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "true damage",
-        "OG40"
+        "Jungle",
+        "OG40",
+        "global"
     ],
     "cols": [
-        "Bandle City",
-        "stun",
-        "tether"
+        "silence",
+        "Shadow Isles",
+        "arcane"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
+            "Fiddlesticks"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
+        ],
+        [
+            "Ekko",
+            "Vi",
+            "Warwick"
+        ],
+        [
             "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Corki"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Renata glasc"
-        ],
-        [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
+            "Chogath",
             "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Jinx",
+            "Mel"
         ]
     ]
 }

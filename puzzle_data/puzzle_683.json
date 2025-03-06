@@ -1,54 +1,49 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "hextech",
-        "Season 2-6"
+        "Support",
+        "Season 2-6",
+        "dash"
     ],
     "cols": [
+        "Noxus",
         "root",
-        "Zaun",
-        "shred"
+        "celestial"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
+            "Alistar",
+            "Annie",
             "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
-            "Qiyana",
-            "Ryze",
+            "Renata glasc",
+            "Senna",
             "Seraphine",
-            "Swain"
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
+            "Bard",
+            "Soraka"
         ],
         [
-            "Corki",
-            "Karthus",
-            "Zoe"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Janna",
-            "Singed",
-            "Ziggs"
-        ],
-        [
-            "Jarvan IV",
-            "Kogmaw",
-            "Renekton",
-            "Sion"
+            "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
         ],
         [
             "Ivern",
@@ -62,17 +57,37 @@
             "Zyra"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
+            "Aurelion Sol",
+            "Bard"
         ],
         [
-            "Jayce",
+            "Alistar",
+            "Ambessa",
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Kled",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Talon"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
             "Rengar",
-            "Vi"
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard"
         ]
     ]
 }

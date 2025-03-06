@@ -1,78 +1,98 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
         "Support",
-        "empyrean",
-        "OG40"
+        "elderwood",
+        "Season 7+"
     ],
     "cols": [
-        "knock-up",
-        "Demacia",
-        "tether"
+        "The Void",
+        "stun",
+        "Immunity"
     ],
     "solutions": [
         [
+            "Velkoz"
+        ],
+        [
             "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
             "Blitzcrank",
+            "Brand",
             "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
             "Nami",
             "Nautilus",
             "Neeko",
+            "Pantheon",
             "Poppy",
-            "Rakan",
+            "Pyke",
             "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Karma",
-            "Morgana",
             "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
             "Taric",
-            "Yuumi"
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
+            "Bard",
+            "Galio",
+            "Mel",
+            "Yuumi",
+            "Zilean"
+        ],
+        [
+            "Reksai"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
+        ],
+        [
+            "Bard",
+            "Karthus",
+            "Xayah"
+        ],
+        [
+            "Belveth",
+            "Kaisa"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
             "Ksante",
-            "Zac"
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Kayle",
-            "Lux"
-        ],
-        [
-            "Malzahar",
-            "Nocturne",
-            "Zac"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Aurora",
+            "Camille",
+            "Kayn",
+            "Mel",
+            "Viego",
+            "Xayah",
+            "Yuumi"
         ]
     ]
 }

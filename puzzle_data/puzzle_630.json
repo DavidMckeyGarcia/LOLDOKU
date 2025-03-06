@@ -1,55 +1,80 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "invis",
-        "Season 7+"
+        "Support",
+        "Season 2-6",
+        "arcade"
     ],
     "cols": [
-        "fear",
-        "Freljord",
-        "shred"
+        "Noxus",
+        "root",
+        "tether"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Corki",
-            "Karthus",
-            "Zoe"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Aurora"
-        ],
-        [
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Briar",
+            "Alistar",
+            "Annie",
+            "Mel",
             "Rell",
-            "Zoe"
+            "Swain"
+        ],
+        [
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kalista",
+            "Kled",
+            "Zac"
+        ],
+        [
+            "Riven"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Malzahar"
         ]
     ]
 }

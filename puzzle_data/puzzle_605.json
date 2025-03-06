@@ -1,94 +1,83 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "shield",
-        "Season 2-6"
+        "Adc",
+        "Season 2-6",
+        "cosmic"
     ],
     "cols": [
-        "root",
-        "Shadow Isles",
-        "infinite"
+        "stun",
+        "Demacia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
+            "Ashe",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Vayne"
         ],
         [
-            "Maokai",
-            "Senna",
-            "Thresh"
+            "Lucian",
+            "Vayne"
         ],
         [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Aurelion Sol",
             "Bard",
-            "Mel",
-            "Senna",
-            "Swain",
-            "Thresh",
-            "Zilean"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
-        ],
-        [
-            "Senna",
-            "Thresh",
-            "Vex"
-        ],
-        [
-            "Mel",
-            "Senna",
-            "Sion",
-            "Thresh"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
             "Hecarim",
-            "Kalista",
-            "Thresh"
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Bard",
-            "Draven",
-            "Kindred",
-            "Thresh"
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Viktor"
+        ],
+        [
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Sion",
+            "Skarner",
+            "Xin Zhao"
+        ],
+        [
+            "Lux",
+            "Xin Zhao"
+        ],
+        [
+            "Belveth",
+            "Master yi"
         ]
     ]
 }

@@ -1,102 +1,78 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "OG40",
-        "pool party"
+        "Adc",
+        "life steal",
+        "Season 2-6"
     ],
     "cols": [
-        "knock-up",
-        "Zaun",
-        "yordle"
+        "stun",
+        "Targon",
+        "0 games"
     ],
     "solutions": [
         [
-            "Belveth",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Aphelios"
+        ],
+        [
+            "Mel",
+            "Samira"
+        ],
+        [
+            "Ambessa",
             "Briar",
-            "Fizz",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Amumu",
-            "Fizz",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
             "Warwick"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Aphelios"
         ],
         [
+            "Ambessa",
+            "Briar",
+            "Illaoi",
+            "Samira"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
             "Braum",
-            "Jarvan IV",
-            "Lee sin",
-            "Lulu",
-            "Reksai",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
             "Taliyah",
-            "Zac",
-            "Ziggs"
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Dr. Mundo",
-            "Orianna",
-            "Singed",
-            "Zac",
-            "Ziggs"
+            "Aurelion Sol",
+            "Diana"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Ziggs"
+            "Illaoi"
         ]
     ]
 }

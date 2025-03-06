@@ -1,28 +1,41 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "shield"
+        "Adc",
+        "blink",
+        "Season 7+"
     ],
     "cols": [
-        "fear",
         "Ionia",
-        "arcane"
+        "stun",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Kennen",
-            "Syndra",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Master yi",
+            "Shen",
             "Yasuo",
             "Yone",
             "Zed"
@@ -30,16 +43,18 @@
         [
             "Ambessa",
             "Ekko",
-            "Heimerdinger",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Ezreal",
+            "Ryze",
+            "Shen"
         ],
         [
             "Hwei",
@@ -52,33 +67,25 @@
         ],
         [
             "Ambessa",
-            "Mel"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Hwei",
-            "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
             "Sett",
-            "Shen",
-            "Yasuo",
+            "Sylas",
+            "Viego",
             "Yone"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Janna",
-            "Mel",
-            "Orianna",
-            "Vi",
-            "Viktor"
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

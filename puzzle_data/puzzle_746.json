@@ -1,66 +1,83 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "Season 7+",
-        "global"
+        "Mid",
+        "life steal",
+        "Space Groove"
     ],
     "cols": [
-        "fear",
-        "Freljord",
-        "yordle"
+        "root",
+        "Noxus",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Briar",
             "Hwei",
-            "Vex"
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Aurora",
-            "Ornn"
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Vex"
+            "Azir",
+            "Elise",
+            "Ezreal",
+            "Gragas",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
         ],
         [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Ambessa",
             "Briar",
-            "Nocturne",
-            "Vex"
+            "Kayn",
+            "Samira",
+            "Sion",
+            "Vladimir"
         ],
         [
-            "Ashe",
-            "Ornn"
+            "Aatrox",
+            "Lee sin"
         ],
         [
-            "Kled",
-            "Vex",
-            "Ziggs"
+            "Lissandra",
+            "Lux",
+            "Nunu"
+        ],
+        [
+            "Samira"
+        ],
+        [
+            "Gragas",
+            "Lulu",
+            "Rumble"
         ]
     ]
 }

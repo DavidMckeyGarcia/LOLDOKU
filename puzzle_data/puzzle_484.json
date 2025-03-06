@@ -1,47 +1,66 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "true damage",
-        "dark star"
+        "Support",
+        "Season 2-6",
+        "prestige"
     ],
     "cols": [
         "silence",
-        "Piltover",
-        "tether"
+        "Freljord",
+        "ascended"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Camille"
+            "Ashe",
+            "Brand",
+            "Braum"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Lulu"
         ],
         [
-            "Camille"
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
         ],
         [
-            "Renata glasc"
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Varus"
         ],
         [
-            "Chogath"
+            "Garen",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Orianna"
+            "Brand",
+            "Kindred",
+            "Lissandra",
+            "Volibear"
         ],
         [
-            "Karma"
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ]
     ]
 }

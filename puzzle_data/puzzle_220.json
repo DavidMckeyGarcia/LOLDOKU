@@ -1,98 +1,105 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "dash",
-        "prestige"
+        "Support",
+        "ult execute",
+        "arcade"
     ],
     "cols": [
-        "Ixtal",
-        "root",
-        "vastayan"
+        "Zaun",
+        "slow",
+        "yordle"
     ],
     "solutions": [
         [
-            "Nidalee",
-            "Qiyana",
-            "Rengar",
-            "Skarner",
-            "Zyra"
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
         ],
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Nami",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Malphite",
-            "Nidalee",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
+            "Karma",
             "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Ahri",
-            "Aurora",
-            "Rakan",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Malphite",
-            "Neeko",
-            "Qiyana",
-            "Zyra"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
+            "Lulu",
             "Lux",
+            "Maokai",
+            "Mel",
+            "Milio",
             "Morgana",
-            "Neeko",
-            "Qiyana",
+            "Nami",
+            "Nautilus",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
             "Renata glasc",
             "Senna",
-            "Shaco",
+            "Seraphine",
+            "Sona",
             "Soraka",
             "Swain",
-            "Xayah",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
             "Zyra"
         ],
         [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Jinx",
+            "Urgot"
+        ],
+        [
+            "Akali",
+            "Chogath",
+            "Darius",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Syndra",
+            "Urgot",
+            "Viego"
+        ],
+        [
+            "Veigar"
+        ],
+        [
+            "Blitzcrank",
+            "Ziggs"
+        ],
+        [
             "Ahri",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Belveth",
+            "Brand",
+            "Caitlyn",
+            "Corki",
+            "Hecarim",
+            "Kaisa",
+            "Miss Fortune",
+            "Qiyana",
+            "Sona",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

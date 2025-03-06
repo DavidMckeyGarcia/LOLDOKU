@@ -1,74 +1,57 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "OG40",
-        "invis"
+        "Top",
+        "Season 7+",
+        "true damage"
     ],
     "cols": [
-        "knock-up",
-        "Ixtal",
-        "shred"
+        "fear",
+        "Bandle City",
+        "yordle"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Heimerdinger",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
             "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Milio",
-            "Neeko",
-            "Zyra"
+            "Briar",
+            "Hwei",
+            "Vex"
         ],
         [
-            "Rell"
+            "Yuumi"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Vex"
         ],
         [
-            "Malphite"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
+            "Corki"
         ],
         [
-            "Neeko",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "Neeko",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Rengar",
-            "Wukong"
+            "Amumu",
+            "Corki"
         ]
     ]
 }

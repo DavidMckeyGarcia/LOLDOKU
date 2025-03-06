@@ -1,76 +1,70 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "OG40",
-        "true damage"
+        "Top",
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Zaun",
-        "yordle"
+        "silence",
+        "Demacia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
             "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Garen"
         ],
         [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Olaf",
             "Singed",
-            "Twitch",
-            "Warwick"
+            "Swain",
+            "Vayne"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Belveth",
             "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
+            "Garen"
         ],
         [
-            "Renata glasc",
-            "Twitch",
-            "Urgot"
+            "Fiora",
+            "Garen",
+            "Vayne"
         ],
         [
-            "Amumu",
-            "Corki"
+            "Ahri",
+            "Belveth",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Vayne"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

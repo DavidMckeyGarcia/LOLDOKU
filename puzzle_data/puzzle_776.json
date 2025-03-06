@@ -1,72 +1,77 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "Season 2-6",
-        "shield"
+        "Adc",
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "Demacia",
-        "silence",
-        "yordle"
+        "root",
+        "The Void",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Jhin",
+            "Kaisa",
             "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
             "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
+            "Varus",
+            "Xayah"
         ],
         [
-            "Fiora",
-            "Lucian",
-            "Quinn"
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Lulu"
+            "Belveth",
+            "Kaisa"
         ],
         [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ],
         [
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
         ],
         [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
+            "Kaisa",
+            "Reksai"
         ],
         [
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Vex"
+            "Kaisa"
         ]
     ]
 }

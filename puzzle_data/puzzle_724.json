@@ -1,72 +1,75 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "PROJECT",
+        "Adc",
+        "ult execute",
         "Season 7+"
     ],
     "cols": [
-        "Zaun",
-        "root",
-        "darkin"
+        "Noxus",
+        "knock-up",
+        "0 games"
     ],
     "solutions": [
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Kalista",
+            "Samira",
             "Ziggs"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
             "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Samira"
         ],
         [
-            "Naafiri"
+            "Darius",
+            "Draven",
+            "Riven"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
+            "Chogath",
+            "Reksai",
+            "Riven"
         ],
         [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
+            "Akshan"
         ],
         [
-            "Varus"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
+            "Ambessa",
+            "Briar",
             "Kayn",
-            "Naafiri"
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

@@ -1,43 +1,52 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "dark star",
-        "Season 7+"
+        "Top",
+        "Season 7+",
+        "dash"
     ],
     "cols": [
+        "Freljord",
         "knock-up",
-        "Piltover",
-        "arcane"
+        "vastayan"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Caitlyn",
-            "Ezreal",
-            "Jayce",
-            "Seraphine"
-        ],
-        [
-            "Caitlyn",
-            "Jayce",
-            "Jinx",
-            "Mel"
-        ],
-        [
+            "Aatrox",
             "Chogath",
+            "Gragas",
             "Jarvan IV",
-            "Malphite"
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Orianna"
+            "Wukong"
         ],
         [
-            "Orianna"
+            "Aurora",
+            "Ornn"
         ],
         [
             "Belveth",
@@ -53,12 +62,65 @@
             "Yone"
         ],
         [
-            "Camille",
-            "Seraphine"
+            "Aurora",
+            "Neeko",
+            "Rakan",
+            "Xayah"
         ],
         [
-            "Ambessa",
-            "Mel"
+            "Aurora",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Ornn",
+            "Sejuani",
+            "Tryndamere",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Ahri",
+            "Aurora",
+            "Rakan",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

@@ -1,69 +1,125 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
         "Adc",
-        "OG40",
-        "cosmic"
+        "Season 2-6",
+        "coven"
     ],
     "cols": [
-        "root",
+        "slow",
         "Demacia",
-        "yordle"
+        "vastayan"
     ],
     "solutions": [
         [
             "Aphelios",
+            "Ashe",
             "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jayce",
             "Jhin",
             "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
             "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
             "Senna",
             "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
             "Varus",
-            "Xayah"
+            "Zeri",
+            "Ziggs"
         ],
         [
             "Lucian",
             "Vayne"
         ],
         [
-            "Corki",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Lux",
-            "Nautilus",
-            "Nunu",
-            "Varus",
             "Xayah"
         ],
         [
-            "Lux",
-            "Xin Zhao"
+            "Aatrox",
+            "Ahri",
+            "Aurelion Sol",
+            "Azir",
+            "Bard",
+            "Braum",
+            "Darius",
+            "Diana",
+            "Draven",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Khazix",
+            "Kindred",
+            "Kled",
+            "Lissandra",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Quinn",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Varus",
+            "Velkoz",
+            "Viktor",
+            "Volibear",
+            "Zac",
+            "Zed",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Lulu"
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Ahri",
+            "Nami",
+            "Rengar"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Evelynn",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nilah",
+            "Syndra",
+            "Zyra"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "Ahri",
+            "Nami"
         ]
     ]
 }

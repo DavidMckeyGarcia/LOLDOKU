@@ -1,140 +1,75 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "global",
-        "arcade"
+        "Adc",
+        "prestige",
+        "blink"
     ],
     "cols": [
-        "slow",
-        "Freljord",
-        "tether"
+        "Noxus",
+        "knock-up",
+        "ascended"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Akali",
-            "Camille",
-            "Chogath",
-            "Darius",
-            "Dr. Mundo",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
-            "Jarvan IV",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
-            "Sion",
-            "Skarner",
-            "Swain",
-            "Sylas",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
-            "Zac"
-        ],
-        [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Caitlyn",
             "Draven",
-            "Ekko",
-            "Galio",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Karthus",
-            "Kled",
-            "Lillia",
-            "Lux",
-            "Maokai",
             "Mel",
-            "Nocturne",
-            "Ornn",
-            "Pantheon",
-            "Ryze",
-            "Senna",
-            "Shen",
-            "Sion",
-            "Soraka",
-            "Taliyah",
-            "Twisted fate",
-            "Vex",
-            "Xerath",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Kalista",
+            "Samira",
             "Ziggs"
         ],
         [
-            "Ashe",
-            "Ornn"
+            "Varus"
         ],
         [
-            "Kled",
-            "Nocturne"
+            "Cassiopeia",
+            "Darius",
+            "Katarina",
+            "Kayn",
+            "LeBlanc",
+            "Riven",
+            "Swain"
         ],
         [
-            "Ahri",
-            "Belveth",
-            "Brand",
-            "Caitlyn",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Miss Fortune",
-            "Qiyana",
-            "Sona",
-            "Ziggs"
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
         ],
         [
-            "Brand"
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ],
         [
-            "Malzahar"
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Pantheon"
         ]
     ]
 }

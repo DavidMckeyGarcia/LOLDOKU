@@ -1,93 +1,124 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "true damage",
-        "OG40"
+        "Mid",
+        "blink",
+        "prestige"
     ],
     "cols": [
-        "Bilgewater",
-        "root",
-        "100% AP Ratio"
+        "Zaun",
+        "stun",
+        "manaless"
     ],
     "solutions": [
         [
-            "Miss Fortune",
-            "Nilah"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
             "Seraphine",
-            "Varus",
-            "Xayah"
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Kennen",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Ekko"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Katarina",
+            "Reksai",
+            "Shen",
+            "Viego",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
             "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
+            "Renata glasc",
             "Zeri"
         ],
         [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Corki",
+            "Brand",
+            "Camille",
+            "Cassiopeia",
             "Fiora",
-            "Gangplank",
-            "Master yi",
-            "Nunu"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
             "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Garen",
+            "Katarina",
+            "Lee sin",
+            "Sett",
+            "Yasuo",
+            "Zed"
         ]
     ]
 }

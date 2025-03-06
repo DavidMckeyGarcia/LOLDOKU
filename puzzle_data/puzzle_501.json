@@ -1,78 +1,73 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "OG40",
-        "dash"
+        "Support",
+        "true damage",
+        "Season 2-6"
     ],
     "cols": [
-        "fear",
-        "Shadow Isles",
-        "yordle"
+        "Demacia",
+        "silence",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
-            "Karthus",
-            "Vex"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
+            "Alistar",
+            "Ashe",
+            "Braum",
+            "Janna",
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Fiora",
+            "Garen",
+            "Vayne"
         ],
         [
-            "Karthus"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Syndra"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Lulu"
         ],
         [
             "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Gwen",
-            "Hecarim",
-            "Maokai",
-            "Thresh",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Fizz",
+            "Azir",
+            "Braum",
+            "Elise",
             "Gnar",
-            "Kled",
-            "Poppy",
-            "Tristana",
-            "Vex",
-            "Ziggs"
+            "Jayce",
+            "Jhin",
+            "Lucian",
+            "Lulu",
+            "Sejuani",
+            "Syndra",
+            "Thresh",
+            "Varus"
         ]
     ]
 }

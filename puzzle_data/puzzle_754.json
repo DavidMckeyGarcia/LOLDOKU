@@ -1,67 +1,76 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "shield",
-        "Fright Night"
+        "Adc",
+        "Season 7+",
+        "blink"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "tether"
+        "stun",
+        "Piltover",
+        "arcane"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Graves",
-            "Nami",
-            "Nautilus"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Seraphine"
+        ],
+        [
+            "Caitlyn",
+            "Jayce",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Ambessa",
             "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Karma",
-            "Kled",
-            "Morgana",
-            "Nocturne",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
             "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Nautilus",
-            "Pyke"
+            "Camille",
+            "Seraphine"
         ],
         [
-            "Shaco",
-            "Urgot"
+            "Ambessa",
+            "Mel"
         ],
         [
-            "Renata glasc"
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Ezreal"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "LeBlanc"
         ]
     ]
 }

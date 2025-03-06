@@ -1,82 +1,55 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "OG40",
-        "true damage"
+        "Adc",
+        "hextech",
+        "invis"
     ],
     "cols": [
-        "knock-up",
         "Freljord",
-        "tether"
+        "knock-up",
+        "30+ wins"
     ],
     "solutions": [
         [
+            "Ashe"
+        ],
+        [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Anivia",
+            "Sejuani"
+        ],
+        [
             "Alistar",
-            "Blitzcrank",
-            "Braum",
+            "Anivia",
             "Galio",
             "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
+            "Jarvan IV",
             "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Sejuani",
+            "Sion",
+            "Ziggs"
         ],
         [
-            "Ashe",
-            "Brand",
-            "Braum"
+            "Galio"
         ],
         [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Aurora"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Neeko",
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
-            "Renata glasc"
+            "LeBlanc"
         ]
     ]
 }

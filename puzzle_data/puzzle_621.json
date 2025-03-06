@@ -1,20 +1,30 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "iron",
     "rows": [
         "Mid",
-        "global",
+        "dash",
         "Season 2-6"
     ],
     "cols": [
+        "Shurima",
         "knock-up",
-        "Targon",
-        "celestial"
+        "100+ games"
     ],
     "solutions": [
+        [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
         [
             "Anivia",
             "Aurelion Sol",
             "Azir",
+            "Chogath",
+            "Diana",
             "Fizz",
             "Galio",
             "Gragas",
@@ -27,38 +37,101 @@
             "Ziggs"
         ],
         [
-            "Aurelion Sol",
-            "Diana",
-            "Pantheon",
-            "Zoe"
+            "Azir",
+            "Elise",
+            "Ezreal",
+            "Gragas",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
         ],
         [
-            "Aurelion Sol"
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Ksante",
+            "Naafiri",
+            "Rammus",
+            "Renekton",
+            "Taliyah"
         ],
         [
+            "Aatrox",
+            "Alistar",
             "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
             "Briar",
+            "Diana",
+            "Fizz",
             "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
             "Ornn",
-            "Sion",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
             "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
             "Ziggs"
         ],
         [
-            "Aurelion Sol",
-            "Pantheon",
-            "Soraka"
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Maokai",
+            "Rakan",
+            "Renekton",
+            "Sejuani",
+            "Shen",
+            "Thresh",
+            "Tristana"
         ],
         [
-            "Aurelion Sol",
-            "Bard",
-            "Soraka"
+            "Aatrox",
+            "Azir",
+            "Taliyah"
         ],
         [
             "Aatrox",
             "Aurelion Sol",
             "Azir",
             "Braum",
+            "Diana",
             "Ivern",
             "Kalista",
             "Lulu",
@@ -77,12 +150,19 @@
             "Zyra"
         ],
         [
-            "Aurelion Sol",
-            "Diana"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard"
+            "Aatrox",
+            "Azir",
+            "Braum",
+            "Elise",
+            "Gnar",
+            "Jayce",
+            "Jhin",
+            "Lucian",
+            "Lulu",
+            "Sejuani",
+            "Syndra",
+            "Thresh",
+            "Varus"
         ]
     ]
 }

@@ -1,16 +1,22 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
         "Jungle",
         "Season 2-6",
-        "PROJECT"
+        "prestige"
     ],
     "cols": [
+        "Bilgewater",
         "fear",
-        "Freljord",
-        "ult reset"
+        "vastayan"
     ],
     "solutions": [
+        [
+            "Fizz",
+            "Graves",
+            "Nami",
+            "Nautilus"
+        ],
         [
             "Briar",
             "Fiddlesticks",
@@ -20,21 +26,15 @@
             "Warwick"
         ],
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
+            "Nami",
+            "Rengar",
+            "Wukong"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
+            "Illaoi",
+            "Nami",
+            "Nautilus",
+            "Tahm kench"
         ],
         [
             "Aatrox",
@@ -42,29 +42,25 @@
             "Hecarim"
         ],
         [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
+            "Ahri",
+            "Nami",
+            "Rengar"
+        ],
+        [
+            "Fizz",
+            "Miss Fortune",
+            "Pyke"
         ],
         [
             "Aatrox",
-            "Ahri",
             "Darius",
-            "Viktor"
+            "Shaco"
         ],
         [
-            "Warwick"
-        ],
-        [
-            "Ashe",
-            "Sejuani"
-        ],
-        [
-            "Master yi",
-            "Vayne"
+            "Ahri",
+            "Neeko",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

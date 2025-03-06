@@ -1,72 +1,75 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "pool party",
+        "Mid",
+        "worlds skin",
         "OG40"
     ],
     "cols": [
+        "Demacia",
         "knock-up",
-        "Piltover",
-        "100% AP Ratio"
+        "0 games"
     ],
     "solutions": [
         [
-            "Aatrox",
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
             "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
+            "Neeko",
             "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
+            "Taliyah",
+            "Velkoz",
             "Yasuo",
             "Yone",
-            "Zac"
-        ],
-        [
-            "Camille",
-            "Heimerdinger"
-        ],
-        [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
-        ],
-        [
-            "Braum",
-            "Jarvan IV",
-            "Lee sin",
-            "Lulu",
-            "Reksai",
-            "Taliyah",
-            "Zac",
             "Ziggs"
         ],
         [
-            "Caitlyn",
-            "Heimerdinger",
-            "Orianna"
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Naafiri",
+            "Vex"
         ],
         [
             "Fiora",
-            "Gangplank"
+            "Jarvan IV",
+            "Vayne"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Gragas",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Malphite",
+            "Nami",
+            "Nunu",
+            "Rakan",
+            "Taliyah",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Nunu"
+        ],
+        [
+            "Kayle",
+            "Morgana"
         ],
         [
             "Alistar",
@@ -79,26 +82,8 @@
             "Sion"
         ],
         [
-            "Heimerdinger"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
-            "Jax",
             "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Nunu"
         ]
     ]
 }

@@ -1,57 +1,104 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
         "Adc",
-        "dark star",
-        "invis"
+        "OG40",
+        "global"
     ],
     "cols": [
-        "stun",
-        "The Void",
-        "Immunity"
+        "knock-up",
+        "Freljord",
+        "never played"
     ],
     "solutions": [
         [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Ashe"
+        ],
+        [
+            "Aphelios",
             "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Kaisa",
-            "Kogmaw"
-        ],
-        [
-            "Kogmaw",
-            "Mel",
-            "Xayah"
-        ],
-        [
-            "Lissandra",
-            "Orianna",
-            "Thresh",
-            "Xerath"
-        ],
-        [
-            "Chogath",
-            "Khazix"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
             "Vayne",
-            "Viego"
+            "Xayah",
+            "Zeri"
         ],
         [
-            "Kaisa",
-            "Reksai"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Aurora",
-            "Viego"
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Ashe",
+            "Bard",
+            "Briar",
+            "Draven",
+            "Jinx",
+            "Kled",
+            "Lillia",
+            "Maokai",
+            "Senna",
+            "Shen",
+            "Soraka"
         ]
     ]
 }

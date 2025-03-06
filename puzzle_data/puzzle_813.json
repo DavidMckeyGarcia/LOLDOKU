@@ -1,112 +1,76 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "ult execute",
-        "Season 2-6"
+        "Adc",
+        "blink",
+        "prestige"
     ],
     "cols": [
+        "root",
         "Shadow Isles",
-        "stun",
-        "riot records"
+        "tether"
     ],
     "solutions": [
         [
-            "Karthus",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Varus",
+            "Xayah"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Qiyana",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Viego"
-        ],
-        [
-            "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
-        ],
-        [
-            "Akali",
-            "Evelynn",
-            "Viego"
-        ],
-        [
-            "Hecarim",
             "Kalista",
+            "Senna"
+        ],
+        [
+            "Kalista"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Viego"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Senna",
             "Thresh"
         ],
         [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
-        ],
-        [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
+            "Aatrox",
+            "LeBlanc",
+            "Morgana",
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ]
     ]
 }

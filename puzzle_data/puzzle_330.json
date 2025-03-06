@@ -1,95 +1,77 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "Season 7+",
-        "invis"
+        "Jungle",
+        "prestige",
+        "Season 2-6"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "tether"
+        "Freljord",
+        "fear",
+        "ascended"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Brand",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
             "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Volibear"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Brand",
+            "Kindred",
+            "Lissandra",
+            "Volibear"
         ],
         [
             "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Darius",
+            "Shaco"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Aatrox",
+            "Darius",
+            "Hecarim"
         ],
         [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "LeBlanc"
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Varus"
         ]
     ]
 }

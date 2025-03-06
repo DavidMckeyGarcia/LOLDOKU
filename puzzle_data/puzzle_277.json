@@ -1,80 +1,104 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "Season 7+",
-        "true damage"
+        "Adc",
+        "global",
+        "Season 2-6"
     ],
     "cols": [
         "root",
-        "Freljord",
-        "infinite"
+        "Bilgewater",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Bard",
-            "Mel",
-            "Senna",
-            "Swain",
-            "Thresh",
-            "Zilean"
-        ],
-        [
             "Aphelios",
-            "Hwei",
-            "Ksante",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
-            "Neeko",
-            "Renata glasc",
             "Senna",
             "Seraphine",
+            "Varus",
             "Xayah"
         ],
         [
-            "Aurora",
-            "Ornn"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Mel",
-            "Senna",
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
             "Smolder",
-            "Sylas"
+            "Tristana",
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Briar",
+            "Ekko",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
+            "Shen",
+            "Twisted fate",
+            "Xerath"
         ],
         [
             "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Nunu",
-            "Olaf"
+            "Illaoi",
+            "Nami",
+            "Nautilus",
+            "Tahm kench"
         ],
         [
-            "Chogath",
-            "Draven",
-            "Gangplank"
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

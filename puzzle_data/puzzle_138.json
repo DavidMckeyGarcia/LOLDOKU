@@ -1,124 +1,90 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Top",
+        "Mid",
         "Season 2-6",
-        "PROJECT"
+        "global"
     ],
     "cols": [
-        "Freljord",
-        "stun",
-        "arcane"
+        "Noxus",
+        "root",
+        "0 games"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
             "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Ambessa",
-            "Heimerdinger",
-            "Warwick"
-        ],
-        [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
+            "Annie",
+            "Cassiopeia",
             "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
             "Lissandra",
-            "Nami",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Naafiri",
+            "Vex"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
             "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Ekko",
-            "Jayce",
+            "Illaoi"
+        ],
+        [
+            "Briar",
+            "Draven",
+            "Kled",
+            "Mel",
+            "Sion"
+        ],
+        [
+            "Caitlyn",
             "Jinx",
-            "Vi",
-            "Viktor"
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Ashe",
-            "Sejuani"
-        ],
-        [
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Irelia",
-            "Jax",
-            "Leona",
-            "Pyke",
-            "Renekton",
-            "Sejuani",
-            "Sylas",
-            "Vayne",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
+            "Briar",
+            "Mel",
+            "Vex"
         ]
     ]
 }

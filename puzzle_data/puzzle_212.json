@@ -1,54 +1,118 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "Space Groove",
-        "ult execute"
+        "Jungle",
+        "PROJECT",
+        "Season 2-6"
     ],
     "cols": [
-        "Shurima",
-        "silence",
-        "infinite"
+        "Zaun",
+        "root",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Xerath",
-            "Zilean"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Bard",
-            "Mel",
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Fizz",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Jhin",
+            "Jinx",
+            "Leona",
             "Senna",
-            "Swain",
+            "Varus"
+        ],
+        [
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Gangplank",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Master yi",
+            "Varus",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
             "Thresh",
-            "Zilean"
-        ],
-        [
-            "Nasus"
-        ],
-        [
-            "Blitzcrank",
-            "Lulu"
-        ],
-        [
-            "Nasus"
-        ],
-        [
-            "Akshan"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Chogath",
-            "Draven",
-            "Veigar"
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

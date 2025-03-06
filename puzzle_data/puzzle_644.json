@@ -1,83 +1,55 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "prestige",
-        "Season 7+"
+        "Jungle",
+        "life steal",
+        "PROJECT"
     ],
     "cols": [
+        "Bilgewater",
         "fear",
-        "Zaun",
-        "riot records"
+        "darkin"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
-            "Yasuo",
-            "Yone",
-            "Yorick"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Jinx",
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Evelynn",
-            "Ezreal",
-            "Ksante",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Qiyana",
-            "Senna",
-            "Sett",
-            "Yasuo"
+            "Fizz",
+            "Graves",
+            "Nami",
+            "Nautilus"
         ],
         [
             "Briar",
-            "Hwei",
-            "Vex"
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Kayn"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Senna",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Illaoi",
+            "Nilah"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Kayn"
+        ],
+        [
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Warwick"
+        ],
+        [
+            "Varus"
         ]
     ]
 }

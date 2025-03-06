@@ -1,61 +1,98 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Support",
-        "true damage",
-        "Season 7+"
+        "Mid",
+        "Season 2-6",
+        "true damage"
     ],
     "cols": [
-        "Noxus",
+        "Demacia",
         "stun",
-        "vastayan"
+        "0 games"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Alistar",
+            "Ambessa",
+            "Anivia",
             "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
+            "Aurelion Sol",
             "Brand",
-            "Braum",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
             "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
             "Neeko",
+            "Orianna",
             "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
+            "Qiyana",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
             "Velkoz",
+            "Viktor",
             "Xerath",
+            "Yone",
             "Zilean"
         ],
         [
-            "Nami",
-            "Neeko",
-            "Rakan"
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Naafiri",
+            "Vex"
         ],
         [
-            "Darius",
-            "Draven",
-            "Samira"
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
+        ],
+        [
+            "Illaoi"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
         ],
         [
             "Amumu",
@@ -74,39 +111,10 @@
             "Yone"
         ],
         [
-            "Ahri"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Akshan",
+            "Master yi",
+            "Nunu",
+            "Samira"
         ]
     ]
 }

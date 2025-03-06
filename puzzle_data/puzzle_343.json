@@ -1,68 +1,63 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
+        "Top",
         "OG40",
         "Space Groove"
     ],
     "cols": [
-        "knock-up",
-        "Shurima",
-        "Immunity"
+        "silence",
+        "Freljord",
+        "0 games"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Sivir"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Kogmaw",
-            "Mel",
-            "Xayah"
+            "Ambessa",
+            "Illaoi"
         ],
         [
-            "Alistar",
-            "Anivia",
             "Blitzcrank",
             "Chogath",
-            "Janna",
-            "Malphite",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Anivia",
+            "Ashe",
             "Nunu",
-            "Sion"
+            "Tryndamere"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle",
-            "Ryze",
-            "Sion",
-            "Zilean"
+            "Master yi",
+            "Nunu"
         ],
         [
             "Blitzcrank",
+            "Lulu"
+        ],
+        [
             "Gragas",
-            "Lulu",
-            "Nami",
+            "Lissandra",
+            "Nunu"
+        ],
+        [
             "Nunu",
             "Samira"
-        ],
-        [
-            "Nasus"
-        ],
-        [
-            "Lissandra"
         ]
     ]
 }

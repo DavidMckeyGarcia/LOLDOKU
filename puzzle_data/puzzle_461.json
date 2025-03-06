@@ -2,15 +2,21 @@
     "difficulty": "platinum",
     "rows": [
         "Support",
-        "hextech",
-        "Season 2-6"
+        "Season 2-6",
+        "life steal"
     ],
     "cols": [
+        "Targon",
         "root",
-        "Zaun",
-        "yordle"
+        "ascended"
     ],
     "solutions": [
+        [
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
+        ],
         [
             "Karma",
             "Leona",
@@ -28,29 +34,14 @@
             "Zyra"
         ],
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Janna",
-            "Singed",
-            "Ziggs"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Tristana",
-            "Ziggs"
+            "Aurelion Sol",
+            "Diana"
         ],
         [
             "Ivern",
@@ -64,18 +55,25 @@
             "Zyra"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Varus"
         ],
         [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
+            "Aphelios"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus"
         ]
     ]
 }

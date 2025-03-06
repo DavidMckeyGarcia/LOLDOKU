@@ -1,84 +1,76 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
+        "Jungle",
         "Season 7+",
-        "shield"
+        "cosmic"
     ],
     "cols": [
         "root",
-        "Shurima",
-        "yordle"
+        "Shadow Isles",
+        "ascended"
     ],
     "solutions": [
         [
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
             "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Hwei",
+            "Ksante",
             "Mel",
+            "Neeko",
+            "Renata glasc",
             "Senna",
             "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Jhin",
+            "Lissandra",
+            "Lux",
+            "Nautilus",
+            "Nunu",
             "Varus",
             "Xayah"
         ],
         [
-            "Sivir"
+            "Hecarim"
         ],
         [
-            "Corki",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
-        ],
-        [
-            "Akshan",
-            "Azir",
-            "Ksante",
-            "Naafiri",
-            "Sivir"
-        ],
-        [
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Vex"
+            "Varus"
         ]
     ]
 }

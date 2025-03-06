@@ -263,8 +263,8 @@ function updateHeaders(puzzleData) {
             tooltipTitle = 'MANALESS';
             tooltipContent = "A " +"manaless ".bold() + " champion does not use nor benefit from mana or mana regeneration. There are a number of alternative mechanics that gate the availability of or empower a champion's abilities such as Energy, Fury or Heat.";
             break;
-        case "infinite":
-            tooltipTitle = 'INFINITE SCALING';
+        case "inf stacking":
+            tooltipTitle = 'INFINITE STACKING';
             tooltipContent = "There are some champions in league of legends that can stack an effect infinitely, effectively meaning that they can gain an arbitrary number of one or more stats such as health, resistances, damage or other.";
             break;
         case "100% ap ratio":
@@ -281,9 +281,9 @@ function updateHeaders(puzzleData) {
             tooltipContent = "Arcane is an animated action-adventure series set in the cinematic universe of League of Legends. It was produced by the French animation studio Fortiche under the supervision of Riot Games and was distributed by Netflix.";
             tooltipImage = 'images/tooltips/arcane.png';    
             break
-        case "not played":
-            tooltipTitle = "NOT PLAYED BY FAKER";
-            tooltipContent = "Lee " +"Faker".bold() +" Sang-hyeok is a League of Legends esports player, currently mid laner and part owner at T1. He has played over "+ "1400".bold()+ " professional league of legends game since 2013, by far the most out of any other pro player";
+        case "never played":
+            tooltipTitle = "NEVER PLAYED BY FAKER";
+            tooltipContent = "Lee " +"'Faker'".bold() +" Sang-hyeok is a League of Legends esports player, currently mid laner and part owner at T1. He has played over "+ "1400".bold()+ " professional league of legends game since 2013, by far the most out of any other pro player";
             tooltipImage = 'images/tooltips/faker.png';    
             break
         case "tether":
@@ -299,6 +299,18 @@ function updateHeaders(puzzleData) {
             tooltipContent = "Armor ".bold() + "or "+ "Magic".bold() +" resistance shred is a "+ "debuff".bold() + " given to a champion, minion or monster that negatively impacts their combat resistances. Shred can cause a units total Armor or Magic resistance to be reduced by a "+ "flat ".bold()+ "or"+ " %".bold()+ " ammount. " ;
             tooltipImage = 'images/tooltips/shred.png'; 
             break 
+        case "0 games":
+            tooltipTitle = "0 WORLDS GAMES";
+            tooltipContent = "Only 11 Champions have yet to be played at the League of Legends " +"World Championship ".bold() + "commonly called 'Worlds'. Note that we do not count the Worlds Play in stage as an official Worlds match, only champions played at the Main event wont count. ";  
+            break
+        case "100+ wins":
+            tooltipTitle = "100+ WORLDS GAMES";
+            tooltipContent = "Despite having over 170 Champions, there are a select few Champions which can boast over 100 games at the League of Legends " +"World Championship.".bold() + " Note that we do not count the Worlds Play-in stage as an official Worlds match.";  
+            break
+        case "30+ wins":
+            tooltipTitle = "30+ WINS";
+            tooltipContent = "Lee  " +"'Faker''".bold() + " Sang-hyeok is renowned for his proficiency across numerous Champions. However, out of over 1,400 career games, he's secured 30 or more wins with only 10 Champions - accounting for more than half of his total wins!";  
+            break
         default:
             console.log(cols[index])
             tooltipTitle = cols[index];
@@ -357,15 +369,15 @@ function updateHeaders(puzzleData) {
             break;
         case 'mid':
             tooltipTitle = 'MID';
-            tooltipContent = "Within a drafted team, the " + "Mid Laner".italics() +" is the player assigned to the middle lane. Mid lane champions can be varied although they mainly focus on high damge or high utility champions";
+            tooltipContent = "Within a drafted team, the " + "Mid Laner".bold() +" is the player assigned to the middle lane. Mid lane champions can be varied although they mainly focus on high damge or high utility champions";
             break;
         case 'top':
             tooltipTitle = 'TOP';
-            tooltipContent = "Within a drafted team, the " + "Top Laner".italics() +" is the champion assigned to the top lane. Top lane champions typically provide some frontline and utility, although can also focus on more damage oriented champions.";
+            tooltipContent = "Within a drafted team, the " + "Top Laner".bold() +" is the champion assigned to the top lane. Top lane champions typically provide some frontline and utility, although can also focus on more damage oriented champions.";
             break;
-        case 'worlds':
+        case 'worlds skin':
             tooltipTitle = 'WORLDS SKIN';
-            tooltipContent = "Worlds Skins are special limited edition skins released for champions chosen by the players on the " + "World's Championship's".italics() +" winning team. The players also play a role in designing thier skin's appearance and the overall team theme, often including personal references in their skin. ";
+            tooltipContent = "Worlds Skins are special limited edition skins released for champions chosen by the players on the " + "World's Championship's".bold() +" winning team. The players also play a role in designing thier skin's appearance and the overall team theme, often including personal references in their skin. ";
             tooltipImage = 'images/tooltips/worlds.png';
             break;
         case 'dash':
@@ -394,6 +406,10 @@ function updateHeaders(puzzleData) {
         case 'life steal':
             tooltipTitle = 'LIFE STEAL / VAMP';
             tooltipContent = "Life steal".bold()+  " or "+ " Vamp ".bold() +"(includes Omnivamp & Physical Vamp) is defined as any damaging spell that heals the caster for a "+ "% of damage dealt.".bold() +" It does not count any attacks that heal the caster for a " + "flat ".bold() +" amount (i.e heals).";
+            break
+        case 'evolver':
+            tooltipTitle = 'EVOLVER';
+            tooltipContent = "Any champion which has an " + "evolution".bold()+  " meaning that one or more of their abilities are functionally different to their non-evolved counterparts. Note that any abilities that just for example, 'does more damage' does not count, as the ability isnt fundamentlaly any different.";
             break
         case 'project':
             tooltipTitle = 'PROJECT SKINLINE';

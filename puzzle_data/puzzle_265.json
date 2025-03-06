@@ -1,67 +1,108 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "true damage",
-        "Season 7+"
+        "Support",
+        "arcade",
+        "Season 2-6"
     ],
     "cols": [
-        "root",
         "Bilgewater",
-        "vastayan"
+        "knock-up",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
-        ],
-        [
-            "Xayah"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Ahri"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aurora",
-            "Neeko",
+            "Poppy",
             "Rakan",
-            "Xayah"
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Braum",
+            "Janna",
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
+        ],
+        [
+            "Miss Fortune"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus",
+            "Tahm kench"
+        ],
+        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Braum",
+            "Elise",
+            "Gnar",
+            "Jayce",
+            "Jhin",
+            "Lucian",
+            "Lulu",
+            "Sejuani",
+            "Syndra",
+            "Thresh",
+            "Varus"
         ]
     ]
 }

@@ -1,60 +1,103 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "true damage"
+        "Adc",
+        "prestige",
+        "life steal"
     ],
     "cols": [
-        "Demacia",
-        "silence",
-        "infinite"
+        "stun",
+        "Ionia",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
-            "Fiddlesticks"
-        ],
-        [
-            "Kindred",
-            "Nasus",
-            "Shyvana",
-            "Sylas"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Bard",
-            "Draven",
-            "Kindred",
-            "Thresh"
-        ],
-        [
-            "Fiora",
-            "Garen",
+            "Ashe",
+            "Seraphine",
             "Vayne"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Chogath",
-            "Draven",
-            "Gangplank"
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Kayn",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Aatrox",
+            "Caitlyn",
+            "Ezreal",
+            "Jax",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Lulu",
+            "Rakan",
+            "Thresh",
+            "Xayah"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Kayn",
+            "Lee sin"
+        ],
+        [
+            "Aatrox",
+            "Lee sin"
         ]
     ]
 }

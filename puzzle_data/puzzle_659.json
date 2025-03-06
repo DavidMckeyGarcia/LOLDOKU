@@ -1,101 +1,56 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "shield",
-        "Season 7+"
+        "Jungle",
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "knock-up",
         "Bilgewater",
-        "ult reset"
+        "fear",
+        "arcane"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
+            "Fizz",
+            "Graves",
             "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Nautilus"
         ],
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Swain"
-        ],
-        [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Riven",
-            "Sion",
-            "Tahm kench",
-            "Vi",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
-        ],
-        [
-            "Naafiri",
-            "Olaf",
-            "Sivir",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Belveth",
             "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Ekko",
+            "Vi",
+            "Warwick"
         ],
         [
             "Nilah",
             "Pyke"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Ambessa",
+            "Mel"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Shaco"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

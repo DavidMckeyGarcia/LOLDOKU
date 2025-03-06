@@ -1,77 +1,141 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Adc",
-        "Season 7+",
-        "invis"
+        "life steal",
+        "Season 2-6"
     ],
     "cols": [
-        "Demacia",
-        "stun",
-        "riot records"
+        "slow",
+        "Noxus",
+        "darkin"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
-        ],
-        [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
             "Aphelios",
-            "Ezreal",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jayce",
+            "Jhin",
+            "Jinx",
             "Kaisa",
-            "Senna"
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Sylas"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Aatrox",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Morgana",
+            "Nasus",
+            "Nilah",
+            "Olaf",
+            "Samira",
+            "Senna",
+            "Sion",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Vladimir",
+            "Warwick"
         ],
         [
             "Ambessa",
             "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Kaisa",
             "Kayn",
-            "Senna",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Samira",
+            "Sion",
+            "Vladimir"
         ],
         [
-            "Vayne"
+            "Aatrox",
+            "Kayn"
         ],
         [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
+            "Aatrox",
+            "Ahri",
+            "Aurelion Sol",
+            "Azir",
+            "Bard",
+            "Braum",
+            "Darius",
+            "Diana",
+            "Draven",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Khazix",
+            "Kindred",
+            "Kled",
+            "Lissandra",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Quinn",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Varus",
+            "Velkoz",
+            "Viktor",
+            "Volibear",
+            "Zac",
+            "Zed",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Akali",
-            "Kaisa",
-            "Qiyana",
-            "Senna",
-            "Viego"
+            "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
+        ],
+        [
+            "Aatrox",
+            "Varus"
         ]
     ]
 }

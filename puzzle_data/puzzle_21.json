@@ -1,73 +1,89 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "OG40",
-        "blink"
+        "Top",
+        "dash",
+        "cosmic"
     ],
     "cols": [
-        "Zaun",
         "root",
-        "ascended"
+        "Shadow Isles",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
-        [
-            "Karma",
-            "Leona",
-            "Lux",
+            "Ksante",
             "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
+            "Singed",
             "Swain",
-            "Zyra"
+            "Zac"
         ],
         [
+            "Gwen",
+            "Maokai",
+            "Yorick"
+        ],
+        [
+            "Camille",
+            "Fiora",
+            "Kayle",
+            "Kayn",
+            "Kled",
+            "Sion",
+            "Zac"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
             "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
             "Shaco",
-            "Singed",
-            "Soraka"
+            "Zac"
         ],
         [
-            "Nasus",
-            "Taric"
+            "Gwen",
+            "Hecarim",
+            "Maokai",
+            "Thresh",
+            "Vex",
+            "Viego"
         ],
         [
-            "Ekko"
+            "Aurora",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Fiora",
+            "Fizz",
+            "Galio",
+            "Kayn",
+            "Kled",
+            "Viego",
+            "Yuumi",
+            "Zac"
         ],
         [
-            "LeBlanc",
+            "Jhin",
             "Lissandra",
-            "Ryze"
+            "Lux",
+            "Nautilus",
+            "Nunu",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Pantheon"
+            "Hecarim"
+        ],
+        [
+            "Lissandra",
+            "Sion",
+            "Vladimir",
+            "Xayah"
         ]
     ]
 }

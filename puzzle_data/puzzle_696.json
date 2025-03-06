@@ -1,75 +1,142 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "global",
-        "hextech"
+        "Jungle",
+        "OG40",
+        "blink"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "yordle"
+        "The Void",
+        "stun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Galio",
-            "Lux"
-        ],
-        [
-            "Kled",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Galio",
-            "Jarvan IV",
-            "Poppy"
+            "Belveth",
+            "Khazix",
+            "Reksai"
         ],
         [
             "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
             "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Fizz",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
             "Tristana",
-            "Ziggs"
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Kassadin",
+            "Reksai"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Ekko",
+            "Master yi",
+            "Pantheon",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego"
         ]
     ]
 }

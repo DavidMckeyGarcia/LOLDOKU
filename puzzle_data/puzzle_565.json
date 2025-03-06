@@ -1,20 +1,29 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "Season 7+",
-        "worlds"
+        "dash",
+        "Space Groove"
     ],
     "cols": [
+        "Freljord",
         "knock-up",
-        "Shadow Isles",
-        "ult reset"
+        "manaless"
     ],
     "solutions": [
         [
             "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Anivia",
             "Aurelion Sol",
             "Azir",
+            "Chogath",
+            "Diana",
             "Fizz",
             "Galio",
             "Gragas",
@@ -27,70 +36,99 @@
             "Ziggs"
         ],
         [
-            "Karthus",
-            "Vex"
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Kennen",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
+            "Aurora",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
             "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
+            "Sejuani",
+            "Tryndamere",
+            "Volibear"
         ],
         [
             "Aatrox",
             "Alistar",
+            "Aurelion Sol",
             "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Janna",
+            "Ivern",
             "Jarvan IV",
-            "Kalista",
+            "Ksante",
+            "Kayn",
             "Lee sin",
             "Malphite",
-            "Nami",
-            "Nunu",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
             "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
             "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
             "Zac",
-            "Zyra"
-        ],
-        [
-            "Kalista",
-            "Karthus",
-            "Maokai",
-            "Thresh",
-            "Viego"
+            "Ziggs"
         ],
         [
             "Aatrox",
-            "Singed",
-            "Vayne",
-            "Viego"
+            "Akali",
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Gnar",
+            "Kled",
+            "Lee sin",
+            "Reksai",
+            "Renekton",
+            "Rengar",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Tryndamere",
+            "Viego",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Gragas",
+            "Lissandra",
+            "Nunu"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lulu",
+            "Nami",
+            "Nunu",
+            "Samira"
+        ],
+        [
+            "Rumble"
         ]
     ]
 }

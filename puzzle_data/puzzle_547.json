@@ -1,76 +1,90 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "prestige",
-        "OG40"
+        "Top",
+        "Season 2-6",
+        "blink"
     ],
     "cols": [
-        "Shadow Isles",
+        "Ionia",
         "silence",
-        "Immunity"
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Karthus",
-            "Vex"
-        ],
-        [
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Aurora",
-            "Ekko",
-            "Fizz",
-            "Galio",
-            "Karthus",
-            "Kayle",
-            "Lissandra",
-            "Mel",
-            "Ryze",
-            "Vladimir",
-            "Zed",
-            "Zilean"
-        ],
-        [
-            "Senna",
-            "Thresh"
-        ],
-        [
-            "Garen",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Camille",
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Kayle",
+            "Akali",
+            "Irelia",
             "Kayn",
-            "Lissandra",
-            "Xayah",
-            "Yuumi",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
+        ],
+        [
+            "Ahri",
+            "Ivern",
+            "Jhin",
+            "Syndra",
+            "Varus",
+            "Yasuo",
             "Zed"
         ],
         [
-            "Karthus"
+            "Lulu"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle",
-            "Ryze",
-            "Sion",
-            "Zilean"
+            "Master yi",
+            "Shen",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Kassadin"
+        ],
+        [
+            "Ekko",
+            "Master yi",
+            "Pantheon",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego"
         ]
     ]
 }

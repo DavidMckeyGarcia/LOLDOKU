@@ -1,58 +1,82 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "OG40",
-        "true damage"
+        "Adc",
+        "ult execute",
+        "PROJECT"
     ],
     "cols": [
-        "silence",
-        "The Void",
-        "tether"
+        "Bilgewater",
+        "root",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
+            "Miss Fortune",
+            "Nilah"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
             "Chogath",
-            "Garen"
+            "Evelynn",
+            "Jhin",
+            "Jinx",
+            "Veigar",
+            "Viego"
         ],
         [
-            "Chogath"
+            "Gangplank",
+            "Pyke"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Senna",
+            "Varus"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
-        ],
-        [
-            "Renata glasc"
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Gangplank",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Master yi",
+            "Varus",
+            "Vi",
+            "Warwick"
         ]
     ]
 }

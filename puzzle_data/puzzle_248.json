@@ -1,57 +1,84 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "empyrean",
-        "Season 2-6"
+        "Adc",
+        "global",
+        "prestige"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "darkin"
+        "Shadow Isles",
+        "root",
+        "ascended"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Kalista",
+            "Senna"
         ],
         [
-            "Fizz",
-            "Graves",
-            "Nami",
-            "Nautilus"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Kayn"
+            "Varus"
         ],
         [
-            "Nocturne",
+            "Karthus",
+            "Maokai",
+            "Senna",
             "Vex"
         ],
         [
-            "Pyke"
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Varus"
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Senna",
+            "Thresh"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Aatrox",
-            "Varus"
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ]
     ]
 }

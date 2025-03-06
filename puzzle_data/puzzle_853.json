@@ -1,65 +1,87 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "prestige",
-        "Season 2-6"
+        "Jungle",
+        "Season 7+",
+        "life steal"
     ],
     "cols": [
-        "Freljord",
-        "fear",
-        "shred"
+        "Targon",
+        "knock-up",
+        "darkin"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
+            "Diana",
+            "Pantheon"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Fizz",
             "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Corki",
-            "Karthus",
-            "Zoe"
-        ],
-        [
-            "Brand",
-            "Kindred",
-            "Lissandra",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Evelynn",
-            "Garen",
-            "Zoe"
-        ],
-        [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
             "Sejuani",
-            "Volibear"
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Kayn"
+        ],
+        [
+            "Aphelios",
+            "Zoe"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Aphelios"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Hecarim"
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
         ],
         [
-            "Jayce",
-            "Rengar",
-            "Vi"
+            "Aatrox",
+            "Kayn"
         ]
     ]
 }

@@ -1,84 +1,53 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "ult execute",
-        "Season 2-6"
+        "Jungle",
+        "OG40",
+        "global"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "ult reset"
+        "silence",
+        "Targon",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
+            "Fiddlesticks"
+        ],
+        [
+            "Diana",
+            "Pantheon"
+        ],
+        [
+            "Taliyah"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Corki",
+            "Ryze"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Aurelion Sol",
+            "Pantheon",
+            "Soraka"
+        ],
+        [
+            "Galio",
             "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Riven"
-        ],
-        [
-            "Darius",
-            "Viego"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
+            "Taliyah"
         ]
     ]
 }

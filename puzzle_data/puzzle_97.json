@@ -1,107 +1,119 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "OG40",
-        "shield"
+        "Support",
+        "global",
+        "coven"
     ],
     "cols": [
-        "Shadow Isles",
         "stun",
-        "shred"
+        "Noxus",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Senna"
-        ],
-        [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Corki",
-            "Jayce",
-            "Kogmaw"
-        ],
-        [
-            "Karthus"
-        ],
-        [
             "Alistar",
-            "Amumu",
-            "Anivia",
             "Annie",
             "Ashe",
+            "Bard",
             "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
-        ],
-        [
-            "Senna",
-            "Thresh",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
+            "Brand",
             "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
+            "Heimerdinger",
+            "Leona",
             "Milio",
             "Morgana",
+            "Nami",
             "Nautilus",
             "Neeko",
-            "Nunu",
-            "Orianna",
+            "Pantheon",
             "Poppy",
+            "Pyke",
             "Rell",
             "Renata glasc",
-            "Riven",
             "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
             "Sona",
             "Tahm kench",
             "Taric",
             "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Garen",
-            "Jarvan IV",
-            "Mordekaiser",
-            "Olaf",
+            "Alistar",
+            "Annie",
+            "Mel",
             "Rell",
-            "Rumble",
+            "Swain"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
             "Sion",
-            "Vi"
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Briar",
+            "Draven",
+            "Kled",
+            "Mel",
+            "Sion"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Briar",
+            "Ekko",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
+            "Shen",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Cassiopeia",
+            "Elise",
+            "LeBlanc"
+        ],
+        [
+            "Ashe",
+            "Evelynn"
         ]
     ]
 }

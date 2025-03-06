@@ -1,54 +1,93 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
+        "Support",
         "Season 7+",
-        "life steal"
+        "global"
     ],
     "cols": [
+        "slow",
         "Bilgewater",
-        "stun",
-        "shred"
+        "yordle"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
+            "Ashe",
+            "Bard",
             "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
+            "Braum",
+            "Galio",
             "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Pantheon",
-            "Qiyana",
+            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
             "Velkoz",
-            "Viktor",
             "Xerath",
-            "Yone",
-            "Zilean"
+            "Yuumi",
+            "Zilean",
+            "Zyra"
         ],
         [
-            "Corki",
-            "Karthus",
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
             "Zoe"
         ],
         [
@@ -56,47 +95,48 @@
             "Pyke"
         ],
         [
-            "Ambessa",
+            "Vex"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
             "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Nocturne",
             "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Briar",
-            "Rell",
-            "Zoe"
-        ],
-        [
-            "Illaoi",
-            "Nilah"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
+            "Pantheon",
+            "Ryze",
+            "Senna",
+            "Shen",
             "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
         ],
         [
-            "Briar",
-            "Nasus",
-            "Olaf",
-            "Sion",
-            "Trundle"
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

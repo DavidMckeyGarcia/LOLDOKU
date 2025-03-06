@@ -1,87 +1,95 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "PROJECT"
+        "Adc",
+        "global",
+        "Season 2-6"
     ],
     "cols": [
-        "Zaun",
+        "Targon",
         "slow",
-        "infinite"
+        "yordle"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Aphelios"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Camille",
-            "Chogath",
-            "Darius",
-            "Dr. Mundo",
-            "Fiora",
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Aurelion Sol",
+            "Pantheon",
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
             "Gangplank",
-            "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
-            "Jarvan IV",
-            "Ksante",
-            "Kayle",
-            "Kayn",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
             "Kled",
-            "Malphite",
+            "Lillia",
+            "Lux",
             "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
+            "Mel",
+            "Nocturne",
             "Ornn",
             "Pantheon",
-            "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
+            "Ryze",
+            "Senna",
             "Shen",
-            "Singed",
             "Sion",
-            "Skarner",
-            "Swain",
-            "Sylas",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
-            "Zac"
-        ],
-        [
-            "Chogath",
-            "Gangplank",
-            "Nasus",
-            "Sion",
-            "Swain",
-            "Sylas"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
             "Ziggs"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Aurelion Sol",
+            "Diana"
         ],
         [
             "Aatrox",
@@ -129,40 +137,10 @@
             "Zyra"
         ],
         [
-            "Bard",
-            "Draven",
-            "Kindred",
-            "Thresh"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Akali",
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Gangplank",
-            "Irelia",
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Mordekaiser",
-            "Pyke",
-            "Sejuani",
-            "Senna",
-            "Sylas",
-            "Varus",
-            "Warwick",
-            "Zed"
-        ],
-        [
-            "Gangplank",
-            "Senna",
-            "Sylas"
+            "Gnar",
+            "Kled",
+            "Lulu",
+            "Ziggs"
         ]
     ]
 }

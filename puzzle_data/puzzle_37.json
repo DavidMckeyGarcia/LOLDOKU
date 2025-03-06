@@ -1,69 +1,120 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "dash",
+        "Support",
+        "invis",
         "Season 2-6"
     ],
     "cols": [
-        "fear",
-        "Piltover",
-        "infinite"
+        "stun",
+        "Demacia",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Camille"
-        ],
-        [
-            "Kindred",
-            "Nasus",
-            "Shyvana",
-            "Sylas"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce"
-        ],
-        [
+            "Alistar",
+            "Annie",
+            "Ashe",
             "Bard",
-            "Kindred",
-            "Shyvana",
-            "Sylas",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Braum",
+            "Janna",
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
             "Thresh"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
         ],
         [
-            "Jayce"
+            "Vayne"
         ],
         [
+            "Kaisa"
+        ],
+        [
+            "Aurelion Sol",
             "Bard",
-            "Draven",
-            "Kindred",
-            "Thresh"
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Braum",
+            "Elise",
+            "Gnar",
+            "Jayce",
+            "Jhin",
+            "Lucian",
+            "Lulu",
+            "Sejuani",
+            "Syndra",
+            "Thresh",
+            "Varus"
         ]
     ]
 }

@@ -1,53 +1,98 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "worlds",
-        "global"
+        "Support",
+        "OG40",
+        "worlds skin"
     ],
     "cols": [
-        "Piltover",
         "knock-up",
-        "manaless"
+        "Shadow Isles",
+        "never played"
     ],
     "solutions": [
         [
-            "Ezreal",
-            "Heimerdinger",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Fizz",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
             "Galio",
-            "Gragas",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Sylas",
-            "Taliyah",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
             "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Zyra"
         ],
         [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Maokai",
+            "Senna",
+            "Thresh"
         ],
         [
-            "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce",
-            "Orianna"
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ],
         [
             "Aatrox",
@@ -67,36 +112,44 @@
             "Zyra"
         ],
         [
-            "Aatrox",
-            "Akali",
+            "Kalista",
+            "Karthus",
+            "Maokai",
+            "Thresh",
+            "Viego"
+        ],
+        [
+            "Alistar",
+            "Aphelios",
+            "Ashe",
+            "Bard",
             "Dr. Mundo",
+            "Elise",
+            "Fiora",
             "Gnar",
+            "Graves",
+            "Janna",
+            "Jarvan IV",
+            "Jhin",
+            "Jinx",
+            "Kalista",
             "Kennen",
-            "Lee sin",
-            "Renekton",
+            "Kindred",
+            "Leona",
+            "Malphite",
+            "Maokai",
+            "Nami",
+            "Nunu",
+            "Rakan",
             "Rengar",
             "Shen",
+            "Thresh",
+            "Twitch",
+            "Vayne",
             "Viego",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
-        ],
-        [
-            "Briar",
-            "Kled",
-            "Shen"
+            "Xayah",
+            "Yuumi",
+            "Zyra"
         ]
     ]
 }

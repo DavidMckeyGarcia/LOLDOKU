@@ -1,63 +1,34 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
         "Top",
-        "coven",
+        "Season 7+",
         "blink"
     ],
     "cols": [
-        "slow",
+        "knock-up",
         "Bilgewater",
-        "Immunity"
+        "ascended"
     ],
     "solutions": [
         [
             "Aatrox",
-            "Akali",
-            "Camille",
             "Chogath",
-            "Darius",
-            "Dr. Mundo",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gnar",
             "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
             "Jarvan IV",
             "Ksante",
-            "Kayle",
             "Kayn",
-            "Kled",
             "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
             "Ornn",
-            "Pantheon",
             "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
+            "Riven",
             "Sion",
-            "Skarner",
-            "Swain",
             "Sylas",
             "Tahm kench",
-            "Teemo",
             "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
+            "Wukong",
+            "Yasuo",
+            "Yone",
             "Zac"
         ],
         [
@@ -66,51 +37,38 @@
             "Tahm kench"
         ],
         [
-            "Camille",
-            "Fiora",
-            "Kayle",
+            "Aatrox",
             "Kayn",
-            "Kled",
-            "Sion",
-            "Zac"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Evelynn",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Nilah",
-            "Syndra",
-            "Zyra"
-        ],
-        [
-            "Nami",
-            "Nilah"
-        ],
-        [
-            "Camille",
-            "Evelynn",
-            "Lissandra"
-        ],
-        [
-            "Ekko",
-            "Kassadin",
-            "Lissandra",
+            "Nasus",
             "Pantheon",
-            "Pyke",
+            "Renekton"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
+        ],
+        [
             "Reksai",
-            "Ryze",
-            "Shen",
             "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Zed"
+            "Yasuo",
+            "Yone"
         ],
         [
             "Pyke",
@@ -118,11 +76,7 @@
             "Twisted fate"
         ],
         [
-            "Ekko",
-            "Lissandra",
-            "Ryze",
-            "Viego",
-            "Zed"
+            "Pantheon"
         ]
     ]
 }

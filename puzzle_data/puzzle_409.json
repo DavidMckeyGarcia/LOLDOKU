@@ -1,68 +1,80 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "true damage",
-        "hextech"
+        "Jungle",
+        "global",
+        "OG40"
     ],
     "cols": [
         "root",
-        "Demacia",
-        "shred"
+        "Zaun",
+        "ascended"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Lucian",
-            "Vayne"
-        ],
-        [
-            "Corki",
-            "Jayce",
-            "Kogmaw"
-        ],
-        [
             "Ivern",
-            "Ksante",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
             "Nunu",
-            "Renata glasc"
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Vayne"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
         ],
         [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
             "Singed",
-            "Swain"
+            "Soraka"
         ],
         [
-            "Galio",
-            "Jarvan IV",
-            "Poppy"
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
         ],
         [
-            "Jarvan IV",
-            "Kogmaw",
-            "Renekton",
-            "Sion"
+            "Nasus",
+            "Taric"
         ]
     ]
 }

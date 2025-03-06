@@ -1,138 +1,54 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "life steal",
-        "OG40"
+        "Jungle",
+        "global",
+        "Season 2-6"
     ],
     "cols": [
-        "Noxus",
-        "stun",
-        "100% AP Ratio"
+        "silence",
+        "Demacia",
+        "0 games"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
+            "Fiddlesticks"
         ],
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
+            "Jarvan IV",
+            "Morgana",
             "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
+            "Shyvana",
             "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Xin Zhao"
         ],
         [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
-        ],
-        [
-            "Ambessa",
             "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Viego",
-            "Vladimir",
-            "Warwick"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
-            "Jax",
             "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Nunu"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Galio",
+            "Lux"
+        ],
+        [
+            "Briar",
+            "Mel",
+            "Vex"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Illaoi"
         ]
     ]
 }

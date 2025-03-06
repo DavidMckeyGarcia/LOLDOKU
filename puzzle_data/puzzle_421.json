@@ -1,98 +1,87 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
         "Adc",
-        "cosmic",
+        "prestige",
         "Season 7+"
     ],
     "cols": [
-        "Noxus",
-        "root",
-        "100% AP Ratio"
+        "stun",
+        "Targon",
+        "yordle"
     ],
     "solutions": [
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
             "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Aphelios"
+        ],
+        [
             "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
             "Tristana",
-            "Varus",
-            "Zeri"
+            "Ziggs"
         ],
         [
-            "Sion",
-            "Vladimir"
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
         ],
         [
-            "Lux",
-            "Nautilus",
-            "Nunu",
-            "Varus",
-            "Xayah"
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Zoe"
         ],
         [
-            "Belveth",
-            "Hecarim",
-            "Lux",
-            "Master yi",
-            "Nunu",
-            "Skarner",
-            "Varus",
-            "Vladimir",
-            "Xin Zhao"
+            "Fizz",
+            "Lulu",
+            "Teemo"
         ],
         [
             "Ambessa",
             "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
+            "Camille",
             "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
             "Milio",
             "Neeko",
-            "Smolder",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
             "Viego",
-            "Zeri"
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Zoe"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

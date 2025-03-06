@@ -1,73 +1,84 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Support",
-        "arcade",
-        "ult execute"
+        "Adc",
+        "global",
+        "Season 2-6"
     ],
     "cols": [
-        "knock-up",
+        "stun",
         "Demacia",
-        "infinite"
+        "ascended"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
             "Galio",
-            "Janna",
-            "Lulu",
+            "Lux"
+        ],
+        [
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
             "Nami",
             "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Bard",
-            "Mel",
-            "Senna",
-            "Swain",
-            "Thresh",
-            "Zilean"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
             "Riven",
-            "Yasuo",
-            "Ziggs"
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Sona"
+            "Fiora",
+            "Lucian",
+            "Quinn"
         ],
         [
-            "Veigar"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Garen"
-        ],
-        [
-            "Chogath",
-            "Draven",
-            "Veigar"
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Varus"
         ]
     ]
 }

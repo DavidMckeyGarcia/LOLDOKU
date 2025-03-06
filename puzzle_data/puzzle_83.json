@@ -1,74 +1,80 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "ult execute",
-        "Season 2-6"
+        "Adc",
+        "OG40",
+        "global"
     ],
     "cols": [
-        "root",
         "Shurima",
-        "ult reset"
+        "stun",
+        "0 games"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Sivir"
+        ],
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Mel",
+            "Samira"
         ],
         [
             "Amumu",
             "Jax",
             "Nasus",
             "Rammus",
-            "Taliyah"
+            "Sivir",
+            "Zilean"
         ],
         [
-            "Belveth",
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
             "Master yi",
-            "Olaf",
-            "Viego"
+            "Nunu"
         ],
         [
-            "Jhin",
-            "Jinx"
+            "Taliyah",
+            "Xerath"
         ],
         [
-            "Akshan"
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
         ],
         [
-            "Darius",
-            "Viego"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Taliyah"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
+            "Briar",
+            "Mel",
+            "Vex"
         ]
     ]
 }

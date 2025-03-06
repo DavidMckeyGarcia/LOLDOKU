@@ -1,99 +1,133 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Support",
-        "prestige",
-        "true damage"
+        "worlds skin",
+        "dash"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "ult reset"
+        "knock-up",
+        "Noxus",
+        "ascended"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
             "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
             "Zyra"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
             "Swain"
         ],
         [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
             "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Sona",
-            "Sylas",
-            "Vayne"
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
             "Aatrox",
-            "Ahri",
-            "Darius",
-            "Sivir",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Ivern",
-            "Ksante",
+            "Alistar",
+            "Azir",
+            "Gragas",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Malphite",
+            "Nami",
             "Nunu",
-            "Renata glasc"
+            "Rakan",
+            "Taliyah",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Vayne"
+            "Alistar",
+            "Elise",
+            "LeBlanc",
+            "Talon"
         ],
         [
-            "Ahri",
+            "Aatrox",
+            "Azir",
+            "Leona",
+            "Renekton"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
             "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Vayne"
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Ambessa",
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Kled",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Talon"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Naafiri",
+            "Pantheon",
+            "Renekton"
         ]
     ]
 }

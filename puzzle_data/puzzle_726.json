@@ -1,92 +1,85 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Support",
-        "worlds",
-        "OG40"
+        "Jungle",
+        "true damage",
+        "Season 2-6"
     ],
     "cols": [
+        "Bilgewater",
         "root",
-        "Freljord",
-        "yordle"
+        "riot records"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
+            "Fizz",
+            "Graves",
+            "Nami",
+            "Nautilus"
+        ],
+        [
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Mel",
             "Morgana",
             "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
             "Nunu",
+            "Qiyana",
             "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
+            "Shaco",
             "Zac",
             "Zyra"
         ],
         [
-            "Ashe",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Nunu"
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
+            "Sett",
+            "Viego"
         ],
         [
-            "Corki",
-            "Gnar",
-            "Kennen"
+            "Gangplank",
+            "Pyke"
         ],
         [
-            "Morgana",
+            "Ivern",
+            "Ksante",
             "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Renata glasc"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
+            "Ahri",
+            "Akali",
+            "Ksante",
+            "Olaf",
+            "Sett",
+            "Yone"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Illaoi",
+            "Nami",
+            "Nautilus",
+            "Tahm kench"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Ekko",
+            "Yasuo"
         ]
     ]
 }

@@ -1,58 +1,102 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "arcade",
-        "true damage"
+        "Mid",
+        "OG40",
+        "life steal"
     ],
     "cols": [
-        "Piltover",
-        "silence",
-        "ult reset"
+        "Bilgewater",
+        "root",
+        "never played"
     ],
     "solutions": [
         [
-            "Camille",
-            "Heimerdinger"
+            "Fizz",
+            "Twisted fate"
         ],
         [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Akshan",
+            "Brand",
             "Chogath",
-            "Garen"
+            "Elise",
+            "Heimerdinger",
+            "Kennen",
+            "Naafiri"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Olaf",
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
             "Singed",
-            "Swain",
-            "Vayne"
+            "Soraka"
         ],
         [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
             "Blitzcrank",
-            "Malzahar"
-        ],
-        [
-            "Ahri",
-            "Belveth"
-        ],
-        [
-            "Camille"
-        ],
-        [
             "Chogath",
-            "Garen"
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ],
         [
-            "Ahri",
+            "Illaoi",
+            "Nilah"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Aphelios",
             "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Vayne"
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Kayn",
+            "Morgana",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ]
     ]
 }

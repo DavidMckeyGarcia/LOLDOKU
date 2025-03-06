@@ -1,59 +1,55 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
+        "Top",
         "OG40",
-        "life steal"
+        "global"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "ult reset"
+        "silence",
+        "The Void",
+        "tether"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Fizz",
-            "Twisted fate"
+            "Chogath"
         ],
         [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
         ],
         [
             "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Morgana",
+            "Taric"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Soraka"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Kaisa"
         ],
         [
-            "Aatrox",
-            "Briar",
-            "Warwick"
-        ],
-        [
-            "Illaoi",
-            "Nilah"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Olaf",
-            "Viego"
+            "Kled",
+            "Nocturne"
         ]
     ]
 }

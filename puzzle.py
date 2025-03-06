@@ -57,9 +57,9 @@ cat1 = {
 
 
 cat2 = {
-    "kit": [["dash"], ["true damage"], ["shield"],  ["ult execute"], ["global"], ["invis"], ["blink"], ["life steal"] ],
+    "kit": [["dash"], ["true damage"], ["shield"],  ["ult execute"], ["global"], ["invis"], ["blink"], ["life steal"], ["evolver"] ],
 
-    "skinlines": [["pool party"], ["worlds"], ["arcade"], ["prestige"], ["coven"], 
+    "skinlines": [["pool party"], ["worlds skin"], ["arcade"], ["prestige"], ["coven"], 
                   ["elderwood"], ["PROJECT"], ["cosmic"], ["dark star"], ["hextech"],
                   ["Fright Night"], ["empyrean"], ["Space Groove"] ],
 
@@ -70,11 +70,11 @@ cat2 = {
 
 cat3 = {
 
-    "misc": [["manaless"], ["infinite"], ["arcane"], ["ult reset"],  ["riot records"], ["Immunity"], ["100% AP Ratio"], ["tether"], ["shred"]],
+    "misc": [["manaless"], ["inf scaling"], ["arcane"], ["ult reset"],  ["riot records"], ["Immunity"], ["100% AP Ratio"], ["tether"], ["shred"]],
 
     "race": [ ["celestial"], ["yordle"], ["ascended"], ["vastayan"], ["darkin"]],
 
-    "esports": ["not played"]
+    "esports": [["never played"], ["0 games"], ["100+ games"], ["30+ wins"]]
 }
 
 

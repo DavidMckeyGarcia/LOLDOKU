@@ -1,56 +1,77 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "true damage",
+        "Mid",
+        "shield",
         "Season 2-6"
     ],
     "cols": [
-        "The Void",
         "root",
-        "yordle"
+        "Shadow Isles",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Kaisa",
-            "Kogmaw"
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Karthus",
+            "Vex"
+        ],
+        [
+            "Aurora",
+            "Ekko",
+            "Fizz",
+            "Galio",
+            "Karthus",
+            "Kayle",
+            "Lissandra",
+            "Mel",
+            "Ryze",
+            "Vladimir",
+            "Zed",
+            "Zilean"
         ],
         [
             "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Corki",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
-        ],
-        [
+            "Hwei",
             "Ivern",
             "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
             "Nunu",
-            "Renata glasc"
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
         ],
         [
-            "Amumu",
-            "Corki"
+            "Senna",
+            "Thresh",
+            "Vex"
         ],
         [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
+            "Camille",
+            "Ekko",
+            "Galio",
+            "Kled",
+            "Mel",
+            "Sion",
+            "Yuumi"
         ],
         [
             "Ivern",
@@ -64,10 +85,18 @@
             "Zyra"
         ],
         [
-            "Gnar",
+            "Hecarim",
+            "Kalista",
+            "Thresh"
+        ],
+        [
+            "Bard",
+            "Ekko",
+            "Fiora",
             "Kled",
-            "Lulu",
-            "Ziggs"
+            "Lissandra",
+            "Zac",
+            "Zed"
         ]
     ]
 }

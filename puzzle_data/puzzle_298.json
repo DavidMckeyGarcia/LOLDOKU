@@ -1,69 +1,59 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "dash"
+        "Mid",
+        "shield",
+        "OG40"
     ],
     "cols": [
-        "Shadow Isles",
         "fear",
-        "darkin"
+        "Shadow Isles",
+        "ascended"
     ],
     "solutions": [
         [
-            "Hecarim",
+            "Hwei",
+            "Vex"
+        ],
+        [
             "Karthus",
-            "Maokai",
-            "Viego"
+            "Vex"
         ],
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Hwei",
             "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Aatrox",
-            "Varus"
-        ],
-        [
-            "Gwen",
-            "Hecarim",
-            "Maokai",
-            "Thresh",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
             "Urgot",
-            "Vex",
+            "Vex"
+        ],
+        [
+            "Senna",
+            "Thresh",
+            "Vex"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Taric"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
             "Warwick"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Naafiri"
+            "Karthus"
+        ],
+        [
+            "Nasus",
+            "Taric"
         ]
     ]
 }

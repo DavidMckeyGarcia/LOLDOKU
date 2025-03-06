@@ -1,48 +1,78 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "Space Groove",
+        "Top",
+        "blink",
         "Season 2-6"
     ],
     "cols": [
+        "Zaun",
         "knock-up",
-        "Freljord",
-        "vastayan"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Ekko"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Master yi",
+            "Viego"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
             "Ziggs"
-        ],
-        [
-            "Ashe"
-        ],
-        [
-            "Xayah"
-        ],
-        [
-            "Blitzcrank",
-            "Gragas",
-            "Lulu",
-            "Nami",
-            "Nunu",
-            "Samira"
-        ],
-        [
-            "Gragas",
-            "Lissandra",
-            "Nunu"
-        ],
-        [
-            "Nami"
         ],
         [
             "Aatrox",
             "Aurelion Sol",
             "Azir",
             "Braum",
+            "Diana",
             "Ivern",
             "Kalista",
             "Lulu",
@@ -61,17 +91,10 @@
             "Zyra"
         ],
         [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
-        ],
-        [
+            "Aatrox",
             "Ahri",
-            "Nami",
-            "Rengar"
+            "Darius",
+            "Viktor"
         ]
     ]
 }

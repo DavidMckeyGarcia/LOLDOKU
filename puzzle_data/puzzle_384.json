@@ -1,82 +1,87 @@
 {
-    "difficulty": "iron",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "Season 2-6",
-        "global"
+        "Top",
+        "PROJECT",
+        "Season 2-6"
     ],
     "cols": [
-        "Noxus",
+        "Demacia",
         "stun",
-        "100% AP Ratio"
+        "darkin"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
             "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
+            "Camille",
+            "Fiora",
+            "Gnar",
             "Gragas",
             "Heimerdinger",
             "Irelia",
+            "Jax",
+            "Ksante",
             "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
+            "Ornn",
             "Pantheon",
-            "Qiyana",
-            "Seraphine",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
             "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
             "Yone",
-            "Zilean"
+            "Zac"
         ],
         [
-            "Aurelion Sol",
-            "Corki",
+            "Aatrox",
+            "Kayn"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Ashe",
             "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
+            "Varus"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
         ],
         [
             "Aurelion Sol",
@@ -104,54 +109,8 @@
             "Zac"
         ],
         [
-            "Aurelion Sol",
-            "Ekko",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Jhin",
-            "Jinx",
-            "Tahm kench",
-            "Thresh",
-            "Varus",
-            "Vi",
-            "Viktor",
-            "Volibear"
-        ],
-        [
-            "Briar",
-            "Draven",
-            "Kled",
-            "Mel",
-            "Sion"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Briar",
-            "Ekko",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Nocturne",
-            "Pantheon",
-            "Shen",
-            "Twisted fate",
-            "Xerath"
+            "Aatrox",
+            "Varus"
         ]
     ]
 }

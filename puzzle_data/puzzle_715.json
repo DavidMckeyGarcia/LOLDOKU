@@ -1,68 +1,139 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "arcade",
-        "Season 7+"
+        "Season 7+",
+        "arcade"
     ],
     "cols": [
-        "Ionia",
-        "fear",
-        "tether"
+        "The Void",
+        "slow",
+        "ult reset"
     ],
     "solutions": [
         [
+            "Chogath"
+        ],
+        [
+            "Aatrox",
             "Akali",
+            "Camille",
+            "Chogath",
+            "Darius",
+            "Dr. Mundo",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gnar",
+            "Gragas",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
             "Irelia",
+            "Jarvan IV",
+            "Ksante",
+            "Kayle",
             "Kayn",
-            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Quinn",
+            "Rumble",
             "Sett",
             "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
+            "Singed",
+            "Sion",
+            "Skarner",
+            "Swain",
+            "Sylas",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Urgot",
+            "Volibear",
+            "Warwick",
+            "Yorick",
+            "Zac"
         ],
         [
             "Aatrox",
             "Darius",
-            "Urgot",
-            "Warwick"
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
+            "Belveth",
+            "Kaisa"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
             "Sylas",
-            "Zac"
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
         ],
         [
-            "Ahri",
-            "Yasuo"
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
         ],
         [
-            "Hecarim"
-        ],
-        [
+            "Belveth",
+            "Kaisa",
             "Malzahar"
         ],
         [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
+            "Ahri",
+            "Belveth",
+            "Brand",
+            "Caitlyn",
+            "Corki",
+            "Hecarim",
+            "Kaisa",
+            "Miss Fortune",
+            "Qiyana",
+            "Sona",
+            "Ziggs"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Ahri",
+            "Belveth"
         ]
     ]
 }

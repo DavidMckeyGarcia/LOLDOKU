@@ -1,62 +1,68 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "global",
-        "Space Groove"
+        "Adc",
+        "Season 7+",
+        "arcade"
     ],
     "cols": [
-        "silence",
-        "Demacia",
-        "infinite"
+        "Piltover",
+        "root",
+        "shred"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Seraphine"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Chogath",
-            "Gangplank",
-            "Nasus",
-            "Sion",
-            "Swain",
-            "Sylas"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Galio",
-            "Lux"
-        ],
-        [
-            "Bard",
-            "Draven",
-            "Gangplank",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
             "Senna",
-            "Sion"
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Blitzcrank",
-            "Lulu"
+            "Corki",
+            "Jayce",
+            "Kogmaw"
         ],
         [
-            "Lux"
+            "Camille",
+            "Seraphine"
         ],
         [
-            "Nasus"
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Briar",
+            "Rell",
+            "Zoe"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Corki"
         ]
     ]
 }

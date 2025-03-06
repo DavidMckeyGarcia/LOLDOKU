@@ -1,104 +1,118 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "Season 2-6",
-        "Fright Night"
+        "Adc",
+        "shield",
+        "Season 7+"
     ],
     "cols": [
-        "knock-up",
-        "Bandle City",
-        "100% AP Ratio"
+        "stun",
+        "Demacia",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
-        ],
-        [
-            "Alistar",
             "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Lucian",
+            "Vayne"
         ],
         [
-            "Lulu"
-        ],
-        [
-            "Aurelion Sol",
-            "Ekko",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
             "Jhin",
-            "Jinx",
-            "Tahm kench",
-            "Thresh",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
             "Varus",
+            "Xayah"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
             "Vi",
             "Viktor",
-            "Volibear"
+            "Volibear",
+            "Yone"
         ],
         [
-            "Nautilus",
-            "Nunu",
-            "Trundle"
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
-            "Veigar"
+            "Azir",
+            "Braum",
+            "Janna",
+            "Jarvan IV",
+            "Kaisa",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Rakan",
+            "Rumble",
+            "Shen",
+            "Thresh"
         ],
         [
-            "Nunu",
-            "Veigar",
-            "Zeri"
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

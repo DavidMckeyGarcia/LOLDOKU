@@ -1,165 +1,61 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "pool party",
-        "OG40"
+        "Top",
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
-        "slow",
-        "Noxus",
-        "yordle"
+        "fear",
+        "Targon",
+        "0 games"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Anivia",
-            "Aurelion Sol",
-            "Aurora",
-            "Azir",
-            "Brand",
-            "Cassiopeia",
-            "Corki",
-            "Diana",
-            "Ekko",
-            "Elise",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Heimerdinger",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Naafiri",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Talon",
-            "Tristana",
-            "Twisted fate",
-            "Velkoz",
-            "Vex",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zed",
-            "Ziggs",
-            "Zilean",
-            "Zoe"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Pantheon"
         ],
         [
             "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Illaoi"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
+            "Aatrox",
+            "Briar",
+            "Warwick"
         ],
         [
-            "Braum",
-            "Caitlyn",
-            "Dr. Mundo",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Graves",
-            "Heimerdinger",
-            "Jarvan IV",
-            "Lee sin",
-            "Leona",
-            "Lulu",
-            "Miss Fortune",
-            "Orianna",
-            "Reksai",
-            "Sett",
-            "Singed",
-            "Syndra",
-            "Taliyah",
-            "Zac",
-            "Ziggs",
+            "Aphelios"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Illaoi",
+            "Samira"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Aphelios",
             "Zoe"
         ],
         [
-            "Draven"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Ziggs"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

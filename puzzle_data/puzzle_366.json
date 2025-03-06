@@ -1,115 +1,71 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "PROJECT",
-        "blink"
+        "Top",
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "slow",
-        "Ionia",
+        "fear",
+        "Shurima",
         "ult reset"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
-            "Karma",
-            "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Sona",
-            "Soraka",
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
             "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
-        ],
-        [
-            "Karma",
-            "Rakan"
-        ],
-        [
-            "Swain"
-        ],
-        [
-            "Akali",
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Gangplank",
-            "Irelia",
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Mordekaiser",
-            "Pyke",
-            "Sejuani",
-            "Senna",
-            "Sylas",
-            "Varus",
-            "Warwick",
-            "Zed"
-        ],
-        [
-            "Akali",
-            "Irelia",
-            "Jhin",
-            "Master yi",
-            "Varus",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Master yi",
             "Vayne"
         ],
         [
-            "Ekko",
-            "Kassadin",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Reksai",
-            "Ryze",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Zed"
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Ahri",
+            "Belveth",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Vayne"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
         ],
         [
             "Master yi",
-            "Shen",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Master yi",
-            "Viego"
+            "Singed",
+            "Sivir"
         ]
     ]
 }

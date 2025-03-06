@@ -1,73 +1,104 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "ult execute",
-        "Season 2-6"
+        "Jungle",
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
+        "Zaun",
         "knock-up",
-        "Bandle City",
-        "riot records"
+        "Immunity"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Corki",
-            "Tristana"
-        ],
-        [
-            "Aphelios",
-            "Ezreal",
-            "Kaisa",
-            "Senna"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Veigar"
-        ],
-        [
-            "Akali",
-            "Evelynn",
-            "Viego"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Gragas",
             "Ivern",
-            "Kalista",
-            "Lulu",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
             "Nami",
             "Nautilus",
+            "Nunu",
+            "Poppy",
             "Reksai",
-            "Riven",
+            "Rell",
             "Sejuani",
-            "Tahm kench",
+            "Sylas",
             "Taliyah",
-            "Velkoz",
+            "Trundle",
             "Vi",
-            "Yasuo",
+            "Wukong",
+            "Xin Zhao",
             "Zac",
-            "Ziggs",
             "Zyra"
         ],
         [
-            "Lulu"
+            "Camille",
+            "Ekko",
+            "Evelynn",
+            "Fizz",
+            "Karthus",
+            "Kayn",
+            "Viego",
+            "Zac"
         ],
         [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Kayn",
+            "Sion",
+            "Viego",
+            "Vladimir"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Aurora",
+            "Camille",
+            "Kayn",
+            "Mel",
+            "Viego",
+            "Xayah",
+            "Yuumi"
         ]
     ]
 }

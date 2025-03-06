@@ -1,91 +1,137 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "true damage",
-        "Season 2-6"
+        "Mid",
+        "elderwood",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Freljord",
-        "yordle"
+        "slow",
+        "Shurima",
+        "ascended"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Ashe"
-        ],
-        [
-            "Corki",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
-            "Amumu",
-            "Corki"
-        ],
-        [
+            "Ahri",
+            "Akali",
+            "Anivia",
             "Aurelion Sol",
-            "Bard",
-            "Braum",
+            "Aurora",
+            "Azir",
+            "Brand",
+            "Cassiopeia",
+            "Chogath",
+            "Corki",
+            "Diana",
             "Ekko",
             "Elise",
-            "Fiora",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Heimerdinger",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Naafiri",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Talon",
+            "Tristana",
+            "Twisted fate",
+            "Velkoz",
+            "Vex",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Bard",
             "Gnar",
             "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
+            "Karthus",
+            "Rakan",
+            "Reksai"
         ],
         [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
+            "Azir"
         ],
         [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
+            "Azir"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

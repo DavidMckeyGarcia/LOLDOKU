@@ -1,113 +1,93 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "life steal",
-        "elderwood"
+        "Adc",
+        "Season 7+",
+        "shield"
     ],
     "cols": [
-        "stun",
-        "Ionia",
-        "manaless"
+        "Shurima",
+        "knock-up",
+        "arcane"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Sivir"
         ],
         [
-            "Akali",
-            "Irelia",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Jayce",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
             "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Mel"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Ksante",
+            "Naafiri",
+            "Sivir"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
             "Yasuo",
             "Yone"
         ],
         [
-            "Aatrox",
-            "Akali",
             "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Kayn",
-            "Lee sin"
-        ],
-        [
-            "Aatrox",
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Lee sin",
-            "Viego",
-            "Vladimir"
-        ],
-        [
-            "Bard",
-            "Gnar",
-            "Hecarim",
-            "Veigar"
-        ],
-        [
-            "Ahri",
-            "Rakan",
-            "Wukong",
-            "Xayah"
-        ],
-        [
-            "Gnar",
-            "Reksai"
+            "Ekko",
+            "Janna",
+            "Mel",
+            "Orianna",
+            "Vi",
+            "Viktor"
         ]
     ]
 }

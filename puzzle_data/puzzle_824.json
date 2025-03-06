@@ -1,114 +1,86 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "prestige",
-        "ult execute"
+        "Jungle",
+        "PROJECT",
+        "dash"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "manaless"
+        "Bilgewater",
+        "fear",
+        "riot records"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
-        ],
-        [
-            "Aatrox",
             "Fizz",
-            "Ksante",
+            "Graves",
+            "Nami",
+            "Nautilus"
+        ],
+        [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Ekko",
+            "Evelynn",
+            "Karthus",
             "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
+            "Sett",
+            "Viego"
+        ],
+        [
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Warwick"
+        ],
+        [
+            "Akali",
+            "Ekko",
+            "Mordekaiser",
+            "Senna",
+            "Yasuo"
+        ],
+        [
+            "Fizz",
+            "Graves",
+            "Illaoi",
+            "Nautilus",
+            "Nilah",
+            "Pyke"
         ],
         [
             "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
+        ],
+        [
+            "Ahri",
             "Akali",
-            "Garen",
-            "Katarina",
-            "Lee sin",
+            "Ekko",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Qiyana",
             "Sett",
+            "Viego",
             "Yasuo",
-            "Zed"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Riven"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Akali",
-            "Garen",
-            "Reksai",
-            "Viego"
+            "Yone"
         ]
     ]
 }

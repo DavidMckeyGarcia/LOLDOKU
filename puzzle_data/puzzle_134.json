@@ -1,79 +1,92 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "Season 2-6",
-        "Space Groove"
+        "Adc",
+        "Season 7+",
+        "prestige"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "infinite"
+        "knock-up",
+        "Bandle City",
+        "riot records"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Tristana"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
             "Neeko",
-            "Renata glasc",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Yuumi"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
             "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
+            "Sett",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
             "Zyra"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Fizz",
+            "Lulu",
+            "Teemo",
+            "Yuumi"
         ],
         [
-            "Bard",
-            "Mel",
+            "Ahri",
+            "Akali",
+            "Evelynn",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Qiyana",
             "Senna",
-            "Swain",
-            "Thresh",
-            "Zilean"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Bard",
-            "Draven",
-            "Kindred",
-            "Thresh"
-        ],
-        [
-            "Lissandra",
-            "Lux",
-            "Nunu"
-        ],
-        [
-            "Lux"
-        ],
-        [
-            "Nasus"
+            "Sett",
+            "Yasuo"
         ]
     ]
 }

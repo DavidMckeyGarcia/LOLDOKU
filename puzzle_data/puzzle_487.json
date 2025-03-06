@@ -1,91 +1,77 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "dash",
-        "Season 2-6"
+        "Adc",
+        "blink",
+        "OG40"
     ],
     "cols": [
         "root",
-        "Targon",
-        "arcane"
+        "Bilgewater",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
-        ],
-        [
+            "Aphelios",
             "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Aurelion Sol",
-            "Diana",
-            "Leona",
-            "Pantheon"
-        ],
-        [
-            "Ambessa",
-            "Caitlyn",
-            "Ekko",
-            "Jayce",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Ivern",
             "Jhin",
             "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
+            "Mel",
+            "Senna",
+            "Seraphine",
             "Varus",
-            "Zac",
-            "Zyra"
+            "Xayah"
         ],
         [
-            "Aurelion Sol",
-            "Diana"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Ekko",
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
             "Jayce",
-            "Jinx",
-            "Vi",
-            "Viktor"
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Ezreal",
+            "Ryze",
+            "Shen"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

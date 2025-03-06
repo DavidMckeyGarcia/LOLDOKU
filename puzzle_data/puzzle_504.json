@@ -1,120 +1,81 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "shield",
-        "Fright Night"
+        "Support",
+        "life steal",
+        "Season 2-6"
     ],
     "cols": [
-        "Bandle City",
-        "stun",
-        "infinite"
+        "root",
+        "Demacia",
+        "ascended"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Kindred",
-            "Nasus",
-            "Shyvana",
-            "Sylas"
-        ],
-        [
-            "Lulu",
-            "Rumble",
-            "Yuumi"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
             "Morgana",
             "Nautilus",
             "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
             "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
-        ],
-        [
-            "Mel",
             "Senna",
-            "Sion",
-            "Thresh"
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Veigar"
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
-            "Annie",
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
             "Nautilus",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Urgot",
-            "Veigar"
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Draven",
-            "Veigar"
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Varus"
         ]
     ]
 }

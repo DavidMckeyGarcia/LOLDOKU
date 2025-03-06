@@ -1,62 +1,169 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "true damage",
-        "Season 7+"
+        "Top",
+        "OG40",
+        "invis"
     ],
     "cols": [
-        "Demacia",
-        "fear",
-        "yordle"
+        "slow",
+        "Zaun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
+            "Aatrox",
+            "Akali",
+            "Camille",
+            "Chogath",
+            "Darius",
+            "Dr. Mundo",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gnar",
+            "Gragas",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Irelia",
             "Jarvan IV",
-            "Morgana",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Ornn",
+            "Pantheon",
             "Poppy",
-            "Shyvana",
+            "Quinn",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Singed",
+            "Sion",
+            "Skarner",
+            "Swain",
             "Sylas",
-            "Xin Zhao"
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Urgot",
+            "Volibear",
+            "Warwick",
+            "Yorick",
+            "Zac"
         ],
         [
-            "Briar",
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
             "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
             "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
             "Warwick"
         ],
         [
-            "Amumu",
-            "Fizz",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Vayne"
+            "Akali",
+            "Aurora",
+            "Kaisa",
+            "Pyke",
+            "Qiyana",
+            "Reksai",
+            "Rengar",
+            "Senna",
+            "Shaco",
+            "Talon",
+            "Teemo",
+            "Twitch",
+            "Viego"
         ],
         [
-            "Darius",
-            "Urgot"
+            "Twitch"
         ],
         [
-            "Amumu",
-            "Corki"
-        ],
-        [
-            "Sylas"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Vex"
+            "Kaisa",
+            "Neeko",
+            "Viego",
+            "Wukong"
         ]
     ]
 }

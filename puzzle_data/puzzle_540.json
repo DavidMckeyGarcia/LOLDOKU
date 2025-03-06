@@ -1,90 +1,145 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "prestige",
-        "Season 7+"
+        "Top",
+        "shield",
+        "Season 2-6"
     ],
     "cols": [
-        "knock-up",
         "Piltover",
-        "ascended"
+        "knock-up",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Heimerdinger",
-            "Seraphine"
-        ],
-        [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
+            "Camille",
+            "Heimerdinger"
         ],
         [
             "Aatrox",
-            "Fizz",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
             "Ksante",
             "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
+        ],
+        [
+            "Camille",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
             "Lee sin",
             "Lulu",
             "Malphite",
+            "Nautilus",
             "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Caitlyn",
-            "Camille",
-            "Ezreal"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Pantheon"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
+            "Nunu",
+            "Poppy",
             "Rakan",
             "Rell",
-            "Samira",
-            "Sylas",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Camille",
-            "Seraphine"
+            "Aphelios",
+            "Blitzcrank",
+            "Ekko",
+            "Kaisa",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Nocturne",
+            "Nunu",
+            "Shen",
+            "Sivir",
+            "Skarner",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ],
         [
-            "Kayn",
-            "Naafiri"
+            "Jayce"
+        ],
+        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

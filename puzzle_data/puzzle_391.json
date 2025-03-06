@@ -1,75 +1,138 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "shield",
-        "Season 2-6"
+        "Top",
+        "Season 2-6",
+        "shield"
     ],
     "cols": [
-        "Bilgewater",
-        "silence",
-        "manaless"
+        "Freljord",
+        "knock-up",
+        "riot records"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Kassadin",
-            "Malzahar"
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
             "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
             "Yasuo",
             "Yone",
-            "Zed"
+            "Yorick"
         ],
         [
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
             "Nautilus",
-            "Nilah",
-            "Tahm kench"
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
+            "Ahri",
+            "Ekko",
+            "Yasuo"
+        ],
+        [
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Azir",
             "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Ambessa",
-            "Garen",
-            "Kled",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
             "Lee sin",
-            "Mordekaiser",
-            "Rumble",
-            "Sett",
-            "Shen",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
             "Yasuo",
             "Yone"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Kled",
-            "Reksai",
-            "Rengar",
+            "Aphelios",
+            "Ekko",
+            "Ksante",
+            "Kaisa",
+            "Mordekaiser",
+            "Olaf",
+            "Senna",
+            "Sett",
             "Yasuo",
-            "Zac",
-            "Zed"
+            "Yone"
         ]
     ]
 }

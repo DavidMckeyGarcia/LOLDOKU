@@ -1,92 +1,70 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 7+",
-        "dash"
+        "Mid",
+        "OG40",
+        "global"
     ],
     "cols": [
-        "Ionia",
-        "fear",
-        "ascended"
+        "silence",
+        "Freljord",
+        "yordle"
     ],
     "solutions": [
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
             "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Kayn",
-            "Naafiri"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Irelia",
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
+            "Tristana",
+            "Veigar",
             "Vex",
-            "Warwick"
+            "Ziggs"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Naafiri",
-            "Pantheon",
-            "Renekton"
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

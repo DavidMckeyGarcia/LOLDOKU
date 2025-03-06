@@ -1,83 +1,80 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "blink",
-        "Season 7+"
+        "Jungle",
+        "true damage",
+        "Season 2-6"
     ],
     "cols": [
-        "Piltover",
-        "root",
-        "100% AP Ratio"
+        "silence",
+        "Freljord",
+        "manaless"
     ],
     "solutions": [
         [
-            "Camille",
-            "Heimerdinger"
+            "Fiddlesticks"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
             "Zac"
         ],
         [
             "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
+            "Garen"
         ],
         [
-            "Ezreal"
+            "Nunu",
+            "Olaf"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Ekko",
-            "Master yi",
-            "Pantheon",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego"
-        ],
-        [
-            "Camille",
-            "Seraphine"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
+            "Akali",
             "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Garen",
+            "Sett",
+            "Yone"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
+            "Kled",
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ]
     ]
 }

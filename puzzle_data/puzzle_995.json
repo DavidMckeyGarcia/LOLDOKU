@@ -1,73 +1,100 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "life steal",
-        "Season 7+"
+        "Support",
+        "blink",
+        "cosmic"
     ],
     "cols": [
-        "Targon",
-        "stun",
-        "ult reset"
+        "knock-up",
+        "Noxus",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Aphelios"
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
+            "Alistar",
             "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Sivir",
-            "Vayne"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
             "Milio",
             "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
+        ],
+        [
+            "Ekko",
+            "Master yi",
+            "Pantheon",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
             "Viego"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Xin Zhao"
+        ],
+        [
+            "Sion",
+            "Vladimir"
+        ],
+        [
+            "Belveth",
+            "Hecarim",
+            "Jhin",
+            "Lux",
+            "Master yi",
+            "Nunu",
+            "Skarner",
+            "Varus",
+            "Vladimir",
+            "Xin Zhao"
         ]
     ]
 }

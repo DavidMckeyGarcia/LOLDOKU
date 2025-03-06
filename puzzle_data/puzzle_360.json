@@ -1,122 +1,67 @@
 {
-    "difficulty": "silver",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "prestige",
-        "Season 7+"
+        "Top",
+        "dash",
+        "elderwood"
     ],
     "cols": [
-        "Bandle City",
+        "The Void",
         "root",
-        "100% AP Ratio"
+        "vastayan"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Rumble",
-            "Teemo"
+            "Chogath"
         ],
         [
-            "Ivern",
-            "Lee sin",
+            "Ksante",
             "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Wukong"
         ],
         [
             "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Fizz",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
-        ],
-        [
-            "Fizz",
-            "Lulu",
-            "Teemo",
-            "Yuumi"
+            "Kaisa",
+            "Khazix",
+            "Reksai"
         ],
         [
             "Caitlyn",
-            "Jinx",
+            "Ivern",
             "Ksante",
-            "LeBlanc",
             "Lee sin",
             "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
+            "Maokai",
+            "Nautilus",
             "Qiyana",
-            "Renata glasc",
-            "Senna",
+            "Rengar",
             "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
+            "Zac"
         ],
         [
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Jax",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Sivir",
-            "Thresh",
-            "Volibear",
-            "Zeri"
+            "Ahri",
+            "Aurora",
+            "Rakan",
+            "Rengar",
+            "Wukong"
         ],
         [
-            "Yuumi"
+            "Reksai"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
+            "LeBlanc",
             "Xayah"
         ],
         [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Ahri",
+            "Rakan",
+            "Wukong",
+            "Xayah"
         ]
     ]
 }

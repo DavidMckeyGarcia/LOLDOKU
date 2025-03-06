@@ -1,97 +1,104 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "Season 2-6",
-        "prestige"
+        "Support",
+        "OG40",
+        "hextech"
     ],
     "cols": [
-        "Bandle City",
         "stun",
+        "Demacia",
         "ascended"
     ],
     "solutions": [
         [
-            "Corki",
-            "Tristana"
-        ],
-        [
+            "Alistar",
+            "Annie",
             "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Aurelion Sol",
             "Bard",
+            "Blitzcrank",
+            "Brand",
             "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
             "Nami",
             "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
-        ],
-        [
-            "Fizz",
-            "Lulu",
-            "Teemo",
-            "Yuumi"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
             "Neeko",
             "Pantheon",
+            "Poppy",
             "Pyke",
-            "Qiyana",
+            "Rell",
             "Renata glasc",
-            "Riven",
-            "Sett",
+            "Seraphine",
             "Sona",
-            "Sylas",
+            "Tahm kench",
+            "Taric",
             "Thresh",
-            "Vayne",
-            "Volibear"
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Aatrox",
-            "Diana",
-            "Kayn",
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
             "Leona",
-            "Pantheon"
+            "Pantheon",
+            "Taric",
+            "Xerath"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Nasus",
+            "Taric"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
+        ],
+        [
+            "Galio",
+            "Jarvan IV",
+            "Poppy"
+        ],
+        [
+            "Renekton"
         ]
     ]
 }

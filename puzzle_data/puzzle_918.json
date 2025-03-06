@@ -1,97 +1,70 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "invis",
-        "OG40"
+        "Jungle",
+        "cosmic",
+        "global"
     ],
     "cols": [
-        "root",
-        "Shadow Isles",
-        "100% AP Ratio"
+        "fear",
+        "Demacia",
+        "shred"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
+        ],
+        [
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
             "Karthus",
-            "Vex"
-        ],
-        [
-            "Aurelion Sol",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
             "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Senna",
-            "Viego"
-        ],
-        [
-            "Kaisa",
-            "Neeko",
-            "Viego",
+            "Rumble",
+            "Trundle",
+            "Vi",
             "Wukong"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Hecarim"
         ],
         [
-            "Karthus"
+            "Lux",
+            "Xin Zhao"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
-            "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Sion"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Galio",
+            "Lux"
+        ],
+        [
+            "Briar",
+            "Karthus",
+            "Sion"
         ]
     ]
 }

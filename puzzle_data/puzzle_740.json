@@ -1,77 +1,83 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Top",
-        "OG40",
-        "shield"
+        "Support",
+        "PROJECT",
+        "global"
     ],
     "cols": [
-        "Zaun",
-        "fear",
-        "ult reset"
+        "knock-up",
+        "Targon",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
+            "Alistar",
             "Blitzcrank",
-            "Dr. Mundo",
+            "Braum",
+            "Galio",
             "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Bard",
+            "Galio",
+            "Mel",
+            "Yuumi",
+            "Zilean"
         ],
         [
-            "Blitzcrank",
-            "Ekko",
-            "Janna",
-            "Orianna",
-            "Renata glasc",
-            "Urgot",
+            "Sejuani",
+            "Sylas",
             "Vi",
-            "Viktor"
+            "Yasuo"
         ],
         [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
+            "Leona"
         ],
         [
-            "Naafiri",
-            "Olaf",
-            "Sivir",
-            "Vex",
-            "Viktor"
+            "Ekko",
+            "Fiora",
+            "Zed"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Aurelion Sol",
+            "Pantheon",
+            "Soraka"
+        ],
+        [
+            "Bard",
+            "Ekko",
+            "Galio",
+            "Karthus",
+            "Kled",
+            "Mel",
+            "Ryze",
+            "Sion"
         ]
     ]
 }

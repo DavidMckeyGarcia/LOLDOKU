@@ -1,73 +1,76 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "arcade",
-        "dash"
+        "Jungle",
+        "dash",
+        "OG40"
     ],
     "cols": [
+        "Ixtal",
         "stun",
-        "Zaun",
-        "arcane"
+        "shred"
     ],
     "solutions": [
         [
-            "Ambessa",
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
+        ],
+        [
+            "Amumu",
+            "Brand",
+            "Briar",
             "Camille",
-            "Fiora",
-            "Gnar",
+            "Ekko",
+            "Elise",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
+            "Hecarim",
+            "Ivern",
             "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
             "Pantheon",
             "Poppy",
-            "Renekton",
-            "Riven",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
             "Sett",
-            "Sion",
             "Skarner",
             "Sylas",
-            "Tahm kench",
+            "Taliyah",
             "Udyr",
-            "Urgot",
-            "Vayne",
+            "Vi",
+            "Viego",
             "Volibear",
             "Warwick",
-            "Yone",
+            "Xin Zhao",
             "Zac"
         ],
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
         ],
         [
-            "Ambessa",
-            "Heimerdinger",
-            "Warwick"
-        ],
-        [
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Malzahar",
+            "Malphite",
+            "Nidalee",
             "Qiyana",
-            "Riven",
-            "Sona",
-            "Veigar"
-        ],
-        [
-            "Blitzcrank",
-            "Ziggs"
-        ],
-        [
-            "Caitlyn"
+            "Rengar"
         ],
         [
             "Alistar",
@@ -115,21 +118,44 @@
             "Zac"
         ],
         [
-            "Ekko",
-            "Urgot",
+            "Briar",
+            "Corki",
+            "Jarvan IV",
+            "Jayce",
+            "Rell",
+            "Renekton",
+            "Rengar",
             "Vi",
-            "Warwick",
-            "Zac",
-            "Zeri",
-            "Ziggs"
+            "Wukong"
         ],
         [
-            "Ambessa",
-            "Caitlyn",
-            "Ekko",
-            "Jayce",
-            "Vi",
-            "Warwick"
+            "Malphite"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ]
     ]
 }

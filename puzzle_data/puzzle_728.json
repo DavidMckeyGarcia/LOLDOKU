@@ -1,34 +1,48 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Top",
+        "Mid",
         "OG40",
-        "global"
+        "prestige"
     ],
     "cols": [
+        "Noxus",
         "silence",
-        "Demacia",
-        "arcane"
+        "yordle"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
-        ],
-        [
             "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Corki",
+            "Fizz",
             "Heimerdinger",
-            "Warwick"
+            "Kennen",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
         ],
         [
             "Blitzcrank",
@@ -38,26 +52,31 @@
             "Soraka"
         ],
         [
-            "Kayle",
-            "Morgana"
-        ],
-        [
+            "Amumu",
+            "Corki",
             "Heimerdinger",
-            "Janna",
-            "Warwick"
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
+            "Cassiopeia",
+            "Darius",
+            "Katarina",
+            "Kayn",
+            "LeBlanc",
+            "Riven",
+            "Swain"
+        ],
+        [
+            "Garen",
+            "Lulu",
             "Soraka"
         ],
         [
-            "Galio",
-            "Lux"
-        ],
-        [
-            "Caitlyn",
-            "Ekko",
-            "Jinx",
-            "Mel"
+            "Fizz",
+            "Lulu",
+            "Teemo"
         ]
     ]
 }

@@ -1,67 +1,127 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "OG40",
-        "true damage"
+        "Adc",
+        "Season 7+",
+        "shield"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "Immunity"
+        "Bandle City",
+        "stun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
+            "Corki",
+            "Tristana"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Aurora",
-            "Ekko",
-            "Fizz",
-            "Galio",
-            "Karthus",
-            "Kayle",
-            "Lissandra",
-            "Mel",
-            "Ryze",
-            "Vladimir",
-            "Zed",
-            "Zilean"
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Yuumi"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle",
-            "Ryze",
-            "Sion",
-            "Zilean"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
+            "Ambessa",
+            "Briar",
             "Camille",
-            "Fiora",
-            "Kogmaw"
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Kaisa",
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
+        ],
+        [
+            "Lulu",
+            "Rumble",
+            "Yuumi"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Blitzcrank",
+            "Ekko",
+            "Kaisa",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Nocturne",
+            "Nunu",
+            "Shen",
+            "Sivir",
+            "Skarner",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

@@ -1,67 +1,80 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "global",
-        "OG40"
+        "Support",
+        "Season 2-6",
+        "blink"
     ],
     "cols": [
-        "Ionia",
         "root",
-        "ascended"
+        "Zaun",
+        "tether"
     ],
     "solutions": [
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Lillia",
-            "Shen"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
+            "Karma",
+            "Leona",
             "Lux",
             "Maokai",
             "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Master yi"
-        ],
-        [
             "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Nasus",
-            "Taric"
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
+        ],
+        [
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kalista",
+            "Kled",
+            "Zac"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Ekko"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

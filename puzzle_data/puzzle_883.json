@@ -1,65 +1,103 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "empyrean",
-        "Season 2-6"
+        "Jungle",
+        "shield",
+        "Season 7+"
     ],
     "cols": [
-        "Shadow Isles",
-        "silence",
-        "Immunity"
+        "Targon",
+        "knock-up",
+        "darkin"
     ],
     "solutions": [
         [
-            "Karthus",
-            "Vex"
+            "Diana",
+            "Pantheon"
         ],
         [
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Aurora",
-            "Ekko",
+            "Belveth",
+            "Briar",
+            "Diana",
             "Fizz",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Kayn"
+        ],
+        [
+            "Aphelios",
+            "Diana",
+            "Taric"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
             "Galio",
-            "Karthus",
-            "Kayle",
-            "Lissandra",
-            "Mel",
-            "Ryze",
-            "Vladimir",
-            "Zed",
-            "Zilean"
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Vex"
+            "Naafiri"
         ],
         [
-            "Malzahar"
+            "Aphelios",
+            "Zoe"
         ],
         [
-            "Kayle",
-            "Zac",
-            "Zed"
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Bard",
-            "Ekko",
-            "Fiora",
-            "Kled",
-            "Lissandra",
-            "Zac",
-            "Zed"
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

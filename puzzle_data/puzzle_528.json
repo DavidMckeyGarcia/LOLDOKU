@@ -1,125 +1,80 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "worlds"
+        "Mid",
+        "dark star",
+        "Season 2-6"
     ],
     "cols": [
-        "Bilgewater",
-        "stun",
-        "arcane"
+        "root",
+        "Demacia",
+        "ascended"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Graves",
-            "Nami",
-            "Nautilus"
-        ],
-        [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Mel"
-        ],
-        [
-            "Gangplank",
-            "Graves",
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Bard",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Irelia",
-            "Jax",
-            "Kennen",
-            "Leona",
-            "Nami",
-            "Nunu",
-            "Orianna",
-            "Renekton",
-            "Syndra",
-            "Taliyah",
-            "Thresh",
-            "Twisted fate",
-            "Vayne",
-            "Viego",
-            "Zac"
-        ],
-        [
-            "Caitlyn",
-            "Ekko",
-            "Janna",
-            "Jayce",
-            "Jinx",
+            "Hwei",
+            "Karma",
             "LeBlanc",
-            "Orianna"
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Jhin",
+            "Karma",
+            "Lissandra",
+            "Lux",
+            "Shaco",
+            "Varus"
+        ],
+        [
+            "Jarvan IV",
+            "Lux"
+        ],
+        [
+            "Varus",
+            "Xerath"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Varus"
         ]
     ]
 }

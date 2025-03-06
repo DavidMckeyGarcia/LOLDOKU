@@ -1,96 +1,97 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "Season 7+",
-        "coven"
+        "Support",
+        "prestige",
+        "OG40"
     ],
     "cols": [
-        "Bilgewater",
-        "stun",
+        "Demacia",
+        "root",
         "arcane"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
-        ],
-        [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
+            "Galio",
+            "Lux",
+            "Morgana",
             "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Sona"
         ],
         [
-            "Ambessa",
-            "Heimerdinger",
-            "Warwick"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
             "Renata glasc",
+            "Senna",
             "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Ambessa",
+            "Heimerdinger",
+            "Janna",
             "Mel"
         ],
         [
-            "Nami",
-            "Nilah"
-        ],
-        [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
+            "Fiora",
+            "Garen",
+            "Kayle",
+            "Lucian",
+            "Lux",
             "Morgana",
-            "Nami",
-            "Syndra"
+            "Sona",
+            "Sylas",
+            "Vayne"
         ],
         [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
             "LeBlanc"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
         ]
     ]
 }

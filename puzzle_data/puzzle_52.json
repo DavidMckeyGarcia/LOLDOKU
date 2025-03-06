@@ -1,76 +1,107 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "OG40",
-        "global"
+        "Jungle",
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "root",
-        "Piltover",
-        "arcane"
+        "Freljord",
+        "stun",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Heimerdinger",
-            "Seraphine"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
-        ],
-        [
-            "Morgana",
+            "Brand",
+            "Gragas",
+            "Kindred",
             "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Heimerdinger"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Warwick"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Caitlyn",
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
             "Ekko",
-            "Jinx",
-            "Mel"
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Nami",
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Aurora",
+            "Ornn"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Aurora",
+            "Neeko",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Aurora",
+            "Neeko",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

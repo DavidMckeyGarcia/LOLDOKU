@@ -1,43 +1,38 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
+        "Jungle",
         "OG40",
-        "life steal"
+        "global"
     ],
     "cols": [
         "root",
-        "Targon",
-        "arcane"
+        "Piltover",
+        "tether"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
             "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Aurelion Sol",
-            "Diana",
-            "Pantheon",
-            "Zoe"
+            "Camille"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
         ],
         [
             "Morgana",
@@ -48,27 +43,30 @@
             "Soraka"
         ],
         [
-            "Soraka",
+            "Heimerdinger"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
             "Taric"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Warwick"
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
+            "Caitlyn",
+            "Ezreal"
         ],
         [
-            "Aphelios"
-        ],
-        [
-            "Ambessa",
-            "Warwick"
+            "Kled",
+            "Nocturne"
         ]
     ]
 }

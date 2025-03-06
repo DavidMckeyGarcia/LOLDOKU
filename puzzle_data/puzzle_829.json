@@ -1,113 +1,73 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "shield",
-        "PROJECT"
+        "Jungle",
+        "OG40",
+        "true damage"
     ],
     "cols": [
+        "fear",
         "Noxus",
-        "knock-up",
-        "Immunity"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Aatrox",
-            "Chogath",
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell"
+        ],
+        [
+            "Elise",
             "Gragas",
+            "Graves",
             "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
         ],
         [
-            "Camille",
-            "Fiora",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Sion",
-            "Zac"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Ambessa",
+            "Alistar",
             "Annie",
-            "Kled",
-            "Mel",
-            "Mordekaiser",
-            "Rell",
-            "Riven",
+            "Katarina",
             "Sion"
         ],
         [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Ivern",
+            "Alistar",
+            "Ashe",
             "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Riven",
-            "Sion",
-            "Tahm kench",
-            "Vi",
-            "Yasuo",
-            "Yone"
+            "Jax",
+            "Ryze",
+            "Tristana"
         ],
         [
-            "Camille",
-            "Ekko",
-            "Galio",
-            "Kled",
-            "Mel",
-            "Sion",
-            "Yuumi"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Katarina",
-            "Mordekaiser"
+            "Darius",
+            "Draven",
+            "Samira"
         ],
         [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Ekko",
-            "Fiora",
-            "Zed"
+            "Syndra"
         ]
     ]
 }

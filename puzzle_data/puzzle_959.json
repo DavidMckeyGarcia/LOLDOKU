@@ -1,64 +1,77 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "invis",
-        "arcade"
+        "Jungle",
+        "Season 7+",
+        "blink"
     ],
     "cols": [
-        "Noxus",
-        "fear",
-        "manaless"
+        "Zaun",
+        "root",
+        "0 games"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Briar",
+            "Master yi",
+            "Nunu"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Aphelios",
             "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
             "Vex"
         ],
         [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Ekko"
         ],
         [
             "LeBlanc",
-            "Talon"
+            "Lissandra",
+            "Ryze"
         ],
         [
-            "Shaco"
-        ],
-        [
-            "Akali",
-            "Reksai",
-            "Rengar",
-            "Viego"
-        ],
-        [
-            "Riven"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Belveth",
-            "Yasuo"
+            "Ambessa",
+            "Master yi"
         ]
     ]
 }

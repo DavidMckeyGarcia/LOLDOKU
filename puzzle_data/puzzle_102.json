@@ -1,90 +1,66 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "invis",
-        "pool party"
+        "Mid",
+        "OG40",
+        "ult execute"
     ],
     "cols": [
-        "stun",
-        "Ionia",
+        "silence",
+        "Demacia",
         "yordle"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Corki",
+            "Fizz",
             "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Karma",
-            "Rakan"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Akali",
-            "Wukong"
-        ],
-        [
-            "Teemo"
-        ],
-        [
-            "Braum",
-            "Fiora",
-            "Heimerdinger",
-            "Leona",
-            "Orianna",
-            "Renekton",
-            "Sett",
-            "Syndra",
-            "Taliyah",
-            "Taric",
-            "Zac"
-        ],
-        [
-            "Lee sin",
-            "Sett",
-            "Syndra"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
+            "Kennen",
+            "Tristana",
+            "Veigar",
+            "Vex",
             "Ziggs"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Garen"
+        ],
+        [
+            "Veigar"
         ]
     ]
 }

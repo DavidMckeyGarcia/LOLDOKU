@@ -1,101 +1,87 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "dash",
-        "Season 7+"
+        "Support",
+        "life steal",
+        "dark star"
     ],
     "cols": [
-        "knock-up",
-        "Bandle City",
-        "ult reset"
+        "Ionia",
+        "stun",
+        "riot records"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Corki",
-            "Tristana"
-        ],
-        [
-            "Sivir",
-            "Vayne"
-        ],
-        [
-            "Aatrox",
             "Alistar",
-            "Aurelion Sol",
-            "Azir",
-            "Belveth",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
             "Braum",
-            "Briar",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Malphite",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
             "Nautilus",
-            "Ornn",
+            "Neeko",
+            "Pantheon",
             "Poppy",
-            "Rakan",
-            "Reksai",
+            "Pyke",
             "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Yone",
-            "Zac",
-            "Ziggs"
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Tristana",
-            "Yuumi"
+            "Senna"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Belveth",
-            "Naafiri",
-            "Vayne",
-            "Vex",
-            "Viego"
+            "Kayn",
+            "Lee sin"
         ],
         [
-            "Belveth",
+            "Ambessa",
             "Briar",
             "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
             "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Yuumi"
-        ],
-        [
-            "Belveth",
-            "Naafiri",
-            "Vex",
+            "Olaf",
+            "Senna",
             "Viego"
+        ],
+        [
+            "Jhin",
+            "Karma",
+            "Varus"
+        ],
+        [
+            "Lissandra",
+            "Orianna",
+            "Thresh",
+            "Xerath"
+        ],
+        [
+            "Mordekaiser"
         ]
     ]
 }

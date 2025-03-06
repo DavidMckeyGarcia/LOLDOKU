@@ -1,126 +1,83 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "dash",
-        "OG40"
+        "Mid",
+        "Season 2-6",
+        "ult execute"
     ],
     "cols": [
+        "Bandle City",
         "root",
-        "Piltover",
-        "100% AP Ratio"
+        "Immunity"
     ],
     "solutions": [
         [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Hwei",
             "Karma",
-            "Leona",
+            "LeBlanc",
+            "Lissandra",
             "Lux",
-            "Maokai",
             "Mel",
-            "Morgana",
-            "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Soraka",
-            "Swain",
+            "Swain"
+        ],
+        [
+            "Aurora",
+            "Ekko",
+            "Fizz",
+            "Galio",
+            "Karthus",
+            "Kayle",
+            "Lissandra",
+            "Mel",
+            "Ryze",
+            "Vladimir",
+            "Zed",
+            "Zilean"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
             "Zyra"
         ],
         [
-            "Heimerdinger",
-            "Seraphine"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce"
-        ],
-        [
-            "Alistar",
-            "Aurelion Sol",
-            "Belveth",
-            "Briar",
-            "Corki",
+            "Bard",
             "Ekko",
             "Fiora",
-            "Fizz",
-            "Gnar",
-            "Hecarim",
-            "Jax",
-            "Kaisa",
-            "Nocturne",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Thresh",
-            "Tristana",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Zeri"
+            "Kled",
+            "Lissandra",
+            "Zac",
+            "Zed"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Veigar"
         ],
         [
-            "Heimerdinger"
+            "Jhin",
+            "Jinx"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
             "Evelynn",
-            "Gangplank",
-            "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Viego"
         ]
     ]
 }

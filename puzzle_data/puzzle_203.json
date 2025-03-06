@@ -1,52 +1,54 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "hextech",
-        "Season 2-6"
+        "Mid",
+        "Season 2-6",
+        "global"
     ],
     "cols": [
-        "Bandle City",
+        "Zaun",
         "root",
-        "ascended"
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Rumble",
-            "Teemo"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
             "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
-        ],
-        [
-            "Tristana"
-        ],
-        [
-            "Singed",
+            "Ryze",
+            "Seraphine",
             "Swain"
         ],
         [
-            "Renekton"
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ],
         [
-            "Lulu"
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
+            "Ziggs"
         ],
         [
             "Ivern",
@@ -60,10 +62,31 @@
             "Zyra"
         ],
         [
-            "Aatrox",
+            "Ahri",
             "Azir",
-            "Diana",
-            "Varus"
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Galio",
+            "Ryze",
+            "Taliyah"
         ]
     ]
 }

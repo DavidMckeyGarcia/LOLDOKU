@@ -1,58 +1,63 @@
 {
     "difficulty": "challenger",
     "rows": [
-        "Top",
-        "global",
-        "prestige"
+        "Adc",
+        "OG40",
+        "coven"
     ],
     "cols": [
-        "Piltover",
-        "silence",
-        "ascended"
+        "root",
+        "Demacia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Camille",
-            "Heimerdinger"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
+            "Aphelios",
             "Caitlyn",
-            "Ezreal"
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
             "Soraka"
         ],
         [
-            "Pantheon",
-            "Xerath"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Caitlyn",
-            "Camille",
-            "Ezreal"
+            "Master yi",
+            "Singed",
+            "Sivir"
         ],
         [
-            "Garen",
-            "Lulu",
-            "Soraka"
+            "LeBlanc",
+            "Lissandra",
+            "Morgana",
+            "Zyra"
         ],
         [
-            "Aatrox",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Pantheon"
+            "Morgana"
+        ],
+        [
+            "Ahri"
         ]
     ]
 }

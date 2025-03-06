@@ -1,107 +1,67 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
         "Support",
-        "Season 2-6",
-        "dark star"
+        "OG40",
+        "elderwood"
     ],
     "cols": [
-        "Piltover",
-        "knock-up",
-        "100% AP Ratio"
+        "Ionia",
+        "root",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Seraphine"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
             "Nautilus",
             "Neeko",
-            "Poppy",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Swain"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
+        ],
+        [
+            "Ahri",
             "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Wukong",
+            "Xayah"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
+            "LeBlanc",
+            "Xayah"
         ],
         [
-            "Jayce"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Aurelion Sol",
-            "Ekko",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Jhin",
-            "Jinx",
-            "Tahm kench",
-            "Thresh",
-            "Varus",
-            "Vi",
-            "Viktor",
-            "Volibear"
-        ],
-        [
-            "Orianna"
-        ],
-        [
-            "Chogath",
-            "Jarvan IV",
-            "Malphite"
-        ],
-        [
-            "Chogath",
-            "Jhin",
-            "Karma",
-            "Lux",
-            "Thresh",
-            "Varus",
-            "Xerath"
+            "Ahri"
         ]
     ]
 }

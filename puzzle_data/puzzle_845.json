@@ -1,67 +1,49 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "worlds",
+        "Adc",
+        "Space Groove",
         "Season 2-6"
     ],
     "cols": [
-        "root",
         "Demacia",
-        "ascended"
+        "root",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
+            "Lucian",
             "Vayne"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
         ],
         [
             "Aphelios",
             "Caitlyn",
             "Jhin",
             "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Xayah"
+        ],
+        [
+            "Lux"
+        ],
+        [
+            "Lissandra",
+            "Lux",
+            "Nunu"
+        ],
+        [
+            "Nami"
         ],
         [
             "Fiora",
-            "Jarvan IV",
-            "Vayne"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Leona",
-            "Renekton"
+            "Lucian",
+            "Quinn"
         ],
         [
             "Ivern",
@@ -75,15 +57,9 @@
             "Zyra"
         ],
         [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
+            "Ahri",
+            "Nami",
+            "Rengar"
         ]
     ]
 }

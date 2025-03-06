@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "pool party",
-        "global"
+        "Season 2-6",
+        "coven"
     ],
     "cols": [
         "stun",
-        "Zaun",
-        "100% AP Ratio"
+        "Ionia",
+        "vastayan"
     ],
     "solutions": [
         [
@@ -41,82 +41,76 @@
             "Zac"
         ],
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
             "Wukong"
         ],
         [
+            "Aurelion Sol",
+            "Bard",
             "Braum",
+            "Ekko",
+            "Elise",
             "Fiora",
-            "Heimerdinger",
-            "Leona",
-            "Orianna",
-            "Renekton",
-            "Sett",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
             "Syndra",
+            "Tahm kench",
             "Taliyah",
-            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
             "Zac"
         ],
         [
-            "Dr. Mundo",
-            "Orianna",
-            "Singed",
-            "Zac",
-            "Ziggs"
+            "Ahri",
+            "Ivern",
+            "Jhin",
+            "Syndra",
+            "Varus",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Fiora",
-            "Gangplank"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
+            "Ahri",
+            "Nami",
+            "Rengar"
         ],
         [
             "Ashe",
-            "Aurelion Sol",
-            "Briar",
-            "Ekko",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Nocturne",
-            "Pantheon",
-            "Shen",
-            "Twisted fate",
-            "Xerath"
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Syndra"
+        ],
+        [
+            "Ahri",
+            "Nami"
         ]
     ]
 }

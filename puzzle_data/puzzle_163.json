@@ -1,104 +1,135 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "life steal",
-        "coven"
+        "Support",
+        "pool party",
+        "global"
     ],
     "cols": [
-        "Demacia",
+        "Ionia",
         "slow",
-        "shred"
+        "yordle"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Aphelios",
             "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jayce",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
             "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Jayce",
-            "Kogmaw"
-        ],
-        [
-            "Morgana"
-        ],
-        [
-            "Aatrox",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Morgana",
-            "Nasus",
-            "Nilah",
-            "Olaf",
-            "Samira",
-            "Senna",
-            "Sion",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Vladimir",
-            "Warwick"
-        ],
-        [
-            "Briar",
-            "Nasus",
-            "Olaf",
-            "Sion",
-            "Trundle"
-        ],
-        [
-            "Morgana"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Evelynn",
-            "Lissandra",
+            "Milio",
             "Morgana",
             "Nami",
-            "Nilah",
-            "Syndra",
+            "Nautilus",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
             "Zyra"
         ],
         [
-            "Evelynn"
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Lee sin",
+            "Sett",
+            "Syndra"
+        ],
+        [
+            "Braum",
+            "Caitlyn",
+            "Dr. Mundo",
+            "Draven",
+            "Fiora",
+            "Gangplank",
+            "Graves",
+            "Heimerdinger",
+            "Jarvan IV",
+            "Lee sin",
+            "Leona",
+            "Lulu",
+            "Miss Fortune",
+            "Orianna",
+            "Reksai",
+            "Sett",
+            "Singed",
+            "Syndra",
+            "Taliyah",
+            "Zac",
+            "Ziggs",
+            "Zoe"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Ziggs"
+        ],
+        [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Nocturne",
+            "Ornn",
+            "Pantheon",
+            "Ryze",
+            "Senna",
+            "Shen",
+            "Sion",
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

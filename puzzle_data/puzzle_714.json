@@ -1,69 +1,99 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "invis",
-        "dark star"
+        "Adc",
+        "Season 7+",
+        "shield"
     ],
     "cols": [
+        "knock-up",
         "Zaun",
-        "fear",
-        "100% AP Ratio"
+        "shred"
     ],
     "solutions": [
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
+            "Kalista",
+            "Samira",
             "Ziggs"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Aurelion Sol",
             "Corki",
+            "Jayce",
+            "Kogmaw"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Briar",
+            "Rell",
+            "Zoe"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Blitzcrank",
             "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
+            "Janna",
+            "Orianna",
+            "Renata glasc",
+            "Urgot",
+            "Vi",
+            "Viktor"
         ],
         [
-            "Twitch"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Kaisa",
-            "Neeko",
-            "Viego",
-            "Wukong"
-        ],
-        [
-            "Orianna"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Chogath",
-            "Jhin",
-            "Karma",
-            "Lux",
-            "Thresh",
-            "Varus",
-            "Xerath"
+            "Garen",
+            "Jarvan IV",
+            "Mordekaiser",
+            "Olaf",
+            "Rell",
+            "Rumble",
+            "Sion",
+            "Vi"
         ]
     ]
 }

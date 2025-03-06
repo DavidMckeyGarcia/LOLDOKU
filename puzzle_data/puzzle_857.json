@@ -1,112 +1,85 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "pool party",
-        "OG40"
+        "OG40",
+        "arcade"
     ],
     "cols": [
-        "stun",
-        "Targon",
-        "shred"
+        "Ixtal",
+        "root",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
+            "Malphite",
+            "Skarner"
+        ],
+        [
             "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
+            "Maokai",
+            "Singed",
+            "Swain",
             "Zac"
         ],
         [
-            "Pantheon"
-        ],
-        [
-            "Garen",
-            "Jarvan IV",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
             "Wukong"
         ],
         [
-            "Braum",
-            "Fiora",
-            "Heimerdinger",
-            "Leona",
-            "Orianna",
-            "Renekton",
-            "Sett",
-            "Syndra",
-            "Taliyah",
-            "Taric",
-            "Zac"
+            "Malphite"
         ],
         [
-            "Leona",
-            "Taric",
-            "Zoe"
-        ],
-        [
-            "Jarvan IV",
-            "Renekton",
-            "Zoe"
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
             "Ashe",
             "Blitzcrank",
-            "Heimerdinger",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
             "Jax",
-            "Morgana",
+            "Master yi",
             "Nunu",
             "Rammus",
-            "Sion",
-            "Taric",
+            "Sivir",
+            "Tristana",
             "Twisted fate",
             "Veigar",
             "Warwick",
             "Zilean"
         ],
         [
-            "Soraka",
-            "Taric"
+            "Qiyana"
         ],
         [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
             "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
+            "Hecarim",
+            "Kaisa",
+            "Veigar"
         ]
     ]
 }

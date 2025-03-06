@@ -1,70 +1,95 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "prestige",
-        "invis"
+        "Mid",
+        "shield",
+        "prestige"
     ],
     "cols": [
-        "Zaun",
+        "Bandle City",
         "knock-up",
-        "shred"
+        "tether"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Belveth",
-            "Briar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
             "Fizz",
+            "Galio",
             "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
+            "Neeko",
             "Sylas",
             "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Lulu",
             "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
+            "Yuumi"
         ],
         [
-            "Jinx",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Karma",
+            "Kled",
+            "Morgana",
+            "Nocturne",
             "Renata glasc",
-            "Zeri"
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Fizz",
+            "Lulu",
+            "Teemo",
+            "Yuumi"
         ],
         [
             "Aatrox",
+            "Diana",
             "Fizz",
             "Ksante",
             "Kayn",
@@ -79,21 +104,12 @@
             "Zyra"
         ],
         [
-            "Evelynn",
-            "Garen",
-            "Zoe"
-        ],
-        [
-            "Twitch"
-        ],
-        [
-            "Neeko",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "Rengar",
-            "Wukong"
+            "Aatrox",
+            "LeBlanc",
+            "Morgana",
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ]
     ]
 }

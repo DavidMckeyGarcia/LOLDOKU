@@ -1,117 +1,93 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "Season 7+",
-        "coven"
+        "Season 2-6",
+        "global"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "100% AP Ratio"
+        "knock-up",
+        "Shurima",
+        "celestial"
     ],
     "solutions": [
         [
-            "Ambessa",
             "Anivia",
-            "Annie",
             "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
             "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
             "Sylas",
-            "Syndra",
             "Taliyah",
-            "Twisted fate",
-            "Veigar",
             "Velkoz",
-            "Viktor",
-            "Xerath",
+            "Yasuo",
             "Yone",
+            "Ziggs"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
             "Zilean"
         ],
         [
-            "Fizz",
-            "Twisted fate"
+            "Aurelion Sol"
+        ],
+        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Taliyah"
         ],
         [
             "Aurelion Sol",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
+            "Bard"
         ],
         [
-            "Ambessa",
+            "Aurelion Sol",
             "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
+            "Galio",
             "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Sion",
+            "Taliyah",
+            "Ziggs"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Taliyah",
+            "Xerath"
         ],
         [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
-        ],
-        [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
-        ],
-        [
-            "Nami",
-            "Nilah"
-        ],
-        [
-            "Ashe",
-            "Evelynn"
+            "Aurelion Sol",
+            "Bard",
+            "Soraka"
         ]
     ]
 }

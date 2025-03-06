@@ -1,79 +1,92 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "blink",
-        "prestige"
+        "Jungle",
+        "cosmic",
+        "OG40"
     ],
     "cols": [
         "knock-up",
-        "Shadow Isles",
+        "Noxus",
         "ascended"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Karthus",
-            "Vex"
-        ],
-        [
-            "Azir",
+            "Belveth",
+            "Briar",
             "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Viego"
-        ],
-        [
-            "Pantheon"
-        ],
-        [
-            "Aatrox",
             "Fizz",
-            "Ksante",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
             "Kayn",
             "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
             "Sylas",
-            "Yasuo",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
             "Zyra"
         ],
         [
-            "Senna",
-            "Thresh"
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell"
         ],
         [
-            "Aatrox",
             "Diana",
             "Kayn",
-            "Leona",
+            "Nasus",
             "Pantheon"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Xin Zhao"
+        ],
+        [
+            "Sion",
+            "Vladimir"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Nasus",
+            "Taric"
         ]
     ]
 }

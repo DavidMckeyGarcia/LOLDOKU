@@ -1,77 +1,127 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "empyrean"
+        "Mid",
+        "shield",
+        "Fright Night"
     ],
     "cols": [
-        "root",
-        "Demacia",
+        "stun",
+        "Freljord",
         "yordle"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
             "Sylas",
-            "Vayne"
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Gnar",
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Corki",
+            "Fizz",
             "Heimerdinger",
             "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Gnar",
-            "Kled",
-            "Lulu",
+            "Tristana",
+            "Veigar",
+            "Vex",
             "Ziggs"
         ],
         [
-            "Jhin",
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
             "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Kayle",
-            "Lux"
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
         ],
         [
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
             "Vex"
+        ],
+        [
+            "Annie",
+            "Nautilus",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Urgot",
+            "Veigar"
+        ],
+        [
+            "Nunu",
+            "Trundle"
+        ],
+        [
+            "Veigar"
         ]
     ]
 }

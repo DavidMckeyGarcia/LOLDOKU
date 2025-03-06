@@ -1,131 +1,93 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
         "Jungle",
-        "Season 2-6",
-        "coven"
+        "cosmic",
+        "life steal"
     ],
     "cols": [
-        "Ionia",
-        "stun",
-        "Immunity"
+        "Noxus",
+        "fear",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ivern",
+            "Briar",
+            "Elise",
             "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
+            "Mordekaiser",
+            "Rell"
         ],
         [
-            "Amumu",
-            "Brand",
             "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
+            "Fiddlesticks",
             "Hecarim",
-            "Ivern",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Fizz",
+            "Hecarim",
             "Jax",
-            "Morgana",
-            "Nami",
-            "Nautilus",
+            "Master yi",
+            "Nocturne",
             "Nunu",
             "Pantheon",
-            "Poppy",
-            "Qiyana",
             "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
+            "Shen",
+            "Shyvana",
             "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
             "Vi",
             "Viego",
             "Volibear",
             "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Wukong",
+            "Xin Zhao"
         ],
         [
-            "Camille",
-            "Ekko",
-            "Evelynn",
-            "Fizz",
-            "Karthus",
-            "Kayn",
-            "Viego",
-            "Zac"
+            "Sion",
+            "Vladimir"
         ],
         [
-            "Ahri",
-            "Ivern",
-            "Jhin",
-            "Syndra",
-            "Varus",
-            "Yasuo",
-            "Zed"
+            "Hecarim"
         ],
         [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
+            "Belveth",
             "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
+            "Jhin",
+            "Lux",
+            "Master yi",
+            "Nunu",
+            "Skarner",
+            "Varus",
+            "Vladimir",
+            "Xin Zhao"
         ],
         [
-            "Bard",
-            "Ekko",
-            "Fiora",
-            "Kled",
-            "Lissandra",
-            "Zac",
-            "Zed"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Samira",
+            "Sion",
+            "Vladimir"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Syndra"
+            "Aatrox",
+            "Briar",
+            "Warwick"
         ],
         [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
-        ],
-        [
-            "Camille",
-            "Evelynn",
-            "Lissandra"
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Viego",
+            "Vladimir",
+            "Warwick"
         ]
     ]
 }

@@ -1,71 +1,43 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "true damage",
-        "Season 7+"
+        "Support",
+        "Season 7+",
+        "dash"
     ],
     "cols": [
-        "Shadow Isles",
         "root",
-        "manaless"
+        "Demacia",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Hecarim",
-            "Karthus",
+            "Karma",
+            "Leona",
+            "Lux",
             "Maokai",
-            "Viego"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
+            "Mel",
             "Morgana",
             "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
-            "Zac"
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
-            "Gwen"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Akali",
-            "Belveth",
-            "Garen",
-            "Sett",
-            "Yone"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
+            "Nami",
+            "Neeko",
+            "Rakan"
         ],
         [
             "Aphelios",
@@ -79,12 +51,45 @@
             "Xayah"
         ],
         [
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Sylas"
+        ],
+        [
+            "Aurora",
+            "Neeko",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Jarvan IV",
+            "Lucian",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sylas",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Ahri",
+            "Aurora",
+            "Rakan",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

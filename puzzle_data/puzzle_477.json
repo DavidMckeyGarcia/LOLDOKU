@@ -1,78 +1,65 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "Space Groove"
+        "Top",
+        "Season 2-6",
+        "true damage"
     ],
     "cols": [
-        "root",
-        "Targon",
-        "manaless"
+        "silence",
+        "Freljord",
+        "tether"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Braum",
+            "Gnar",
+            "Kindred",
             "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Sejuani",
+            "Volibear"
         ],
         [
-            "Aurelion Sol",
-            "Diana",
-            "Pantheon",
-            "Zoe"
+            "Aatrox",
+            "Illaoi",
+            "Kalista",
+            "Kled",
+            "Zac"
         ],
         [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Nunu",
+            "Olaf"
         ],
         [
-            "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Sett",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Lissandra",
-            "Lux",
-            "Nunu"
-        ],
-        [
-            "Taric"
-        ],
-        [
-            "Rumble"
+            "Renata glasc"
         ]
     ]
 }

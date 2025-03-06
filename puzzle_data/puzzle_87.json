@@ -1,53 +1,105 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "prestige",
-        "Season 7+"
+        "Mid",
+        "Season 2-6",
+        "prestige"
     ],
     "cols": [
+        "Piltover",
         "stun",
-        "Bandle City",
-        "darkin"
+        "manaless"
     ],
     "solutions": [
         [
+            "Ezreal",
+            "Heimerdinger",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
             "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
             "Gragas",
             "Heimerdinger",
             "Irelia",
-            "Jax",
-            "Ksante",
             "Kennen",
-            "Ornn",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
             "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
+            "Qiyana",
+            "Seraphine",
             "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
             "Yone",
+            "Zilean"
+        ],
+        [
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Kennen",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Jayce"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
             "Zac"
         ],
         [
-            "Heimerdinger",
-            "Rumble",
-            "Teemo"
+            "Aatrox",
+            "Gnar",
+            "Kled",
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ],
         [
-            "Aatrox",
-            "Kayn"
+            "Caitlyn",
+            "Camille",
+            "Ezreal"
         ],
         [
             "Brand",
@@ -73,38 +125,14 @@
             "Volibear"
         ],
         [
-            "Fizz",
-            "Lulu",
-            "Teemo",
-            "Yuumi"
-        ],
-        [
             "Aatrox",
-            "Kayn"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
+            "Akali",
+            "Garen",
+            "Katarina",
+            "Lee sin",
             "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Yuumi"
-        ],
-        [
-            "Kayn",
-            "Naafiri"
+            "Yasuo",
+            "Zed"
         ]
     ]
 }

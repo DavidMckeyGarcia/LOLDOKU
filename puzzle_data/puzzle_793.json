@@ -1,108 +1,63 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "Space Groove",
-        "Season 2-6"
+        "Adc",
+        "true damage",
+        "dark star"
     ],
     "cols": [
-        "knock-up",
         "Freljord",
-        "yordle"
+        "stun",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Ashe"
         ],
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Corki"
         ],
         [
-            "Blitzcrank",
-            "Gragas",
-            "Lulu",
-            "Nami",
             "Nunu",
-            "Samira"
+            "Olaf"
         ],
         [
-            "Gragas",
-            "Lissandra",
-            "Nunu"
-        ],
-        [
-            "Lulu",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
+            "Amumu",
+            "Camille",
+            "Fiora",
             "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
             "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Yone"
         ],
         [
-            "Braum",
-            "Gnar",
-            "Kindred",
+            "Ahri",
+            "Corki"
+        ],
+        [
+            "Lissandra"
+        ],
+        [
             "Lissandra",
-            "Sejuani",
-            "Volibear"
+            "Orianna",
+            "Thresh",
+            "Xerath"
         ],
         [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
+            "Lissandra",
+            "Orianna"
         ]
     ]
 }

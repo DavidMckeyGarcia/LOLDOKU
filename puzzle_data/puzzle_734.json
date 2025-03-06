@@ -1,122 +1,74 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "prestige",
-        "Season 7+"
+        "Adc",
+        "Season 2-6",
+        "hextech"
     ],
     "cols": [
-        "Freljord",
-        "stun",
-        "tether"
+        "Zaun",
+        "root",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
             "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
-        ],
-        [
-            "Brand",
-            "Kindred",
+            "Ivern",
+            "Jhin",
+            "Jinx",
             "Lissandra",
-            "Volibear"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
             "Aatrox",
-            "LeBlanc",
-            "Morgana",
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Ahri",
+            "Darius",
+            "Viktor"
         ],
         [
-            "Aurora",
-            "Ornn"
+            "Janna",
+            "Singed",
+            "Ziggs"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Singed",
+            "Swain"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Singed",
+            "Swain"
         ]
     ]
 }

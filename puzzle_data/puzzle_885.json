@@ -1,115 +1,61 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
         "Support",
-        "dash",
-        "Season 7+"
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
-        "The Void",
-        "tether"
+        "Piltover",
+        "silence",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Alistar",
+            "Heimerdinger",
+            "Seraphine"
+        ],
+        [
             "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
             "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Soraka"
         ],
         [
-            "Velkoz"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Fizz",
+            "Bard",
             "Galio",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Malphite",
-            "Nautilus",
-            "Ornn",
-            "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Yone",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Belveth",
-            "Kaisa",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Nocturne",
-            "Sylas",
+            "Mel",
             "Yuumi",
-            "Zac"
+            "Zilean"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Camille"
         ],
         [
-            "Belveth",
-            "Kaisa"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Camille",
+            "Fiora",
+            "Kogmaw"
+        ],
+        [
+            "Heimerdinger"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Evelynn",
+            "Karthus",
+            "Kayle",
+            "Ryze",
+            "Sion",
+            "Zilean"
         ]
     ]
 }

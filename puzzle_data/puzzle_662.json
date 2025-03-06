@@ -1,81 +1,96 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
+        "Top",
         "life steal",
-        "OG40"
+        "Season 7+"
     ],
     "cols": [
-        "Noxus",
-        "stun",
-        "ascended"
+        "knock-up",
+        "Bilgewater",
+        "shred"
     ],
     "solutions": [
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Ambessa",
-            "Briar",
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
             "Ksante",
-            "Morgana",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
             "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
+        ],
+        [
+            "Garen",
+            "Jarvan IV",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Wukong"
         ],
         [
             "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
             "Kayn",
-            "Nasus"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
+            "Lee sin",
+            "Samira",
             "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Trundle"
         ],
         [
+            "Illaoi",
+            "Nilah"
+        ],
+        [
+            "Briar",
             "Nasus",
-            "Taric"
+            "Olaf",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Briar",
+            "Rell",
+            "Zoe"
         ]
     ]
 }

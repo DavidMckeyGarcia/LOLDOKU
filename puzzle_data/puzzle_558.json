@@ -1,105 +1,119 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "OG40",
-        "invis"
+        "Support",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
+        "Noxus",
         "stun",
-        "Zaun",
-        "shred"
+        "Immunity"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
+            "Alistar",
             "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Karthus",
-            "Zoe"
+            "Mel",
+            "Rell",
+            "Swain"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Anivia",
             "Annie",
             "Ashe",
+            "Bard",
             "Blitzcrank",
+            "Brand",
+            "Braum",
             "Heimerdinger",
-            "Jax",
+            "Leona",
+            "Milio",
             "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
             "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
             "Zilean"
         ],
         [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Bard",
+            "Galio",
+            "Mel",
+            "Yuumi",
+            "Zilean"
         ],
         [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
+            "Darius",
+            "Draven",
+            "Samira"
         ],
         [
-            "Neeko",
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
             "Pyke",
-            "Qiyana",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
             "Vayne",
-            "Viego"
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Twitch"
+            "Camille",
+            "Fiora",
+            "Kogmaw"
         ],
         [
-            "Rengar",
-            "Wukong"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Aurora",
+            "Camille",
+            "Kayn",
+            "Mel",
+            "Viego",
+            "Xayah",
+            "Yuumi"
         ]
     ]
 }

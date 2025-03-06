@@ -1,60 +1,132 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "true damage"
+        "Jungle",
+        "shield",
+        "empyrean"
     ],
     "cols": [
-        "fear",
-        "Zaun",
-        "shred"
+        "Ionia",
+        "stun",
+        "ascended"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
         ],
         [
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
             "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Karthus",
-            "Zoe"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Briar",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
             "Rell",
-            "Zoe"
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Darius",
-            "Urgot"
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
         ],
         [
+            "Hwei",
+            "Ivern",
+            "Karma",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
             "Renata glasc",
-            "Twitch",
-            "Urgot"
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Taric"
+        ],
+        [
+            "Akali",
+            "Jhin",
+            "Varus",
+            "Zed"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
+            "Zac"
+        ],
+        [
+            "Varus"
         ]
     ]
 }

@@ -1,99 +1,109 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "prestige",
-        "ult execute"
+        "Mid",
+        "empyrean",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Noxus",
+        "Ionia",
+        "stun",
         "ult reset"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Fizz",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Aatrox",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
-        ],
-        [
-            "Aatrox",
             "Ahri",
-            "Darius",
-            "Sivir",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
             "Swain",
-            "Vayne"
+            "Vex",
+            "Viktor"
         ],
         [
-            "Chogath",
-            "Reksai",
-            "Riven"
+            "Akali",
+            "Jhin",
+            "Varus",
+            "Zed"
         ],
         [
-            "Darius",
-            "Draven",
-            "Riven"
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
+            "Zac"
         ],
         [
-            "Darius",
-            "Viego"
+            "Vex"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

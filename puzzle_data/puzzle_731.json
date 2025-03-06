@@ -1,108 +1,95 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
+        "Jungle",
         "PROJECT",
-        "life steal"
+        "Season 2-6"
     ],
     "cols": [
-        "slow",
-        "Bilgewater",
-        "ascended"
+        "root",
+        "Shurima",
+        "manaless"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jayce",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
+        ],
+        [
             "Jhin",
             "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
+            "Leona",
             "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Miss Fortune",
-            "Nilah"
-        ],
-        [
             "Varus"
+        ],
+        [
+            "Jax",
+            "Renekton"
         ],
         [
             "Akali",
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Gangplank",
-            "Irelia",
-            "Jhin",
-            "Jinx",
-            "Leona",
+            "Katarina",
             "Mordekaiser",
-            "Pyke",
-            "Sejuani",
-            "Senna",
-            "Sylas",
-            "Varus",
-            "Warwick",
+            "Renekton",
+            "Yasuo",
             "Zed"
         ],
         [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Leona",
-            "Renekton",
-            "Varus"
-        ],
-        [
-            "Aatrox",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Morgana",
-            "Nasus",
-            "Nilah",
-            "Olaf",
-            "Samira",
-            "Senna",
-            "Sion",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Vladimir",
-            "Warwick"
-        ],
-        [
-            "Illaoi",
-            "Nilah"
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
             "Aatrox",
-            "Kayn",
-            "Nasus"
+            "Azir",
+            "Taliyah"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
+            "Kled",
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ]
     ]
 }

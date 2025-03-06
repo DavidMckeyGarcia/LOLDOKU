@@ -1,20 +1,16 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "prestige",
-        "Season 2-6"
+        "Season 7+",
+        "global"
     ],
     "cols": [
-        "Piltover",
         "root",
-        "vastayan"
+        "Shadow Isles",
+        "shred"
     ],
     "solutions": [
-        [
-            "Camille",
-            "Heimerdinger"
-        ],
         [
             "Ksante",
             "Maokai",
@@ -23,57 +19,64 @@
             "Zac"
         ],
         [
+            "Gwen",
+            "Maokai",
+            "Yorick"
+        ],
+        [
+            "Garen",
+            "Jarvan IV",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rumble",
+            "Sion",
+            "Trundle",
             "Wukong"
         ],
         [
-            "Caitlyn",
-            "Camille",
-            "Ezreal"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
+            "Aphelios",
+            "Hwei",
             "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
+            "Mel",
             "Neeko",
-            "Qiyana",
             "Renata glasc",
             "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
-        ],
-        [
-            "Ahri",
-            "Neeko",
-            "Rakan",
+            "Seraphine",
             "Xayah"
         ],
         [
-            "Jayce"
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
         ],
         [
-            "Ivern",
-            "Jhin",
+            "Briar",
+            "Rell",
+            "Zoe"
+        ],
+        [
+            "Caitlyn",
             "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar"
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Briar",
+            "Karthus",
+            "Sion"
         ]
     ]
 }

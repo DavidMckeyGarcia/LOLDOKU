@@ -1,28 +1,16 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "worlds",
-        "global"
+        "worlds skin",
+        "Season 2-6"
     ],
     "cols": [
-        "Ionia",
         "stun",
-        "shred"
+        "Ixtal",
+        "30+ wins"
     ],
     "solutions": [
-        [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
         [
             "Ambessa",
             "Anivia",
@@ -55,21 +43,20 @@
             "Zilean"
         ],
         [
-            "Corki",
-            "Karthus",
-            "Zoe"
+            "Neeko",
+            "Qiyana"
         ],
         [
-            "Akali",
-            "Irelia",
-            "Jhin",
-            "Kennen",
-            "Lee sin",
-            "Rakan",
-            "Shen",
-            "Syndra",
-            "Xayah",
-            "Zed"
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ],
         [
             "Alistar",
@@ -98,35 +85,54 @@
             "Zac"
         ],
         [
-            "Corki",
-            "Jarvan IV",
-            "Jayce",
-            "Karthus",
-            "Renekton",
+            "Malphite",
+            "Nidalee",
             "Rengar",
-            "Zoe"
+            "Zyra"
         ],
         [
-            "Lillia",
-            "Shen"
+            "Azir",
+            "Corki",
+            "LeBlanc",
+            "Orianna",
+            "Ryze",
+            "Taliyah"
         ],
         [
-            "Ashe",
             "Aurelion Sol",
             "Bard",
-            "Briar",
+            "Braum",
             "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
             "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Briar",
-            "Karthus",
-            "Sion"
+            "Rengar",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
         ]
     ]
 }

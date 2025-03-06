@@ -1,78 +1,106 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
+        "Support",
         "Season 2-6",
-        "invis"
+        "true damage"
     ],
     "cols": [
-        "Shadow Isles",
-        "knock-up",
-        "riot records"
+        "Piltover",
+        "silence",
+        "never played"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Senna"
+            "Heimerdinger",
+            "Seraphine"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Aphelios",
-            "Ezreal",
-            "Kaisa",
-            "Senna"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Ivern",
-            "Kalista",
+            "Blitzcrank",
             "Lulu",
+            "Soraka"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
             "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
             "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
+            "Thresh",
+            "Yuumi",
             "Zyra"
         ],
         [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
+            "Jayce"
         ],
         [
-            "Senna",
-            "Viego"
+            "Lulu"
         ],
         [
-            "Neeko",
+            "Bard",
+            "Braum",
+            "Draven",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kindred",
+            "Kled",
+            "Nami",
             "Reksai",
-            "Wukong"
+            "Rengar",
+            "Sejuani",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Volibear",
+            "Zyra"
         ],
         [
-            "Akali",
-            "Kaisa",
-            "Qiyana",
-            "Senna",
-            "Viego"
+            "Camille"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

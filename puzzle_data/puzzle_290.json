@@ -1,103 +1,63 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
+        "Mid",
         "OG40",
-        "dash"
+        "global"
     ],
     "cols": [
-        "Ionia",
-        "root",
-        "Immunity"
+        "fear",
+        "Shadow Isles",
+        "arcane"
     ],
     "solutions": [
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Camille",
-            "Fiora",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Sion",
-            "Zac"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Evelynn",
             "Karthus",
-            "Kayle",
-            "Ryze",
-            "Sion",
-            "Zilean"
+            "Vex"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Irelia",
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
+            "Ambessa",
+            "Ekko",
+            "Heimerdinger",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
         ],
         [
             "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Aurora",
-            "Bard",
-            "Camille",
             "Ekko",
-            "Fiora",
-            "Fizz",
-            "Galio",
-            "Kayn",
-            "Kled",
-            "Viego",
-            "Yuumi",
-            "Zac"
+            "Jinx",
+            "Mel"
         ]
     ]
 }

@@ -1,80 +1,105 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "life steal",
-        "Season 7+"
+        "Top",
+        "Season 2-6",
+        "evolver"
     ],
     "cols": [
-        "root",
         "Noxus",
-        "tether"
+        "stun",
+        "darkin"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Kalista"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
             "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
             "Sion",
-            "Vladimir"
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
             "Aatrox",
-            "Illaoi",
-            "Morgana"
+            "Kayn"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
         ],
         [
-            "Ambessa",
-            "Briar",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Varus"
+        ],
+        [
             "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
             "Smolder"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Bard",
+            "Viktor"
+        ],
+        [
+            "Kayn"
         ]
     ]
 }

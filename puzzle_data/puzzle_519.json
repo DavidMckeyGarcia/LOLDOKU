@@ -1,65 +1,98 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
+        "Mid",
         "Season 2-6",
-        "global"
+        "blink"
     ],
     "cols": [
-        "silence",
-        "Freljord",
-        "arcane"
+        "Targon",
+        "knock-up",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
         ],
         [
-            "Brand",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Braum",
-            "Gnar",
-            "Kindred",
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
             "Lissandra",
-            "Sejuani",
-            "Volibear"
-        ],
-        [
-            "Ekko",
-            "Jayce",
-            "Jinx",
-            "Vi",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
             "Viktor"
         ],
         [
-            "Soraka"
+            "Aurelion Sol",
+            "Diana"
         ],
         [
-            "Ashe",
-            "Ornn"
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Caitlyn",
-            "Ekko",
-            "Jinx",
-            "Mel"
+            "Ahri",
+            "Azir",
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Pantheon"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
         ]
     ]
 }

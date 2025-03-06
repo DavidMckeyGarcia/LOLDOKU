@@ -1,113 +1,86 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "true damage",
-        "prestige"
+        "Top",
+        "cosmic",
+        "Season 2-6"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "shred"
+        "fear",
+        "Bilgewater",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Fizz",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
         ],
         [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
             "Wukong"
         ],
         [
-            "Darius",
-            "Draven",
-            "Samira"
+            "Hecarim"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus"
         ],
         [
             "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
+            "Hecarim",
+            "Jhin",
+            "Lux",
+            "Master yi",
             "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
-        ],
-        [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
+            "Skarner",
+            "Varus",
+            "Vladimir",
+            "Xin Zhao"
         ],
         [
             "Aatrox",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
+            "Darius",
+            "Hecarim"
         ],
         [
-            "Evelynn",
-            "Garen",
-            "Zoe"
+            "Illaoi",
+            "Nami",
+            "Nautilus",
+            "Tahm kench"
+        ],
+        [
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

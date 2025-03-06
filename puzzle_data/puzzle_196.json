@@ -1,90 +1,60 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "hextech",
+        "Adc",
+        "arcade",
         "OG40"
     ],
     "cols": [
         "stun",
         "Noxus",
-        "shred"
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Garen",
-            "Jarvan IV",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
             "Malzahar",
-            "Poppy",
-            "Rammus",
-            "Renekton",
-            "Sejuani",
-            "Sion"
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Sion",
-            "Swain"
+            "Riven"
         ],
         [
-            "Jarvan IV",
-            "Kogmaw",
-            "Renekton",
-            "Sion"
+            "Belveth",
+            "Blitzcrank",
+            "Corki",
+            "Hecarim",
+            "Kaisa",
+            "Veigar"
         ],
         [
             "Alistar",
@@ -112,11 +82,23 @@
             "Sion"
         ],
         [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
             "Corki",
             "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ]
     ]
 }

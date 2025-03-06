@@ -1,96 +1,75 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "OG40",
-        "dash"
+        "Top",
+        "invis",
+        "Season 2-6"
     ],
     "cols": [
+        "Ionia",
         "root",
-        "Shurima",
-        "infinite"
+        "0 games"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ksante",
             "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Ambessa",
+            "Illaoi"
+        ],
+        [
+            "Akali",
+            "Wukong"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
             "Qiyana",
             "Rengar",
-            "Shaco",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Ahri",
+            "Ivern",
+            "Jhin",
+            "Syndra",
+            "Varus",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
-        ],
-        [
-            "Kindred",
-            "Nasus",
-            "Shyvana",
-            "Sylas"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Chogath",
-            "Gangplank",
-            "Nasus",
-            "Sion",
-            "Veigar",
-            "Zilean"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Amumu",
-            "Azir",
-            "Jax",
-            "Ksante",
-            "Naafiri",
-            "Rammus",
-            "Renekton",
-            "Taliyah"
-        ],
-        [
-            "Bard",
-            "Kindred",
-            "Shyvana",
-            "Sylas",
-            "Thresh"
+            "Illaoi"
         ]
     ]
 }

@@ -1,127 +1,98 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "Space Groove",
-        "dash"
+        "Mid",
+        "prestige",
+        "Season 7+"
     ],
     "cols": [
-        "knock-up",
         "Shurima",
-        "shred"
+        "knock-up",
+        "arcane"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
-        ],
-        [
-            "Garen",
-            "Jarvan IV",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
-        ],
-        [
-            "Blitzcrank",
-            "Gragas",
-            "Lulu",
-            "Nami",
-            "Nunu",
-            "Samira"
-        ],
-        [
-            "Nasus"
-        ],
-        [
-            "Nasus",
-            "Rumble"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
+            "Anivia",
             "Aurelion Sol",
             "Azir",
-            "Belveth",
-            "Braum",
-            "Briar",
+            "Chogath",
+            "Diana",
             "Fizz",
             "Galio",
             "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Malphite",
-            "Nautilus",
-            "Ornn",
-            "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
+            "Neeko",
             "Sylas",
             "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
+            "Velkoz",
             "Yasuo",
             "Yone",
-            "Zac",
             "Ziggs"
         ],
         [
-            "Aatrox",
-            "Amumu",
-            "Azir",
-            "Jax",
-            "Ksante",
-            "Naafiri",
-            "Rammus",
-            "Renekton",
-            "Taliyah"
+            "Ambessa",
+            "Ekko",
+            "Heimerdinger",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
         ],
         [
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Sivir"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "LeBlanc"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
+            "Belveth",
             "Briar",
-            "Corki",
-            "Jarvan IV",
-            "Jayce",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
             "Rell",
-            "Renekton",
-            "Rengar",
-            "Vi",
-            "Wukong"
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Mel"
         ]
     ]
 }

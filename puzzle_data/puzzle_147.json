@@ -1,16 +1,33 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
         "Support",
-        "global",
-        "worlds"
+        "PROJECT",
+        "OG40"
     ],
     "cols": [
+        "knock-up",
         "Demacia",
-        "root",
-        "celestial"
+        "never played"
     ],
     "solutions": [
+        [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
         [
             "Galio",
             "Lux",
@@ -19,68 +36,92 @@
             "Sona"
         ],
         [
-            "Karma",
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
             "Leona",
-            "Lux",
             "Maokai",
-            "Mel",
+            "Milio",
             "Morgana",
-            "Nautilus",
-            "Neeko",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
             "Renata glasc",
             "Senna",
-            "Seraphine",
+            "Sona",
             "Soraka",
-            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
             "Zyra"
         ],
         [
-            "Bard",
-            "Soraka"
-        ],
-        [
-            "Galio",
-            "Lux"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Soraka"
+            "Sejuani",
+            "Sylas",
+            "Vi",
+            "Yasuo"
         ],
         [
             "Fiora",
-            "Jarvan IV",
+            "Lucian",
+            "Sylas",
             "Vayne"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
+            "Ashe",
+            "Fiora",
             "Jhin",
             "Jinx",
-            "LeBlanc",
-            "Lee sin",
             "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
+            "Mordekaiser",
+            "Pyke",
+            "Sejuani",
+            "Senna",
+            "Vayne",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Bard"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ]
     ]
 }

@@ -1,55 +1,78 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 7+",
-        "dark star"
+        "Support",
+        "hextech",
+        "invis"
     ],
     "cols": [
-        "The Void",
-        "fear",
-        "tether"
+        "knock-up",
+        "Noxus",
+        "shred"
     ],
     "solutions": [
         [
-            "Chogath"
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Rell"
         ],
         [
-            "Belveth",
-            "Kaisa"
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
+            "Ziggs"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Alistar",
+            "Annie",
+            "Sion",
+            "Swain"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Jarvan IV",
+            "Kogmaw",
+            "Renekton",
+            "Sion"
         ],
         [
-            "Chogath",
-            "Khazix"
+            "Neeko",
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Shaco"
+            "LeBlanc",
+            "Talon"
         ],
         [
-            "Karma"
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

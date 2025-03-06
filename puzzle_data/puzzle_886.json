@@ -1,135 +1,72 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "OG40",
-        "true damage"
+        "Jungle",
+        "empyrean",
+        "OG40"
     ],
     "cols": [
-        "Demacia",
-        "slow",
-        "shred"
+        "Shurima",
+        "silence",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jayce",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Jayce",
-            "Kogmaw"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
+            "Amumu",
+            "Jax",
             "Nasus",
-            "Nunu",
             "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
+            "Taliyah"
+        ],
+        [
+            "Fiddlesticks"
+        ],
+        [
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Jax",
+            "Ksante"
+        ],
+        [
+            "Malzahar"
+        ],
+        [
+            "Jax",
+            "Jhin",
+            "Varus"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
             "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
             "Zilean"
         ],
         [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Vayne"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Belveth",
-            "Camille",
+            "Blitzcrank",
             "Chogath",
-            "Corki",
-            "Darius",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Ksante",
-            "Kogmaw",
-            "Lillia",
-            "Nunu",
-            "Olaf",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Sett",
-            "Syndra",
-            "Twitch",
-            "Urgot",
-            "Velkoz",
-            "Zoe"
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

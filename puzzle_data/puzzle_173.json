@@ -1,96 +1,73 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "cosmic",
-        "Season 7+"
+        "Adc",
+        "Season 7+",
+        "global"
     ],
     "cols": [
-        "stun",
-        "Bandle City",
-        "darkin"
+        "knock-up",
+        "Ionia",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
             "Corki",
-            "Fizz",
-            "Heimerdinger",
             "Tristana",
-            "Veigar"
+            "Ziggs"
         ],
         [
-            "Naafiri"
-        ],
-        [
-            "Anivia",
-            "Hecarim",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Sion",
-            "Skarner",
-            "Xin Zhao"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Ambessa",
+            "Belveth",
             "Briar",
-            "Camille",
             "Ksante",
-            "Milio",
+            "Kayn",
             "Neeko",
             "Ornn",
-            "Pyke",
+            "Rakan",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
+            "Samira",
             "Sylas",
-            "Viego",
             "Yone"
         ],
         [
-            "Yuumi"
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
         ],
         [
-            "Kayn",
-            "Naafiri"
+            "Vex"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

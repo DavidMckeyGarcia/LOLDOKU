@@ -1,28 +1,44 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "OG40",
-        "ult execute"
+        "Jungle",
+        "pool party",
+        "OG40"
     ],
     "cols": [
         "silence",
-        "Zaun",
-        "riot records"
+        "Demacia",
+        "ascended"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Fiddlesticks"
         ],
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
-            "Senna"
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Fiora",
+            "Jarvan IV"
+        ],
+        [
+            "Leona",
+            "Renekton",
+            "Taric"
         ],
         [
             "Blitzcrank",
@@ -32,30 +48,12 @@
             "Soraka"
         ],
         [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Jinx",
-            "Urgot"
-        ],
-        [
-            "Akali",
-            "Evelynn",
-            "Viego"
+            "Nasus",
+            "Taric"
         ]
     ]
 }

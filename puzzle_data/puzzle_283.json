@@ -1,87 +1,89 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "global",
-        "empyrean"
+        "Adc",
+        "Season 2-6",
+        "hextech"
     ],
     "cols": [
-        "The Void",
         "stun",
+        "Freljord",
         "yordle"
     ],
     "solutions": [
         [
-            "Velkoz"
-        ],
-        [
-            "Alistar",
-            "Annie",
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
+            "Ashe"
         ],
         [
-            "Kaisa"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Kled",
-            "Vex",
+            "Corki",
+            "Tristana",
             "Ziggs"
         ],
         [
-            "Malzahar"
-        ],
-        [
-            "Brand",
-            "Jax",
-            "Ksante",
-            "Malzahar",
-            "Pyke",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
             "Zac"
         ],
         [
-            "Vex"
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Gnar",
+            "Kled",
+            "Lulu",
+            "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
+        ],
+        [
+            "Anivia",
+            "Sejuani"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Tristana",
+            "Ziggs"
         ]
     ]
 }

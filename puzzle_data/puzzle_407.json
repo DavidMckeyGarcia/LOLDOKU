@@ -1,54 +1,84 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "dark star",
-        "Season 2-6"
+        "Mid",
+        "Season 2-6",
+        "evolver"
     ],
     "cols": [
-        "silence",
-        "Freljord",
-        "shred"
+        "knock-up",
+        "Demacia",
+        "celestial"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Ashe",
-            "Brand",
-            "Braum"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Rell"
+            "Aurelion Sol"
         ],
         [
-            "Chogath"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "Jarvan IV",
-            "Mordekaiser"
-        ],
-        [
-            "Lulu"
-        ],
-        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
             "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
             "Sejuani",
-            "Volibear"
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Jayce",
-            "Rengar",
-            "Vi"
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard"
+        ],
+        [
+            "Belveth",
+            "Kayn"
+        ],
+        [
+            "Kayle"
+        ],
+        [
+            "Bard"
         ]
     ]
 }

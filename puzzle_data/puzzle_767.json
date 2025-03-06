@@ -1,77 +1,137 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "invis",
-        "Season 7+"
+        "Adc",
+        "global",
+        "OG40"
     ],
     "cols": [
-        "Freljord",
-        "root",
-        "infinite"
+        "Zaun",
+        "slow",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Mel",
-            "Swain",
-            "Sylas",
-            "Veigar",
-            "Zilean"
-        ],
-        [
-            "Aurora"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Senna"
-        ],
-        [
-            "Aurora",
-            "Ornn"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
             "Aphelios",
-            "Hwei",
-            "Ksante",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
             "Mel",
-            "Neeko",
-            "Renata glasc",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
             "Senna",
             "Seraphine",
-            "Xayah"
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
             "Mel",
+            "Nocturne",
+            "Ornn",
+            "Pantheon",
+            "Ryze",
             "Senna",
-            "Smolder",
-            "Sylas"
+            "Shen",
+            "Sion",
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

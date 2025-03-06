@@ -1,111 +1,65 @@
 {
-    "difficulty": "silver",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "OG40",
-        "life steal"
+        "Top",
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "shred"
+        "fear",
+        "Targon",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Pantheon"
+        ],
+        [
+            "Camille",
+            "Fiora",
+            "Kayle",
             "Kayn",
-            "Mordekaiser",
-            "Rell"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Fizz",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
+            "Kled",
             "Sion",
-            "Vladimir"
+            "Zac"
         ],
         [
             "Aatrox",
-            "Belveth",
             "Briar",
-            "Ksante",
+            "Warwick"
+        ],
+        [
+            "Aphelios"
+        ],
+        [
             "Kayn",
-            "Lee sin",
-            "Samira",
             "Sion",
-            "Trundle"
+            "Viego",
+            "Vladimir"
         ],
         [
             "Briar",
-            "Nasus",
-            "Olaf",
-            "Sion",
-            "Trundle"
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Aphelios",
+            "Zoe"
+        ],
+        [
+            "Aurora",
+            "Camille",
+            "Kayn",
+            "Mel",
+            "Viego",
+            "Xayah",
+            "Yuumi"
         ]
     ]
 }

@@ -1,112 +1,131 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "global"
+        "Adc",
+        "global",
+        "OG40"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "infinite"
+        "slow",
+        "Ionia",
+        "0 games"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Fizz",
-            "Graves",
-            "Nami",
-            "Nautilus"
-        ],
-        [
-            "Kindred",
-            "Nasus",
-            "Shyvana",
-            "Sylas"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
             "Nilah",
-            "Pyke"
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
             "Mel",
-            "Senna",
-            "Smolder",
-            "Sylas"
+            "Samira"
         ],
         [
             "Ashe",
             "Aurelion Sol",
             "Bard",
             "Briar",
+            "Caitlyn",
+            "Draven",
             "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Nocturne",
             "Ornn",
             "Pantheon",
+            "Ryze",
+            "Senna",
+            "Shen",
             "Sion",
+            "Soraka",
             "Taliyah",
             "Twisted fate",
-            "Xerath"
+            "Vex",
+            "Xerath",
+            "Ziggs"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Lillia",
+            "Shen"
         ],
         [
-            "Bard",
-            "Draven",
-            "Gangplank",
+            "Briar",
             "Mel",
-            "Senna",
-            "Sion"
+            "Vex"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

@@ -1,83 +1,117 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "Season 7+",
-        "empyrean"
+        "Jungle",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "root",
-        "Ionia",
-        "tether"
+        "Demacia",
+        "stun",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
+        ],
+        [
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
             "Zac"
         ],
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
             "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
             "Yone"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Ahri",
+            "Belveth",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Vayne"
         ],
         [
-            "Aphelios",
-            "Hwei",
+            "Sylas"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
             "Ksante",
-            "Mel",
+            "Milio",
             "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
             "Renata glasc",
-            "Senna",
             "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
             "Sett",
-            "Xayah",
+            "Sylas",
+            "Viego",
             "Yone"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
-        ],
-        [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Jhin",
-            "Varus",
-            "Zed"
-        ],
-        [
-            "Malzahar",
-            "Nocturne",
-            "Zac"
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
         ]
     ]
 }

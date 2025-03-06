@@ -1,103 +1,131 @@
 {
     "difficulty": "silver",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "shield"
+        "Support",
+        "prestige",
+        "true damage"
     ],
     "cols": [
-        "root",
-        "Ionia",
-        "vastayan"
+        "stun",
+        "Demacia",
+        "riot records"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Qiyana",
-            "Ryze",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
             "Seraphine",
-            "Swain"
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Senna"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Sona",
+            "Sylas",
+            "Vayne"
         ],
         [
             "Ahri",
             "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Kennen",
+            "Evelynn",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Qiyana",
+            "Senna",
+            "Sett",
+            "Yasuo"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
             "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
         ],
         [
             "Ahri",
-            "Aurora",
-            "Neeko"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
+            "Akali",
             "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
+            "Olaf",
             "Sett",
-            "Xayah",
             "Yone"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
-        ],
-        [
-            "Hwei",
-            "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Neeko",
-            "Rakan"
         ]
     ]
 }

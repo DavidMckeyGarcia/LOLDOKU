@@ -1,76 +1,92 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
-        "dash",
-        "Season 2-6"
+        "prestige",
+        "Season 7+"
     ],
     "cols": [
-        "Noxus",
-        "fear",
-        "darkin"
+        "Shadow Isles",
+        "root",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
             "Hecarim",
-            "Nocturne",
+            "Karthus",
+            "Maokai",
+            "Viego"
+        ],
+        [
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
             "Shaco",
-            "Warwick"
+            "Zac",
+            "Zyra"
         ],
         [
-            "Kayn"
+            "Nami",
+            "Rengar",
+            "Wukong"
         ],
         [
-            "Alistar",
-            "Ambessa",
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Kled",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Talon"
+            "Senna",
+            "Thresh"
         ],
         [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
             "Shaco",
-            "Urgot",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Neeko",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Gwen",
+            "Senna",
             "Vex",
-            "Warwick"
+            "Viego"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Naafiri"
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Aatrox",
-            "Varus"
+            "Aurora",
+            "Neeko",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

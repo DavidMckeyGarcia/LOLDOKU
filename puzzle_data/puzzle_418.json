@@ -1,78 +1,149 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "coven",
-        "blink"
+        "Top",
+        "hextech",
+        "Season 7+"
     ],
     "cols": [
-        "knock-up",
-        "Piltover",
-        "Immunity"
+        "Freljord",
+        "slow",
+        "yordle"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Fizz",
-            "Galio",
+            "Gnar",
             "Gragas",
-            "Neeko",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Camille",
+            "Chogath",
+            "Darius",
+            "Dr. Mundo",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gnar",
+            "Gragas",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Irelia",
+            "Jarvan IV",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Quinn",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Singed",
+            "Sion",
+            "Skarner",
+            "Swain",
             "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Urgot",
+            "Volibear",
+            "Warwick",
+            "Yorick",
+            "Zac"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Anivia",
+            "Sejuani"
+        ],
+        [
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Kassadin",
+            "Kogmaw",
+            "Nocturne",
+            "Poppy",
+            "Rammus",
+            "Sejuani",
+            "Singed",
+            "Sion",
+            "Swain",
+            "Tristana",
             "Ziggs"
         ],
         [
-            "Ezreal",
-            "Heimerdinger",
-            "Orianna",
-            "Seraphine"
+            "Amumu",
+            "Poppy",
+            "Tristana",
+            "Ziggs"
         ],
         [
             "Aurora",
-            "Ekko",
-            "Fizz",
-            "Galio",
-            "Karthus",
-            "Kayle",
-            "Lissandra",
-            "Mel",
-            "Ryze",
-            "Vladimir",
-            "Zed",
-            "Zilean"
+            "Ornn"
         ],
         [
-            "Nami",
-            "Zyra"
-        ],
-        [
-            "Camille"
-        ],
-        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
             "Camille",
-            "Evelynn",
-            "Lissandra"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Ezreal"
-        ],
-        [
-            "Ekko",
-            "Lissandra",
-            "Ryze",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
             "Viego",
-            "Zed"
+            "Yuumi",
+            "Zeri",
+            "Zoe"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

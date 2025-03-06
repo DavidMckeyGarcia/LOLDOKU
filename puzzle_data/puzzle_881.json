@@ -1,113 +1,100 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "true damage",
-        "Season 2-6"
+        "Jungle",
+        "blink",
+        "OG40"
     ],
     "cols": [
         "knock-up",
-        "Piltover",
-        "manaless"
+        "Zaun",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Fizz",
             "Gragas",
+            "Ivern",
             "Jarvan IV",
-            "Ksante",
             "Kayn",
-            "Malphite",
-            "Ornn",
+            "Lee sin",
+            "Nami",
+            "Nautilus",
+            "Nunu",
             "Poppy",
-            "Riven",
-            "Sion",
+            "Reksai",
+            "Rell",
+            "Sejuani",
             "Sylas",
-            "Tahm kench",
+            "Taliyah",
             "Trundle",
+            "Vi",
             "Wukong",
-            "Yasuo",
-            "Yone",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
             "Zac"
         ],
         [
             "Camille",
-            "Heimerdinger"
-        ],
-        [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
+            "Ekko",
+            "Evelynn",
+            "Fizz",
+            "Karthus",
+            "Kayn",
+            "Viego",
             "Zac"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Camille"
-        ],
-        [
-            "Akali",
-            "Belveth",
-            "Garen",
-            "Sett",
-            "Yone"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
             "Reksai",
-            "Riven",
-            "Sejuani",
             "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
             "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Yone"
         ],
         [
-            "Jayce"
+            "Ekko"
         ],
         [
-            "Aatrox",
-            "Gnar",
-            "Kled",
-            "Reksai",
-            "Rengar",
-            "Yasuo",
-            "Zac",
+            "Ekko",
+            "Lissandra",
+            "Ryze",
+            "Viego",
             "Zed"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Evelynn",
+            "Karthus",
+            "Kayle",
+            "Ryze",
+            "Sion",
+            "Zilean"
         ]
     ]
 }

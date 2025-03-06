@@ -1,110 +1,79 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "true damage",
-        "worlds"
+        "Jungle",
+        "Space Groove",
+        "Season 2-6"
     ],
     "cols": [
+        "Noxus",
         "root",
-        "Piltover",
-        "100% AP Ratio"
+        "yordle"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Heimerdinger",
-            "Seraphine"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell"
         ],
         [
             "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Camille"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
-            "Nunu"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
             "Lee sin",
-            "Leona",
             "Maokai",
+            "Morgana",
+            "Nautilus",
             "Nunu",
+            "Qiyana",
             "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
+            "Shaco",
             "Zac",
             "Zyra"
         ],
         [
-            "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce",
-            "Orianna"
+            "Amumu",
+            "Fizz",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Alistar",
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Ekko",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
+            "Samira"
+        ],
+        [
+            "Lissandra",
+            "Lux",
+            "Nunu"
+        ],
+        [
+            "Lulu",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
+        ],
+        [
+            "Ivern",
             "Jhin",
             "Jinx",
-            "Kaisa",
-            "Nunu",
-            "Shen",
-            "Thresh",
-            "Twisted fate",
-            "Viego"
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Gnar",
+            "Kled",
+            "Lulu",
+            "Ziggs"
         ]
     ]
 }

@@ -2,21 +2,15 @@
     "difficulty": "gold",
     "rows": [
         "Mid",
-        "Space Groove",
+        "life steal",
         "Season 2-6"
     ],
     "cols": [
-        "Zaun",
         "stun",
-        "yordle"
+        "Freljord",
+        "0 games"
     ],
     "solutions": [
-        [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
         [
             "Ambessa",
             "Anivia",
@@ -49,39 +43,39 @@
             "Zilean"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Blitzcrank"
-        ],
-        [
-            "Blitzcrank",
+            "Anivia",
+            "Aurora",
+            "Brand",
             "Gragas",
-            "Lissandra",
-            "Nami",
-            "Nunu",
-            "Taric",
-            "Twisted fate"
+            "Lissandra"
         ],
         [
-            "Lulu",
-            "Rumble",
-            "Teemo"
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Naafiri",
+            "Vex"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Olaf",
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Illaoi",
+            "Samira"
         ],
         [
             "Aurelion Sol",
@@ -109,10 +103,15 @@
             "Zac"
         ],
         [
+            "Braum",
             "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Illaoi"
         ]
     ]
 }

@@ -1,93 +1,163 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "dark star",
-        "life steal"
+        "global",
+        "coven"
     ],
     "cols": [
-        "Demacia",
-        "knock-up",
-        "riot records"
+        "slow",
+        "Freljord",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
             "Belveth",
+            "Brand",
             "Briar",
+            "Camille",
+            "Diana",
+            "Dr. Mundo",
+            "Ekko",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
             "Fizz",
             "Gragas",
+            "Graves",
+            "Hecarim",
             "Ivern",
             "Jarvan IV",
+            "Karthus",
             "Kayn",
+            "Khazix",
+            "Kindred",
             "Lee sin",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
             "Nami",
+            "Nasus",
             "Nautilus",
+            "Nocturne",
             "Nunu",
+            "Olaf",
+            "Pantheon",
             "Poppy",
+            "Qiyana",
+            "Rammus",
             "Reksai",
-            "Rell",
+            "Rengar",
+            "Rumble",
             "Sejuani",
+            "Sett",
+            "Shaco",
+            "Shen",
+            "Skarner",
             "Sylas",
             "Taliyah",
+            "Teemo",
             "Trundle",
-            "Vi",
-            "Wukong",
+            "Udyr",
+            "Viego",
+            "Volibear",
+            "Warwick",
             "Xin Zhao",
             "Zac",
             "Zyra"
         ],
         [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
             "Olaf",
-            "Qiyana",
-            "Sett",
-            "Viego"
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
+            "Elise",
+            "Gragas",
+            "Graves",
             "Jarvan IV",
-            "Lux"
-        ],
-        [
-            "Chogath",
-            "Jarvan IV",
-            "Malphite"
-        ],
-        [
-            "Mordekaiser"
-        ],
-        [
-            "Morgana"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
+            "Jax",
             "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Kayn",
-            "Olaf",
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Nocturne",
+            "Ornn",
+            "Pantheon",
+            "Ryze",
             "Senna",
-            "Viego"
+            "Shen",
+            "Sion",
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Evelynn",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nilah",
+            "Syndra",
+            "Zyra"
+        ],
+        [
+            "Ashe",
+            "Lissandra"
+        ],
+        [
+            "Ashe",
+            "Elise",
+            "Syndra"
         ]
     ]
 }

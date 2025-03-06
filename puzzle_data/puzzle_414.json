@@ -2,15 +2,21 @@
     "difficulty": "bronze",
     "rows": [
         "Mid",
-        "ult execute",
+        "worlds skin",
         "Season 2-6"
     ],
     "cols": [
+        "Targon",
         "stun",
-        "Noxus",
-        "100% AP Ratio"
+        "manaless"
     ],
     "solutions": [
+        [
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
+        ],
         [
             "Ambessa",
             "Anivia",
@@ -43,54 +49,63 @@
             "Zilean"
         ],
         [
+            "Akali",
             "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
             "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Kennen",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Aphelios",
+            "Leona",
+            "Zoe"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Irelia",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Nami",
+            "Nunu",
+            "Orianna",
+            "Renekton",
+            "Syndra",
+            "Taliyah",
+            "Thresh",
+            "Twisted fate",
+            "Vayne",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Dr. Mundo",
+            "Gnar",
+            "Kennen",
+            "Lee sin",
+            "Renekton",
+            "Rengar",
+            "Shen",
+            "Viego",
+            "Zac",
+            "Zed"
         ],
         [
             "Aurelion Sol",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Riven"
-        ],
-        [
-            "Chogath",
-            "Evelynn",
-            "Jhin",
-            "Jinx",
-            "Veigar",
-            "Viego"
+            "Diana"
         ],
         [
             "Aurelion Sol",
@@ -118,26 +133,14 @@
             "Zac"
         ],
         [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
-            "Aurelion Sol",
-            "Ekko",
-            "Fiora",
+            "Aatrox",
             "Gnar",
-            "Hecarim",
-            "Jhin",
-            "Jinx",
-            "Tahm kench",
-            "Thresh",
-            "Varus",
-            "Vi",
-            "Viktor",
-            "Volibear"
+            "Kled",
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ]
     ]
 }

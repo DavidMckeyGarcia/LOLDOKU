@@ -2,15 +2,19 @@
     "difficulty": "platinum",
     "rows": [
         "Adc",
-        "OG40",
-        "life steal"
+        "Season 7+",
+        "global"
     ],
     "cols": [
+        "Bilgewater",
         "root",
-        "Noxus",
-        "riot records"
+        "100+ games"
     ],
     "solutions": [
+        [
+            "Miss Fortune",
+            "Nilah"
+        ],
         [
             "Aphelios",
             "Caitlyn",
@@ -23,58 +27,59 @@
             "Xayah"
         ],
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Nilah",
+            "Pyke"
         ],
         [
             "Aphelios",
-            "Ezreal",
-            "Kaisa",
-            "Senna"
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Morgana",
-            "Nunu",
+            "Kaisa",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
             "Ryze",
-            "Shaco",
-            "Singed",
+            "Senna",
             "Soraka"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Kayn",
-            "Olaf",
-            "Senna",
-            "Viego"
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

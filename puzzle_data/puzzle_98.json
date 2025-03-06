@@ -1,51 +1,76 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Top",
-        "dash",
-        "Season 2-6"
+        "Jungle",
+        "arcade",
+        "dash"
     ],
     "cols": [
-        "Bilgewater",
         "knock-up",
-        "vastayan"
+        "Ixtal",
+        "shred"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Fizz",
             "Gragas",
+            "Ivern",
             "Jarvan IV",
-            "Ksante",
             "Kayn",
-            "Malphite",
-            "Ornn",
+            "Lee sin",
+            "Nami",
+            "Nautilus",
+            "Nunu",
             "Poppy",
-            "Riven",
-            "Sion",
+            "Reksai",
+            "Rell",
+            "Sejuani",
             "Sylas",
-            "Tahm kench",
+            "Taliyah",
             "Trundle",
+            "Vi",
             "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
+        ],
+        [
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
             "Wukong"
         ],
         [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Qiyana"
+        ],
+        [
+            "Corki"
         ],
         [
             "Aatrox",
@@ -55,6 +80,7 @@
             "Belveth",
             "Braum",
             "Briar",
+            "Diana",
             "Fizz",
             "Galio",
             "Gragas",
@@ -84,44 +110,21 @@
             "Ziggs"
         ],
         [
-            "Ahri",
-            "Aurora",
-            "Rakan",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Ahri",
-            "Nami",
+            "Malphite",
+            "Nidalee",
+            "Qiyana",
             "Rengar"
+        ],
+        [
+            "Briar",
+            "Corki",
+            "Jarvan IV",
+            "Jayce",
+            "Rell",
+            "Renekton",
+            "Rengar",
+            "Vi",
+            "Wukong"
         ]
     ]
 }

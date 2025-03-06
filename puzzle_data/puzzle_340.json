@@ -1,34 +1,85 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "OG40",
-        "dash"
+        "Jungle",
+        "global",
+        "OG40"
     ],
     "cols": [
-        "Bandle City",
+        "Shadow Isles",
         "knock-up",
-        "ascended"
+        "shred"
     ],
     "solutions": [
         [
-            "Corki",
-            "Tristana"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
         ],
         [
-            "Kalista",
-            "Samira",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
+        ],
+        [
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
             "Ziggs"
         ],
         [
-            "Varus"
+            "Briar",
+            "Karthus",
+            "Sion"
         ],
         [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Karthus"
         ],
         [
             "Alistar",
@@ -41,60 +92,11 @@
             "Sion"
         ],
         [
-            "Nasus",
-            "Taric"
-        ],
-        [
             "Corki",
-            "Fizz",
-            "Tristana",
-            "Yuumi"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Malphite",
-            "Nautilus",
-            "Ornn",
-            "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Yone",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Naafiri",
-            "Pantheon",
-            "Renekton"
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ]
     ]
 }

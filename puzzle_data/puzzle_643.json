@@ -1,67 +1,100 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "invis",
-        "hextech"
+        "Support",
+        "dash",
+        "worlds skin"
     ],
     "cols": [
         "root",
-        "Noxus",
-        "infinite"
+        "Ixtal",
+        "ascended"
     ],
     "solutions": [
+        [
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Milio",
+            "Neeko",
+            "Zyra"
+        ],
+        [
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Malphite",
+            "Nidalee",
+            "Qiyana",
+            "Rengar"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Naafiri",
+            "Pantheon",
+            "Renekton"
+        ],
         [
             "Aphelios",
             "Caitlyn",
             "Jhin",
             "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Draven",
-            "Mel",
-            "Senna",
-            "Smolder"
-        ],
-        [
             "LeBlanc",
-            "Neeko",
-            "Qiyana",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nunu",
             "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Senna"
-        ],
-        [
+            "Ryze",
             "Singed",
-            "Swain"
+            "Xayah",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Sion",
-            "Swain"
+            "Malphite",
+            "Nidalee",
+            "Rengar",
+            "Zyra"
         ],
         [
-            "Sion",
-            "Swain"
+            "Aatrox",
+            "Azir",
+            "Leona",
+            "Renekton"
         ]
     ]
 }

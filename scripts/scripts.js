@@ -282,6 +282,64 @@ function preloadImages() {
 */
 
 
+
+
+document.addEventListener('DOMContentLoaded', function() {
+  // Get references to all needed elements
+  const welcomeModal = document.getElementById('welcomeModal');
+  const startButton = document.getElementById('startButton');
+  const helpButton = document.getElementById('helpButton');
+  
+  // Check if user has visited before
+  const hasVisitedBefore = localStorage.getItem('hasVisitedBefore');
+  
+  // If this is the first visit, show the modal
+  if (!hasVisitedBefore) {
+    welcomeModal.style.display = 'flex';
+    // Set the flag in localStorage to remember this user has visited
+    localStorage.setItem('hasVisitedBefore', 'true');
+    console.log("Modal shown for first-time visit");
+  }
+  
+  // Add click event to help button to open modal
+  if (helpButton) {
+    helpButton.addEventListener('click', function(event) {
+      event.preventDefault(); // Prevent default link behavior
+      openWelcomeModal();
+    });
+    console.log("Help button event listener added");
+  }
+  
+  // Close modal when Start button is clicked
+  if (startButton) {
+    startButton.addEventListener('click', function() {
+      closeModal();
+    });
+    console.log("Start button event listener added");
+  }
+  
+  // Function to open the modal
+  function openWelcomeModal() {
+    welcomeModal.style.display = 'flex';
+    console.log("Modal opened via help button");
+  }
+  
+  // Function to close the modal with animation
+  function closeModal() {
+    welcomeModal.classList.add('closing');
+    console.log("Closing animation started");
+    
+    setTimeout(function() {
+      welcomeModal.style.display = 'none';
+      welcomeModal.classList.remove('closing');
+      console.log("Modal closed");
+    }, 150); // Match the animation duration
+  }
+});
+
+
+
+
 // NEW loadData function to load a random puzzle file
 
 function loadData(numPuzzles = 300) {

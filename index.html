@@ -9,17 +9,49 @@
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="dropdown.css">
   <link rel="stylesheet" href="screensizes.css">
+  <link rel="stylesheet" href="intropop.css">
+
 </head>
 
 <body>
+    <!-- Modal -->
+    <div id="welcomeModal" class="modal">
+      <div class="modal-content">
+    <div id="modal-instruction">Welcome to LOLDOKU</div>
+
+    <div class="rule-container">
+        <div class="rule-title">Rules</div>
+        <div class="rule-description">The goal of LOLDOKU is to fill in each of the 9 squares/boxes with a correct champion. You only have 3 Lives, and each time you guess incorrectly you will lose a life. The game ends when you fill in the grid or lose all lives.</div>
+    </div>
+    
+    <div class="rule-container">
+        <div class="rule-title">What to Guess?</div>
+        <div class="rule-description">You must guess a Champion that matches both the row and column categories. For example, if column 1 is labeled 'TOP' and row 2 is labeled 'Demacia', then 'Garen' would be a valid answer for that intersection (box 4) because Garen is both a top lane champion and from Demacia. </div>
+    </div>
+    
+    <div class="rule-container">
+        <div class="rule-title">Tooltips</div>
+        <div class="rule-description">If you are unsure what a particular category requires, consider hovering over the category Icon to reveal a Tooltip that should help explain the category in more detail.</div>
+    </div>
+    
+    <div class="rule-container">
+        <div class="rule-title">Categories</div>
+        <div class="rule-description">Generally speaking there are five main categories: Lore, Kit, skin, Esports and Misc. Lore involves categories to do with a Champions Lore like region or species. Kit involves categories to do with champions abilities and functionalities. Skins involves categories that limit guesses to champions within a certain skinline ('e.g pool party only champions'). Esports categories revolve around champion data from esports events such as Worlds. Miscellaneous categories are any category that does not fit into these. </div>
+    </div>
+    
+    <button id = "startButton" class="start-button">PLAY</button>
+    </div>
+  </div>
+
+
+
   <!-- Navigation Bar -->
   <div>
     <nav2></nav2>
   </div>
   <nav>
     <a href="#">HOME</a>
-    <a href="#">ABOUT</a>
-    <a href="#">CONTACT</a>
+    <a id = "helpButton">HELP</a>
   </nav>
 
   <div class="container">
@@ -100,6 +132,7 @@
       </div>
     </div>
   </div>
+
   
    <!-- Modal -->
    <div id="answer-modal" class="modal">

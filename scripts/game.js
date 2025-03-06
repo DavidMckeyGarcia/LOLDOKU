@@ -283,7 +283,6 @@ function openModal(index) {
 }
 
   
-  
 function updateModalh2(index) {
     // Use the cached data instead of fetching again
     const rows = puzzleData.rows;
@@ -321,62 +320,41 @@ function updateCellStatus(index, isCorrect) {
     gridItem.classList.remove('correct', 'incorrect', 'shake-animation', 'flash-animation');
     
     if (isCorrect) {
-      // Get the champion name from the user's answer
+      // Your existing correct answer code works fine
       const championName = answers[index].toLowerCase().replace(/\s+/g, '');
       
-      // Create a temporary div to preload the image
       const preloader = document.createElement('div');
       preloader.style.display = 'none';
       document.body.appendChild(preloader);
       
-      // Preload the image
       const img = new Image();
       img.onload = function() {
-        // Image is loaded, now we can safely apply it with animation
         document.body.removeChild(preloader);
-        
-        // Apply a placeholder or initial state first
         gridItem.style.backgroundImage = 'none';
-        
-        // Add the correct class (which has the animation)
         gridItem.classList.add('correct');
         
-        // Then set the background image after a tiny delay
         requestAnimationFrame(() => {
           gridItem.style.backgroundImage = `url('images/Champions/${championName}Square.webp')`;
         });
         
-        // Remove the click event listener to prevent further changes
         gridItem.removeEventListener('click', gridItem.clickHandler);
         gridItem.style.cursor = 'default';
       };
       
-      // Set the image source to start loading
       img.src = `images/Champions/${championName}Square.webp`;
       preloader.appendChild(img);
       
     } else {
-      // For incorrect answers, directly manipulate the style
+      // For incorrect answers, use classes instead of direct style manipulation
       console.log("Incorrect answer - applying animations");
       
-      // Apply shake animation using class
-      gridItem.classList.add('shake-animation');
+      // Add both animation classes
+      gridItem.classList.add('shake-animation', 'incorrect-flash');
       
-      // Apply flash animation through direct style manipulation
-      const originalColor = getComputedStyle(gridItem).backgroundColor;
-      gridItem.style.transition = "background-color 0.35s ease";
-      gridItem.style.backgroundColor = "rgba(255, 40, 40, 0.8)";
-      
-      // Return to original color after delay
+      // Remove the animation classes after they complete
       setTimeout(() => {
-        gridItem.style.backgroundColor = originalColor;
-        
-        // Remove shake class after animation completes
-        setTimeout(() => {
-          gridItem.classList.remove('shake-animation');
-          gridItem.style.transition = ""; // Remove transition
-        }, 350);
-      }, 350);
+        gridItem.classList.remove('shake-animation', 'incorrect-flash');
+      }, 700); // Slightly longer than animation duration to ensure it completes
     }
   }
 }
@@ -425,8 +403,6 @@ function updateScoreDisplay() {
       }, 250);
   }
 }
-
-  
 
 
 // Function to initialize the grid based on saved state

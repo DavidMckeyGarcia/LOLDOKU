@@ -124,6 +124,16 @@ nav2 {
   animation: flashRed 0.5s ease;
 }
 
+@keyframes incorrect-flash {
+  0% { background-color: rgba(255, 40, 40, 0); }
+  50% { background-color: rgba(255, 40, 40, 0.8); }
+  100% { background-color: rgba(255, 40, 40, 0); }
+}
+
+.incorrect-flash {
+  animation: incorrect-flash 0.7s ease;
+}
+
 @keyframes flashRed {
   0% {
       background-color: #0A1428;

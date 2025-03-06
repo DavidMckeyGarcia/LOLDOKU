@@ -81,39 +81,95 @@ nav2 {
 }
 
 
+/* Shake animation */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-5px); }
+  40%, 80% { transform: translateX(5px); }
+}
+
+.shake-animation {
+  animation: shake 0.5s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+}
+
+
+
 /* Grid Item */
 .grid-item {
-    width: 150px;
-    height: 150px;
-    display: flex;
-    justify-content: center;
-    /*background-image: "url('images/defaultSquare.webp')";*/
-    background-color: #0A1428;
-    align-items: center;
-    background-size: cover;
-    border-radius: 5px; /* This will round the corners of the grid items */
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  background-color: #0A1428;
+  align-items: center;
+  background-size: cover;
+  border-radius: 5px; /* This will round the corners of the grid items */
 }
 
 .grid-item:hover {
-    cursor: url("images/cursor_hover.png"), auto;
-    background-color: #0d343d;
+  cursor: url("images/cursor_hover.png"), auto;
+  background-color: #0d343d;
 }
 
 /* Apply animation to correct grid items */
 .grid-item.correct {
-    cursor: url("images/cursor_default.png"), auto;
-    animation: correctAnswerReveal 0.8s ease-out forwards;
-    background-size: cover !important; /* Use !important to ensure this takes precedence */
-    background-position: center !important;
+  cursor: url("images/cursor_default.png"), auto;
+  animation: correctAnswerReveal 0.8s ease-out forwards;
+  background-size: cover !important;
+  background-position: center !important;
 }
 
-/* Apply animation to correct grid items */
-.grid-item.incorrect {
-    cursor: url("images/cursor_hover.png"), auto;
-    animation: correctAnswerReveal 0.8s ease-out forwards;
-    background-size: cover !important; /* Use !important to ensure this takes precedence */
-    background-position: center !important;
+/* Animation for incorrect grid items - flash red and shake */
+.grid-item.flash {
+  animation: flashRed 0.5s ease;
 }
+
+@keyframes flashRed {
+  0% {
+      background-color: #0A1428;
+  }
+  25% {
+      background-color: rgba(255, 40, 40, 0.8);
+  }
+  100% {
+      background-color: #0A1428;
+  }
+}
+
+.grid-item.shake {
+  animation: shakeEffect 0.5s cubic-bezier(.36,.07,.19,.97) both;
+}
+
+@keyframes shakeEffect {
+  0%, 100% {
+      transform: translateX(0);
+  }
+  10%, 30%, 50%, 70%, 90% {
+      transform: translateX(-5px);
+  }
+  20%, 40%, 60%, 80% {
+      transform: translateX(5px);
+  }
+}
+
+/* Animation for score and lives updates */
+.animate-update {
+  animation: pulse 0.5s ease;
+}
+
+@keyframes pulse {
+  0% {
+      transform: scale(1);
+  }
+  50% {
+      transform: scale(1.2);
+  }
+  100% {
+      transform: scale(1);
+  }
+}
+
+
 
 
 #second-grid-title{

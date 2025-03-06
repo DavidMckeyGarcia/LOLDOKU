@@ -308,64 +308,127 @@ function updateModalh2(index) {
     }
 }
   
-  
+
 // function to update the cell's visual status
 function updateCellStatus(index, isCorrect) {
-    const gridItems = document.querySelectorAll('.grid-item');
+  const gridItems = document.querySelectorAll('.grid-item');
+  
+  if (index >= 0 && index < gridItems.length) {
+    // Get the current grid item
+    const gridItem = gridItems[index];
     
-    if (index >= 0 && index < gridItems.length) {
-      // Remove any previous status classes
-      gridItems[index].classList.remove('correct', 'incorrect');
+    // Clear any existing animations and classes
+    gridItem.classList.remove('correct', 'incorrect', 'shake-animation', 'flash-animation');
+    
+    if (isCorrect) {
+      // Get the champion name from the user's answer
+      const championName = answers[index].toLowerCase().replace(/\s+/g, '');
       
-      if (isCorrect) {
-        // Get the champion name from the user's answer
-        const championName = answers[index].toLowerCase().replace(/\s+/g, '');
+      // Create a temporary div to preload the image
+      const preloader = document.createElement('div');
+      preloader.style.display = 'none';
+      document.body.appendChild(preloader);
+      
+      // Preload the image
+      const img = new Image();
+      img.onload = function() {
+        // Image is loaded, now we can safely apply it with animation
+        document.body.removeChild(preloader);
         
-        // Create a temporary div to preload the image
-        const preloader = document.createElement('div');
-        preloader.style.display = 'none';
-        document.body.appendChild(preloader);
+        // Apply a placeholder or initial state first
+        gridItem.style.backgroundImage = 'none';
         
-        // Preload the image
-        const img = new Image();
-        img.onload = function() {
-          // Image is loaded, now we can safely apply it with animation
-          document.body.removeChild(preloader);
-          
-          // Apply a placeholder or initial state first
-          gridItems[index].style.backgroundImage = 'none';
-          
-          // First add the correct class (which has the animation)
-          gridItems[index].classList.add('correct');
-          
-          // Then set the background image after a tiny delay
-          requestAnimationFrame(() => {
-            gridItems[index].style.backgroundImage = `url('images/Champions/${championName}Square.webp')`;
-          });
-          
-          // Remove the click event listener to prevent further changes
-          gridItems[index].removeEventListener('click', gridItems[index].clickHandler);
-          gridItems[index].style.cursor = 'default';
-        };
+        // Add the correct class (which has the animation)
+        gridItem.classList.add('correct');
         
-        // Set the image source to start loading
-        img.src = `images/Champions/${championName}Square.webp`;
-        preloader.appendChild(img);
+        // Then set the background image after a tiny delay
+        requestAnimationFrame(() => {
+          gridItem.style.backgroundImage = `url('images/Champions/${championName}Square.webp')`;
+        });
         
-      } else {
-        gridItems[index].classList.add('incorrect');
+        // Remove the click event listener to prevent further changes
+        gridItem.removeEventListener('click', gridItem.clickHandler);
+        gridItem.style.cursor = 'default';
+      };
+      
+      // Set the image source to start loading
+      img.src = `images/Champions/${championName}Square.webp`;
+      preloader.appendChild(img);
+      
+    } else {
+      // For incorrect answers, directly manipulate the style
+      console.log("Incorrect answer - applying animations");
+      
+      // Apply shake animation using class
+      gridItem.classList.add('shake-animation');
+      
+      // Apply flash animation through direct style manipulation
+      const originalColor = getComputedStyle(gridItem).backgroundColor;
+      gridItem.style.transition = "background-color 0.35s ease";
+      gridItem.style.backgroundColor = "rgba(255, 40, 40, 0.8)";
+      
+      // Return to original color after delay
+      setTimeout(() => {
+        gridItem.style.backgroundColor = originalColor;
         
-        // Add a brief shake animation and flash red
-        gridItems[index].classList.add('shake', 'flash');
-        
+        // Remove shake class after animation completes
         setTimeout(() => {
-          gridItems[index].classList.remove('shake', 'flash');
-        }, 500);
-      }
+          gridItem.classList.remove('shake-animation');
+          gridItem.style.transition = ""; // Remove transition
+        }, 350);
+      }, 350);
     }
+  }
 }
+
+// Add a function to update the lives display with animation
+function updateLivesDisplay() {
+  const livesDisplay = document.getElementById('lives-display');
+  if (livesDisplay) {
+      // Store original transform for restoration
+      const originalTransform = getComputedStyle(livesDisplay).transform;
+      
+      // Apply animation via direct style manipulation
+      livesDisplay.style.transition = "transform 0.5s ease";
+      livesDisplay.style.transform = "scale(1.6)";
+      
+      // Update content
+      if (window.unlimitedMode) {
+          livesDisplay.innerHTML = '∞';
+      } else {
+          livesDisplay.innerHTML = '❤️'.repeat(livesRemaining) + '🖤'.repeat(3 - livesRemaining);
+      }
+      
+      // Remove animation after it completes
+      setTimeout(() => {
+          livesDisplay.style.transform = "scale(1)";
+      }, 250);
+  }
+}
+
+function updateScoreDisplay() {
+  const scoreDisplay = document.getElementById('score');
+  if (!window.unlimitedMode && scoreDisplay) {
+      // Store original transform for restoration
+      const originalTransform = getComputedStyle(scoreDisplay).transform;
+      
+      // Apply animation via direct style manipulation
+      scoreDisplay.style.transition = "transform 0.5s ease";
+      scoreDisplay.style.transform = "scale(1.2)";
+      
+      // Update content
+      scoreDisplay.innerHTML = score.toString() + "G";
+      
+      // Remove animation after it completes
+      setTimeout(() => {
+          scoreDisplay.style.transform = "scale(1)";
+      }, 250);
+  }
+}
+
   
-  
+
+
 // Function to initialize the grid based on saved state
 function initializeGrid() {
     const gridItems = document.querySelectorAll('.grid-item');
@@ -469,30 +532,6 @@ function loadGameState() {
       // Update lives display
       updateLivesDisplay();
     }
-}
-
-
-// Add a function to update the lives display
-function updateLivesDisplay() {
-    const livesDisplay = document.getElementById('lives-display');
-    if (livesDisplay) {
-        if (window.unlimitedMode) {
-            livesDisplay.innerHTML = '∞';
-
-        } else {
-            livesDisplay.innerHTML = '❤️'.repeat(livesRemaining) + '🖤'.repeat(3 - livesRemaining);
-        }
-    }
-
-}
-
-function updateScoreDisplay() {
-  const scoreDisplay = document.getElementById('score');
-  if (window.unlimitedMode) {
-    return
-  } else {
-    scoreDisplay.innerHTML = score.toString()+"G";
-  }
 }
 
 

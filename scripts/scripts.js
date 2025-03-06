@@ -317,6 +317,14 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     console.log("Start button event listener added");
   }
+
+  // Close modal when clicking outside the modal content
+  welcomeModal.addEventListener('click', function(event) {
+    // If the click is on the modal background (not the content)
+    if (event.target === welcomeModal) {
+      closeModal();
+    }
+  });
   
   // Function to open the modal
   function openWelcomeModal() {

@@ -8,9 +8,11 @@
     background-color: rgba(0, 0, 0, 0.5);
     justify-content: center;
     align-items: flex-start;
-    padding-top: 200px;
+    padding-top: 100px;
     z-index: 1000;
+    margin-top: 10px;
     animation: fadeInZoom 0.1s ease-in-out;
+    cursor: url("images/cursor_default.png"), auto;
 }
 
 .modal-content {
@@ -78,6 +80,7 @@
 .start-button:hover {
     background-color: #C8AA6E;
     color: #1E2328;
+    cursor: url("images/cursor_hover.png"), auto;
 }
 
 .modal.closing {

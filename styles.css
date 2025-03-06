@@ -24,7 +24,7 @@ nav a {
 }
 
 nav a:hover {
-    cursor: url("images/cursor_hover.png"), auto;
+    cursor: url("images/cursor_ping.png"), auto;
 }
 
 nav2 {
@@ -437,6 +437,7 @@ height: 50px; /* Set a specific height if desired */
 background-color: red;
 color: #F0E6D2;
 border-color: red;
+cursor: url("images/cursor_hover.png"), auto;
 }
 
 #refresh {
@@ -455,6 +456,7 @@ height: 50px; /* Set a specific height if desired */
 background-color: #F0E6D2;
 color: #010a13;
 border-color: #F0E6D2;
+cursor: url("images/cursor_hover.png"), auto;
 }
 
 #lives-display{

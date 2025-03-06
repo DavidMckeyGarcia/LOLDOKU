@@ -411,6 +411,7 @@ button:hover {
   background-color: #F0E6D2;
   border-color: #F0E6D2;
   color: #C89B3C;
+  cursor: url("images/cursor_hover.png"), auto;
 }
 
 

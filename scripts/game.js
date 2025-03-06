@@ -7,37 +7,70 @@ let score = 0;
   
   
 function initializeSearch() {
-    const searchInput = document.getElementById('user-answer');
-    const searchWrapper = document.querySelector('.wrapper');
-    const resultsWrapper = document.querySelector('.results');
-    let firstResult = null; // Variable to track the first result
-    let currentFocus = -1; // Track which item is currently selected
+  const searchInput = document.getElementById('user-answer');
+  const searchWrapper = document.querySelector('.wrapper');
+  const resultsWrapper = document.querySelector('.results');
+  let firstResult = null; // Variable to track the first result
+  let currentFocus = -1; // Track which item is currently selected
+
+  searchInput.addEventListener('keyup', function(event) {
+    // Don't process up/down/enter key events here - they're handled in keydown
+    if (event.key === 'ArrowUp' || event.key === 'ArrowDown' || event.key === 'Enter') {
+      return;
+    }
+    
+    let results = [];
+    let input = searchInput.value.trim();
   
-    // Listen for keyup/keydown events in the search input
-    searchInput.addEventListener('keyup', function(event) {
-      // Don't process up/down/enter key events here - they're handled in keydown
-      if (event.key === 'ArrowUp' || event.key === 'ArrowDown' || event.key === 'Enter') {
-        return;
-      }
+    // Only search if input has at least 2 characters
+    if (input.length >= 2) {
+      // Get matching results
+      const matchingItems = searchable.filter((item) => {
+        return item.toLowerCase().includes(input.toLowerCase());
+      });
       
-      let results = [];
-      let input = searchInput.value;
-  
-      // If the input is not empty, filter the searchable array
-      if (input.length) {
-        results = searchable.filter((item) => {
-          return item.toLowerCase().includes(input.toLowerCase());
-        });
-      }
-      
-      // Store the first result
-      firstResult = results.length > 0 ? results[0] : null;
-      
-      // Reset the current focus when results change
-      currentFocus = -1;
-      
-      renderResults(results);
-    });
+      // Sort the results by relevance
+      results = matchingItems.sort((a, b) => {
+        const aLower = a.toLowerCase();
+        const bLower = b.toLowerCase();
+        const inputLower = input.toLowerCase();
+        
+        // Check if the item starts with the search input
+        const aStartsWith = aLower.startsWith(inputLower);
+        const bStartsWith = bLower.startsWith(inputLower);
+        
+        if (aStartsWith && !bStartsWith) {
+          return -1; // a comes first
+        } else if (!aStartsWith && bStartsWith) {
+          return 1;  // b comes first
+        } else {
+          // If both either start with or don't start with input,
+          // then sort by position of match
+          const aIndex = aLower.indexOf(inputLower);
+          const bIndex = bLower.indexOf(inputLower);
+          
+          if (aIndex !== bIndex) {
+            return aIndex - bIndex; // Sort by position of match
+          } else {
+            // If matches are at the same position, sort alphabetically
+            return aLower.localeCompare(bLower);
+          }
+        }
+      });
+    } else {
+      // Hide the results dropdown if less than 2 characters
+      resultsWrapper.classList.remove('show');
+      return;
+    }
+    
+    // Store the first result
+    firstResult = results.length > 0 ? results[0] : null;
+    
+    // Reset the current focus when results change
+    currentFocus = -1;
+    
+    renderResults(results);
+  });
     
     // Handle navigation with arrow keys
     searchInput.addEventListener('keydown', function(event) {

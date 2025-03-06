@@ -57,7 +57,7 @@ cat1 = {
 
 
 cat2 = {
-    "kit": [["dash"], ["true damage"], ["shield"],  ["ult execute"], ["global"], ["invis"], ["blink"], ["life steal"], ["evolver"] ],
+    "kit": [["dash"], ["true damage"], ["shield"],  ["ult execute"], ["global ult"], ["invis"], ["blink"], ["life steal"], ["evolver"] ],
 
     "skinlines": [["pool party"], ["worlds skin"], ["arcade"], ["prestige"], ["coven"], 
                   ["elderwood"], ["PROJECT"], ["cosmic"], ["dark star"], ["hextech"],
@@ -65,6 +65,12 @@ cat2 = {
 
     "release date": [["OG40"], ["Season 7+"], ["Season 2-6"]],
                                                                                                     
+}
+
+cat2_weights = {
+    "kit": 0.5,  # Higher weight, more likely to be chosen
+    "skinlines": 0.25,  # Lower weight, less likely to be chosen
+    "release date": 0.25,  # Medium weight
 }
 
 
@@ -92,7 +98,7 @@ def puzzle_generator():
     c2 = random.sample(list(cat2.keys()), 2)
     c2_vals = {constraint: random.choice(cat2[constraint]) for constraint in c2}
     c2_1 = {k: v for k, v in list(c2_vals.items())[:1]}  
-    c2_2 = {k: v for k, v in list(c2_vals.items())[1:]}  
+    c2_2 = {k: v for k, v in list(c2_vals.items())[1:]} 
 
     c3 = random.sample(list(cat3.keys()), 1)
     c3_vals = {constraint: random.choice(cat3[constraint]) for constraint in c3}
@@ -232,7 +238,7 @@ def create_multiple_puzzle_json_files(num_puzzles=5, output_folder="puzzle_data"
     print(f"Successfully created {num_puzzles} puzzle JSON files in '{output_folder}' folder!")
 
 # Optional: You can call the function with custom number of puzzles
-create_multiple_puzzle_json_files(num_puzzles=1000)
+create_multiple_puzzle_json_files(num_puzzles=300)
 
 
 

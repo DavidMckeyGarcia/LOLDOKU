@@ -1,56 +1,107 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
-        "OG40",
-        "arcade"
+        "hextech",
+        "Season 7+"
     ],
     "cols": [
-        "silence",
-        "Bilgewater",
-        "arcane"
+        "Zaun",
+        "stun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
-            "Fizz",
-            "Graves",
-            "Nami",
-            "Nautilus"
-        ],
-        [
+            "Dr. Mundo",
             "Ekko",
             "Vi",
-            "Warwick"
+            "Warwick",
+            "Zac"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Heimerdinger",
             "Janna",
             "Singed",
-            "Warwick"
+            "Ziggs"
         ],
         [
-            "Blitzcrank",
-            "Malzahar"
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
         ],
         [
-            "Miss Fortune"
+            "Amumu",
+            "Poppy",
+            "Tristana",
+            "Ziggs"
         ],
         [
-            "Caitlyn"
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

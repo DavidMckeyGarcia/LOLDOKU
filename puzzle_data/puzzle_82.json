@@ -1,65 +1,106 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "true damage",
+        "Jungle",
+        "invis",
         "Season 2-6"
     ],
     "cols": [
-        "silence",
-        "Zaun",
-        "yordle"
+        "Demacia",
+        "stun",
+        "0 games"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
+            "Jarvan IV",
+            "Morgana",
             "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Renata glasc",
-            "Twitch",
-            "Urgot"
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
             "Amumu",
-            "Corki"
-        ],
-        [
-            "Lulu"
-        ],
-        [
+            "Brand",
+            "Briar",
+            "Camille",
             "Ekko",
-            "Jinx",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Briar",
+            "Master yi",
+            "Nunu"
+        ],
+        [
+            "Vayne"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
             "Vi",
             "Viktor",
-            "Zac",
-            "Ziggs"
+            "Volibear",
+            "Zac"
         ],
         [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
+            "Illaoi"
         ]
     ]
 }

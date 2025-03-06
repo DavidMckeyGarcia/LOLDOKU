@@ -1,81 +1,65 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "OG40",
-        "PROJECT"
+        "Jungle",
+        "arcade",
+        "shield"
     ],
     "cols": [
-        "Bilgewater",
-        "knock-up",
-        "arcane"
+        "silence",
+        "Noxus",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
+            "Fiddlesticks"
         ],
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell"
+        ],
+        [
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
+        ],
+        [
+            "Blitzcrank",
+            "Malzahar"
+        ],
+        [
+            "Riven"
+        ],
+        [
+            "Ahri",
+            "Belveth"
+        ],
+        [
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
         ],
         [
             "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "LeBlanc",
+            "Annie",
+            "Kled",
             "Mel",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
+            "Mordekaiser",
+            "Rell",
+            "Riven",
             "Sion"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
+            "Naafiri",
+            "Olaf",
+            "Sivir",
+            "Vex",
+            "Viktor"
         ]
     ]
 }

@@ -1,80 +1,47 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "dash",
-        "Space Groove"
+        "Jungle",
+        "Space Groove",
+        "OG40"
     ],
     "cols": [
-        "Demacia",
         "root",
-        "ascended"
+        "Noxus",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Fiora",
-            "Galio",
-            "Jarvan IV",
-            "Lucian",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sylas",
-            "Vayne",
-            "Xin Zhao"
-        ],
-        [
-            "Caitlyn",
             "Ivern",
-            "Ksante",
             "Lee sin",
-            "Leona",
             "Maokai",
+            "Morgana",
             "Nautilus",
+            "Nunu",
             "Qiyana",
             "Rengar",
             "Shaco",
-            "Zac"
+            "Zac",
+            "Zyra"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Diana",
+            "Briar",
+            "Elise",
             "Kayn",
-            "Leona",
-            "Naafiri",
-            "Pantheon",
-            "Renekton"
+            "Mordekaiser",
+            "Rell"
         ],
         [
-            "Lux"
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
         ],
         [
             "Lissandra",
@@ -82,8 +49,34 @@
             "Nunu"
         ],
         [
-            "Nasus",
-            "Taric"
+            "Samira"
+        ],
+        [
+            "Gragas",
+            "Lulu",
+            "Rumble"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

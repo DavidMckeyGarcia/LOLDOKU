@@ -1,78 +1,102 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "OG40",
-        "Fright Night"
+        "Jungle",
+        "Season 7+",
+        "global ult"
     ],
     "cols": [
-        "Freljord",
         "knock-up",
-        "0 games"
+        "Demacia",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
+            "Belveth",
+            "Briar",
             "Diana",
-            "Fizz",
-            "Galio",
             "Gragas",
-            "Neeko",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
             "Sylas",
             "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
+        ],
+        [
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Kaisa",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
             "Ziggs"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
+            "Galio",
+            "Lux"
         ],
         [
-            "Anivia",
             "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Master yi",
-            "Nunu"
-        ],
-        [
-            "Nunu",
-            "Trundle"
-        ],
-        [
-            "Nautilus",
-            "Nunu",
-            "Trundle"
-        ],
-        [
-            "Nunu"
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

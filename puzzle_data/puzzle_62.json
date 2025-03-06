@@ -1,14 +1,14 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "cosmic",
-        "Season 7+"
+        "ult execute",
+        "Season 2-6"
     ],
     "cols": [
         "stun",
-        "Bilgewater",
-        "yordle"
+        "Noxus",
+        "arcane"
     ],
     "solutions": [
         [
@@ -41,61 +41,75 @@
             "Zac"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
+            "Ambessa",
+            "Darius",
+            "Kayn",
             "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Anivia",
-            "Hecarim",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Nunu",
+            "Mordekaiser",
+            "Riven",
             "Sion",
-            "Skarner",
-            "Xin Zhao"
-        ],
-        [
-            "Illaoi",
-            "Nami",
-            "Nautilus"
-        ],
-        [
-            "Lulu"
+            "Swain"
         ],
         [
             "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
+            "Heimerdinger",
+            "Singed",
+            "Warwick"
+        ],
+        [
             "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Darius",
+            "Draven",
+            "Riven"
         ],
         [
-            "Vex"
+            "Jinx"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
+        ],
+        [
+            "Ekko",
+            "Jayce",
+            "Jinx",
+            "Vi",
+            "Viktor"
         ]
     ]
 }

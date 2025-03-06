@@ -1,76 +1,109 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
-        "Season 2-6",
-        "arcade"
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "Zaun",
-        "root",
-        "30+ wins"
+        "stun",
+        "Ixtal",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
             "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
+            "Elise",
+            "Gragas",
+            "Hecarim",
             "Ivern",
-            "Lee sin",
-            "Maokai",
+            "Jax",
             "Morgana",
             "Nautilus",
             "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Nidalee",
             "Qiyana",
             "Rengar",
-            "Shaco",
-            "Zac",
+            "Skarner",
             "Zyra"
         ],
         [
-            "Taliyah"
-        ],
-        [
+            "Camille",
             "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Viego",
+            "Zac"
         ],
         [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Lissandra",
-            "Taliyah",
-            "Viktor"
+            "Milio",
+            "Neeko"
         ],
         [
-            "Blitzcrank",
-            "Ziggs"
+            "Aurora",
+            "Camille",
+            "Kayn",
+            "Mel",
+            "Viego",
+            "Xayah",
+            "Yuumi"
         ],
         [
-            "Caitlyn",
-            "Qiyana"
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
         ],
         [
-            "Ahri",
-            "Corki"
+            "Neeko",
+            "Qiyana",
+            "Rengar"
+        ],
+        [
+            "Aurora",
+            "Viego"
         ]
     ]
 }

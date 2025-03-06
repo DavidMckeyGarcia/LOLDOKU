@@ -1,69 +1,89 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "Space Groove",
-        "life steal"
+        "Support",
+        "OG40",
+        "cosmic"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "ascended"
+        "Bilgewater",
+        "knock-up",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
         ],
         [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
             "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
+            "Bard",
+            "Galio",
+            "Mel",
+            "Yuumi",
+            "Zilean"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Evelynn",
+            "Karthus",
+            "Kayle",
+            "Ryze",
+            "Sion",
+            "Zilean"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Xin Zhao"
         ],
         [
             "Lissandra",
-            "Lux",
-            "Nunu"
-        ],
-        [
-            "Lux"
-        ],
-        [
-            "Nasus",
-            "Taric"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Morgana"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Nasus"
+            "Sion",
+            "Vladimir",
+            "Xayah"
         ]
     ]
 }

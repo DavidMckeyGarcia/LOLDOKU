@@ -1,86 +1,96 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "Season 2-6",
-        "global"
+        "Top",
+        "invis",
+        "empyrean"
     ],
     "cols": [
+        "Zaun",
         "stun",
-        "Shadow Isles",
-        "ascended"
+        "riot records"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Kalista",
-            "Senna"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
             "Zac"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
             "Ornn",
             "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
             "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
-            "Karthus",
-            "Maokai",
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
+            "Yasuo",
+            "Yone",
+            "Yorick"
+        ],
+        [
+            "Twitch"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Kaisa",
+            "Qiyana",
             "Senna",
-            "Vex"
+            "Viego"
         ],
         [
-            "Pantheon",
-            "Xerath"
+            "Zac"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Ksante",
+            "Kayle"
         ]
     ]
 }

@@ -1,104 +1,70 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "global",
-        "Season 2-6"
+        "Jungle",
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "100% AP Ratio"
+        "Ionia",
+        "fear",
+        "tether"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Miss Fortune",
-            "Nilah"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Briar",
-            "Ekko",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Nocturne",
-            "Pantheon",
-            "Shen",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Aurelion Sol",
-            "Ekko",
-            "Fiora",
-            "Gnar",
+            "Briar",
+            "Fiddlesticks",
             "Hecarim",
-            "Jhin",
-            "Jinx",
-            "Tahm kench",
-            "Thresh",
-            "Varus",
-            "Vi",
-            "Viktor",
-            "Volibear"
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Syndra",
+            "Yone"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Renata glasc"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

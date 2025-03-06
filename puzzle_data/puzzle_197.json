@@ -1,53 +1,75 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "OG40",
-        "empyrean"
+        "Jungle",
+        "empyrean",
+        "Season 2-6"
     ],
     "cols": [
-        "silence",
-        "The Void",
-        "ascended"
+        "Bilgewater",
+        "fear",
+        "manaless"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Chogath"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Akali",
+            "Zac",
+            "Zed"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus",
+            "Tahm kench"
         ],
         [
             "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
+            "Darius",
+            "Hecarim"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Nasus",
-            "Taric"
-        ],
-        [
-            "Malzahar"
-        ],
-        [
-            "Malzahar"
-        ],
-        [
-            "Varus"
+            "Aatrox",
+            "Gnar",
+            "Kled",
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ]
     ]
 }

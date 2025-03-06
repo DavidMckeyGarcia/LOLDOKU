@@ -1,82 +1,99 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "Season 7+",
-        "cosmic"
+        "Jungle",
+        "shield",
+        "Season 2-6"
     ],
     "cols": [
+        "Freljord",
         "root",
-        "Ionia",
-        "yordle"
+        "0 games"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Mel",
             "Morgana",
             "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
             "Zyra"
         ],
         [
-            "Karma",
-            "Rakan"
+            "Briar",
+            "Master yi",
+            "Nunu"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
         ],
         [
             "Aphelios",
             "Hwei",
+            "Ivern",
             "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
             "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
+            "Nunu",
             "Renata glasc",
             "Senna",
-            "Seraphine",
-            "Xayah"
+            "Seraphine"
         ],
         [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
-        ],
-        [
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nunu",
             "Vex"
         ],
         [
-            "Jhin",
+            "Braum",
+            "Gnar",
+            "Kindred",
             "Lissandra",
-            "Lux",
-            "Nautilus",
-            "Nunu",
-            "Varus",
-            "Xayah"
+            "Sejuani",
+            "Volibear"
         ],
         [
+            "Ivern",
             "Jhin",
-            "Master yi",
-            "Rakan",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
             "Varus",
-            "Xayah"
+            "Zac",
+            "Zyra"
         ],
         [
-            "Lulu"
+            "Illaoi"
         ]
     ]
 }

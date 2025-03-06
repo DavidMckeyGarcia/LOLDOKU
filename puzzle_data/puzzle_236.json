@@ -1,101 +1,145 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "empyrean",
-        "true damage"
+        "Adc",
+        "Season 7+",
+        "Space Groove"
     ],
     "cols": [
-        "Demacia",
-        "stun",
-        "Immunity"
+        "slow",
+        "Zaun",
+        "never played"
     ],
     "solutions": [
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Alistar",
-            "Annie",
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
             "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
             "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
             "Rell",
             "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Bard",
-            "Galio",
-            "Mel",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
             "Yuumi",
-            "Zilean"
+            "Zeri"
         ],
         [
-            "Kayle",
-            "Lux"
-        ],
-        [
-            "Brand",
-            "Jax",
-            "Ksante",
-            "Malzahar",
-            "Pyke",
-            "Zac"
-        ],
-        [
-            "Kayle",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Vayne"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
+            "Gragas",
+            "Lissandra",
+            "Lulu",
+            "Lux",
+            "Nami",
+            "Nasus",
             "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
+            "Rumble",
+            "Samira",
+            "Teemo",
+            "Twisted fate"
         ],
         [
-            "Camille",
-            "Fiora",
-            "Kogmaw"
+            "Blitzcrank"
+        ],
+        [
+            "Blitzcrank",
+            "Nami",
+            "Nunu",
+            "Samira",
+            "Teemo"
         ]
     ]
 }

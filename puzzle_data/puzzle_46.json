@@ -2,17 +2,24 @@
     "difficulty": "gold",
     "rows": [
         "Top",
-        "prestige",
-        "Season 2-6"
+        "Season 7+",
+        "prestige"
     ],
     "cols": [
-        "Targon",
+        "Noxus",
         "knock-up",
-        "ascended"
+        "yordle"
     ],
     "solutions": [
         [
-            "Pantheon"
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
             "Aatrox",
@@ -35,18 +42,47 @@
             "Zac"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Diana",
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Zoe"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Cassiopeia",
+            "Darius",
+            "Katarina",
+            "Kayn",
+            "LeBlanc",
+            "Riven",
+            "Swain"
         ],
         [
             "Aatrox",
@@ -65,44 +101,9 @@
             "Zyra"
         ],
         [
-            "Aatrox",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Pantheon"
-        ],
-        [
-            "Aurelion Sol",
-            "Diana"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
+            "Fizz",
             "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
+            "Teemo"
         ]
     ]
 }

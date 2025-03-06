@@ -1,66 +1,125 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "OG40",
-        "ult execute"
+        "Top",
+        "global ult",
+        "Season 2-6"
     ],
     "cols": [
-        "silence",
-        "Demacia",
-        "yordle"
+        "Shurima",
+        "root",
+        "never played"
     ],
     "solutions": [
         [
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
+        ],
+        [
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
             "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Corki",
-            "Fizz",
+            "Dr. Mundo",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Gwen",
             "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
+            "Kayn",
             "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
+            "Taliyah",
+            "Xerath"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
             "Soraka"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Ashe",
+            "Bard",
+            "Briar",
+            "Draven",
+            "Jinx",
+            "Kled",
+            "Lillia",
+            "Maokai",
+            "Senna",
+            "Shen",
+            "Soraka"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Aatrox",
+            "Azir",
+            "Taliyah"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Garen"
-        ],
-        [
-            "Veigar"
+            "Bard",
+            "Braum",
+            "Draven",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kindred",
+            "Kled",
+            "Nami",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Volibear",
+            "Zyra"
         ]
     ]
 }

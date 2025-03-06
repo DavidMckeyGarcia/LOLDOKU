@@ -1,75 +1,90 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "true damage",
+        "Adc",
+        "blink",
         "arcade"
     ],
     "cols": [
-        "knock-up",
-        "The Void",
-        "vastayan"
+        "slow",
+        "Piltover",
+        "tether"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Chogath"
-        ],
-        [
-            "Wukong"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Chogath",
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
             "Kogmaw",
-            "Velkoz"
-        ],
-        [
-            "Ahri"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
             "Ziggs"
         ],
         [
-            "Belveth",
-            "Kaisa",
-            "Malzahar"
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Seraphine"
         ],
         [
-            "Ahri"
+            "Kalista"
+        ],
+        [
+            "Ekko",
+            "Kassadin",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Reksai",
+            "Ryze",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Zed"
+        ],
+        [
+            "Ezreal"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Ahri",
+            "Belveth",
+            "Brand",
+            "Caitlyn",
+            "Corki",
+            "Hecarim",
+            "Kaisa",
+            "Miss Fortune",
+            "Qiyana",
+            "Sona",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Malzahar"
         ]
     ]
 }

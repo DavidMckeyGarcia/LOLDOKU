@@ -1,54 +1,67 @@
 {
     "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "global",
-        "Season 2-6"
+        "Top",
+        "invis",
+        "OG40"
     ],
     "cols": [
-        "silence",
-        "Demacia",
+        "Shurima",
+        "root",
         "0 games"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
         ],
         [
-            "Jarvan IV",
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Ambessa",
+            "Illaoi"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
+        ],
+        [
             "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
-            "Briar",
-            "Master yi",
-            "Nunu"
-        ],
-        [
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
             "Soraka"
         ],
         [
-            "Galio",
-            "Lux"
-        ],
-        [
-            "Briar",
-            "Mel",
-            "Vex"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Illaoi"
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

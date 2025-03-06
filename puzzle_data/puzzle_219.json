@@ -1,85 +1,89 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "global",
+        "Support",
+        "hextech",
         "OG40"
     ],
     "cols": [
-        "root",
-        "Targon",
-        "100+ games"
+        "Demacia",
+        "knock-up",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jayce",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
+            "Galio",
             "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Aurelion Sol",
-            "Pantheon",
-            "Soraka"
-        ],
-        [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
-            "Ryze",
-            "Shen"
-        ],
-        [
             "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Soraka",
-            "Taric"
+            "Poppy",
+            "Sona"
         ],
         [
             "Alistar",
-            "Ashe",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
             "Janna",
-            "Jax",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Bard",
+            "Galio",
+            "Mel",
+            "Yuumi",
+            "Zilean"
+        ],
+        [
+            "Galio",
+            "Jarvan IV",
+            "Poppy"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
+            "Ziggs"
+        ],
+        [
+            "Galio",
+            "Kogmaw",
+            "Sion"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Evelynn",
+            "Karthus",
+            "Kayle",
             "Ryze",
-            "Tristana"
+            "Sion",
+            "Zilean"
         ]
     ]
 }

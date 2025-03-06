@@ -1,76 +1,150 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
-        "blink",
-        "Season 2-6"
+        "Season 2-6",
+        "dash"
     ],
     "cols": [
-        "Piltover",
-        "root",
-        "riot records"
+        "Ixtal",
+        "stun",
+        "0 games"
     ],
     "solutions": [
         [
-            "Camille"
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
         ],
         [
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
             "Ivern",
-            "Lee sin",
-            "Maokai",
+            "Jax",
             "Morgana",
             "Nautilus",
             "Nunu",
+            "Pantheon",
+            "Poppy",
             "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
             "Sett",
-            "Viego"
-        ],
-        [
-            "Ezreal"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Ekko",
-            "Ezreal",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
             "Viego",
-            "Yasuo",
-            "Yone"
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Jayce"
+            "Briar",
+            "Master yi",
+            "Nunu"
         ],
         [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
             "Rengar",
-            "Varus",
-            "Zac",
             "Zyra"
         ],
         [
-            "Ahri",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
             "Ekko",
-            "Yasuo"
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
+        ],
+        [
+            "Illaoi"
+        ],
+        [
+            "Malphite",
+            "Nidalee",
+            "Qiyana",
+            "Rengar"
+        ],
+        [
+            "Alistar",
+            "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Illaoi",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

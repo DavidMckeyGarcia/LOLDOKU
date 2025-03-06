@@ -1,76 +1,48 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
+        "Mid",
         "Season 7+",
-        "PROJECT"
+        "shield"
     ],
     "cols": [
+        "Piltover",
         "root",
-        "Shurima",
-        "never played"
+        "yordle"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Ezreal",
+            "Heimerdinger",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
             "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Kennen",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
         ],
         [
-            "Amumu",
-            "Belveth",
-            "Brand",
-            "Briar",
-            "Dr. Mundo",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Kindred",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nami",
-            "Nunu",
-            "Rammus",
-            "Reksai",
-            "Rell",
-            "Rengar",
-            "Sejuani",
-            "Shaco",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Zyra"
+            "Camille",
+            "Seraphine"
         ],
         [
             "Aphelios",
@@ -84,56 +56,36 @@
             "Xayah"
         ],
         [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
+            "Vex"
         ],
         [
-            "Akshan",
+            "Camille",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
             "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
             "Renata glasc",
-            "Samira",
             "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Seraphine"
         ],
         [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
-        ],
-        [
-            "Jax",
-            "Renekton"
-        ],
-        [
-            "Ashe",
-            "Fiora",
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Mordekaiser",
-            "Pyke",
-            "Sejuani",
-            "Senna",
-            "Vayne",
-            "Vi",
-            "Warwick"
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ]
     ]
 }

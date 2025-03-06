@@ -1,65 +1,58 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "cosmic",
+        "Adc",
+        "Season 7+",
         "shield"
     ],
     "cols": [
-        "Bandle City",
         "knock-up",
-        "ascended"
+        "Noxus",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
             "Neeko",
-            "Poppy",
+            "Ornn",
             "Rakan",
             "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Lulu"
-        ],
-        [
-            "Anivia",
             "Belveth",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Rakan",
-            "Sion",
-            "Xin Zhao"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Lulu",
-            "Rumble",
-            "Yuumi"
+            "Naafiri",
+            "Vex",
+            "Viego"
         ],
         [
             "Azir",
@@ -88,10 +81,21 @@
             "Yone"
         ],
         [
-            "Azir",
-            "Diana",
+            "Ambessa",
+            "Annie",
+            "Kled",
+            "Mel",
+            "Mordekaiser",
+            "Rell",
+            "Riven",
+            "Sion"
+        ],
+        [
             "Naafiri",
-            "Taric"
+            "Olaf",
+            "Sivir",
+            "Vex",
+            "Viktor"
         ]
     ]
 }

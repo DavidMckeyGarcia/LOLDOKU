@@ -1,23 +1,16 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
-        "dark star",
-        "dash"
+        "empyrean",
+        "true damage"
     ],
     "cols": [
-        "Zaun",
         "stun",
-        "100+ games"
+        "Demacia",
+        "riot records"
     ],
     "solutions": [
-        [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
         [
             "Amumu",
             "Brand",
@@ -30,7 +23,6 @@
             "Ivern",
             "Jax",
             "Morgana",
-            "Nami",
             "Nautilus",
             "Nunu",
             "Pantheon",
@@ -52,112 +44,69 @@
             "Zac"
         ],
         [
-            "Elise",
-            "Gragas",
-            "Graves",
             "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
-        ],
-        [
-            "Orianna"
-        ],
-        [
-            "Lissandra",
-            "Orianna",
-            "Thresh",
-            "Xerath"
-        ],
-        [
-            "Jarvan IV",
-            "Jhin",
-            "Orianna",
-            "Thresh",
-            "Varus"
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
             "Ekko",
-            "Urgot",
-            "Vi",
-            "Warwick",
-            "Zac",
-            "Zeri",
-            "Ziggs"
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
+            "Sett",
+            "Viego"
         ],
         [
-            "Alistar",
-            "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
-            "Ivern",
+            "Brand",
             "Jax",
             "Ksante",
-            "Leona",
-            "Nautilus",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
+            "Malzahar",
             "Pyke",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sett",
-            "Sylas",
-            "Taliyah",
-            "Thresh",
-            "Urgot",
-            "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
             "Zac"
         ],
         [
-            "Aatrox",
-            "Alistar",
-            "Azir",
-            "Braum",
-            "Caitlyn",
-            "Elise",
-            "Ezreal",
-            "Gnar",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Kaisa",
-            "Lee sin",
-            "Leona",
-            "Lucian",
-            "Maokai",
-            "Rakan",
-            "Renekton",
-            "Sejuani",
-            "Shen",
-            "Thresh",
-            "Tristana"
+            "Kayle",
+            "Lux"
+        ],
+        [
+            "Akali",
+            "Ksante",
+            "Kayle"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ksante",
+            "Olaf",
+            "Sett",
+            "Yone"
         ]
     ]
 }

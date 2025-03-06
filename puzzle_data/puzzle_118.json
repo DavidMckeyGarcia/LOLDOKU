@@ -1,57 +1,121 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
         "Top",
-        "cosmic",
-        "life steal"
+        "invis",
+        "Season 2-6"
     ],
     "cols": [
-        "fear",
         "Shadow Isles",
-        "ascended"
+        "root",
+        "never played"
     ],
     "solutions": [
-        [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
         [
             "Gwen",
             "Maokai",
             "Yorick"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Hecarim"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Warwick"
-        ],
-        [
+            "Chogath",
+            "Dr. Mundo",
+            "Fiora",
+            "Garen",
+            "Gnar",
             "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
+            "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
+        ],
+        [
             "Senna",
             "Viego"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus"
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Akshan",
+            "Pyke",
+            "Reksai",
+            "Rengar",
+            "Senna",
+            "Shaco",
+            "Teemo",
+            "Twitch",
+            "Vayne",
+            "Viego",
+            "Wukong"
+        ],
+        [
+            "Hecarim",
+            "Kalista",
+            "Thresh"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Bard",
+            "Braum",
+            "Draven",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kindred",
+            "Kled",
+            "Nami",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Volibear",
+            "Zyra"
         ]
     ]
 }

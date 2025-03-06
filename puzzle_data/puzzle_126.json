@@ -1,16 +1,21 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
         "Support",
         "Season 2-6",
-        "arcade"
+        "shield"
     ],
     "cols": [
+        "Zaun",
         "stun",
-        "Bilgewater",
-        "tether"
+        "yordle"
     ],
     "solutions": [
+        [
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
+        ],
         [
             "Alistar",
             "Annie",
@@ -41,17 +46,17 @@
             "Zilean"
         ],
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
         ],
         [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
+            "Ziggs"
         ],
         [
             "Aurelion Sol",
@@ -79,33 +84,61 @@
             "Zac"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kalista",
+            "Gnar",
             "Kled",
-            "Zac"
+            "Lulu",
+            "Ziggs"
         ],
         [
             "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Malzahar",
-            "Qiyana",
+            "Ekko",
+            "Janna",
+            "Orianna",
+            "Renata glasc",
+            "Urgot",
+            "Vi",
+            "Viktor"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
             "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
             "Sona",
-            "Veigar"
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Miss Fortune"
-        ],
-        [
-            "Malzahar"
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ]
     ]
 }

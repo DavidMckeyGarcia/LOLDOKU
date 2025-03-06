@@ -1,69 +1,155 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "shield",
-        "OG40"
+        "OG40",
+        "blink"
     ],
     "cols": [
-        "fear",
-        "Freljord",
-        "ult reset"
+        "slow",
+        "Ionia",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
+            "Ahri",
+            "Akali",
             "Anivia",
+            "Aurelion Sol",
             "Aurora",
+            "Azir",
             "Brand",
+            "Cassiopeia",
+            "Chogath",
+            "Corki",
+            "Diana",
+            "Ekko",
+            "Elise",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Lissandra"
+            "Heimerdinger",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Naafiri",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Talon",
+            "Tristana",
+            "Twisted fate",
+            "Velkoz",
+            "Vex",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
         ],
         [
             "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
+            "Akali",
             "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Naafiri",
-            "Olaf",
-            "Sivir",
-            "Vex",
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
             "Viktor"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
         ],
         [
             "Anivia",
             "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
             "Nunu",
-            "Tryndamere"
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Corki",
+            "Ryze"
+        ],
+        [
+            "Ekko",
+            "Kassadin",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Reksai",
+            "Ryze",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Zed"
         ],
         [
             "Master yi",
-            "Singed",
-            "Sivir"
+            "Shen",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
         ]
     ]
 }

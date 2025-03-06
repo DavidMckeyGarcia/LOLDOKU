@@ -107,7 +107,7 @@
         "release date": ["OG40"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun"],
-        "kit": ["global"],
+        "kit": ["global ult"],
         "skinlines": ["worlds skin", "coven", "PROJECT"],
         "esports": ["never played", "100+ games"],
         "misc": ["100% AP Ratio"]
@@ -117,7 +117,7 @@
         "release date": ["Season 2-6"],
         "region": ["Targon"],
         "crowd control": ["slow", "stun", "knock-up"],
-        "kit": ["dash", "global"],
+        "kit": ["dash", "global ult"],
         "skinlines": [],
         "race": ["celestial"],
         "esports": [],
@@ -150,7 +150,7 @@
         "release date": ["Season 2-6"],
         "region": [],
         "crowd control": ["slow", "stun"],
-        "kit": ["dash", "global", "evolver"],
+        "kit": ["dash", "global ult", "evolver"],
         "skinlines": ["worlds skin", "elderwood"],
         "race": ["celestial"],
         "esports": ["never played"],
@@ -201,7 +201,7 @@
         "release date": ["Season 7+"],
         "region": ["Noxus"],
         "crowd control": ["stun", "slow", "fear", "knock-up"],
-        "kit": ["dash", "global", "life steal"],
+        "kit": ["dash", "global ult", "life steal"],
         "skinlines": [],
         "esports": ["never played", "0 games"],
         "misc": ["manaless", "100% AP Ratio", "shred"]
@@ -211,7 +211,7 @@
         "release date": "s1",
         "region": ["Piltover"],
         "crowd control": ["slow", "root"],
-        "kit": ["dash", "global"],
+        "kit": ["dash", "global ult"],
         "skinlines": ["pool party", "worlds skin", "arcade", "prestige"],
         "esports": ["100+ games"],
         "misc": ["arcane"]
@@ -293,7 +293,7 @@
         "release date": ["Season 2-6"],
         "region": ["Noxus"],
         "crowd control": ["slow"],
-        "kit": ["true damage", "ult execute", "global"],
+        "kit": ["true damage", "ult execute", "global ult"],
         "skinlines": ["pool party", "Fright Night"],
         "esports": ["never played"],
         "misc": ["inf stacking"]
@@ -303,7 +303,7 @@
         "release date": ["Season 2-6"],
         "region": ["Zaun"],
         "crowd control": ["slow", "stun"],
-        "kit": ["dash", "shield", "global", "blink"],
+        "kit": ["dash", "shield", "global ult", "blink"],
         "skinlines": ["worlds skin", "PROJECT"],
         "esports": [],
         "misc": ["arcane",  "riot records", "Immunity", "100% AP Ratio"]
@@ -333,7 +333,7 @@
         "release date": "s1",
         "region": ["Piltover"],
         "crowd control": [],
-        "kit": ["dash", "global", "prestige", "blink"],
+        "kit": ["dash", "global ult", "prestige", "blink"],
         "skinlines": ["worlds skin", "arcade", "prestige", "star guardian"],
         "esports": ["100+ games"],
         "misc": [ "riot records"]
@@ -359,7 +359,7 @@
         "misc": ["100% AP Ratio", "Immunity"]
     },
     "Fizz": {
-        "role": ["Mid", "Jungle"],
+        "role": ["Mid"],
         "release date": "s2",
         "region": ["Bilgewater", "Bandle City"],
         "crowd control": ["slow", "knock-up"],
@@ -374,7 +374,7 @@
         "release date": "s1",
         "region": ["Demacia"],
         "crowd control": ["slow", "knock-up"],
-        "kit": ["dash", "shield", "global"],
+        "kit": ["dash", "shield", "global ult"],
         "skinlines": ["hextech"],
         "esports": ["30+ wins"],
         "misc": ["Immunity"]
@@ -384,7 +384,7 @@
         "release date": ["OG40"],
         "region": ["Bilgewater"],
         "crowd control": ["slow"],
-        "kit": ["true damage", "global", "evolver"],
+        "kit": ["true damage", "global ult", "evolver"],
         "skinlines": ["pool party", "worlds skin", "PROJECT"],
         "esports": [],
         "misc": ["inf stacking", "100% AP Ratio"]
@@ -556,7 +556,7 @@
         "release date": ["Season 2-6"],
         "region": ["Zaun"],
         "crowd control": ["slow", "root"],
-        "kit": ["ult execute", "global"],
+        "kit": ["ult execute", "global ult"],
         "skinlines": ["worlds skin", "prestige", "PROJECT"],
         "esports": ["never played"],
         "misc": ["arcane", "100% AP Ratio"]
@@ -576,7 +576,7 @@
         "release date": ["Season 7+"],
         "region": ["The Void"],
         "crowd control": ["slow"],
-        "kit": ["dash", "shield", "global", "invis", "evolver"],
+        "kit": ["dash", "shield", "global ult", "invis", "evolver"],
         "skinlines": ["worlds skin", "arcade",  "prestige", "star guardian", "battle bunny"],
         "esports": ["100+ games"],
         "misc": [  "riot records", "100% AP Ratio"]
@@ -606,7 +606,7 @@
         "release date": ["OG40"],
         "region": ["Shadow Isles"],
         "crowd control": ["slow"],
-        "kit": ["global"],
+        "kit": ["global ult"],
         "skinlines": ["worlds skin", "elderwood"],
         "esports": [],
         "misc": ["Immunity", "riot records", "shred"]
@@ -688,7 +688,7 @@
         "release date": ["Season 2-6"],
         "region": ["Noxus"],
         "crowd control": ["slow"],
-        "kit": ["dash", "shield", "global"],
+        "kit": ["dash", "shield", "global ult"],
         "skinlines": [],
         "race": ["yordle"],
         "esports": ["never played"],
@@ -740,7 +740,7 @@
         "release date": ["Season 7+"],
         "region": ["Ionia"],
         "crowd control": ["slow"],
-        "kit": ["dash", "true damage", "global"],
+        "kit": ["dash", "true damage", "global ult"],
         "skinlines": [],
         "esports": ["never played"],
         "misc": []
@@ -781,7 +781,7 @@
         "release date": "s1",
         "region": ["Demacia"],
         "crowd control": ["slow", "root"],
-        "kit": ["shield", "global"],
+        "kit": ["shield", "global ult"],
         "skinlines": ["prestige", "cosmic", "dark star", "empyrean", "Space Groove"],
         "esports": [],
         "misc": ["100% AP Ratio"]
@@ -811,7 +811,7 @@
         "release date": "s4",
         "region": ["Shadow Isles"],
         "crowd control": ["slow", "root"],
-        "kit": ["dash", "global"],
+        "kit": ["dash", "global ult"],
         "skinlines": ["worlds skin"],
         "esports": ["never played", "100+ games"],
         "misc": []
@@ -831,7 +831,7 @@
         "release date": ["Season 7+"],
         "region": ["Noxus"],
         "crowd control": ["slow", "root"],
-        "kit": ["shield", "global"],
+        "kit": ["shield", "global ult"],
         "skinlines": [],
         "esports": ["0 games"],
         "misc": ["inf stacking", "arcane", "Immunity"]
@@ -888,7 +888,7 @@
         "misc": ["ult reset"]
     },
     "Nami": {
-        "role": ["Support", "Jungle"],
+        "role": ["Support"],
         "release date": ["Season 2-6"],
         "region": ["Bilgewater"],
         "crowd control": ["slow", "stun", "knock-up"],
@@ -955,7 +955,7 @@
         "release date": "s1",
         "region": [],
         "crowd control": ["slow", "fear"],
-        "kit": ["dash", "global", "shield"],
+        "kit": ["dash", "global ult", "shield"],
         "skinlines": ["hextech", "empyrean"],
         "esports": [],
         "misc": ["100% AP Ratio", "tether", "tether"]
@@ -995,7 +995,7 @@
         "release date": ["Season 7+"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun", "knock-up"],
-        "kit": ["dash", "global", "elderwood", "cosmic", "Space Groove"],
+        "kit": ["dash", "global ult", "elderwood", "cosmic", "Space Groove"],
         "skinlines": [],
         "esports": [],
         "misc": []
@@ -1005,7 +1005,7 @@
         "release date": "s5",
         "region": ["Targon"],
         "crowd control": ["slow", "stun"],
-        "kit": ["dash", "global", "blink"],
+        "kit": ["dash", "global ult", "blink"],
         "skinlines": ["prestige"],
         "race": ["ascended"],
         "esports": [],
@@ -1151,7 +1151,7 @@
         "release date": ["OG40"],
         "region": [],
         "crowd control": ["slow", "root"],
-        "kit": ["global", "blink"],
+        "kit": ["global ult", "blink"],
         "skinlines": ["worlds skin"],
         "esports": ["100+ games", "30+ wins"],
         "misc": ["Immunity"]
@@ -1181,7 +1181,7 @@
         "release date": ["Season 7+"],
         "region": ["Shadow Isles"],
         "crowd control": ["slow", "root"],
-        "kit": ["shield", "global", "invis", "life steal"],
+        "kit": ["shield", "global ult", "invis", "life steal"],
         "skinlines": [ "prestige", "high noon", "PROJECT"],
         "esports": ["never played"],
         "misc": ["inf stacking",   "riot records"]
@@ -1221,7 +1221,7 @@
         "release date": "s2",
         "region": ["Ionia"],
         "crowd control": ["slow"],
-        "kit": ["dash", "shield", "global", "blink"],
+        "kit": ["dash", "shield", "global ult", "blink"],
         "skinlines": ["worlds skin"],
         "esports": ["never played", "100+ games"],
         "misc": ["manaless", "100% AP Ratio"]
@@ -1251,7 +1251,7 @@
         "release date": ["OG40"],
         "region": ["Noxus"],
         "crowd control": ["slow", "stun", "knock-up"],
-        "kit": ["shield", "global", "high noon", "life steal"],
+        "kit": ["shield", "global ult", "high noon", "life steal"],
         "skinlines": ["cosmic", "hextech"],
         "esports": [],
         "misc": ["Immunity", "inf stacking", "shred"]
@@ -1301,7 +1301,7 @@
         "release date": ["OG40"],
         "region": ["Targon"],
         "crowd control": ["slow", "root", "silence"],
-        "kit": ["global"],
+        "kit": ["global ult"],
         "skinlines": ["prestige"],
         "race": ["celestial"],
         "esports": ["never played"],
@@ -1352,7 +1352,7 @@
         "release date": ["Season 2-6"],
         "region": ["Shurima"],
         "crowd control": ["slow", "stun", "knock-up"],
-        "kit": ["dash", "global"],
+        "kit": ["dash", "global ult"],
         "skinlines": ["pool party", "worlds skin"],
         "esports": ["30+ wins"],
         "misc": []
@@ -1435,7 +1435,7 @@
         "release date": ["OG40"],
         "region": ["Bilgewater"],
         "crowd control": ["slow", "stun"],
-        "kit": ["global", "blink"],
+        "kit": ["global ult", "blink"],
         "skinlines": ["worlds skin", "high noon", "Space Groove"],
         "esports": [],
         "misc": ["100% AP Ratio"]
@@ -1517,7 +1517,7 @@
         "release date": ["Season 7+"],
         "region": ["Shadow Isles"],
         "crowd control": ["slow", "fear"],
-        "kit": ["dash", "shield", "global"],
+        "kit": ["dash", "shield", "global ult"],
         "skinlines": ["empyrean"],
         "race": ["yordle"],
         "esports": ["0 games"],
@@ -1611,7 +1611,7 @@
         "release date": "s1",
         "region": ["Shurima"],
         "crowd control": ["slow", "stun"],
-        "kit": ["global"],
+        "kit": ["global ult"],
         "skinlines": ["dark star"],
         "race": ["ascended"],
         "esports": [],
@@ -1702,7 +1702,7 @@
         "release date": ["Season 2-6"],
         "region": ["Zaun"],
         "crowd control": ["slow", "knock-up"],
-        "kit": ["dash", "global"],
+        "kit": ["dash", "global ult"],
         "skinlines": ["arcade", "pool party", "hextech"],
         "race": ["yordle"],
         "esports": [],

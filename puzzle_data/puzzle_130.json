@@ -1,81 +1,87 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Adc",
-        "Space Groove",
-        "Season 2-6"
+        "Mid",
+        "elderwood",
+        "invis"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "shred"
+        "Shurima",
+        "stun",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Jayce",
-            "Kogmaw"
-        ],
-        [
-            "Samira"
-        ],
-        [
-            "Blitzcrank",
-            "Gragas",
-            "Lulu",
-            "Nami",
-            "Nunu",
-            "Samira"
-        ],
-        [
-            "Nasus",
-            "Rumble"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
+            "Akshan",
             "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
+            "Naafiri",
             "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Jayce",
-            "Rengar",
-            "Vi"
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Azir"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
+        ],
+        [
+            "Ahri"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Vayne",
+            "Viego"
         ]
     ]
 }

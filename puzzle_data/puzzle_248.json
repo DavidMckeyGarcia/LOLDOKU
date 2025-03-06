@@ -1,84 +1,57 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Adc",
-        "global",
-        "prestige"
+        "Top",
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "Shadow Isles",
-        "root",
-        "ascended"
+        "The Void",
+        "fear",
+        "tether"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Senna"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Karthus",
-            "Maokai",
-            "Senna",
-            "Vex"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Senna",
-            "Thresh"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
+            "Chogath"
         ],
         [
             "Aatrox",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Pantheon"
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Kled",
+            "Nocturne"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

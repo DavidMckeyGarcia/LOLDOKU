@@ -284,7 +284,7 @@ function preloadImages() {
 
 // NEW loadData function to load a random puzzle file
 
-function loadData(numPuzzles = 1000) {
+function loadData(numPuzzles = 300) {
   resetGame(); // DELETE FOR LOCAL STORAGE MEMORY
   clearSavedGame(); //DELETE FOR LOCAL STORAGE MEMORY
 

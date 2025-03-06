@@ -1,70 +1,134 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "true damage",
-        "Season 2-6"
+        "Adc",
+        "global ult",
+        "Season 7+"
     ],
     "cols": [
-        "Piltover",
-        "root",
-        "vastayan"
+        "slow",
+        "Shadow Isles",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ezreal",
-            "Heimerdinger",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Ahri",
-            "Aurora",
-            "Neeko"
-        ],
-        [
-            "Camille"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Ahri"
-        ],
-        [
-            "Jayce"
-        ],
-        [
-            "Ivern",
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jayce",
             "Jhin",
             "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
             "Varus",
-            "Zac",
-            "Zyra"
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar"
+            "Kalista",
+            "Senna"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Nocturne",
+            "Ornn",
+            "Pantheon",
+            "Ryze",
+            "Senna",
+            "Shen",
+            "Sion",
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
+        ],
+        [
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
         ]
     ]
 }

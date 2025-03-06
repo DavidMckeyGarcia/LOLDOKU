@@ -1,74 +1,59 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "dash",
-        "Season 2-6"
+        "Support",
+        "OG40",
+        "cosmic"
     ],
     "cols": [
-        "The Void",
-        "fear",
-        "ascended"
+        "Demacia",
+        "silence",
+        "shred"
     ],
     "solutions": [
         [
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Rell"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Blitzcrank",
             "Chogath",
+            "Fiddlesticks",
             "Kassadin",
-            "Malzahar",
-            "Velkoz"
+            "Soraka"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ],
         [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
+            "Lux",
+            "Xin Zhao"
         ],
         [
-            "Belveth",
-            "Kaisa",
-            "Khazix",
-            "Reksai"
+            "Kassadin",
+            "Lulu"
         ],
         [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Naafiri",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
+            "Sion"
         ]
     ]
 }

@@ -1,77 +1,66 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Top",
+        "Mid",
         "OG40",
-        "arcade"
+        "empyrean"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "100+ games"
+        "Zaun",
+        "fear",
+        "riot records"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
+        ],
+        [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
             "Singed",
-            "Swain",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Evelynn",
+            "Karthus",
+            "Kayle"
+        ],
+        [
             "Zac"
         ],
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
+            "Nocturne",
+            "Vex"
         ],
         [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Riven"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa"
+            "Akali",
+            "Ksante",
+            "Kayle"
         ]
     ]
 }

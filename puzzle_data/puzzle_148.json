@@ -1,72 +1,92 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "OG40",
-        "hextech"
+        "Top",
+        "shield",
+        "elderwood"
     ],
     "cols": [
-        "knock-up",
-        "Zaun",
-        "tether"
+        "root",
+        "Shadow Isles",
+        "manaless"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
+            "Gwen",
+            "Maokai",
+            "Yorick"
         ],
         [
-            "Kalista"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Blitzcrank",
+            "Aatrox",
+            "Akali",
+            "Ambessa",
             "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Fiddlesticks",
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
             "Morgana",
-            "Taric"
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Galio",
-            "Janna",
-            "Jarvan IV",
-            "Poppy",
-            "Sejuani",
-            "Sion",
-            "Ziggs"
+            "Senna",
+            "Thresh",
+            "Vex"
         ],
         [
-            "Janna",
-            "Singed",
-            "Ziggs"
+            "Ambessa",
+            "Garen",
+            "Kled",
+            "Lee sin",
+            "Mordekaiser",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Malzahar",
-            "Nocturne"
+            "LeBlanc",
+            "Xayah"
+        ],
+        [
+            "Hecarim",
+            "Karthus"
+        ],
+        [
+            "Gnar",
+            "Reksai"
         ]
     ]
 }

@@ -1,85 +1,65 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Support",
-        "arcade",
-        "ult execute"
+        "Adc",
+        "hextech",
+        "life steal"
     ],
     "cols": [
-        "Bandle City",
+        "The Void",
         "stun",
-        "ult reset"
+        "ascended"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Kassadin",
+            "Kogmaw",
+            "Malzahar"
         ],
         [
             "Alistar",
+            "Amumu",
+            "Anivia",
             "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Swain"
-        ],
-        [
-            "Corki",
-            "Veigar"
-        ],
-        [
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
             "Malzahar",
-            "Qiyana",
-            "Riven",
-            "Sona",
-            "Veigar"
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
         ],
         [
-            "Ahri",
+            "Renekton"
+        ],
+        [
             "Belveth"
         ],
         [
-            "Veigar"
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
-            "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
-        ],
-        [
-            "Darius",
-            "Viego"
+            "Aatrox",
+            "Kayn",
+            "Nasus"
         ]
     ]
 }

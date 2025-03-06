@@ -1,157 +1,71 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "prestige",
-        "Season 7+"
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "Bandle City",
-        "knock-up",
-        "never played"
+        "fear",
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Gnar",
             "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
             "Rumble",
             "Teemo"
         ],
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
-            "Kayn",
-            "Kennen",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Yorick"
-        ],
-        [
-            "Fizz",
-            "Lulu",
-            "Teemo",
-            "Yuumi"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Brand",
-            "Evelynn",
-            "Fiora",
-            "Garen",
-            "Jinx",
-            "Kayn",
-            "Kindred",
-            "Leona",
-            "Malphite",
-            "Miss Fortune",
-            "Morgana",
-            "Pyke",
-            "Rakan",
             "Renata glasc",
-            "Senna",
+            "Twitch",
+            "Urgot"
+        ],
+        [
+            "Amumu",
+            "Corki"
+        ],
+        [
+            "Fiddlesticks",
             "Shaco",
-            "Sivir",
-            "Sona",
-            "Soraka",
+            "Warwick"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
             "Teemo",
-            "Thresh",
-            "Vayne",
-            "Volibear",
-            "Xayah",
-            "Yuumi",
-            "Zeri",
-            "Zyra"
-        ],
-        [
-            "Yuumi"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

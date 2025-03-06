@@ -1,106 +1,93 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "Season 2-6",
-        "true damage"
+        "Top",
+        "shield",
+        "Season 2-6"
     ],
     "cols": [
-        "Piltover",
-        "silence",
-        "never played"
+        "Noxus",
+        "root",
+        "0 games"
     ],
     "solutions": [
         [
-            "Heimerdinger",
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Ambessa",
+            "Illaoi"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Kled",
+            "Mel",
+            "Mordekaiser",
+            "Rell",
+            "Riven",
+            "Sion"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
             "Seraphine"
         ],
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Janna",
-            "Leona",
-            "Maokai",
+            "Akshan",
+            "Ambessa",
+            "Mel",
             "Milio",
-            "Morgana",
-            "Nami",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Senna",
-            "Sona",
-            "Soraka",
-            "Tahm kench",
-            "Thresh",
-            "Yuumi",
-            "Zyra"
+            "Naafiri",
+            "Nunu",
+            "Vex"
         ],
         [
-            "Jayce"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Bard",
-            "Braum",
+            "Darius",
             "Draven",
             "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
+            "Kled",
+            "Riven"
+        ],
+        [
             "Ivern",
             "Jhin",
             "Jinx",
-            "Kalista",
-            "Kindred",
-            "Kled",
-            "Nami",
-            "Reksai",
+            "Lissandra",
+            "Nautilus",
             "Rengar",
-            "Sejuani",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Volibear",
+            "Varus",
+            "Zac",
             "Zyra"
         ],
         [
-            "Camille"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Belveth",
-            "Chogath",
-            "Draven",
-            "Fiora",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Lillia",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Twitch",
-            "Vayne"
+            "Illaoi"
         ]
     ]
 }

@@ -1,106 +1,103 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "life steal"
+        "Adc",
+        "dash",
+        "arcade"
     ],
     "cols": [
+        "root",
         "Freljord",
-        "knock-up",
         "100+ games"
     ],
     "solutions": [
         [
-            "Brand",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Ashe"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Aurora",
+            "Braum",
+            "Gnar",
             "Gragas",
             "Kindred",
-            "Nunu",
-            "Olaf",
+            "Ornn",
             "Sejuani",
-            "Trundle",
-            "Udyr",
+            "Tryndamere",
             "Volibear"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Fizz",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Braum",
+            "Caitlyn",
             "Elise",
+            "Ezreal",
+            "Gnar",
             "Gragas",
             "Graves",
             "Jarvan IV",
             "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
+            "Jayce",
             "Kaisa",
-            "Rakan",
-            "Xayah"
-        ],
-        [
-            "Olaf",
-            "Trundle",
-            "Udyr"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
             "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
+            "Leona",
+            "Lucian",
+            "Maokai",
+            "Rakan",
+            "Renekton",
+            "Sejuani",
+            "Shen",
+            "Thresh",
+            "Tristana"
         ],
         [
-            "Aatrox",
-            "Lee sin"
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Brand"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa"
         ]
     ]
 }

@@ -1,62 +1,103 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "OG40",
-        "arcade"
+        "Adc",
+        "Season 2-6",
+        "prestige"
     ],
     "cols": [
-        "Bilgewater",
-        "silence",
-        "yordle"
+        "stun",
+        "Demacia",
+        "30+ wins"
     ],
     "solutions": [
         [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
             "Nami",
             "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
             "Pyke",
-            "Tahm kench"
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
         ],
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Fiora",
+            "Garen",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Sona",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Miss Fortune"
-        ],
-        [
-            "Blitzcrank",
-            "Malzahar"
-        ],
-        [
-            "Corki",
-            "Veigar",
-            "Ziggs"
+            "Ahri",
+            "LeBlanc",
+            "Lissandra"
         ]
     ]
 }

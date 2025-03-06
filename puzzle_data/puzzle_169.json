@@ -1,73 +1,108 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "life steal",
-        "dark star"
+        "Adc",
+        "cosmic",
+        "dash"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "arcane"
+        "Bilgewater",
+        "stun",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
+            "Miss Fortune",
+            "Nilah"
+        ],
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Xayah"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus"
+        ],
+        [
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
+            "Nami",
             "Nautilus",
             "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
             "Sion",
-            "Vladimir"
+            "Skarner",
+            "Xin Zhao"
         ],
         [
+            "Nami",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Fizz",
+            "Graves",
+            "Illaoi",
+            "Nautilus",
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Alistar",
             "Ambessa",
-            "Warwick"
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
         ],
         [
-            "Jhin",
-            "Karma",
-            "Lissandra",
-            "Lux",
-            "Shaco",
-            "Varus"
-        ],
-        [
-            "Mordekaiser"
-        ],
-        [
-            "Orianna"
+            "Ahri",
+            "Aurora",
+            "Rakan",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

@@ -1,16 +1,20 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "OG40",
-        "hextech"
+        "global ult",
+        "OG40"
     ],
     "cols": [
+        "Shurima",
         "stun",
-        "Demacia",
-        "ascended"
+        "yordle"
     ],
     "solutions": [
+        [
+            "Xerath",
+            "Zilean"
+        ],
         [
             "Alistar",
             "Annie",
@@ -41,17 +45,39 @@
             "Zilean"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
         ],
         [
-            "Leona",
-            "Pantheon",
-            "Taric",
+            "Taliyah",
             "Xerath"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
         ],
         [
             "Alistar",
@@ -73,32 +99,12 @@
             "Zilean"
         ],
         [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Nasus",
-            "Taric"
-        ],
-        [
-            "Alistar",
             "Amumu",
-            "Anivia",
-            "Annie",
-            "Malzahar",
-            "Poppy",
-            "Rammus",
-            "Renekton",
-            "Sejuani",
-            "Sion"
-        ],
-        [
-            "Galio",
-            "Jarvan IV",
-            "Poppy"
-        ],
-        [
-            "Renekton"
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

@@ -1,83 +1,78 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "Season 2-6",
-        "elderwood"
+        "Support",
+        "Season 7+",
+        "global ult"
     ],
     "cols": [
+        "Freljord",
         "root",
-        "Shurima",
-        "30+ wins"
+        "yordle"
     ],
     "solutions": [
         [
-            "Hwei",
+            "Ashe",
+            "Brand",
+            "Braum"
+        ],
+        [
             "Karma",
-            "LeBlanc",
-            "Lissandra",
+            "Leona",
             "Lux",
+            "Maokai",
             "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
+            "Morgana",
             "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Taliyah"
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Lissandra",
-            "Taliyah",
-            "Viktor"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "LeBlanc",
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
             "Xayah"
         ],
         [
-            "Azir"
+            "Vex"
         ],
         [
-            "Ahri",
-            "Azir",
-            "LeBlanc"
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

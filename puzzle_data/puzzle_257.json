@@ -1,107 +1,72 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "cosmic"
+        "Adc",
+        "OG40",
+        "evolver"
     ],
     "cols": [
-        "Bandle City",
         "stun",
-        "0 games"
+        "Noxus",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Rumble",
-            "Teemo"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Alistar",
             "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
             "Jax",
             "Morgana",
-            "Nami",
-            "Nautilus",
             "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
             "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Briar",
-            "Master yi",
-            "Nunu"
-        ],
-        [
-            "Yuumi"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Anivia",
-            "Hecarim",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Nunu",
             "Sion",
-            "Skarner",
-            "Xin Zhao"
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Illaoi",
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
             "Master yi",
-            "Nunu"
+            "Singed",
+            "Sivir"
+        ],
+        [
+            "Bard",
+            "Viktor"
+        ],
+        [
+            "Kayn",
+            "Smolder"
+        ],
+        [
+            "Belveth",
+            "Viktor"
         ]
     ]
 }

@@ -1,102 +1,77 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "global",
-        "OG40"
+        "Support",
+        "prestige",
+        "ult execute"
     ],
     "cols": [
-        "Targon",
         "knock-up",
-        "100+ games"
+        "Shadow Isles",
+        "shred"
     ],
     "solutions": [
         [
-            "Diana",
-            "Pantheon"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Fizz",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
             "Nami",
             "Nautilus",
-            "Nunu",
+            "Neeko",
             "Poppy",
-            "Reksai",
+            "Rakan",
             "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
+            "Tahm kench",
+            "Velkoz",
             "Zyra"
         ],
         [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
+            "Maokai",
+            "Senna",
+            "Thresh"
+        ],
+        [
+            "Rell"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
             "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
-        ],
-        [
-            "Aurelion Sol",
-            "Pantheon",
-            "Soraka"
-        ],
-        [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
-        ],
-        [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
-            "Ryze",
-            "Shen"
-        ],
-        [
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
+            "Lulu",
             "Malphite",
-            "Nunu",
-            "Sion"
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
+            "Senna",
+            "Thresh"
+        ],
+        [
+            "Evelynn",
+            "Garen",
+            "Zoe"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Viego"
+        ],
+        [
+            "Evelynn",
+            "Garen"
         ]
     ]
 }

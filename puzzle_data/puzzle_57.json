@@ -1,120 +1,55 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "Season 2-6",
-        "true damage"
+        "Support",
+        "hextech",
+        "global ult"
     ],
     "cols": [
-        "Demacia",
-        "stun",
-        "0 games"
+        "Freljord",
+        "silence",
+        "arcane"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
+            "Ashe",
             "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
+            "Braum"
+        ],
+        [
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
+        ],
+        [
             "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Janna",
+            "Mel"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
+            "Anivia",
+            "Sejuani"
         ],
         [
-            "Fiora",
-            "Lucian",
-            "Quinn"
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
+            "Janna",
+            "Singed"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Caitlyn",
             "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
-        ],
-        [
-            "Illaoi"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Vayne"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Akshan",
-            "Master yi",
-            "Nunu",
-            "Samira"
+            "Jinx",
+            "Mel"
         ]
     ]
 }

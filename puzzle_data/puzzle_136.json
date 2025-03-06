@@ -1,54 +1,41 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Jungle",
+        "Top",
         "Season 2-6",
-        "pool party"
+        "prestige"
     ],
     "cols": [
-        "silence",
+        "fear",
         "Ionia",
-        "100% AP Ratio"
+        "darkin"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Ivern",
+            "Akali",
+            "Irelia",
             "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
+            "Kennen",
             "Sett",
             "Shen",
-            "Wukong"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Fizz",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
             "Wukong",
-            "Xin Zhao"
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Lulu"
+            "Aatrox",
+            "Kayn"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Hecarim"
         ],
         [
             "Ahri",
@@ -60,31 +47,28 @@
             "Zed"
         ],
         [
-            "Aurelion Sol",
-            "Ekko",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Jhin",
-            "Jinx",
-            "Tahm kench",
-            "Thresh",
-            "Varus",
-            "Vi",
-            "Viktor",
-            "Volibear"
+            "Aatrox",
+            "Varus"
         ],
         [
-            "Lulu"
+            "Aatrox",
+            "Darius",
+            "Shaco"
         ],
         [
+            "Ahri",
+            "Akali",
+            "Kayn",
             "Lee sin",
+            "Rakan",
             "Sett",
-            "Syndra"
+            "Xayah",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Fiora",
-            "Gangplank"
+            "Aatrox",
+            "Kayn"
         ]
     ]
 }

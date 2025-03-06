@@ -1,56 +1,78 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "invis"
+        "Mid",
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "fear",
-        "Ixtal",
-        "vastayan"
+        "knock-up",
+        "Bilgewater",
+        "tether"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
+            "Fizz",
+            "Twisted fate"
+        ],
+        [
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Renata glasc"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
             "Malphite",
-            "Skarner"
+            "Nunu",
+            "Sion"
         ],
         [
-            "Wukong"
+            "Gangplank",
+            "Twisted fate"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Rengar",
-            "Zyra"
-        ],
-        [
-            "Ahri",
-            "Nami",
-            "Rengar"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Neeko",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rengar",
-            "Wukong"
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

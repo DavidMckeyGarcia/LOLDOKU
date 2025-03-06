@@ -1,57 +1,35 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
+        "Adc",
         "cosmic",
-        "dash"
+        "shield"
     ],
     "cols": [
+        "Ionia",
         "stun",
-        "Bilgewater",
-        "ult reset"
+        "ascended"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
+            "Jhin",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Ashe",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Fizz",
-            "Twisted fate"
+            "Varus"
         ],
         [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
+            "Jhin",
+            "Master yi",
+            "Rakan",
+            "Varus",
+            "Xayah"
         ],
         [
             "Anivia",
@@ -65,75 +43,58 @@
             "Xin Zhao"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus"
+            "Varus"
         ],
         [
-            "Belveth",
-            "Master yi"
+            "Hwei",
+            "Ivern",
+            "Karma",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Alistar",
             "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
+            "Annie",
+            "Blitzcrank",
             "Braum",
-            "Briar",
             "Camille",
             "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
             "Ivern",
-            "Jax",
             "Ksante",
-            "Leona",
+            "Milio",
+            "Morgana",
             "Nautilus",
-            "Ornn",
-            "Pantheon",
+            "Neeko",
+            "Nunu",
+            "Orianna",
             "Poppy",
-            "Pyke",
-            "Qiyana",
-            "Rammus",
             "Rell",
-            "Renekton",
+            "Renata glasc",
             "Riven",
-            "Sejuani",
+            "Seraphine",
             "Sett",
-            "Sylas",
-            "Taliyah",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
             "Thresh",
+            "Udyr",
             "Urgot",
-            "Vayne",
             "Vi",
-            "Viego",
+            "Viktor",
             "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
-            "Zac"
+            "Yone"
         ],
         [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Belveth",
+            "Azir",
+            "Diana",
             "Naafiri",
-            "Vayne",
-            "Vex",
-            "Viego"
+            "Taric"
         ]
     ]
 }

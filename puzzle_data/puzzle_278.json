@@ -1,92 +1,132 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "Season 7+",
-        "blink"
+        "true damage",
+        "hextech"
     ],
     "cols": [
-        "knock-up",
-        "Bilgewater",
-        "riot records"
+        "Noxus",
+        "stun",
+        "never played"
     ],
     "solutions": [
         [
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Ambessa",
             "Anivia",
+            "Annie",
             "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
             "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
             "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
+            "Orianna",
+            "Pantheon",
             "Qiyana",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
+            "Seraphine",
             "Sylas",
-            "Yone"
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Elise",
+            "Heimerdinger",
+            "Kennen",
+            "Naafiri"
         ],
         [
-            "Aphelios",
+            "Darius",
+            "Draven",
+            "Samira"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
             "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Senna",
-            "Sett",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
+            "Nunu",
             "Pyke",
-            "Tahm kench",
-            "Twisted fate"
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Ekko",
-            "Ezreal",
-            "Viego",
-            "Yasuo",
-            "Yone"
+            "Akshan",
+            "Amumu",
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Janna",
+            "Jarvan IV",
+            "Rammus",
+            "Sejuani"
         ]
     ]
 }

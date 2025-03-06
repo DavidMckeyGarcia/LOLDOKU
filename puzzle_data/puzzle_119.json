@@ -1,80 +1,87 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "Season 2-6",
+        "Adc",
+        "prestige",
         "blink"
     ],
     "cols": [
-        "root",
-        "Zaun",
-        "tether"
+        "Piltover",
+        "knock-up",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Seraphine"
         ],
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
+            "Kalista",
+            "Samira",
             "Ziggs"
         ],
         [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Caitlyn",
+            "Camille",
+            "Ezreal"
+        ],
+        [
             "Aatrox",
-            "Illaoi",
-            "Kalista",
-            "Kled",
-            "Zac"
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
+            "Aatrox",
+            "Caitlyn",
+            "Ezreal",
+            "Jax",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Lulu",
+            "Rakan",
+            "Thresh",
+            "Xayah"
         ],
         [
-            "Ekko"
+            "Ezreal"
         ],
         [
-            "LeBlanc"
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ezreal",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

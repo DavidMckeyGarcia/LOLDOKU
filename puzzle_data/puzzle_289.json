@@ -1,64 +1,93 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "Season 2-6",
-        "hextech"
+        "OG40",
+        "elderwood"
     ],
     "cols": [
-        "Bandle City",
-        "root",
-        "ascended"
+        "Freljord",
+        "knock-up",
+        "shred"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Rumble",
-            "Teemo"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
             "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
             "Zac"
         ],
         [
-            "Aatrox",
-            "Kayn",
+            "Garen",
+            "Jarvan IV",
+            "Mordekaiser",
             "Nasus",
-            "Pantheon",
-            "Renekton"
+            "Olaf",
+            "Renekton",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Wukong"
         ],
         [
-            "Lulu"
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Aatrox",
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
+        ],
+        [
+            "Gnar"
+        ],
+        [
             "Azir",
-            "Diana",
-            "Varus"
+            "Rakan",
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Tristana"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Renekton"
+            "Karthus",
+            "Wukong"
         ]
     ]
 }

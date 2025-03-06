@@ -2,44 +2,25 @@
     "difficulty": "gold",
     "rows": [
         "Top",
-        "invis",
-        "hextech"
+        "OG40",
+        "global ult"
     ],
     "cols": [
-        "Demacia",
-        "knock-up",
+        "fear",
+        "Bilgewater",
         "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
         ],
         [
             "Chogath",
@@ -56,40 +37,56 @@
             "Wukong"
         ],
         [
-            "Vayne"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Neeko",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "Kaisa",
-            "Neeko",
-            "Viego",
-            "Wukong"
-        ],
-        [
-            "Galio",
-            "Jarvan IV",
-            "Poppy"
+            "Gangplank",
+            "Twisted fate"
         ],
         [
             "Alistar",
-            "Anivia",
-            "Galio",
-            "Janna",
-            "Jarvan IV",
-            "Poppy",
-            "Sejuani",
-            "Sion",
-            "Ziggs"
-        ],
-        [
-            "Alistar",
-            "Nocturne",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
             "Rammus",
-            "Tristana"
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Briar",
+            "Ekko",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
+            "Shen",
+            "Twisted fate",
+            "Xerath"
         ]
     ]
 }

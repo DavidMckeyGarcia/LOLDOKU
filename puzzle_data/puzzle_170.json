@@ -1,57 +1,83 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
+        "Adc",
         "life steal",
-        "OG40"
+        "Season 2-6"
     ],
     "cols": [
+        "knock-up",
         "The Void",
-        "fear",
-        "ascended"
+        "shred"
     ],
     "solutions": [
         [
-            "Chogath"
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Corki",
+            "Jayce",
+            "Kogmaw"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
             "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
         ],
         [
             "Belveth"
         ],
         [
-            "Aatrox",
             "Briar",
-            "Warwick"
+            "Nasus",
+            "Olaf",
+            "Sion",
+            "Trundle"
         ],
         [
             "Aatrox",
-            "Kayn",
-            "Nasus"
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Chogath",
-            "Kassadin"
+            "Khazix",
+            "Reksai",
+            "Velkoz"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Nasus",
-            "Taric"
+            "Jayce",
+            "Rengar",
+            "Vi"
         ]
     ]
 }

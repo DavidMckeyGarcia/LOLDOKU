@@ -1,65 +1,130 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "cosmic",
-        "shield"
+        "dash",
+        "coven"
     ],
     "cols": [
-        "silence",
-        "The Void",
-        "30+ wins"
+        "knock-up",
+        "Piltover",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
-        [
-            "Ahri",
+            "Anivia",
+            "Aurelion Sol",
             "Azir",
-            "Corki",
+            "Chogath",
+            "Diana",
+            "Fizz",
             "Galio",
-            "LeBlanc",
-            "Lissandra",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Ezreal",
+            "Heimerdinger",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Azir",
+            "Elise",
+            "Ezreal",
+            "Gragas",
+            "Lucian",
             "Orianna",
             "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Syndra",
+            "Tristana"
         ],
         [
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Belveth",
-            "Kassadin"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Kaisa",
-            "Kassadin"
-        ],
-        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
             "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
             "Galio",
-            "Orianna",
-            "Viktor"
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Camille",
+            "Ezreal",
+            "Jayce"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Maokai",
+            "Rakan",
+            "Renekton",
+            "Sejuani",
+            "Shen",
+            "Thresh",
+            "Tristana"
+        ],
+        [
+            "Nami",
+            "Zyra"
+        ],
+        [
+            "Camille"
+        ],
+        [
+            "Ashe",
+            "Elise",
+            "Syndra"
         ]
     ]
 }

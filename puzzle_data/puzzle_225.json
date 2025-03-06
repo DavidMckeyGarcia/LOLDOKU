@@ -1,22 +1,21 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Support",
-        "Season 2-6",
-        "shield"
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "Noxus",
+        "Bilgewater",
         "stun",
-        "ult reset"
+        "never played"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
         ],
         [
             "Alistar",
@@ -48,96 +47,105 @@
             "Zilean"
         ],
         [
-            "Swain"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
-            "Aurelion Sol",
+            "Alistar",
+            "Ashe",
             "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Kled",
-            "Mel",
-            "Mordekaiser",
-            "Rell",
-            "Riven",
-            "Sion"
-        ],
-        [
-            "Ambessa",
-            "Annie",
             "Blitzcrank",
+            "Brand",
             "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
             "Milio",
             "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
+            "Nami",
+            "Pyke",
+            "Rakan",
             "Rell",
             "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
+            "Senna",
             "Sona",
+            "Soraka",
             "Tahm kench",
-            "Taric",
             "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
+            "Yuumi",
+            "Zyra"
         ],
         [
-            "Naafiri",
-            "Olaf",
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Ashe",
+            "Bard",
+            "Briar",
+            "Draven",
+            "Jinx",
+            "Kled",
+            "Lillia",
+            "Maokai",
+            "Senna",
+            "Shen",
+            "Soraka"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
             "Sivir",
-            "Vex",
-            "Viktor"
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ]
     ]
 }

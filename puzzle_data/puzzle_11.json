@@ -1,19 +1,16 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
         "Support",
         "Season 2-6",
-        "dash"
+        "arcade"
     ],
     "cols": [
-        "The Void",
         "root",
-        "30+ wins"
+        "Freljord",
+        "ult reset"
     ],
     "solutions": [
-        [
-            "Velkoz"
-        ],
         [
             "Karma",
             "Leona",
@@ -31,12 +28,12 @@
             "Zyra"
         ],
         [
-            "Galio"
+            "Ashe",
+            "Brand",
+            "Braum"
         ],
         [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
+            "Swain"
         ],
         [
             "Ivern",
@@ -50,37 +47,29 @@
             "Zyra"
         ],
         [
-            "Ahri",
-            "Azir",
+            "Braum",
+            "Gnar",
+            "Kindred",
             "Lissandra",
-            "Taliyah",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Darius",
             "Viktor"
         ],
         [
-            "Belveth",
-            "Kaisa",
-            "Khazix",
-            "Reksai"
+            "Caitlyn",
+            "Qiyana"
         ],
         [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
+            "Brand"
         ],
         [
             "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "Taliyah"
+            "Belveth"
         ]
     ]
 }

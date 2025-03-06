@@ -234,44 +234,44 @@ function updateHeaders(puzzleData) {
             tooltipContent = 'The Yordle are a race of spirits who generally take the appearance of mammalian bipeds. They mostly reside in a mystical place known as Bandle City, though some of them have ventured out to live in numerous locations around Runeterra.';
             tooltipImage = 'images/tooltips/yordle.png';
             break;
-        case "darkin":
+        case 'darkin':
             tooltipTitle = 'DARKIN';
             tooltipContent = "Darkin are corrupted God-Warriors who were traumatized by the horrors of the Void War as well as self infliction by the use of blood magic. Currently, all known Darkin have been imprisoned in weapons, unable to ever regain their original Ascended forms.";
             tooltipImage = 'images/tooltips/darkin.png';
             break;
-        case "ascended":
+        case 'ascended':
             tooltipTitle = 'ASCENDED';
             tooltipContent = "The umbrella term Ascended refers to all humans who were magically altered by a variety of magic, chiefly celestial magic. After their ascension, the Ascended can channel celestial magic through their connection to celestial entities, but do not gain celestial magic themselves.";
             tooltipImage = 'images/tooltips/ascended.png';
             break;
-        case "vastayan":
+        case 'vastayan':
             tooltipTitle = 'VASTAYAN';
             tooltipContent = "The Vastaya are a chimeric race of Runeterra that are the weaker magical descendants from enlightened mortals that took the power of the spirit realm into themselves known as the Vastayashai'rei.";
             tooltipImage = 'images/tooltips/vastayan.png';
             break;
-        case "celestial":
+        case 'celestial':
             tooltipTitle = 'CELESTIAL';
             tooltipContent = "The umbrella term Celestial refers to all the beings that originate from the celestial realm beyond Runeterra. They were among the first beings that came to be in the universe and are alien in comparison to the physical and spiritual realms."; 
             tooltipImage = 'images/tooltips/celestial.png';
                 break;
-        case "ult reset":
+        case 'ult reset':
             tooltipTitle = 'ULTIMATE RESET';
             tooltipContent = "A champion whose ultimate ability cooldown is " +"refunded".bold() +" or its " +"duration increased/extended".bold() +" when scoring a" +"champion takedown. ".bold()+ "Ultimate resets are one of the best ways to get pentakills!";
             tooltipImage = 'images/tooltips/reset.png';
             break;
-        case "manaless":
+        case 'manaless':
             tooltipTitle = 'MANALESS';
             tooltipContent = "A " +"manaless ".bold() + " champion does not use nor benefit from mana or mana regeneration. There are a number of alternative mechanics that gate the availability of or empower a champion's abilities such as Energy, Fury or Heat.";
             break;
-        case "inf stacking":
+        case 'inf stacking':
             tooltipTitle = 'INFINITE STACKING';
             tooltipContent = "There are some champions in league of legends that can stack an effect infinitely, effectively meaning that they can gain an arbitrary number of one or more stats such as health, resistances, damage or other.";
             break;
-        case "100% ap ratio":
-            tooltipTitle = '100%+ AP RATIO';
+        case '100% ap ratio':
+            tooltipTitle = "100%+ AP RATIO";
             tooltipContent = "Champions who have an ability that scales by 100% Ability Power (AP) or higher. Note that abilities that do damage over time (tick damage) or burn damage are not counted even if the maximum damage output would exceed 100%. ";
             break;
-        case "riot records":
+        case 'riot records':
             tooltipTitle = 'RIOT RECORDS';
             tooltipContent = "Riot Games has produced a variety of music for League of Legends and its other games. In League of Legends, alternate universes exist where some champions are part of a band such as Pentakill, K/DA, True Damage and Heartsteal. ";
             tooltipImage = 'images/tooltips/riot records.png';  
@@ -282,7 +282,7 @@ function updateHeaders(puzzleData) {
             tooltipImage = 'images/tooltips/arcane.png';    
             break
         case "never played":
-            tooltipTitle = "NEVER PLAYED BY FAKER";
+            tooltipTitle = "NEVE PLAYED BY FAKER";
             tooltipContent = "Lee " +"'Faker'".bold() +" Sang-hyeok is a League of Legends esports player, currently mid laner and part owner at T1. He has played over "+ "1400".bold()+ " professional league of legends game since 2013, by far the most out of any other pro player";
             tooltipImage = 'images/tooltips/faker.png';    
             break
@@ -303,12 +303,12 @@ function updateHeaders(puzzleData) {
             tooltipTitle = "0 WORLDS GAMES";
             tooltipContent = "Only 11 Champions have yet to be played at the League of Legends " +"World Championship ".bold() + "commonly called 'Worlds'. Note that we do not count the Worlds Play in stage as an official Worlds match, only champions played at the Main event wont count. ";  
             break
-        case "100+ wins":
-            tooltipTitle = "100+ WORLDS GAMES";
+        case '100+ games':
+            tooltipTitle = '100+ WORLDS GAMES';
             tooltipContent = "Despite having over 170 Champions, there are a select few Champions which can boast over 100 games at the League of Legends " +"World Championship.".bold() + " Note that we do not count the Worlds Play-in stage as an official Worlds match.";  
             break
-        case "30+ wins":
-            tooltipTitle = "30+ WINS";
+        case '30+ wins':
+            tooltipTitle = '30+ WINS';
             tooltipContent = "Lee  " +"'Faker''".bold() + " Sang-hyeok is renowned for his proficiency across numerous Champions. However, out of over 1,400 career games, he's secured 30 or more wins with only 10 Champions - accounting for more than half of his total wins!";  
             break
         default:

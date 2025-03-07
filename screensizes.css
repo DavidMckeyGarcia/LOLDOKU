@@ -1,60 +1,89 @@
-/* Mobile Responsive Base Styles */
-:root {
-  /* Scaling factors for mobile */
-  --mobile-scale-factor: 0.6;
-  --mobile-font-scale: 0.7;
-}
+/* Mobile-Optimized CSS for League of Legends App 
+ * This file contains responsive styles for mobile devices
+ */
 
-/* Global Mobile Adjustments */
-@media screen and (max-width: 768px) {
+/* Typography - Font Declarations (preserved from original) */
+@font-face {
+    font-family: 'Beaufort';
+    src: url('images/Font/BeaufortforLOL-Heavy.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Beaufort-Regular';
+    src: url('images/Font/BeaufortforLOL-Regular.ttf') format('truetype');
+  }
+  
+  /* Main Color Variables */
+  :root {
+    --primary-bg: #010a13;
+    --secondary-bg: #0A1428;
+    --highlight-color: #C89B3C;
+    --text-color: #F0E6D2;
+    --hover-bg: #0d343d;
+    --error-color: rgba(255, 40, 40, 0.8);
+  }
+  
+  /* Base Styles */
   body {
-      overflow-x: hidden;
-      width: 100%;
-  }
-
-  /* Navbar Scaling */
-  nav {
-      padding: calc(30px * var(--mobile-scale-factor));
-      font-size: calc(20px * var(--mobile-font-scale));
-  }
-
-  nav a {
-      margin: 0 calc(15px * var(--mobile-scale-factor));
-      font-size: calc(25px * var(--mobile-font-scale));
-  }
-
-  nav2 {
+    margin: 0;
+    padding: 0;
+    background-color: #010A13;
+    font-family: 'Beaufort', sans-serif;
     cursor: url("images/cursor_default.png"), auto;
-    background-color: #C89B3C;
-    padding: calc(51px * var(--mobile-scale-factor));
-    border-radius: calc(15px * var(--mobile-font-scale));
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
-
-
-  /* Grid Scaling */
-  .grid {
-      grid-template-columns: repeat(5, calc(150px * var(--mobile-scale-factor)));
-      grid-template-rows: repeat(4, calc(150px * var(--mobile-scale-factor)));
-      gap: calc(3px * var(--mobile-scale-factor));
-  }
-
-  .grid-item {
-      width: calc(150px * var(--mobile-scale-factor));
-      height: calc(150px * var(--mobile-scale-factor));
-  }
-
-  /* Apply animation to correct grid items */
-  .grid-header[data-type="score"]{
-    font-size: calc(30px * var(--mobile-scale-factor));
-  }
-
-    /* For the text */
-.header-text {
+  
+  /* Mobile-specific styles using media queries */
+  @media (max-width: 768px) {
+    /* ====== NAVBAR STYLING ====== */
+    nav {
+      padding: 15px;
+      font-size: 16px;
+    }
+    
+    nav a {
+      margin: 0 8px;
+      font-size: 18px;
+    }
+    
+    nav2 {
+      padding: 30px;
+      border-radius: 10px;
+    }
+    
+    /* ====== GRID STYLING ====== */
+    #grid-title {
+      margin-top: 80px;
+      font-size: 28px;
+    }
+    
+    .grid-container {
+      margin-top: 0;
+      width: 100%;
+    }
+    
+    .grid {
+      grid-template-columns: repeat(5, 60px);
+      grid-template-rows: repeat(4, 60px);
+      gap: 2px;
+    }
+    
+    .grid-item {
+      width: 60px;
+      height: 60px;
+      border-radius: 3px;
+    }
+    
+    /* Grid Headers */
+    .grid-header {
+      padding: 5px;
+      font-size: 14px;
+    }
+    
+   /* For the text */
+   .header-text {
     font-family: "beaufort";
     font-weight: bold;
     text-transform: uppercase;
@@ -64,82 +93,395 @@
     width: 110%;
   }
 
-  /* Typography Scaling */
-  #grid-title, #second-grid-title, #solutions-modal-instruction {
-      font-size: calc(40px * var(--mobile-font-scale));
-      margin-top: calc(130px * var(--mobile-scale-factor));
+    
+    /* ====== SECONDARY GRID STYLING ====== */
+    #second-grid-title {
+      font-size: 24px;
+      margin-top: 80px;
+      margin-bottom: -30px;
+    }
+    
+    #solutions-container {
+      font-size: 24px;
+      margin-top: 80px;
+    }
+    
+    #second-grid-container {
+      margin-top: 80px;
+    }
+    
+    /* ====== BUTTON STYLING ====== */
+    .FF-button-container {
+      margin-top: -10px;
+    }
+    
+    #forfeit, #refresh {
+      font-size: 18px;
+      width: 50px;
+      height: 40px;
+    }
+    
+    /* ====== STATS DISPLAY ====== */
+    #lives-display {
+      font-size: 20px;
+    }
+    
+    #score {
+      font-size: 24px;
+    }
+    
+    #stats-box {
+      width: 90%;
+      height: 80px;
+      margin: -30px auto 20px;
+    }
+    
+    .sub-box {
+      margin: 0 5px;
+      padding: 10px;
+      font-size: 14px;
+    }
+    
+    /* ====== TOOLTIPS ====== */
+    .tooltip {
+      max-width: 280px;
+      min-width: 200px;
+    }
+    
+    .tooltip-title {
+      font-size: 14px;
+      padding: 8px 10px;
+    }
+    
+    .tooltip-content-container {
+      padding: 8px;
+    }
+    
+    .tooltip-image img {
+      width: 90px;
+      height: 160px;
+    }
+    
+    .tooltip-text {
+      font-size: 14px;
+    }
+    
+    /* ====== MODAL STYLING ====== */
+    .modal,
+    #game-over-modal,
+    #win-modal,
+    #solutions-modal,
+    #ff15-modal {
+      padding-top: 80px;
+    }
+    
+    .modal-content,
+    .ffmodal-content,
+    .ff15modal-content,
+    .solutions-modal-content {
+      padding: 15px;
+      min-width: 300px;
+    }
+    
+    #modal-instruction {
+      font-size: 22px;
+      margin-top: 2px;
+    }
+    
+    #modal-cats {
+      font-size: 12px;
+      margin-bottom: 20px;
+    }
+    
+    /* ====== INPUT STYLING ====== */
+    #user-answer {
+      padding: 8px;
+      font-size: 16px;
+      width: 85%;
+      height: 40px;
+    }
+    
+    /* ====== RESULTS DROPDOWN ====== */
+    .results {
+      max-width: 85%;
+    }
+    
+    .results li {
+      padding: 6px 8px;
+    }
+    
+    /* ====== BUTTON STYLING ====== */
+    button {
+      width: 70px;
+      height: 40px;
+      font-size: 14px;
+    }
+    
+    /* ====== FF15 MODAL STYLING ====== */
+    .ff15modal-content h3 {
+      font-size: 22px;
+    }
+    
+    .ff15modal-content p {
+      font-size: 14px;
+      max-width: 280px;
+    }
+    
+    .ff15modal-buttons {
+      gap: 15px;
+    }
+    
+    #ff15-cancel-btn,
+    #ff15-confirm-btn {
+      font-size: 16px;
+    }
+    
+    /* ====== GAME OVER / WIN MODAL STYLING ====== */
+    .ffmodal-content h3 {
+      font-size: 22px;
+    }
+    
+    .ffmodal-content p {
+      font-size: 14px;
+    }
+    
+    .ffmodal-buttons {
+      gap: 15px;
+    }
+    
+    #continue-btn, 
+    #continue-win-btn, 
+    #reveal-btn {
+      padding: 6px 12px;
+      height: 45px;
+      width: 90px;
+      font-size: 14px;
+    }
+    
+    /* ====== SOLUTIONS MODAL STYLING ====== */
+    #solutions-modal-instruction {
+      font-size: 22px;
+    }
+    
+    #solutions-modal-cats {
+      font-size: 12px;
+      margin-bottom: 20px;
+    }
+    
+    #solutions-dropdown {
+      width: 90%;
+      max-height: 300px;
+      padding: 8px;
+      font-size: 14px;
+    }
+    
+    #solutions-dropdown li {
+      padding: 6px 8px;
+    }
+    
+    #solutions-dropdown .solution-name {
+      font-size: 14px;
+      margin-left: 8px;
+    }
+  
+    /* Scale down rule containers */
+    .rule-container {
+      margin-top: 15px;
+      font-size: 14px;
+    }
+  
+    .rule-title {
+      font-size: 16px;
+    }
+  
+    .rule-description {
+      font-size: 12px;
+    }
+  
+    .start-button {
+      padding: 8px 16px;
+      font-size: 14px;
+      margin-top: 25px;
+    }
   }
-
-  /* Modal Scaling */
-  .modal-content, .solutions-modal-content {
-      min-width: calc(500px * var(--mobile-scale-factor));
-      padding: calc(20px * var(--mobile-scale-factor));
+  
+  /* For extra small devices (phones under 480px) */
+  @media (max-width: 480px) {
+    nav {
+      padding: 10px;
+      font-size: 14px;
+    }
+    
+    nav a {
+      font-size: 16px;
+      margin: 0 5px;
+    }
+    
+    #grid-title {
+      font-size: 24px;
+      margin-top: 70px;
+    }
+    
+    .grid {
+      grid-template-columns: repeat(5, 50px);
+      grid-template-rows: repeat(4, 50px);
+      gap: 1px;
+    }
+    
+    .grid-item {
+      width: 50px;
+      height: 50px;
+    }
+    
+    /* Further reduce modal sizes */
+    .modal-content,
+    .ffmodal-content,
+    .ff15modal-content,
+    .solutions-modal-content {
+      min-width: 250px;
+      padding: 12px;
+    }
+    
+    #modal-instruction,
+    #solutions-modal-instruction,
+    .ffmodal-content h3,
+    .ff15modal-content h3 {
+      font-size: 18px;
+    }
+    
+    #user-answer {
+      font-size: 14px;
+      height: 35px;
+    }
+    
+    button {
+      width: 60px;
+      height: 35px;
+      font-size: 12px;
+    }
+    
+    #continue-btn, 
+    #continue-win-btn, 
+    #reveal-btn {
+      height: 40px;
+      width: 80px;
+      font-size: 12px;
+    }
+    
+    /* Tooltip adjustments for very small screens */
+    .tooltip {
+      max-width: 220px;
+      min-width: 180px;
+    }
+    
+    .tooltip-image img {
+      width: 70px;
+      height: 120px;
+    }
+    
+    .tooltip-text {
+      font-size: 12px;
+    }
+    
+    /* Improved touch targets for mobile */
+    #forfeit, 
+    #refresh {
+      width: 45px;
+      height: 35px;
+      font-size: 16px;
+    }
+    
+    .results li {
+      padding: 8px; /* Larger touch target */
+    }
   }
-
-  #modal-instruction {
-      font-size: calc(30px * var(--mobile-font-scale));
+  
+  /* Preserve original animations */
+  @keyframes fadeInZoom {
+    0% {
+      opacity: 0;
+      transform: scale(0);
+    }
+    50% {
+      opacity: 0;
+      transform: scale(0.7);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
   }
-
-  /* Input and Button Scaling */
-  #user-answer {
-      width: calc(400px * var(--mobile-scale-factor));
-      height: calc(53px * var(--mobile-scale-factor));
-      font-size: calc(18px * var(--mobile-font-scale));
+  
+  @keyframes zoomOut {
+    0% {
+      opacity: 1;
+      transform: scale(1);
+    }
+    100% {
+      opacity: 0;
+      transform: scale(0.5);
+    }
   }
-
-  button {
-      width: calc(89px * var(--mobile-scale-factor));
-      height: calc(53px * var(--mobile-scale-factor));
-      font-size: calc(18px * var(--mobile-font-scale));
+  
+  @keyframes correctAnswerReveal {
+    0% {
+      opacity: 0;
+      transform: scale(0.7) rotate(-5deg);
+    }
+    20% {
+      opacity: 0.1;
+    }
+    50% {
+      opacity: 0.8;
+      transform: scale(1.1) rotate(3deg);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1) rotate(0deg);
+    }
   }
-
-  /* Tooltip Scaling */
-  .tooltip {
-      max-width: calc(380px * var(--mobile-scale-factor));
-      min-width: calc(300px * var(--mobile-scale-factor));
+  
+  @keyframes fadeOutZoom {
+    0% {
+      opacity: 1;
+      transform: scale(1);
+    }
+    50% {
+      opacity: 0.7;
+      transform: scale(1.02);
+    }
+    100% {
+      opacity: 0;
+      transform: scale(0.9);
+    }
   }
-
-  .tooltip-image img {
-      width: calc(130px * var(--mobile-scale-factor));
-      height: calc(240px * var(--mobile-scale-factor));
+  
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    20%, 60% { transform: translateX(-5px); }
+    40%, 80% { transform: translateX(5px); }
   }
-
-  /* Dropdown and Results Scaling */
-  .results, #solutions-dropdown {
-      width: calc(400px * var(--mobile-scale-factor));
-      max-height: calc(300px * var(--mobile-scale-factor));
+  
+  @keyframes incorrect-flash {
+    0% { background-color: transparent; }
+    50% { background-color: var(--error-color); }
+    100% { background-color: transparent; }
   }
-
-  /* Positioning Adjustments */
-  .modal {
-      padding-top: calc(200px * var(--mobile-scale-factor));
+  
+  @keyframes flashRed {
+    0% { background-color: var(--secondary-bg); }
+    25% { background-color: var(--error-color); }
+    100% { background-color: var(--secondary-bg); }
   }
-
-  /* Scrollbar Adjustments */
-  ::-webkit-scrollbar {
-      width: calc(8px * var(--mobile-scale-factor));
+  
+  @keyframes shakeEffect {
+    0%, 100% { transform: translateX(0); }
+    10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
+    20%, 40%, 60%, 80% { transform: translateX(5px); }
   }
-}
-
-/* Additional Mobile-Specific Tweaks */
-@media screen and (max-width: 480px) {
-  /* Tighter scaling for smaller screens */
-  :root {
-      --mobile-scale-factor: 0.5;
-      --mobile-font-scale: 0.6;
+  
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
   }
-}
-
-/* Orientation-Based Adjustments */
-@media screen and (orientation: landscape) and (max-width: 900px) {
-  body {
-      /* Specific adjustments for landscape mobile view */
-      flex-direction: row;
-      justify-content: center;
-  }
-
-  .grid-container {
-      width: 80%;
-      margin: 0 auto;
-  }
-}

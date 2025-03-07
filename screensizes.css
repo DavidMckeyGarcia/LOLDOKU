@@ -106,6 +106,12 @@
   }
 
   /* ===== MODAL ADJUSTMENTS ===== */
+  #answer-modal {
+    position: fixed;
+    width: 90%; /* Adjust for desktop */
+  }
+ 
+
   .modal,
   #game-over-modal,
   #win-modal,
@@ -303,6 +309,16 @@
     margin-top: 20px;
   }
 }
+
+
+
+
+
+
+
+
+
+
 
 /* For extra small devices */
 @media screen and (max-width: 375px) {

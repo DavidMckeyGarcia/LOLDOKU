@@ -282,7 +282,7 @@ function updateHeaders(puzzleData) {
             tooltipImage = 'images/tooltips/arcane.png';    
             break
         case "never played":
-            tooltipTitle = "NEVE PLAYED BY FAKER";
+            tooltipTitle = "NEVER PLAYED BY FAKER";
             tooltipContent = "Lee " +"'Faker'".bold() +" Sang-hyeok is a League of Legends esports player, currently mid laner and part owner at T1. He has played over "+ "1400".bold()+ " professional league of legends game since 2013, by far the most out of any other pro player";
             tooltipImage = 'images/tooltips/faker.png';    
             break

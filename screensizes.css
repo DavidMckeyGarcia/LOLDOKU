@@ -34,24 +34,20 @@
   }
 
   .grid {
-    grid-template-columns: repeat(5, 60px);
-    grid-template-rows: repeat(4, 60px);
+    grid-template-columns: repeat(5, 75px);
+    grid-template-rows: repeat(4, 75px);
     gap: 2px;
   }
 
   .grid-item {
-    width: 60px;
-    height: 60px;
+    width: 75px;
+    height: 75px;
   }
 
   /* ===== HEADER IMAGES & TEXT ADJUSTMENTS ===== */
   .rank-image{
     max-width: 90%;
     max-height: 90%;
-  }
-
-  #score{
-    font-size: 10px;
   }
 
   .column-image,
@@ -70,13 +66,31 @@
   }
 
   .grid-header {
-    padding: 5px;
+    padding: 0px;
+    border: 1px dashed red;
   }
 
+
+  .FF-button-container {
+    margin-top: 5px;
+    gap: 10px;
+  }
+  
+  .FF-button-container button {
+    width: 40px;
+    height: 40px;
+    font-size: 10px;
+  }
+  
+
+
+
+  
   /* ===== TOOLTIP ADJUSTMENTS ===== */
   .tooltip {
     max-width: 280px;
     min-width: 200px;
+    margin-top: -250px;
   }
 
   .tooltip-title {
@@ -120,6 +134,7 @@
     width: 90%;
     max-width: 320px;
     padding: 15px;
+    margin-top: -100px;
   }
 
   #modal-instruction {

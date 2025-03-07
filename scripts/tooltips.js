@@ -27,42 +27,60 @@ function initializeTooltips() {
       rankHeader.addEventListener('mouseleave', hideTooltip);
     }
     
-    // Function to show tooltip
-    function showTooltip(event, element) {
-      const tooltipContent = element.getAttribute('data-tooltip-content');
-      const tooltipTitle = element.getAttribute('data-tooltip-title');
-      const tooltipImage = element.getAttribute('data-tooltip-image');
+// Function to show tooltip
+function showTooltip(event, element) {
+    const tooltipContent = element.getAttribute('data-tooltip-content');
+    const tooltipTitle = element.getAttribute('data-tooltip-title');
+    const tooltipImage = element.getAttribute('data-tooltip-image');
+    
+    if (!tooltipContent && !tooltipTitle && !tooltipImage) return;
+    
+    // Build the tooltip HTML
+    let tooltipHTML = '';
+    
+    // Add title if present
+    if (tooltipTitle) {
+      tooltipHTML += `<div class="tooltip-title">${tooltipTitle}</div>`;
+    }
+    
+    // Create content container
+    tooltipHTML += '<div class="tooltip-content-container">';
+    
+    // Add image if present
+    if (tooltipImage) {
+      tooltipHTML += `<div class="tooltip-image"><img src="${tooltipImage}" alt="Tooltip image"></div>`;
+    }
+    
+    // Add content text if present
+    if (tooltipContent) {
+      tooltipHTML += `<div class="tooltip-text">${tooltipContent}</div>`;
+    }
+    
+    // Close content container
+    tooltipHTML += '</div>';
+    
+    tooltip.innerHTML = tooltipHTML;
+    tooltip.style.display = 'block';
+    
+    // Check if the device is mobile (screen width less than 768px)
+    const isMobile = window.innerWidth < 768;
+    
+    if (isMobile) {
+      // For mobile, center the tooltip in the viewport
+      const tooltipRect = tooltip.getBoundingClientRect();
       
-      if (!tooltipContent && !tooltipTitle && !tooltipImage) return;
+      // Calculate center position
+      const left = (window.innerWidth - tooltipRect.width) / 2;
+      const top = (window.innerHeight - tooltipRect.height) / 2;
       
-      // Build the tooltip HTML
-      let tooltipHTML = '';
+      // Apply centered position
+      tooltip.style.left = left + window.scrollX + 'px';
+      tooltip.style.top = top + window.scrollY + 'px';
       
-      // Add title if present
-      if (tooltipTitle) {
-        tooltipHTML += `<div class="tooltip-title">${tooltipTitle}</div>`;
-      }
-      
-      // Create content container
-      tooltipHTML += '<div class="tooltip-content-container">';
-      
-      // Add image if present
-      if (tooltipImage) {
-        tooltipHTML += `<div class="tooltip-image"><img src="${tooltipImage}" alt="Tooltip image"></div>`;
-      }
-      
-      // Add content text if present
-      if (tooltipContent) {
-        tooltipHTML += `<div class="tooltip-text">${tooltipContent}</div>`;
-      }
-      
-      // Close content container
-      tooltipHTML += '</div>';
-      
-      tooltip.innerHTML = tooltipHTML;
-      tooltip.style.display = 'block';
-      
-      // Position the tooltip to the right of the element
+      // Add mobile-specific class for additional styling if needed
+      tooltip.classList.add('tooltip-mobile');
+    } else {
+      // For desktop, position the tooltip to the right of the element (original logic)
       const rect = element.getBoundingClientRect();
       const tooltipRect = tooltip.getBoundingClientRect();
       
@@ -76,6 +94,9 @@ function initializeTooltips() {
       tooltip.style.left = left + window.scrollX + 'px';
       tooltip.style.top = top + window.scrollY + 'px';
       
+      // Remove mobile class if it was previously added
+      tooltip.classList.remove('tooltip-mobile');
+      
       // Make sure tooltip doesn't go off screen
       const rightEdge = left + tooltipRect.width;
       if (rightEdge > window.innerWidth) {
@@ -83,6 +104,7 @@ function initializeTooltips() {
         tooltip.style.left = (rect.left - tooltipRect.width - 10) + window.scrollX + 'px';
       }
     }
+  }
     
     // Function to hide tooltip
     function hideTooltip() {
@@ -459,6 +481,10 @@ function updateHeaders(puzzleData) {
         case 'elderwood':
             tooltipTitle = 'ELDERWOOD SKINLINE';
             tooltipContent = 'The Elderwood is in a magical arms race against the Coven, constantly stealing the witches looks and spells.';
+            break
+        case 'coven':
+            tooltipTitle = 'COVEN SKINLINE';
+            tooltipContent = "The witches lay in wait, a sisterhood of frightening pulchritude, their hopes whispered forth from desacralized lips. They speak of the bloating corpses of Old Gods, of ancient rites carried out with magics long forgotten to mortal mind, of the return of what they call 'order', but others call 'suffering'. Hark! Mankind's end fast approaches.".italics();
             break
         case 'space groove':
             tooltipTitle = 'SPACE GROOVE SKINLINE';

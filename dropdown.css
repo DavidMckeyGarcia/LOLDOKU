@@ -159,27 +159,7 @@ body {
   animation: tooltipFadeIn 0.4s ease-in-out;
 }
 
-.tooltip::before {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: -8px;
-  margin-top: -8px;
-  border-width: 8px 8px 8px 0;
-  border-style: solid;
-  border-color: transparent #C89B3C transparent transparent;
-}
 
-.tooltip::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: -7px;
-  margin-top: -7px;
-  border-width: 7px 7px 7px 0;
-  border-style: solid;
-  border-color: transparent #0A1428 transparent transparent;
-}
 
 .tooltip-title {
   background-color: #091428;

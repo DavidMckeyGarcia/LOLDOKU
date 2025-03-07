@@ -301,7 +301,7 @@ function updateHeaders(puzzleData) {
             break 
         case "0 games":
             tooltipTitle = "0 WORLDS GAMES";
-            tooltipContent = "Only 11 Champions have yet to be played at the League of Legends " +"World Championship ".bold() + "commonly called 'Worlds'. Note that we do not count the Worlds Play in stage as an official Worlds match, only champions played at the Main event wont count. ";  
+            tooltipContent = "Only 10 Champions have yet to be played at the League of Legends " +"World Championship ".bold() + "commonly called 'Worlds'. Note that here we do not count Worlds Play In stage as a Worlds match, meaning only champions played at the Main event wont count. ";  
             break
         case '100+ games':
             tooltipTitle = '100+ WORLDS GAMES';

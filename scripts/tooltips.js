@@ -108,8 +108,10 @@ function updateHeaders(puzzleData) {
         
         // Create and add the image
         const img = document.createElement('img');
-        img.src = `images/headers/${cols[index].toLowerCase()}.webp`; 
-        img.alt = cols[index];
+        const imageName = cols[index].toLowerCase();
+        imageName = encodeURIComponent(imageName);
+        img.src = `images/headers/${imageName}.webp`; 
+        img.alt = imageName;
         img.classList.add('column-image');
         
         // Create and add the text
@@ -222,7 +224,6 @@ function updateHeaders(puzzleData) {
         case 'knock-up':
             tooltipTitle = 'KNOCK UP';
             tooltipContent = "A unit that is "+ "knocked airborne".bold() +" undergoes a forced displacement in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the summoner spells Flash, Hexflash or Teleport.";
-            tooltipImage = 'images/tooltips/knockup.png';
             break;
         case 'silence':
             tooltipTitle = 'SILENCE';
@@ -313,7 +314,7 @@ function updateHeaders(puzzleData) {
             break
         case 'pentakill':
             tooltipTitle = 'PENATKILL AT WORLDS/MSI';
-            tooltipContent = "Any champion that has recorded a  " +"Pentakill'".bold() + " at " +"Worlds".bold() + " (Play-Ins or Main Event) or " + "MSI".bold() + " (Mid Season Invitational). Fun Facts; Only 1 player has secured a Pentakill at Worlds and MSI..." +" Rekkles!".bold() +" Also, only a single player has more than 1 pentakills at Worlds, it was Imp, both at 2014 Worlds!";  
+            tooltipContent = "Any champion that has recorded a  " +"Pentakill".bold() + " at " +"Worlds".bold() + " (Play-Ins or Main Event) or " + "MSI".bold() + " (Mid Season Invitational). Fun Facts; Only 1 player has secured a Pentakill at Worlds and MSI..." +" Rekkles!".bold() +" Also, only a single player has more than 1 pentakills at Worlds, it was Imp, both at 2014 Worlds!";  
             tooltipImage = 'images/tooltips/pentakill.jpg'; 
             break
         default:
@@ -457,8 +458,7 @@ function updateHeaders(puzzleData) {
             break;
         case 'elderwood':
             tooltipTitle = 'ELDERWOOD SKINLINE';
-            tooltipContent = 'Entropy engulfs galaxies in the yawning maw of the Dark Star, whose corruptants, titanic creatures of black-hole oblivion, snuff out the light of existence in every system they touch and plunge them into nothingness.'.italics();
-            tooltipImage = 'images/tooltips/elderwood.png';
+            tooltipContent = 'The Elderwood is in a magical arms race against the Coven, constantly stealing the witches looks and spells.';
             break
         case 'space groove':
             tooltipTitle = 'SPACE GROOVE SKINLINE';

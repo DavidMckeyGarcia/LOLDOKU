@@ -23,8 +23,8 @@
     --error-color: rgba(255, 40, 40, 0.8);
     
     /* Scaling variables - default to 1 for desktop */
-    --scale-factor: 1.2;
-    --font-scale: 1;
+    --scale-factor: 0.8;
+    --font-scale: 0.8;
   }
   
   /* Base Styles */

@@ -126,6 +126,10 @@
     margin-top: -100px;
   }
 
+  #welcomeModal {
+    margin-top: -90px;
+  }
+
   /* ===== OTHER MODALS ===== */
   .ffmodal-content,
   .ff15modal-content,
@@ -150,7 +154,7 @@
   /* ===== INPUT ADJUSTMENTS ===== */
   #user-answer {
     width: 100%;
-    max-width: 280px;
+    min-width: 400px;
     font-size: 16px;
     height: 45px;
   }
@@ -305,65 +309,6 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-/* For extra small devices */
-@media screen and (max-width: 375px) {
-  .grid {
-    grid-template-columns: repeat(5, 50px);
-    grid-template-rows: repeat(4, 50px);
-  }
-
-  .grid-item {
-    width: 50px;
-    height: 50px;
-  }
-
-  .column-image,
-  .row-image {
-    max-width: 95%;
-    max-height: 95%;
-  }
-
-  .header-text {
-    font-size: 8px;
-    font-weight: bold;
-  }
-
-  .modal-content {
-    transform: scale(0.8);
-    width: 90%;
-  }
-
-  #modal-instruction {
-    font-size: 18px;
-  }
-
-  #solutions-dropdown {
-    width: 250px;
-  }
-
-  .ffmodal-buttons,
-  .ff15modal-buttons {
-    flex-direction: column;
-    gap: 10px;
-  }
-
-  #continue-btn, 
-  #continue-win-btn,
-  #reveal-btn,
-  #ff15-cancel-btn,
-  #ff15-confirm-btn {
-    width: 180px;
-  }
-}
 
 /* Fix for device orientation changes */
 @media screen and (orientation: landscape) and (max-height: 500px) {

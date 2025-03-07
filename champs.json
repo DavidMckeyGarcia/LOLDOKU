@@ -438,7 +438,7 @@
         "kit": ["dash", "true damage", "Space Groove", "life steal"],
         "skinlines": [],
         "esports": ["never played"],
-        "misc": []
+        "misc": ["Immunity"]
     },
     "Hecarim": {
         "role": ["Jungle"],
@@ -1358,8 +1358,8 @@
         "misc": []
     },
     "Talon": {
-        "role": ["Mid"],
-        "release date": "s3",
+        "role": ["Mid", "Jungle"],
+        "release date": "s1",
         "region": ["Noxus"],
         "crowd control": ["slow"],
         "kit": ["dash", "invis"],
@@ -1625,7 +1625,7 @@
         "kit": ["dash"],
         "skinlines": ["cosmic"],
         "esports": ["never played"],
-        "misc": ["100% AP Ratio"]
+        "misc": ["100% AP Ratio", "Immunity"]
     },
     "Yasuo": {
         "role": ["Mid", "Top"],

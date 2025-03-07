@@ -301,4 +301,7 @@ nav2 {
   animation: pulse 0.5s ease;
 }
 
+#submit-answer {
+  display: none; /* Hidden submit */
+}
 

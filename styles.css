@@ -302,23 +302,3 @@ nav2 {
 }
 
 
-
-:root {
-  /* Scaling factors for mobile */
-  --mobile-scale-factor: 0.6;
-  --mobile-font-scale: 0.7;
-}
-
-
-.header-text {
-  font-family: 'Beaufort', sans-serif;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 18px;
-  text-align: center;
-  margin-top: 10px;
-  width: 110%;
-}
-
-
- 

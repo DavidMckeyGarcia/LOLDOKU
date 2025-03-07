@@ -1,6 +1,4 @@
-/* Mobile-Optimized CSS for League of Legends App 
- * This file contains responsive styles using relative scaling
- */
+/* Mobile-Optimized CSS for LOLDOKU 
 
 /* Typography - Font Declarations (preserved from original) */
 @font-face {
@@ -13,8 +11,10 @@
     src: url('images/Font/BeaufortforLOL-Regular.ttf') format('truetype');
   }
   
+
   /* Main Color Variables */
-  :root {
+  @media (max-width: 768px) {
+    :root {
     --primary-bg: #010a13;
     --secondary-bg: #0A1428;
     --highlight-color: #C89B3C;
@@ -26,6 +26,7 @@
     --scale-factor: 0.5;
     --font-scale: 0.4;
   }
+   
   
   /* Base Styles */
   body {
@@ -512,3 +513,5 @@
     50% { transform: scale(1.2); }
     100% { transform: scale(1); }
   }
+
+}

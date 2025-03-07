@@ -108,7 +108,7 @@ function updateHeaders(puzzleData) {
         
         // Create and add the image
         const img = document.createElement('img');
-        const imageName = cols[index].toLowerCase();
+        let imageName = cols[index].toLowerCase();
         imageName = encodeURIComponent(imageName);
         img.src = `images/headers/${imageName}.webp`; 
         img.alt = imageName;

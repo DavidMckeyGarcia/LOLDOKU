@@ -71,7 +71,7 @@ let searchable = [
   'Kayle',
   'Kayn',
   'Kennen',
-  'KhaZix',
+  'Khazix',
   'Kindred',
   'Kled',
   'KogMaw',

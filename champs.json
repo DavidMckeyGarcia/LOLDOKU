@@ -532,7 +532,7 @@
         "misc": ["100% AP Ratio"]
     },
     "Jayce": {
-        "role": ["Adc"],
+        "role": ["Mid", "Top"],
         "release date": ["Season 2-6"],
         "region": ["Piltover"],
         "crowd control": ["slow"],
@@ -667,8 +667,8 @@
         "role": ["Jungle"],
         "release date": ["Season 2-6"],
         "region": ["The Void"],
-        "crowd control": ["slow", "invis"],
-        "kit": ["dash", "evolves"],
+        "crowd control": ["slow"],
+        "kit": ["dash", "evolves", "invis"],
         "skinlines": ["dark star"],
         "esports": [],
         "misc": []

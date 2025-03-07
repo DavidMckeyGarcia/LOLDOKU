@@ -79,6 +79,10 @@
     font-size: 10px;
   }
 
+  #submit-answer {
+    display: none; /* Hidden on mobile */
+  }
+
   
   #answer-modal .modal-content {
     min-width: auto;

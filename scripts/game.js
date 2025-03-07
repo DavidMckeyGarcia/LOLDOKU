@@ -272,6 +272,30 @@ function handleKeyUp(event) {
     }
 }
 
+// Add this function to set up the dropdown handling
+function setupDropdownAutoSubmit() {
+  const resultsList = document.querySelector('.results ul');
+  
+  // Use event delegation to handle clicks on dropdown items
+  resultsList.addEventListener('click', function(event) {
+    // Check if we're on mobile
+    if (window.innerWidth <= 768) {
+      const listItem = event.target.closest('li');
+      if (listItem) {
+        // Get the champion name from the clicked item
+        const championName = listItem.textContent.trim();
+        
+        // Set the input value to the selected champion
+        const userAnswerInput = document.getElementById('user-answer');
+        userAnswerInput.value = championName;
+        
+        // Submit the answer automatically
+        submitAnswer();
+      }
+    }
+  });
+}
+
 // Updated closeModal function to properly remove event listeners
 function closeModal() {
     const modal = document.getElementById('answer-modal');
@@ -632,6 +656,7 @@ function clearSavedGame() {
 
 // Initialize event listeners for the new modals when the page loads
 window.addEventListener('DOMContentLoaded', function() {
+    setupDropdownAutoSubmit();
     // Game Over Modal
     const continueBtn = document.getElementById('continue-btn');
     const revealBtn = document.getElementById('reveal-btn');

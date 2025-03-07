@@ -130,7 +130,6 @@
     margin-top: -150px;
   }
 
-
   /* ===== OTHER MODALS ===== */
   .ffmodal-content,
   .ff15modal-content,
@@ -303,9 +302,11 @@
   }
 
   .start-button {
-    padding: 8px 16px;
-    font-size: 14px;
+    padding: 8px 8px;
+    font-size: 20px;
     margin-top: 20px;
+    width: 70px;
+    height: 30px;
   }
 }
 

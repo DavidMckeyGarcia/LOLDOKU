@@ -1,87 +1,264 @@
-/* Navbar Styling */
+/* Main Color Variables */
+:root {
+  --primary-bg: #010a13;
+  --secondary-bg: #0A1428;
+  --highlight-color: #C89B3C;
+  --text-color: #F0E6D2;
+  --hover-bg: #0d343d;
+  --error-color: rgba(255, 40, 40, 0.8);
+}
 
+/* ====== NAVBAR STYLING ====== */
 nav {
-    background-color: #0A1428;
-    font-family: "beaufort", serif;
-    font-weight: 900;
-    color: #F0E6D2;
-    padding: 30px;
-    text-align: center;
-    font-size: 20px;
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1000;
+  background-color: var(--secondary-bg);
+  font-family: "beaufort", serif;
+  font-weight: 900;
+  color: var(--text-color);
+  padding: 30px;
+  text-align: center;
+  font-size: 20px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
 }
 
 nav a {
-    color: #F0E6D2;
-    text-decoration: none;
-    margin: 0 15px;
-    font-size: 25px;
-    cursor: url("images/cursor_default.png"), auto;;
+  color: var(--text-color);
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 25px;
+  cursor: url("images/cursor_default.png"), auto;
 }
 
 nav a:hover {
-    cursor: url("images/cursor_ping.png"), auto;
+  cursor: url("images/cursor_ping.png"), auto;
 }
 
 nav2 {
-    cursor: url("images/cursor_default.png"), auto;
-    background-color: #C89B3C;
-    padding: 51px;
-    border-radius: 15px;
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1000;
+  cursor: url("images/cursor_default.png"), auto;
+  background-color: var(--highlight-color);
+  padding: 51px;
+  border-radius: 15px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
 }
 
+/* ====== LAYOUT STYLING ====== */
 .container {
   display: flex;
-  flex-direction: column; /* Stack grids vertically */
-  align-items: center; /* Optional: Center grids horizontally */
+  flex-direction: column;
+  align-items: center;
 }
 
-/* Grid Styling */
+/* ====== GRID STYLING ====== */
 #grid-title {
-  color: #C89B3C;
-  font-family: "beaufort";
+  color: var(--highlight-color);
+  font-family: "beaufort", sans-serif;
   text-align: center;
   margin-top: 130px;
   font-size: 40px;
 }
 
-
-/* Grid Container */
 .grid-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 0px;
-    background-color: #010a13 ;
-    background-size: cover;
-    background-position: center;
-    position: relative; /* Important for absolute positioning of the button */
-    flex-direction: column; /* Stack grids vertically */
-    align-items: center; /* Optional: Center grids horizontally */
-    animation: fadeInZoom 4s ease-in-out;
-
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  background-color: var(--primary-bg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  animation: fadeInZoom 1.5s ease-in-out;
 }
 
-/* Grid */
 .grid {
-    display: grid;
-    grid-template-columns: repeat(5, 150px); /* First column for row headers */
-    grid-template-rows: repeat(4, 150px);  /* Row headers + grid rows */
-    gap: 3px;
-    background-color: #010a13;
+  display: grid;
+  grid-template-columns: repeat(5, 150px);
+  grid-template-rows: repeat(4, 150px);
+  gap: 3px;
+  background-color: var(--primary-bg);
 }
 
+.grid-item {
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--secondary-bg);
+  background-size: cover;
+  border-radius: 5px;
+}
 
-/* Shake animation */
+.grid-item:hover {
+  cursor: url("images/cursor_hover.png"), auto;
+  background-color: var(--hover-bg);
+}
+
+/* ====== GRID ITEM STATES ====== */
+.grid-item.correct {
+  cursor: url("images/cursor_default.png"), auto;
+  animation: correctAnswerReveal 0.8s ease-out forwards;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.grid-item.incorrect {
+  cursor: url("images/cursor_hover.png"), auto;
+  animation: correctAnswerReveal 0.8s ease-out forwards;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.grid-item.flash {
+  animation: flashRed 0.5s ease;
+}
+
+.grid-item.shake {
+  animation: shakeEffect 0.5s cubic-bezier(.36, .07, .19, .97) both;
+}
+
+/* ====== SECONDARY GRID STYLING ====== */
+#second-grid-title {
+  color: var(--text-color);
+  font-family: "beaufort", sans-serif;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: -50px;
+  display: none;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+#solutions-container {
+  color: var(--text-color);
+  font-family: "beaufort", sans-serif;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 150px;
+  display: none;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+#second-grid-container {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 150px;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+#second-grid-title.visible,
+#second-grid-container.visible {
+  opacity: 1;
+}
+
+/* ====== IMAGES STYLING ====== */
+.column-image,
+.row-image,
+.rank-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+/* ====== BUTTON STYLING ====== */
+.FF-button-container {
+  border: red;
+  margin-top: -20px;
+}
+
+#forfeit {
+  background-color: var(--primary-bg);
+  color: red;
+  border-color: red;
+  font-size: 25px;
+  cursor: url("images/cursor_hover.png"), auto;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  width: 70px;
+  height: 50px;
+}
+
+#forfeit:hover {
+  background-color: red;
+  color: var(--text-color);
+  border-color: red;
+  cursor: url("images/cursor_hover.png"), auto;
+}
+
+#refresh {
+  background-color: var(--primary-bg);
+  color: var(--text-color);
+  border-color: var(--text-color);
+  font-size: 25px;
+  cursor: url("images/cursor_hover.png"), auto;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  width: 50px;
+  height: 50px;
+}
+
+#refresh:hover {
+  background-color: var(--text-color);
+  color: var(--primary-bg);
+  border-color: var(--text-color);
+  cursor: url("images/cursor_hover.png"), auto;
+}
+
+/* ====== STATS DISPLAY ====== */
+#lives-display {
+  font-size: 30px;
+}
+
+#score {
+  font-size: 35px;
+}
+
+#stats-box {
+  display: none;
+  width: 400px;
+  height: 100px;
+  margin: -50px auto 30px;
+  background-color: var(--secondary-bg);
+  border: 1px solid var(--highlight-color);
+  border-radius: 8px;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.sub-box {
+  color: var(--text-color);
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0 10px;
+  padding: 20px;
+  background-color: var(--secondary-bg);
+  text-align: center;
+  font-family: "beaufort", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#stats-box.visible {
+  display: flex;
+  opacity: 1;
+}
+
+/* ====== ANIMATIONS ====== */
 @keyframes shake {
   0%, 100% { transform: translateX(0); }
   20%, 60% { transform: translateX(-5px); }
@@ -92,42 +269,10 @@ nav2 {
   animation: shake 0.5s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 
-
-
-/* Grid Item */
-.grid-item {
-  width: 150px;
-  height: 150px;
-  display: flex;
-  justify-content: center;
-  background-color: #0A1428;
-  align-items: center;
-  background-size: cover;
-  border-radius: 5px; /* This will round the corners of the grid items */
-}
-
-.grid-item:hover {
-  cursor: url("images/cursor_hover.png"), auto;
-  background-color: #0d343d;
-}
-
-/* Apply animation to correct grid items */
-.grid-item.correct {
-  cursor: url("images/cursor_default.png"), auto;
-  animation: correctAnswerReveal 0.8s ease-out forwards;
-  background-size: cover !important;
-  background-position: center !important;
-}
-
-/* Animation for incorrect grid items - flash red and shake */
-.grid-item.flash {
-  animation: flashRed 0.5s ease;
-}
-
 @keyframes incorrect-flash {
-  0% { background-color: rgba(255, 40, 40, 0); }
-  50% { background-color: rgba(255, 40, 40, 0.8); }
-  100% { background-color: rgba(255, 40, 40, 0); }
+  0% { background-color: transparent; }
+  50% { background-color: var(--error-color); }
+  100% { background-color: transparent; }
 }
 
 .incorrect-flash {
@@ -135,386 +280,23 @@ nav2 {
 }
 
 @keyframes flashRed {
-  0% {
-      background-color: #0A1428;
-  }
-  25% {
-      background-color: rgba(255, 40, 40, 0.8);
-  }
-  100% {
-      background-color: #0A1428;
-  }
-}
-
-.grid-item.shake {
-  animation: shakeEffect 0.5s cubic-bezier(.36,.07,.19,.97) both;
+  0% { background-color: var(--secondary-bg); }
+  25% { background-color: var(--error-color); }
+  100% { background-color: var(--secondary-bg); }
 }
 
 @keyframes shakeEffect {
-  0%, 100% {
-      transform: translateX(0);
-  }
-  10%, 30%, 50%, 70%, 90% {
-      transform: translateX(-5px);
-  }
-  20%, 40%, 60%, 80% {
-      transform: translateX(5px);
-  }
-}
-
-/* Animation for score and lives updates */
-.animate-update {
-  animation: pulse 0.5s ease;
+  0%, 100% { transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
+  20%, 40%, 60%, 80% { transform: translateX(5px); }
 }
 
 @keyframes pulse {
-  0% {
-      transform: scale(1);
-  }
-  50% {
-      transform: scale(1.2);
-  }
-  100% {
-      transform: scale(1);
-  }
+  0% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); }
 }
 
-
-
-
-#second-grid-title{
-    color: #F0E6D2;
-    font-family: "beaufort";
-}
-
-
-.column-image, .row-image, .rank-image {
-    width: 100%;
-    height: auto;
-    object-fit: cover;  /* Ensures the image covers the header area */
-}
-
-
-/* Second Grid Styling */
-#second-grid-title {
-  color: #F0E6D2;
-  font-family: "beaufort";
-  font-size: 40px;
-  text-align: center;
-  margin-top: 150px;
-  margin-bottom: -50px;
-  display: none; 
-  opacity: 0;
-  transition: opacity 0.5s ease;
-}
-
-/* Second Grid Styling */
-#solutions-container {
-  color: #F0E6D2;
-  font-family: "beaufort";
-  font-size: 40px;
-  text-align: center;
-  margin-top: 150px;
-  display: none; /* Initially hidden */
-  opacity: 0;
-  transition: opacity 0.5s ease;
-}
-
-
-#second-grid-container {
-  display: none; /* Initially hidden */
-  flex-direction: column;
-  align-items: center;
-  margin-top: 150px;
-  opacity: 0;
-  transition: opacity 0.5s ease;
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
-}
-
-#second-grid-title.visible,
-#second-grid-container.visible {
-  opacity: 1;
-}
-
-/* Make sure this doesn't conflict with existing styles */
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.FF-button-container {
-  border: red;
-  margin-top: -20px;
-}
-
-#forfeit {
-  background-color: #010a13;
-  color: red;
-  border-color: red;
-  font-size: 25px; /* Increase font size */
-  cursor: url("images/cursor_hover.png"), auto;
-  border-radius: 5px;
-  transition: background-color 0.3s ease;
-  width: 70px; /* Set a specific width if desired */
-  height: 50px; /* Set a specific height if desired */
-}
-#forfeit:hover {
-  background-color: red;
-  color: #F0E6D2;
-  border-color: red;
-}
-
-#refresh {
-  background-color: #010a13;
-  color: #F0E6D2;
-  border-color: #F0E6D2;
-  font-size: 25px; /* Increase font size */
-  cursor: url("images/cursor_hover.png"), auto;
-  border-radius: 5px;
-  transition: background-color 0.3s ease;
-  width: 50px; /* Set a specific width if desired */
-  height: 50px; /* Set a specific height if desired */
-}
-
-#refresh:hover {
-  background-color: #F0E6D2;
-  color: #010a13;
-  border-color: #F0E6D2;
-}
-
-#lives-display{
-  font-size: 30px;
-}
-
-
-.container {
-display: flex;
-flex-direction: column; /* Stack grids vertically */
-align-items: center; /* Optional: Center grids horizontally */
-}
-
-/* Grid Styling */
-#grid-title {
-color: #C89B3C;
-font-family: "beaufort";
-text-align: center;
-margin-top: 130px;
-font-size: 40px;
-}
-
-
-/* Grid Container */
-.grid-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 0px;
-  background-color: #010a13 ;
-  background-size: cover;
-  background-position: center;
-  position: relative; /* Important for absolute positioning of the button */
-  flex-direction: column; /* Stack grids vertically */
-  align-items: center; /* Optional: Center grids horizontally */
-  animation: fadeInZoom 1.5s ease-in-out;
-
-}
-
-/* Grid */
-.grid {
-  display: grid;
-  grid-template-columns: repeat(5, 150px); /* First column for row headers */
-  grid-template-rows: repeat(4, 150px);  /* Row headers + grid rows */
-  gap: 3px;
-  background-color: #010a13;
-}
-
-
-/* Grid Item */
-.grid-item {
-  width: 150px;
-  height: 150px;
-  display: flex;
-  justify-content: center;
-  /*background-image: "url('images/defaultSquare.webp')";*/
-  background-color: #0A1428;
-  align-items: center;
-  background-size: cover;
-  border-radius: 5px; /* This will round the corners of the grid items */
-}
-
-.grid-item:hover {
-  cursor: url("images/cursor_hover.png"), auto;
-  background-color: #0d343d;
-}
-
-/* Apply animation to correct grid items */
-.grid-item.correct {
-  cursor: url("images/cursor_default.png"), auto;
-  animation: correctAnswerReveal 0.8s ease-out forwards;
-  background-size: cover !important; /* Use !important to ensure this takes precedence */
-  background-position: center !important;
-}
-
-/* Apply animation to correct grid items */
-.grid-item.incorrect {
-  cursor: url("images/cursor_hover.png"), auto;
-  animation: correctAnswerReveal 0.8s ease-out forwards;
-  background-size: cover !important; /* Use !important to ensure this takes precedence */
-  background-position: center !important;
-}
-
-
-#second-grid-title{
-  color: #F0E6D2;
-  font-family: "beaufort";
-}
-
-
-.column-image, .row-image, .rank-image {
-  width: 100%;
-  height: auto;
-  object-fit: cover;  /* Ensures the image covers the header area */
-}
-
-
-/* Second Grid Styling */
-#second-grid-title {
-color: #F0E6D2;
-font-family: "beaufort";
-font-size: 40px;
-text-align: center;
-margin-top: 150px;
-margin-bottom: -50px;
-display: none; 
-opacity: 0;
-transition: opacity 0.5s ease;
-}
-
-/* Second Grid Styling */
-#solutions-container {
-color: #F0E6D2;
-font-family: "beaufort";
-font-size: 40px;
-text-align: center;
-margin-top: 150px;
-display: none; /* Initially hidden */
-opacity: 0;
-transition: opacity 0.5s ease;
-}
-
-#second-grid-container {
-display: none; /* Initially hidden */
-flex-direction: column;
-align-items: center;
-margin-top: 150px;
-opacity: 0;
-transition: opacity 0.5s ease;
-justify-content: center; /* Center horizontally */
-align-items: center; /* Center vertically */
-}
-
-#second-grid-title.visible,
-#second-grid-container.visible {
-opacity: 1;
-}
-
-/* Make sure this doesn't conflict with existing styles */
-.container {
-display: flex;
-flex-direction: column;
-align-items: center;
-}
-
-.FF-button-container {
-border: red;
-margin-top: -20px;
-}
-
-#forfeit {
-background-color: #010a13;
-color: red;
-border-color: red;
-font-size: 25px; /* Increase font size */
-cursor: url("images/cursor_hover.png"), auto;
-border-radius: 5px;
-transition: background-color 0.3s ease;
-width: 70px; /* Set a specific width if desired */
-height: 50px; /* Set a specific height if desired */
-}
-#forfeit:hover {
-background-color: red;
-color: #F0E6D2;
-border-color: red;
-cursor: url("images/cursor_hover.png"), auto;
-}
-
-#refresh {
-background-color: #010a13;
-color: #F0E6D2;
-border-color: #F0E6D2;
-font-size: 25px; /* Increase font size */
-cursor: url("images/cursor_hover.png"), auto;
-border-radius: 5px;
-transition: background-color 0.3s ease;
-width: 50px; /* Set a specific width if desired */
-height: 50px; /* Set a specific height if desired */
-}
-
-#refresh:hover {
-background-color: #F0E6D2;
-color: #010a13;
-border-color: #F0E6D2;
-cursor: url("images/cursor_hover.png"), auto;
-}
-
-#lives-display{
-font-size: 30px;
-}
-
-#score{
-  font-size: 35px;
-}
-
-
-
-
-#stats-box {
-  display: none; /* Initially hidden */
-  width: 400px; 
-  height: 100px; 
-  margin-top: -50px;
-  margin-bottom: 30px; 
-  background-color: #0A1428;
-  border: 1px solid #C89B3C;
-  border-radius: 8px;
-  opacity: 0;
-  transition: opacity 0.5s ease;
-  
-  /* Explicitly center the box */
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.sub-box {
-  color: #F0E6D2;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  margin: 0 10px;
-  padding: 20px;
-  background-color: #0A1428;
-  text-align: center;
-  font-family: "beaufort";
-  font-weight: bold;
-  text-transform: uppercase;
-}
-
-
-#stats-box.visible {
-  display: flex;
-  opacity: 1;
+.animate-update {
+  animation: pulse 0.5s ease;
 }

@@ -1,31 +1,50 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Support",
+        "Mid",
         "Season 2-6",
         "global ult"
     ],
     "cols": [
-        "silence",
         "Zaun",
-        "shred"
+        "knock-up",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Rell"
-        ],
-        [
-            "Lulu"
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ],
         [
             "Ekko",
@@ -36,12 +55,34 @@
             "Ziggs"
         ],
         [
-            "Jayce",
-            "Rengar",
-            "Vi"
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Soraka"
+            "Ahri",
+            "Azir",
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
         ],
         [
             "Ekko",
@@ -49,9 +90,18 @@
             "Ziggs"
         ],
         [
+            "Aurelion Sol",
             "Briar",
-            "Karthus",
-            "Sion"
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Galio",
+            "Ryze",
+            "Taliyah"
         ]
     ]
 }

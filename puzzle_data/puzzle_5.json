@@ -1,87 +1,90 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "global ult",
-        "Season 7+"
+        "Adc",
+        "true damage",
+        "worlds skin"
     ],
     "cols": [
+        "Ionia",
         "root",
-        "The Void",
-        "100+ games"
+        "yordle"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
-        [
-            "Azir",
-            "Elise",
-            "Ezreal",
-            "Gragas",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
-            "Ryze",
-            "Shen"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
             "Aphelios",
-            "Hwei",
-            "Ksante",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
-            "Neeko",
-            "Renata glasc",
             "Senna",
             "Seraphine",
+            "Varus",
             "Xayah"
         ],
         [
-            "Belveth",
-            "Kaisa"
+            "Corki",
+            "Tristana",
+            "Ziggs"
         ],
         [
-            "Kaisa",
+            "Ahri",
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Syndra",
+            "Yone"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Amumu",
+            "Corki"
+        ],
+        [
+            "Akali",
+            "Irelia",
+            "Jhin",
+            "Kennen",
+            "Lee sin",
             "Rakan",
-            "Xayah"
+            "Shen",
+            "Syndra",
+            "Xayah",
+            "Zed"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Singed",
+            "Xayah",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Corki",
+            "Gnar",
+            "Kennen"
         ]
     ]
 }

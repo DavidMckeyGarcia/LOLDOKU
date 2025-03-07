@@ -1,57 +1,117 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "global ult",
-        "OG40"
+        "Support",
+        "dash",
+        "coven"
     ],
     "cols": [
-        "The Void",
-        "fear",
+        "knock-up",
+        "Noxus",
         "tether"
     ],
     "solutions": [
         [
-            "Chogath"
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Ambessa",
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Kled",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Talon"
         ],
         [
             "Aatrox",
             "Illaoi",
             "Kled",
+            "Nocturne",
             "Sylas",
+            "Yuumi",
             "Zac"
         ],
         [
-            "Kaisa"
+            "Nami",
+            "Zyra"
         ],
         [
-            "Briar",
-            "Nocturne",
-            "Vex"
+            "Cassiopeia",
+            "Elise",
+            "LeBlanc"
         ],
         [
-            "Kled",
-            "Nocturne"
-        ],
-        [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "LeBlanc",
+            "Morgana"
         ]
     ]
 }

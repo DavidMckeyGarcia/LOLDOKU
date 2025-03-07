@@ -1,20 +1,16 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "OG40",
-        "global ult"
+        "blink",
+        "OG40"
     ],
     "cols": [
-        "fear",
         "Piltover",
-        "arcane"
+        "slow",
+        "pentakill"
     ],
     "solutions": [
-        [
-            "Hwei",
-            "Vex"
-        ],
         [
             "Ezreal",
             "Heimerdinger",
@@ -22,42 +18,123 @@
             "Seraphine"
         ],
         [
-            "Ambessa",
+            "Ahri",
+            "Akali",
+            "Anivia",
+            "Aurelion Sol",
+            "Aurora",
+            "Azir",
+            "Brand",
+            "Cassiopeia",
+            "Chogath",
+            "Corki",
+            "Diana",
             "Ekko",
+            "Elise",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Heimerdinger",
-            "LeBlanc",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Lissandra",
+            "Lux",
             "Mel",
+            "Naafiri",
             "Orianna",
-            "Viktor"
+            "Pantheon",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Talon",
+            "Tristana",
+            "Twisted fate",
+            "Velkoz",
+            "Vex",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Ezreal"
+        ],
+        [
+            "Ekko",
+            "Kassadin",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Reksai",
+            "Ryze",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Zed"
+        ],
+        [
+            "Ezreal",
+            "Ryze"
         ],
         [
             "Heimerdinger"
         ],
         [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
             "Heimerdinger",
             "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
             "Singed",
-            "Warwick"
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Caitlyn",
-            "Ekko",
-            "Jinx",
-            "Mel"
+            "Ryze",
+            "Tristana",
+            "Twitch"
         ]
     ]
 }

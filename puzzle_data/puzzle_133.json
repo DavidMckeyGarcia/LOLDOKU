@@ -1,97 +1,87 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "shield",
-        "Season 2-6"
+        "Jungle",
+        "Season 2-6",
+        "Space Groove"
     ],
     "cols": [
-        "Piltover",
+        "Targon",
         "knock-up",
-        "riot records"
+        "never played"
     ],
     "solutions": [
         [
-            "Camille",
-            "Heimerdinger"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
-            "Yasuo",
-            "Yone",
-            "Yorick"
-        ],
-        [
-            "Camille",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
             "Diana",
-            "Galio",
+            "Pantheon"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
             "Ivern",
-            "Janna",
             "Jarvan IV",
-            "Ksante",
+            "Kayn",
             "Lee sin",
-            "Lulu",
-            "Malphite",
             "Nautilus",
-            "Neeko",
             "Nunu",
             "Poppy",
-            "Rakan",
+            "Reksai",
             "Rell",
-            "Riven",
-            "Sion",
-            "Tahm kench",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
             "Vi",
-            "Yasuo",
-            "Yone"
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Aphelios",
-            "Ekko",
-            "Ksante",
-            "Kaisa",
+            "Amumu",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Dr. Mundo",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Kindred",
+            "Lillia",
+            "Maokai",
             "Mordekaiser",
-            "Olaf",
-            "Senna",
-            "Sett",
-            "Yasuo",
-            "Yone"
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Reksai",
+            "Rell",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zyra"
         ],
         [
-            "Jayce"
+            "Aurelion Sol",
+            "Diana"
         ],
         [
             "Aatrox",
@@ -117,9 +107,47 @@
             "Zyra"
         ],
         [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
+            "Bard",
+            "Braum",
+            "Draven",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kindred",
+            "Kled",
+            "Nami",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Volibear",
+            "Zyra"
+        ],
+        [
+            "Taric"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lulu",
+            "Nami",
+            "Nunu",
+            "Samira"
+        ],
+        [
+            "Blitzcrank",
+            "Nami",
+            "Nunu",
+            "Samira",
+            "Teemo"
         ]
     ]
 }

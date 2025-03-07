@@ -1,77 +1,108 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "true damage",
-        "elderwood"
+        "Mid",
+        "OG40",
+        "dash"
     ],
     "cols": [
-        "stun",
-        "Noxus",
-        "100+ games"
+        "Ionia",
+        "root",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Draven",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
             "Mel",
-            "Samira",
-            "Smolder"
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jayce",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Kennen",
             "Tristana",
-            "Varus",
-            "Xayah"
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
             "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Syndra"
-        ],
-        [
-            "Bard",
-            "Gnar",
-            "Hecarim",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
             "Veigar"
         ],
         [
-            "LeBlanc"
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Azir",
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Fizz",
             "Gnar",
-            "Rakan",
-            "Xayah"
+            "Kled",
+            "Poppy",
+            "Tristana",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

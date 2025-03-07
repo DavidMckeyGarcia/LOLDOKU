@@ -1,41 +1,59 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
+        "Top",
         "Season 2-6",
-        "shield"
+        "life steal"
     ],
     "cols": [
-        "silence",
         "Demacia",
-        "100+ games"
+        "knock-up",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
+            "Fiora",
+            "Garen",
             "Jarvan IV",
-            "Morgana",
+            "Kayle",
             "Poppy",
-            "Shyvana",
+            "Quinn",
             "Sylas",
-            "Xin Zhao"
+            "Vayne"
         ],
         [
-            "Elise",
+            "Aatrox",
+            "Chogath",
             "Gragas",
-            "Graves",
             "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Lulu"
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
         ],
         [
             "Fiora",
@@ -44,47 +62,63 @@
         ],
         [
             "Aatrox",
+            "Aurelion Sol",
             "Azir",
             "Braum",
-            "Elise",
-            "Gnar",
-            "Jayce",
-            "Jhin",
-            "Lucian",
+            "Diana",
+            "Ivern",
+            "Kalista",
             "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
             "Sejuani",
-            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
             "Thresh",
-            "Varus"
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ],
         [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
+            "Morgana"
         ],
         [
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Azir",
-            "Braum",
-            "Janna",
-            "Jarvan IV",
-            "Kaisa",
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
             "Lee sin",
-            "Lulu",
-            "Orianna",
-            "Rakan",
-            "Rumble",
-            "Shen",
-            "Thresh"
+            "Samira",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Viego",
+            "Vladimir",
+            "Warwick"
         ]
     ]
 }

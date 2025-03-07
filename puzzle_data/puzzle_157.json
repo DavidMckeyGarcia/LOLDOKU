@@ -1,34 +1,75 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "invis"
+        "Jungle",
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
-        "Ixtal",
+        "Shadow Isles",
         "fear",
-        "ult reset"
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Neeko",
-            "Qiyana"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Ahri",
-            "Naafiri",
-            "Swain",
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Viego"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Warwick"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Viego",
+            "Vladimir",
+            "Warwick"
+        ],
+        [
+            "Gwen",
+            "Senna",
             "Vex",
-            "Viktor"
-        ],
-        [
-            "Milio",
-            "Neeko"
+            "Viego"
         ],
         [
             "Briar",
@@ -36,22 +77,15 @@
             "Vex"
         ],
         [
+            "Aphelios",
             "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
-        ],
-        [
+            "Briar",
+            "Kaisa",
+            "Milio",
             "Neeko",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Vayne",
-            "Viego"
+            "Smolder",
+            "Viego",
+            "Zeri"
         ]
     ]
 }

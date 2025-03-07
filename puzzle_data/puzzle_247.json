@@ -1,83 +1,93 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "shield",
+        "Support",
+        "ult execute",
         "Season 2-6"
     ],
     "cols": [
-        "silence",
-        "Freljord",
-        "shred"
+        "knock-up",
+        "Noxus",
+        "yordle"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
-        ],
-        [
+            "Alistar",
             "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
             "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Garen",
-            "Jarvan IV",
-            "Mordekaiser",
-            "Olaf",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
             "Rell",
-            "Rumble",
-            "Sion",
-            "Vi"
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Lulu"
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
         ],
         [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Veigar"
+        ],
+        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
             "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
             "Sejuani",
-            "Volibear"
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Jayce",
-            "Rengar",
-            "Vi"
+            "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
+        ],
+        [
+            "Gnar",
+            "Kled",
+            "Lulu",
+            "Ziggs"
         ]
     ]
 }

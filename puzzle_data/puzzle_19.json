@@ -1,109 +1,126 @@
 {
     "difficulty": "silver",
     "rows": [
-        "Top",
-        "prestige",
-        "Season 7+"
+        "Mid",
+        "Season 2-6",
+        "life steal"
     ],
     "cols": [
-        "knock-up",
-        "Shadow Isles",
-        "Immunity"
+        "Noxus",
+        "stun",
+        "tether"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
             "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
             "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
             "Yone",
-            "Zac"
+            "Zilean"
         ],
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
         ],
         [
-            "Camille",
-            "Fiora",
-            "Kayle",
-            "Kayn",
+            "Darius",
+            "Draven",
+            "Elise",
             "Kled",
-            "Sion",
+            "Riven"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
             "Zac"
         ],
         [
             "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
+            "Illaoi",
+            "Kalista",
+            "Kled",
+            "Zac"
+        ],
+        [
+            "Ambessa",
+            "Briar",
             "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
+            "Samira",
+            "Sion",
+            "Vladimir"
         ],
         [
-            "Senna",
-            "Thresh"
-        ],
-        [
-            "Camille",
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Kayle",
-            "Kayn",
-            "Lissandra",
-            "Xayah",
-            "Yuumi",
-            "Zed"
-        ],
-        [
-            "Belveth",
+            "Ambessa",
             "Briar",
             "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Aurora",
-            "Camille",
-            "Kayn",
-            "Mel",
+            "Morgana",
+            "Sion",
+            "Udyr",
             "Viego",
-            "Xayah",
-            "Yuumi"
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Morgana"
         ]
     ]
 }

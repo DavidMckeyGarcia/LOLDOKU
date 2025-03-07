@@ -1,85 +1,37 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "invis",
-        "Season 2-6"
+        "Mid",
+        "Season 2-6",
+        "prestige"
     ],
     "cols": [
-        "Shadow Isles",
         "root",
-        "never played"
+        "Ixtal",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
-            "Kayn",
-            "Kennen",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Yorick"
-        ],
-        [
-            "Senna",
-            "Viego"
-        ],
-        [
+            "Hwei",
+            "Karma",
             "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
             "Neeko",
             "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Akshan",
-            "Pyke",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Teemo",
-            "Twitch",
-            "Vayne",
-            "Viego",
-            "Wukong"
+            "Neeko",
+            "Qiyana"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
+            "Ahri",
+            "Aurora",
+            "Neeko"
         ],
         [
             "Ivern",
@@ -93,29 +45,45 @@
             "Zyra"
         ],
         [
-            "Bard",
-            "Braum",
-            "Draven",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Kindred",
-            "Kled",
-            "Nami",
-            "Reksai",
             "Rengar",
-            "Sejuani",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Volibear",
             "Zyra"
+        ],
+        [
+            "Ahri",
+            "Nami",
+            "Rengar"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Malphite",
+            "Neeko",
+            "Qiyana",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Neeko",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

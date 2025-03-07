@@ -1,20 +1,18 @@
 {
-    "difficulty": "iron",
+    "difficulty": "silver",
     "rows": [
         "Top",
-        "prestige",
-        "Season 2-6"
+        "Season 2-6",
+        "cosmic"
     ],
     "cols": [
-        "Bilgewater",
+        "The Void",
         "slow",
-        "100+ games"
+        "manaless"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Chogath"
         ],
         [
             "Aatrox",
@@ -67,89 +65,27 @@
         ],
         [
             "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
             "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Maokai",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
             "Renekton",
             "Rumble",
-            "Shen"
-        ],
-        [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Akali",
-            "Brand",
-            "Caitlyn",
-            "Camille",
-            "Cassiopeia",
-            "Darius",
-            "Diana",
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Garen",
-            "Jinx",
-            "Ksante",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Kindred",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lulu",
-            "Lux",
-            "Malphite",
-            "Miss Fortune",
-            "Morgana",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
             "Sett",
-            "Shaco",
-            "Sivir",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Sylas",
-            "Teemo",
-            "Thresh",
-            "Volibear",
-            "Yuumi",
-            "Zed",
-            "Zeri",
-            "Zoe",
-            "Zyra"
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Aatrox",
-            "Caitlyn",
-            "Ezreal",
-            "Jax",
-            "Kaisa",
-            "Lee sin",
-            "Leona",
-            "Lucian",
-            "Lulu",
-            "Rakan",
-            "Thresh",
-            "Xayah"
-        ],
-        [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
+            "Khazix",
+            "Reksai",
+            "Velkoz"
         ],
         [
             "Aatrox",
@@ -198,18 +134,41 @@
         ],
         [
             "Aatrox",
-            "Azir",
-            "Braum",
-            "Elise",
             "Gnar",
-            "Jayce",
+            "Kled",
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
+        ],
+        [
+            "Belveth",
+            "Kassadin"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Hecarim",
+            "Illaoi",
             "Jhin",
-            "Lucian",
+            "Kassadin",
+            "Lissandra",
             "Lulu",
-            "Sejuani",
-            "Syndra",
-            "Thresh",
-            "Varus"
+            "Lux",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Skarner",
+            "Varus",
+            "Vladimir",
+            "Xin Zhao"
+        ],
+        [
+            "Belveth",
+            "Vladimir"
         ]
     ]
 }

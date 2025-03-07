@@ -1,92 +1,105 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "shield",
-        "empyrean"
+        "cosmic",
+        "global ult"
     ],
     "cols": [
-        "root",
-        "Ionia",
-        "0 games"
+        "Freljord",
+        "stun",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Karma",
+            "Ashe",
+            "Brand",
+            "Braum"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
             "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Karma",
-            "Rakan"
-        ],
-        [
-            "Mel",
-            "Milio"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
-        ],
-        [
-            "Hwei",
-            "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Mel",
             "Milio",
-            "Naafiri",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Bard",
+            "Galio",
+            "Mel",
+            "Yuumi",
+            "Zilean"
+        ],
+        [
+            "Anivia",
+            "Lissandra",
+            "Nunu"
+        ],
+        [
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
             "Nunu",
-            "Vex"
+            "Sion",
+            "Skarner",
+            "Xin Zhao"
         ],
         [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
+            "Lissandra",
+            "Sion",
+            "Vladimir",
+            "Xayah"
         ],
         [
-            "Akali",
-            "Jhin",
-            "Varus",
-            "Zed"
+            "Ashe",
+            "Ornn"
         ],
         [
-            "Vex"
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Bard",
+            "Ekko",
+            "Galio",
+            "Karthus",
+            "Kled",
+            "Mel",
+            "Ryze",
+            "Sion"
         ]
     ]
 }

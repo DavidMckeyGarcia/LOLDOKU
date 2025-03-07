@@ -1,121 +1,96 @@
 {
     "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "prestige",
-        "blink"
+        "Mid",
+        "true damage",
+        "hextech"
     ],
     "cols": [
+        "Noxus",
         "knock-up",
-        "Bilgewater",
-        "100% AP Ratio"
+        "yordle"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
             "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
+            "Neeko",
             "Sylas",
             "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Graves",
-            "Nautilus"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Kennen",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Samira"
         ],
         [
             "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
+            "Chogath",
+            "Ivern",
             "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
-        ],
-        [
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Jax",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Sivir",
-            "Thresh",
-            "Volibear",
-            "Zeri"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
+            "Nunu",
+            "Samira",
+            "Velkoz",
             "Yone"
         ],
         [
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate"
+            "Amumu",
+            "Corki"
         ],
         [
-            "Ekko",
-            "Master yi",
-            "Pantheon",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego"
+            "Alistar",
+            "Annie",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
+            "Ziggs"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Tristana",
+            "Ziggs"
         ]
     ]
 }

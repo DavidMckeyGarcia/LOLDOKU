@@ -1,76 +1,102 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "worlds skin",
-        "Season 2-6"
+        "Adc",
+        "OG40",
+        "worlds skin"
     ],
     "cols": [
-        "Ionia",
-        "fear",
-        "vastayan"
+        "stun",
+        "Piltover",
+        "shred"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Seraphine"
+        ],
+        [
+            "Corki",
+            "Jayce",
+            "Kogmaw"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Heimerdinger"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
             "Irelia",
-            "Karma",
+            "Jax",
             "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Ahri",
-            "Aurora",
-            "Neeko"
-        ],
-        [
-            "Akali",
-            "Irelia",
-            "Jhin",
-            "Kennen",
-            "Lee sin",
-            "Rakan",
-            "Shen",
-            "Syndra",
-            "Xayah",
-            "Zed"
-        ],
-        [
-            "Aatrox"
-        ],
-        [
+            "Leona",
             "Nami",
-            "Rakan",
+            "Nunu",
+            "Orianna",
+            "Renekton",
+            "Syndra",
+            "Taliyah",
+            "Thresh",
+            "Twisted fate",
+            "Vayne",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Caitlyn",
+            "Camille",
+            "Ezreal",
+            "Jayce",
+            "Orianna"
+        ],
+        [
+            "Corki",
+            "Jarvan IV",
+            "Jayce",
+            "Karthus",
+            "Renekton",
             "Rengar",
-            "Xayah"
-        ],
-        [
-            "Ahri",
-            "Ivern",
-            "Jhin",
-            "Syndra",
-            "Varus",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Ahri",
-            "Nami",
-            "Rengar"
+            "Zoe"
         ]
     ]
 }

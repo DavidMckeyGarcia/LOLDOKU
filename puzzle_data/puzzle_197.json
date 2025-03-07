@@ -1,75 +1,80 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "empyrean",
+        "Mid",
+        "dark star",
         "Season 2-6"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "manaless"
+        "Shurima",
+        "root",
+        "ascended"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Xerath"
+        ],
+        [
+            "Jhin",
+            "Karma",
+            "Lissandra",
+            "Lux",
             "Shaco",
-            "Warwick"
+            "Varus"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
-            "Zac"
+            "Varus",
+            "Xerath"
         ],
         [
-            "Pyke"
+            "Aatrox",
+            "Azir",
+            "Taliyah"
         ],
         [
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Akali",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Illaoi",
-            "Nami",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
             "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Kled",
-            "Reksai",
             "Rengar",
-            "Yasuo",
+            "Varus",
             "Zac",
-            "Zed"
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Varus"
         ]
     ]
 }

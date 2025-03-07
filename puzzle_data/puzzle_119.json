@@ -1,87 +1,104 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "prestige",
-        "blink"
+        "Support",
+        "empyrean",
+        "OG40"
     ],
     "cols": [
-        "Piltover",
-        "knock-up",
-        "100+ games"
+        "Shurima",
+        "stun",
+        "tether"
     ],
     "solutions": [
         [
-            "Caitlyn",
-            "Ezreal",
-            "Jayce",
-            "Seraphine"
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
+            "Alistar",
+            "Annie",
             "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jayce",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Caitlyn",
-            "Camille",
-            "Ezreal"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Caitlyn",
-            "Ezreal",
-            "Jax",
-            "Kaisa",
-            "Lee sin",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
             "Leona",
-            "Lucian",
-            "Lulu",
-            "Rakan",
-            "Thresh",
-            "Xayah"
-        ],
-        [
-            "Ezreal"
-        ],
-        [
-            "Reksai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
             "Tahm kench",
-            "Yasuo",
-            "Yone"
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Ezreal",
-            "Ryze",
-            "Shen"
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Jax",
+            "Ksante"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
+            "Zac"
+        ],
+        [
+            "Malzahar",
+            "Nocturne",
+            "Zac"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

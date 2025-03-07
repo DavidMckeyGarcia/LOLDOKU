@@ -1,68 +1,96 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "OG40",
-        "shield"
+        "Support",
+        "blink",
+        "OG40"
     ],
     "cols": [
-        "Bilgewater",
-        "silence",
-        "shred"
+        "stun",
+        "Piltover",
+        "0 games"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Corki",
-            "Karthus",
-            "Zoe"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
             "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
-        ],
-        [
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
             "Nautilus",
-            "Nilah",
-            "Tahm kench"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Garen",
-            "Jarvan IV",
-            "Mordekaiser",
-            "Olaf",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
             "Rell",
-            "Rumble",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Heimerdinger",
+            "Seraphine"
+        ],
+        [
+            "Mel",
+            "Milio"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Ezreal"
+        ],
+        [
+            "Ambessa",
+            "Master yi"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
             "Sion",
-            "Vi"
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Heimerdinger"
+        ],
+        [
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

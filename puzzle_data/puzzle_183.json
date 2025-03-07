@@ -1,109 +1,83 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "life steal",
-        "OG40"
+        "Top",
+        "hextech",
+        "shield"
     ],
     "cols": [
-        "stun",
-        "Noxus",
-        "100% AP Ratio"
+        "Freljord",
+        "silence",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
             "Udyr",
-            "Viego",
-            "Warwick"
+            "Volibear"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Viego",
-            "Vladimir",
-            "Warwick"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
             "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
+            "Garen"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
+            "Gragas",
+            "Jarvan IV",
             "Jax",
-            "Master yi",
+            "Maokai",
+            "Renekton",
+            "Rumble",
+            "Shen"
+        ],
+        [
+            "Anivia",
+            "Sejuani"
+        ],
+        [
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Alistar",
+            "Janna",
+            "Jarvan IV",
+            "Renekton",
+            "Sejuani",
+            "Tristana"
+        ],
+        [
+            "Braum",
             "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Olaf",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Azir",
+            "Braum",
+            "Janna",
+            "Jarvan IV",
+            "Kaisa",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Rakan",
+            "Rumble",
+            "Shen",
+            "Thresh"
         ]
     ]
 }

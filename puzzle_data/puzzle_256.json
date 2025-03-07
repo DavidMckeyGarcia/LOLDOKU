@@ -1,97 +1,61 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "hextech",
-        "Season 7+"
+        "Support",
+        "OG40",
+        "ult execute"
     ],
     "cols": [
-        "root",
         "The Void",
-        "never played"
+        "silence",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
             "Velkoz"
         ],
         [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Elise",
-            "Heimerdinger",
-            "Kennen",
-            "Naafiri"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Kassadin",
-            "Kogmaw",
-            "Malzahar"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Janna",
-            "Jarvan IV",
-            "Rammus",
-            "Sejuani"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
+            "Bard",
+            "Galio",
             "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Belveth",
-            "Kaisa"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
             "Yuumi",
-            "Zeri"
+            "Zilean"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Evelynn",
+            "Karthus",
+            "Kayle",
+            "Ryze",
+            "Sion",
+            "Zilean"
+        ],
+        [
+            "Chogath",
+            "Reksai"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Evelynn",
+            "Viego"
         ]
     ]
 }

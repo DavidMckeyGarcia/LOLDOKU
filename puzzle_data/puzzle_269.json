@@ -1,64 +1,63 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "Space Groove",
-        "ult execute"
+        "Mid",
+        "Season 7+",
+        "shield"
     ],
     "cols": [
-        "Shurima",
-        "root",
-        "yordle"
+        "Bilgewater",
+        "fear",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
+            "Fizz",
+            "Twisted fate"
         ],
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
+        ],
+        [
             "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Nilah",
+            "Tahm kench"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
         ],
         [
-            "Nasus"
-        ],
-        [
-            "Lissandra",
-            "Lux",
-            "Nunu"
-        ],
-        [
-            "Lulu",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Akshan"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Veigar"
+            "Naafiri",
+            "Olaf",
+            "Sivir",
+            "Vex",
+            "Viktor"
         ]
     ]
 }

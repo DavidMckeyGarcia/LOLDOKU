@@ -1,105 +1,62 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "shield",
-        "OG40"
+        "Top",
+        "OG40",
+        "empyrean"
     ],
     "cols": [
-        "knock-up",
-        "Bandle City",
-        "riot records"
+        "fear",
+        "Zaun",
+        "ascended"
     ],
     "solutions": [
         [
-            "Alistar",
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus",
+            "Pantheon",
+            "Renekton"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
             "Blitzcrank",
-            "Braum",
-            "Galio",
+            "Dr. Mundo",
             "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Singed",
+            "Twitch",
+            "Warwick"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
+            "Nasus",
+            "Taric"
         ],
         [
-            "Senna"
+            "Nocturne",
+            "Vex"
         ],
         [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Diana",
-            "Galio",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Riven",
-            "Sion",
-            "Tahm kench",
-            "Vi",
-            "Yasuo",
-            "Yone"
+            "Zac"
         ],
         [
-            "Lulu",
-            "Rumble",
-            "Yuumi"
-        ],
-        [
-            "Aphelios",
-            "Ekko",
-            "Ksante",
-            "Kaisa",
-            "Mordekaiser",
-            "Olaf",
-            "Senna",
-            "Sett",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
+            "Varus"
         ]
     ]
 }

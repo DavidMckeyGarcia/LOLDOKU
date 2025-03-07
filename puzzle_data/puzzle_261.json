@@ -1,57 +1,54 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "worlds skin",
-        "dash"
+        "Adc",
+        "invis",
+        "worlds skin"
     ],
     "cols": [
+        "Ionia",
         "stun",
-        "Bilgewater",
-        "tether"
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
+            "Jhin",
+            "Varus",
+            "Xayah"
+        ],
+        [
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Nami",
-            "Nautilus",
+            "Corki"
+        ],
+        [
+            "Akali",
+            "Wukong"
+        ],
+        [
+            "Neeko",
             "Pyke",
-            "Tahm kench"
+            "Qiyana",
+            "Vayne",
+            "Viego"
         ],
         [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "LeBlanc"
+        ],
+        [
+            "Akali",
+            "Irelia",
+            "Jhin",
+            "Kennen",
+            "Lee sin",
+            "Rakan",
+            "Shen",
+            "Syndra",
+            "Xayah",
+            "Zed"
         ],
         [
             "Alistar",
@@ -80,79 +77,12 @@
             "Zac"
         ],
         [
-            "Gangplank",
-            "Graves",
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Aatrox",
-            "Kalista",
+            "Azir",
+            "Corki",
             "LeBlanc",
-            "Yuumi",
-            "Zac"
-        ],
-        [
-            "Alistar",
-            "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
-            "Ivern",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Nautilus",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sett",
-            "Sylas",
-            "Taliyah",
-            "Thresh",
-            "Urgot",
-            "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Nocturne",
-            "Sylas",
-            "Yuumi",
-            "Zac"
+            "Orianna",
+            "Ryze",
+            "Taliyah"
         ]
     ]
 }

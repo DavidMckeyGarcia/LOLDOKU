@@ -1,89 +1,97 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "OG40",
-        "cosmic"
+        "Jungle",
+        "coven",
+        "Season 2-6"
     ],
     "cols": [
-        "Bilgewater",
         "knock-up",
-        "Immunity"
+        "Demacia",
+        "arcane"
     ],
     "solutions": [
         [
-            "Nami",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
             "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
+            "Nunu",
             "Poppy",
-            "Rakan",
+            "Reksai",
             "Rell",
-            "Tahm kench",
-            "Velkoz",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
             "Zyra"
         ],
         [
-            "Bard",
-            "Galio",
-            "Mel",
-            "Yuumi",
-            "Zilean"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle",
-            "Ryze",
-            "Sion",
-            "Zilean"
-        ],
-        [
-            "Illaoi",
-            "Nami",
-            "Nautilus"
-        ],
-        [
-            "Anivia",
-            "Belveth",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Rakan",
-            "Sion",
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
             "Xin Zhao"
         ],
         [
-            "Lissandra",
-            "Sion",
-            "Vladimir",
-            "Xayah"
+            "Ekko",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Nami",
+            "Zyra"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Ekko",
+            "Jayce",
+            "Jinx",
+            "Vi",
+            "Viktor"
         ]
     ]
 }

@@ -1,113 +1,125 @@
 {
     "difficulty": "silver",
     "rows": [
-        "Mid",
-        "dash",
-        "Season 7+"
+        "Jungle",
+        "life steal",
+        "Season 2-6"
     ],
     "cols": [
-        "Freljord",
-        "root",
+        "knock-up",
+        "Zaun",
         "manaless"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
+            "Belveth",
+            "Briar",
+            "Diana",
             "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Aurora",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Ornn",
-            "Sejuani",
-            "Tryndamere",
-            "Volibear"
-        ],
-        [
-            "Caitlyn",
             "Ivern",
-            "Ksante",
+            "Jarvan IV",
+            "Kayn",
             "Lee sin",
-            "Leona",
-            "Maokai",
             "Nautilus",
-            "Qiyana",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
             "Rengar",
-            "Shaco",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
             "Zac"
         ],
         [
             "Aatrox",
-            "Akali",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Warwick"
+        ],
+        [
+            "Aatrox",
             "Ambessa",
             "Belveth",
             "Briar",
+            "Lee sin",
+            "Viego",
+            "Vladimir"
+        ],
+        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Aatrox",
             "Gnar",
             "Kled",
-            "Lee sin",
             "Reksai",
-            "Renekton",
             "Rengar",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Tryndamere",
-            "Viego",
             "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Zac",
+            "Zed"
         ]
     ]
 }

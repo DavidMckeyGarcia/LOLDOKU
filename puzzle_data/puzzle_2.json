@@ -1,27 +1,16 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "Season 2-6",
-        "ult execute"
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "Ionia",
         "root",
-        "never played"
+        "The Void",
+        "manaless"
     ],
     "solutions": [
-        [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
         [
             "Ksante",
             "Maokai",
@@ -30,98 +19,61 @@
             "Zac"
         ],
         [
-            "Chogath",
+            "Chogath"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Ambessa",
             "Dr. Mundo",
-            "Fiora",
             "Garen",
             "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
-            "Kayn",
             "Kennen",
             "Kled",
-            "Malphite",
-            "Maokai",
             "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
             "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Yorick"
-        ],
-        [
-            "Ahri",
-            "Ivern",
-            "Jhin",
-            "Syndra",
-            "Varus",
+            "Tryndamere",
             "Yasuo",
-            "Zed"
+            "Yone",
+            "Zac"
         ],
         [
-            "Ivern",
-            "Jhin",
+            "Caitlyn",
             "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Bard",
-            "Braum",
-            "Draven",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Kindred",
+            "Kaisa"
+        ],
+        [
+            "Briar",
             "Kled",
-            "Nami",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Volibear",
-            "Zyra"
+            "Shen"
         ],
         [
-            "Akali",
-            "Jhin",
-            "Syndra"
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Akshan",
             "Chogath",
-            "Draven",
-            "Evelynn",
-            "Garen",
-            "Jhin",
-            "Jinx",
-            "Pyke",
-            "Reksai",
-            "Viego"
+            "Kassadin"
+        ],
+        [
+            "Dr. Mundo",
+            "Katarina",
+            "Tryndamere"
         ]
     ]
 }

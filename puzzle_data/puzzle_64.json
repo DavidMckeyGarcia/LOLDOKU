@@ -1,89 +1,75 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "OG40",
-        "PROJECT"
+        "Support",
+        "Season 7+",
+        "life steal"
     ],
     "cols": [
-        "Demacia",
         "root",
-        "100+ games"
+        "Targon",
+        "arcane"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
+            "Karma",
+            "Leona",
             "Lux",
-            "Sylas"
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Mel"
+        ],
+        [
+            "Aphelios",
             "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
+            "Ksante",
             "Mel",
             "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Azir",
-            "Elise",
-            "Ezreal",
-            "Gragas",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Jhin",
-            "Jinx",
-            "Leona",
+            "Renata glasc",
             "Senna",
-            "Varus"
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Ashe",
-            "Jax",
-            "Jhin",
-            "Leona",
-            "Lucian",
-            "Renekton",
-            "Sejuani",
-            "Varus"
+            "Aphelios",
+            "Zoe"
+        ],
+        [
+            "Ambessa",
+            "Mel"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Aphelios"
+        ],
+        [
+            "Ambessa",
+            "Warwick"
         ]
     ]
 }

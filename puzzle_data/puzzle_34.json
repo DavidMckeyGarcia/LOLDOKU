@@ -1,155 +1,71 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "Season 2-6",
-        "invis"
+        "prestige",
+        "Season 2-6"
     ],
     "cols": [
-        "Ixtal",
-        "slow",
-        "yordle"
+        "Targon",
+        "silence",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Malphite",
-            "Skarner"
+            "Pantheon"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Camille",
             "Chogath",
-            "Darius",
-            "Dr. Mundo",
+            "Garen"
+        ],
+        [
+            "Camille",
             "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
-            "Jarvan IV",
-            "Ksante",
             "Kayle",
             "Kayn",
             "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
             "Sion",
-            "Skarner",
-            "Swain",
-            "Sylas",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
             "Zac"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Rengar",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Aurelion Sol",
-            "Azir",
-            "Bard",
-            "Braum",
-            "Darius",
             "Diana",
-            "Draven",
-            "Ekko",
-            "Elise",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Zoe"
+        ],
+        [
+            "Garen",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Camille",
+            "Evelynn",
             "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jayce",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Khazix",
-            "Kindred",
+            "Fizz",
+            "Kayle",
+            "Kayn",
+            "Lissandra",
+            "Xayah",
+            "Yuumi",
+            "Zed"
+        ],
+        [
+            "Aurelion Sol",
+            "Diana"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Bard",
+            "Ekko",
+            "Fiora",
             "Kled",
             "Lissandra",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Quinn",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Varus",
-            "Velkoz",
-            "Viktor",
-            "Volibear",
             "Zac",
-            "Zed",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
-        ],
-        [
-            "Neeko",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Akali",
-            "Aurora",
-            "Kaisa",
-            "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
-        ],
-        [
-            "Teemo"
+            "Zed"
         ]
     ]
 }

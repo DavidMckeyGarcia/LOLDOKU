@@ -28,7 +28,7 @@
         "crowd control": ["slow"],
         "kit": ["dash", "true damage", "ult execute", "invis"],
         "skinlines": ["worlds skin",  "prestige", "coven", "PROJECT", "empyrean"],
-        "esports": [],
+        "esports": ["pentakill"],
         "misc": ["manaless",  "riot records"]
     },
     "Akshan": {
@@ -99,7 +99,7 @@
         "crowd control": ["slow", "root"],
         "kit": ["shield", "life steal"],
         "skinlines": ["worlds skin"],
-        "esports": ["never played"],
+        "esports": ["never played", "pentakill"],
         "misc": [ "riot records", "100% AP Ratio"]
     },
     "Ashe": {
@@ -150,7 +150,7 @@
         "release date": ["Season 2-6"],
         "region": [],
         "crowd control": ["slow", "stun"],
-        "kit": ["dash", "global ult", "evolver"],
+        "kit": ["dash", "global ult", "evolves"],
         "skinlines": ["worlds skin", "elderwood"],
         "race": ["celestial"],
         "esports": ["never played"],
@@ -161,7 +161,7 @@
         "release date": ["Season 7+"], 
         "region": ["The Void"],
         "crowd control": ["slow", "knock-up"],
-        "kit": ["dash", "true damage", "life steal", "evolver"],
+        "kit": ["dash", "true damage", "life steal", "evolves"],
         "skinlines": ["arcade", "cosmic"],
         "esports": ["never played"],
         "misc": ["manaless", "ult reset", "100% AP Ratio"]
@@ -264,7 +264,7 @@
         "crowd control": ["slow", "fear"],
         "kit": ["true damage", "ult execute"],
         "skinlines": ["prestige", "high noon"],
-        "esports": [],
+        "esports": ["pentakill"],
         "misc": ["ult reset"]
     },
     "Diana": {
@@ -335,7 +335,7 @@
         "crowd control": [],
         "kit": ["dash", "global ult", "prestige", "blink"],
         "skinlines": ["worlds skin", "arcade", "prestige", "star guardian"],
-        "esports": ["100+ games"],
+        "esports": ["100+ games", "pentakill"],
         "misc": [ "riot records"]
     },
     "Fiddlesticks": {
@@ -355,7 +355,7 @@
         "crowd control": ["slow", "stun"],
         "kit": ["dash", "true damage"],
         "skinlines": ["pool party", "worlds skin", "prestige", "PROJECT"],
-        "esports": ["never played"],
+        "esports": ["never played", "pentakill"],
         "misc": ["100% AP Ratio", "Immunity"]
     },
     "Fizz": {
@@ -384,7 +384,7 @@
         "release date": ["OG40"],
         "region": ["Bilgewater"],
         "crowd control": ["slow"],
-        "kit": ["true damage", "global ult", "evolver"],
+        "kit": ["true damage", "global ult", "evolves"],
         "skinlines": ["pool party", "worlds skin", "PROJECT"],
         "esports": [],
         "misc": ["inf stacking", "100% AP Ratio"]
@@ -558,7 +558,7 @@
         "crowd control": ["slow", "root"],
         "kit": ["ult execute", "global ult"],
         "skinlines": ["worlds skin", "prestige", "PROJECT"],
-        "esports": ["never played"],
+        "esports": ["never played", "pentakill"],
         "misc": ["arcane", "100% AP Ratio"]
     },
     "Ksante": {
@@ -576,9 +576,9 @@
         "release date": ["Season 7+"],
         "region": ["The Void"],
         "crowd control": ["slow"],
-        "kit": ["dash", "shield", "global ult", "invis", "evolver"],
+        "kit": ["dash", "shield", "global ult", "invis", "evolves"],
         "skinlines": ["worlds skin", "arcade",  "prestige", "star guardian", "battle bunny"],
-        "esports": ["100+ games"],
+        "esports": ["100+ games", "pentakill"],
         "misc": [  "riot records", "100% AP Ratio"]
     },
     "Kalista": {
@@ -588,7 +588,7 @@
         "crowd control": ["slow", "knock-up"],
         "kit": [],
         "skinlines": ["worlds skin"],
-        "esports": ["never played"],
+        "esports": ["never played", "pentakill"],
         "misc": ["tether"]
     },
     "Karma": {
@@ -636,7 +636,7 @@
         "release date": ["OG40"],
         "region": ["Demacia"],
         "crowd control": ["slow"],
-        "kit": ["evolver"],
+        "kit": ["evolves"],
         "skinlines": ["prestige", "empyrean"],
         "esports": [],
         "misc": ["riot records", "Immunity"]
@@ -646,7 +646,7 @@
         "release date": ["Season 7+"],
         "region": ["Noxus", "Ionia"],
         "crowd control": ["slow", "knock-up"],
-        "kit": ["dash", "life steal", "evolver"],
+        "kit": ["dash", "life steal", "evolves"],
         "skinlines": [ "prestige"],
         "race": ["ascended", "darkin"],
         "esports": ["never played"],
@@ -668,7 +668,7 @@
         "release date": ["Season 2-6"],
         "region": ["The Void"],
         "crowd control": ["slow", "invis"],
-        "kit": ["dash", "evolver"],
+        "kit": ["dash", "evolves"],
         "skinlines": ["dark star"],
         "esports": [],
         "misc": []
@@ -701,7 +701,7 @@
         "crowd control": ["slow"],
         "kit": ["true damage"],
         "skinlines": ["hextech"],
-        "esports": [],
+        "esports": ["pentakill"],
         "misc": ["Immunity", "shred"]
     },
     "LeBlanc": {
@@ -762,7 +762,7 @@
         "crowd control": [],
         "kit": ["dash"],
         "skinlines": ["prestige", "high noon", "PROJECT"],
-        "esports": ["100+ games"],
+        "esports": ["100+ games",  "pentakill"],
         "misc": []
     },
     "Lulu": {
@@ -1153,7 +1153,7 @@
         "crowd control": ["slow", "root"],
         "kit": ["global ult", "blink"],
         "skinlines": ["worlds skin"],
-        "esports": ["100+ games", "30+ wins"],
+        "esports": ["100+ games", "30+ wins", "pentakill"],
         "misc": ["Immunity"]
     },
     "Samira": {
@@ -1281,7 +1281,7 @@
         "release date": ["Season 7+"],
         "region": ["Noxus"],
         "crowd control": ["slow", "true damage"],
-        "kit": ["evolver"],
+        "kit": ["evolves"],
         "skinlines": [],
         "esports": [],
         "misc": ["inf stacking", "100% AP Ratio"]
@@ -1331,7 +1331,7 @@
         "role": ["Mid"],
         "release date": ["Season 2-6"],
         "region": ["Ionia"],
-        "crowd control": ["slow", "stun", "evolver"],
+        "crowd control": ["slow", "stun", "evolves"],
         "kit": ["true damage", "ult execute"],
         "skinlines": ["pool party", "worlds skin", "coven"],
         "esports": ["100+ games"],
@@ -1407,7 +1407,7 @@
         "kit": ["dash"],
         "skinlines": ["hextech"],
         "race": ["yordle"],
-        "esports": ["100+ games"],
+        "esports": ["100+ games", "pentakill"],
         "misc": ["100% AP Ratio"]
     },
     "Trundle": {
@@ -1447,7 +1447,7 @@
         "crowd control": ["slow"],
         "kit": ["true damage", "invis"],
         "skinlines": ["worlds skin", "high noon"],
-        "esports": ["never played"],
+        "esports": ["never played", "pentakill"],
         "misc": []
     },
     "Udyr": {
@@ -1488,7 +1488,7 @@
         "crowd control": ["stun"],
         "kit": ["dash", "true damage", "invis"],
         "skinlines": ["worlds skin", "prestige", "PROJECT"],
-        "esports": ["never played"],
+        "esports": ["never played",  "pentakill"],
         "misc": ["ult reset"]
     },
     "Veigar": {
@@ -1548,7 +1548,7 @@
         "release date": ["Season 2-6"],
         "region": ["Zaun"],
         "crowd control": ["slow", "stun"],
-        "kit": ["shield", "evolver"],
+        "kit": ["shield", "evolves"],
         "skinlines": ["high noon"],
         "esports": ["30+ wins"],
         "misc": ["arcane", "ult reset", "100% AP Ratio"]
@@ -1603,7 +1603,7 @@
         "kit": [],
         "skinlines": ["worlds skin", "prestige", "elderwood", "cosmic"],
         "race": ["vastayan"],
-        "esports": ["never played", "100+ games"],
+        "esports": ["never played", "100+ games", "pentakill"],
         "misc": ["Immunity"]
     },
     "Xerath": {

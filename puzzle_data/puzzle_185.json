@@ -1,93 +1,98 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
         "Adc",
-        "dash",
-        "Season 2-6"
+        "OG40",
+        "shield"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "yordle"
+        "stun",
+        "Shadow Isles",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
+            "Ashe",
             "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Lucian",
             "Vayne"
         ],
         [
-            "Corki",
-            "Tristana",
-            "Ziggs"
+            "Kalista",
+            "Senna"
         ],
         [
-            "Caitlyn",
+            "Corki"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Corki",
+            "Ryze"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
             "Ivern",
             "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
+            "Milio",
+            "Morgana",
             "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Fiora",
+            "Senna",
+            "Thresh",
+            "Vex"
+        ],
+        [
+            "Azir",
             "Galio",
-            "Jarvan IV",
-            "Lucian",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sylas",
-            "Vayne",
-            "Xin Zhao"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Kled",
-            "Poppy",
-            "Tristana",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
+            "Orianna",
+            "Viktor"
         ]
     ]
 }

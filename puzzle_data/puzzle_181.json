@@ -1,48 +1,88 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "pool party"
+        "Mid",
+        "true damage",
+        "Season 2-6"
     ],
     "cols": [
-        "root",
+        "knock-up",
         "Bilgewater",
-        "100+ games"
+        "30+ wins"
     ],
     "solutions": [
         [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Fizz",
+            "Twisted fate"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
             "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
         ],
         [
             "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Pyke"
+        ],
+        [
+            "Ahri",
+            "Corki"
         ],
         [
             "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
+            "Kalista",
+            "Lulu",
+            "Nami",
             "Nautilus",
-            "Rengar",
-            "Varus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
             "Zac",
+            "Ziggs",
             "Zyra"
         ],
         [
@@ -52,43 +92,11 @@
             "Tahm kench"
         ],
         [
-            "Aatrox",
+            "Ahri",
             "Azir",
-            "Braum",
-            "Elise",
-            "Gnar",
-            "Jayce",
-            "Jhin",
-            "Lucian",
-            "Lulu",
-            "Sejuani",
-            "Syndra",
-            "Thresh",
-            "Varus"
-        ],
-        [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
-        ],
-        [
-            "Gangplank",
-            "Graves",
-            "Miss Fortune"
-        ],
-        [
-            "Braum",
-            "Caitlyn",
-            "Graves",
-            "Jarvan IV",
-            "Lee sin",
-            "Leona",
-            "Lulu",
-            "Orianna",
-            "Renekton",
-            "Syndra"
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
         ]
     ]
 }

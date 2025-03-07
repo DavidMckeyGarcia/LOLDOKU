@@ -1,26 +1,22 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
         "Jungle",
-        "OG40",
-        "dash"
+        "hextech",
+        "global ult"
     ],
     "cols": [
-        "Freljord",
+        "Zaun",
         "root",
-        "ult reset"
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
             "Ivern",
@@ -36,62 +32,39 @@
             "Zyra"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
+            "Taliyah"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
+            "Janna",
             "Singed",
-            "Soraka"
+            "Ziggs"
         ],
         [
-            "Master yi",
             "Singed",
-            "Sivir"
+            "Swain"
         ],
         [
-            "Aurora",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Ornn",
-            "Sejuani",
-            "Tryndamere",
-            "Volibear"
+            "Galio"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Ziggs"
         ],
         [
             "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
+            "Jinx",
+            "Lux",
             "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Belveth",
-            "Naafiri",
-            "Vayne",
-            "Vex",
-            "Viego"
+            "Galio",
+            "Ryze",
+            "Taliyah"
         ]
     ]
 }

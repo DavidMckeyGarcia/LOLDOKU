@@ -1,71 +1,58 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "true damage",
-        "OG40"
+        "Mid",
+        "PROJECT",
+        "life steal"
     ],
     "cols": [
+        "Bilgewater",
         "fear",
-        "Zaun",
-        "yordle"
+        "arcane"
     ],
     "solutions": [
         [
+            "Fizz",
+            "Twisted fate"
+        ],
+        [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Heimerdinger",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
+        ],
+        [
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Warwick"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Illaoi",
+            "Nilah"
+        ],
+        [
             "Aatrox",
-            "Darius",
-            "Urgot",
+            "Briar",
             "Warwick"
         ],
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Renata glasc",
-            "Twitch",
-            "Urgot"
-        ],
-        [
-            "Amumu",
-            "Corki"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
+            "Ambessa",
             "Warwick"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
         ]
     ]
 }

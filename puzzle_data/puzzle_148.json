@@ -1,92 +1,155 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "shield",
-        "elderwood"
+        "Jungle",
+        "Fright Night",
+        "Season 7+"
     ],
     "cols": [
-        "root",
-        "Shadow Isles",
-        "manaless"
+        "Noxus",
+        "slow",
+        "shred"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
+            "Briar",
+            "Elise",
+            "Kayn",
             "Mordekaiser",
-            "Renekton",
+            "Rell"
+        ],
+        [
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Diana",
+            "Dr. Mundo",
+            "Ekko",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gragas",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Karthus",
+            "Kayn",
+            "Khazix",
+            "Kindred",
+            "Lee sin",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nasus",
+            "Nautilus",
+            "Nocturne",
+            "Nunu",
+            "Olaf",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Reksai",
+            "Rengar",
             "Rumble",
+            "Sejuani",
             "Sett",
+            "Shaco",
             "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
+        ],
+        [
+            "Annie",
+            "Draven"
+        ],
+        [
+            "Draven",
+            "Nautilus",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Shaco",
+            "Trundle",
+            "Urgot",
+            "Zeri"
+        ],
+        [
+            "Trundle"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
             "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
             "Hwei",
-            "Ivern",
             "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
             "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
             "Renata glasc",
+            "Samira",
             "Senna",
-            "Seraphine"
-        ],
-        [
-            "Senna",
-            "Thresh",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Garen",
-            "Kled",
-            "Lee sin",
-            "Mordekaiser",
-            "Rumble",
+            "Seraphine",
             "Sett",
-            "Shen",
-            "Yasuo",
-            "Yone"
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
         ],
         [
-            "LeBlanc",
-            "Xayah"
-        ],
-        [
-            "Hecarim",
-            "Karthus"
-        ],
-        [
-            "Gnar",
-            "Reksai"
+            "Briar",
+            "Rell",
+            "Zoe"
         ]
     ]
 }

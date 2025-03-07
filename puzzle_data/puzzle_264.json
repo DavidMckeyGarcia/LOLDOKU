@@ -1,78 +1,88 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "blink",
+        "Mid",
+        "global ult",
         "OG40"
     ],
     "cols": [
-        "stun",
-        "Targon",
-        "riot records"
+        "Ionia",
+        "knock-up",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
-            "Aphelios",
-            "Ezreal",
-            "Kaisa",
-            "Senna"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Pantheon"
-        ],
-        [
-            "Ekko",
-            "Ezreal",
-            "Viego",
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
             "Yasuo",
-            "Yone"
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Ryze"
+        ],
+        [
+            "Master yi"
         ],
         [
             "Alistar",
-            "Amumu",
             "Anivia",
-            "Annie",
-            "Ashe",
             "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
+            "Chogath",
+            "Janna",
+            "Malphite",
             "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Sion"
         ],
         [
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
+            "Ryze",
+            "Tristana",
+            "Twitch"
         ]
     ]
 }

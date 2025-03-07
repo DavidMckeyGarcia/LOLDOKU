@@ -1,58 +1,82 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
+        "Adc",
         "OG40",
-        "hextech"
+        "elderwood"
     ],
     "cols": [
+        "stun",
         "The Void",
-        "silence",
-        "arcane"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Chogath"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Kaisa",
+            "Kogmaw"
         ],
         [
-            "Ambessa",
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jayce",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
             "Heimerdinger",
-            "Singed",
-            "Warwick"
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
             "Chogath",
             "Kassadin"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Heimerdinger",
+            "Alistar",
+            "Ashe",
             "Janna",
-            "Singed",
-            "Warwick"
+            "Jax",
+            "Ryze",
+            "Tristana"
         ],
         [
-            "Kassadin",
-            "Kogmaw",
-            "Malzahar"
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
         ],
         [
-            "Kassadin",
-            "Malzahar"
+            "Reksai"
         ],
         [
-            "Janna",
-            "Singed"
+            "Azir",
+            "Gnar",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

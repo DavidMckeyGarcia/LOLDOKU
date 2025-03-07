@@ -1,97 +1,53 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "PROJECT",
-        "Season 2-6"
+        "Top",
+        "Season 2-6",
+        "ult execute"
     ],
     "cols": [
-        "knock-up",
-        "Zaun",
-        "ascended"
+        "Bandle City",
+        "silence",
+        "arcane"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Heimerdinger",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
+            "Ambessa",
+            "Heimerdinger",
+            "Singed",
             "Warwick"
         ],
         [
-            "Leona",
-            "Renekton",
-            "Varus"
+            "Lulu"
         ],
         [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Lulu"
         ],
         [
             "Ekko",
+            "Jayce",
             "Jinx",
             "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
+            "Viktor"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
+            "Veigar"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Jinx"
         ]
     ]
 }

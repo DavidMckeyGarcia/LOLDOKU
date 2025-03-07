@@ -1,65 +1,144 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "arcade",
+        "Space Groove",
         "shield"
     ],
     "cols": [
-        "silence",
-        "Noxus",
-        "ult reset"
+        "stun",
+        "Freljord",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
+            "Amumu",
+            "Brand",
             "Briar",
+            "Camille",
+            "Ekko",
             "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell"
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Belveth",
-            "Master yi",
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
             "Olaf",
-            "Viego"
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
         ],
         [
             "Blitzcrank",
-            "Malzahar"
+            "Gragas",
+            "Lissandra",
+            "Nami",
+            "Nunu",
+            "Taric",
+            "Twisted fate"
         ],
         [
-            "Riven"
+            "Gragas",
+            "Lissandra",
+            "Nunu"
         ],
         [
-            "Ahri",
-            "Belveth"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
+            "Gragas",
+            "Lulu",
+            "Rumble"
         ],
         [
             "Ambessa",
             "Annie",
-            "Kled",
-            "Mel",
-            "Mordekaiser",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
             "Rell",
+            "Renata glasc",
             "Riven",
-            "Sion"
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Naafiri",
+            "Braum",
+            "Nunu",
             "Olaf",
-            "Sivir",
-            "Vex",
-            "Viktor"
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Azir",
+            "Braum",
+            "Janna",
+            "Jarvan IV",
+            "Kaisa",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Rakan",
+            "Rumble",
+            "Shen",
+            "Thresh"
         ]
     ]
 }

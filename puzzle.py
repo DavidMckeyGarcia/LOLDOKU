@@ -57,7 +57,7 @@ cat1 = {
 
 
 cat2 = {
-    "kit": [["dash"], ["true damage"], ["shield"],  ["ult execute"], ["global ult"], ["invis"], ["blink"], ["life steal"], ["evolver"] ],
+    "kit": [["dash"], ["true damage"], ["shield"],  ["ult execute"], ["global ult"], ["invis"], ["blink"], ["life steal"], ["evolves"] ],
 
     "skinlines": [["pool party"], ["worlds skin"], ["arcade"], ["prestige"], ["coven"], 
                   ["elderwood"], ["PROJECT"], ["cosmic"], ["dark star"], ["hextech"],
@@ -80,7 +80,7 @@ cat3 = {
 
     "race": [ ["celestial"], ["yordle"], ["ascended"], ["vastayan"], ["darkin"]],
 
-    "esports": [["never played"], ["0 games"], ["100+ games"], ["30+ wins"]]
+    "esports": [["never played"], ["0 games"], ["100+ games"], ["30+ wins"], ["pentakill"]]
 }
 
 

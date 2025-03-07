@@ -1,92 +1,128 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
         "Top",
-        "OG40",
-        "global ult"
+        "prestige",
+        "OG40"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "100% AP Ratio"
+        "Zaun",
+        "stun",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
+            "Dr. Mundo",
+            "Singed",
             "Urgot",
-            "Warwick"
+            "Warwick",
+            "Zac"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
-        ],
-        [
-            "Chogath",
+            "Ambessa",
+            "Camille",
             "Fiora",
-            "Gangplank",
             "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
             "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
             "Pantheon",
-            "Shen",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
             "Skarner",
+            "Sylas",
             "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
             "Volibear",
             "Warwick",
-            "Wukong"
+            "Yone",
+            "Zac"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Jinx",
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kaisa",
+            "Lucian",
+            "Vayne",
+            "Xayah"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
             "Warwick"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
         ],
         [
             "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
             "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
+            "Heimerdinger",
             "Jax",
-            "Master yi",
+            "Morgana",
             "Nunu",
             "Rammus",
-            "Sivir",
-            "Tristana",
+            "Sion",
+            "Taric",
             "Twisted fate",
             "Veigar",
             "Warwick",
             "Zilean"
         ],
         [
-            "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Briar",
-            "Ekko",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Nocturne",
-            "Pantheon",
-            "Shen",
-            "Twisted fate",
-            "Xerath"
+            "Ryze",
+            "Tristana",
+            "Twitch"
         ]
     ]
 }

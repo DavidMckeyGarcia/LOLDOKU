@@ -1,78 +1,60 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "true damage",
-        "OG40"
+        "Jungle",
+        "OG40",
+        "global ult"
     ],
     "cols": [
-        "knock-up",
-        "Bilgewater",
-        "tether"
+        "fear",
+        "Targon",
+        "0 games"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
             "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Pantheon"
         ],
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Renata glasc"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
+            "Briar",
+            "Master yi",
+            "Nunu"
         ],
         [
             "Fiddlesticks",
-            "Morgana",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Soraka",
             "Taric"
+        ],
+        [
+            "Master yi",
+            "Nunu"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Aurelion Sol",
+            "Pantheon",
+            "Soraka"
+        ],
+        [
+            "Briar",
+            "Mel",
+            "Vex"
         ]
     ]
 }

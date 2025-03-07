@@ -1,27 +1,91 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "Season 2-6",
-        "elderwood"
+        "Jungle",
+        "true damage",
+        "Season 2-6"
     ],
     "cols": [
         "knock-up",
-        "Bandle City",
-        "ascended"
+        "The Void",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Kalista",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Belveth",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
             "Samira",
-            "Ziggs"
+            "Velkoz",
+            "Yone"
         ],
         [
+            "Belveth",
+            "Chogath",
+            "Kogmaw",
+            "Velkoz"
+        ],
+        [
+            "Belveth",
+            "Chogath",
             "Corki",
-            "Tristana"
-        ],
-        [
-            "Varus"
+            "Fiora",
+            "Gangplank",
+            "Master yi",
+            "Nunu"
         ],
         [
             "Aatrox",
@@ -47,25 +111,24 @@
             "Zyra"
         ],
         [
-            "Lulu"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
-        ],
-        [
-            "Azir",
-            "Rakan",
+            "Khazix",
             "Reksai",
-            "Wukong"
+            "Velkoz"
         ],
         [
-            "Veigar"
-        ],
-        [
-            "Azir"
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

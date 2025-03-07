@@ -1,82 +1,96 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "Season 2-6",
-        "Space Groove"
+        "Jungle",
+        "OG40",
+        "dash"
     ],
     "cols": [
-        "silence",
-        "Shurima",
-        "100% AP Ratio"
+        "Ixtal",
+        "root",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
         ],
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Aurelion Sol",
-            "Chogath",
-            "Corki",
+            "Camille",
             "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Malphite"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Evelynn",
+            "Karthus",
+            "Kayle",
+            "Ryze",
+            "Sion",
             "Zilean"
         ],
         [
-            "Lulu"
+            "Malphite",
+            "Nidalee",
+            "Qiyana",
+            "Rengar"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Taliyah"
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
         ],
         [
-            "Aurelion Sol",
+            "Aurora",
+            "Bard",
+            "Camille",
             "Ekko",
             "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Jhin",
-            "Jinx",
-            "Tahm kench",
-            "Thresh",
-            "Varus",
-            "Vi",
-            "Viktor",
-            "Volibear"
-        ],
-        [
-            "Blitzcrank",
-            "Lulu"
-        ],
-        [
-            "Nasus"
-        ],
-        [
-            "Blitzcrank",
-            "Lux",
-            "Nunu",
-            "Twisted fate"
+            "Fizz",
+            "Galio",
+            "Kayn",
+            "Kled",
+            "Viego",
+            "Yuumi",
+            "Zac"
         ]
     ]
 }

@@ -1,73 +1,61 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "PROJECT",
-        "Season 7+"
+        "Jungle",
+        "Season 7+",
+        "dark star"
     ],
     "cols": [
-        "Zaun",
         "stun",
-        "100+ games"
+        "Zaun",
+        "tether"
     ],
     "solutions": [
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jayce",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
-        ],
-        [
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
             "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Irelia",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
             "Jax",
-            "Leona",
-            "Pyke",
-            "Renekton",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
             "Sejuani",
+            "Sett",
+            "Skarner",
             "Sylas",
-            "Vayne",
+            "Taliyah",
+            "Udyr",
             "Vi",
-            "Warwick"
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Ashe",
-            "Jax",
-            "Jhin",
-            "Leona",
-            "Lucian",
-            "Renekton",
-            "Sejuani",
-            "Varus"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
         ],
         [
             "Ambessa",
@@ -87,9 +75,25 @@
             "Yone"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
+        ],
+        [
+            "Lissandra",
+            "Orianna",
+            "Thresh",
+            "Xerath"
+        ],
+        [
+            "Orianna"
+        ],
+        [
+            "Karma"
         ]
     ]
 }

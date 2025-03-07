@@ -1,82 +1,94 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "Space Groove",
-        "OG40"
+        "Adc",
+        "dash",
+        "Season 2-6"
     ],
     "cols": [
         "root",
-        "Noxus",
-        "100+ games"
+        "Ionia",
+        "0 games"
     ],
     "solutions": [
         [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Jhin",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Mel",
+            "Samira"
+        ],
+        [
+            "Caitlyn",
             "Ivern",
+            "Ksante",
             "Lee sin",
+            "Leona",
             "Maokai",
-            "Morgana",
             "Nautilus",
-            "Nunu",
             "Qiyana",
             "Rengar",
             "Shaco",
+            "Zac"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Illaoi",
+            "Naafiri",
+            "Samira",
+            "Vex"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell"
+            "Ahri",
+            "Ivern",
+            "Jhin",
+            "Syndra",
+            "Varus",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
-        ],
-        [
-            "Lissandra",
-            "Lux",
-            "Nunu"
-        ],
-        [
-            "Samira"
-        ],
-        [
-            "Gragas",
-            "Lulu",
-            "Rumble"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
+            "Illaoi"
         ]
     ]
 }

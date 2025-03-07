@@ -1,75 +1,112 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "Season 2-6",
-        "arcade"
+        "Jungle",
+        "Space Groove",
+        "Season 2-6"
     ],
     "cols": [
-        "root",
-        "Freljord",
-        "ult reset"
+        "knock-up",
+        "Bilgewater",
+        "manaless"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Swain"
-        ],
-        [
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
             "Nautilus",
-            "Rengar",
-            "Varus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
             "Zac",
             "Zyra"
         ],
         [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
+            "Graves",
+            "Nautilus"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lulu",
+            "Nami",
+            "Nunu",
+            "Samira"
+        ],
+        [
+            "Nami",
+            "Twisted fate"
+        ],
+        [
+            "Rumble"
         ],
         [
             "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Caitlyn",
-            "Qiyana"
+            "Illaoi",
+            "Nami",
+            "Nautilus",
+            "Tahm kench"
         ],
         [
-            "Brand"
-        ],
-        [
-            "Ahri",
-            "Belveth"
+            "Aatrox",
+            "Gnar",
+            "Kled",
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ]
     ]
 }

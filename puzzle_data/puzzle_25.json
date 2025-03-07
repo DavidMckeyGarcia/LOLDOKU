@@ -2,15 +2,20 @@
     "difficulty": "platinum",
     "rows": [
         "Jungle",
-        "Season 2-6",
-        "pool party"
+        "empyrean",
+        "true damage"
     ],
     "cols": [
-        "stun",
         "The Void",
-        "30+ wins"
+        "stun",
+        "yordle"
     ],
     "solutions": [
+        [
+            "Belveth",
+            "Khazix",
+            "Reksai"
+        ],
         [
             "Amumu",
             "Brand",
@@ -44,69 +49,50 @@
             "Zac"
         ],
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Taliyah"
+            "Malzahar"
         ],
         [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
             "Zac"
         ],
         [
-            "Khazix",
-            "Reksai",
+            "Vex"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Kogmaw",
             "Velkoz"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Lissandra",
-            "Taliyah",
-            "Viktor"
-        ],
-        [
-            "Braum",
+            "Amumu",
+            "Camille",
             "Fiora",
-            "Heimerdinger",
-            "Leona",
-            "Orianna",
-            "Renekton",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
             "Sett",
             "Syndra",
-            "Taliyah",
-            "Taric",
-            "Zac"
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Reksai"
-        ],
-        [
-            "Orianna",
-            "Taliyah"
+            "Amumu",
+            "Corki"
         ]
     ]
 }

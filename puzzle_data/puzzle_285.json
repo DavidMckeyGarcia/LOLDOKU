@@ -1,92 +1,77 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "Season 7+",
-        "Fright Night"
+        "Adc",
+        "life steal",
+        "worlds skin"
     ],
     "cols": [
-        "Zaun",
+        "Demacia",
         "root",
-        "100% AP Ratio"
+        "tether"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
-        [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
+            "Lucian",
+            "Vayne"
         ],
         [
             "Aphelios",
-            "Hwei",
-            "Ksante",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
-            "Neeko",
-            "Renata glasc",
             "Senna",
             "Seraphine",
+            "Varus",
             "Xayah"
         ],
         [
+            "Kalista"
+        ],
+        [
+            "Morgana"
+        ],
+        [
             "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
         ],
         [
-            "Renata glasc",
-            "Urgot",
-            "Zeri"
+            "Aatrox",
+            "Illaoi",
+            "Morgana"
         ],
         [
-            "Nautilus",
+            "Fiora",
+            "Jarvan IV",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Maokai",
             "Nunu",
-            "Renata glasc",
-            "Shaco"
+            "Rengar",
+            "Ryze",
+            "Singed",
+            "Xayah",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Nunu",
-            "Veigar",
-            "Zeri"
+            "Aatrox",
+            "Kalista",
+            "LeBlanc",
+            "Yuumi",
+            "Zac"
         ]
     ]
 }

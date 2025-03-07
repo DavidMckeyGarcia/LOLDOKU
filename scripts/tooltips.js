@@ -311,6 +311,10 @@ function updateHeaders(puzzleData) {
             tooltipTitle = '30+ WINS';
             tooltipContent = "Lee  " +"'Faker''".bold() + " Sang-hyeok is renowned for his proficiency across numerous Champions. However, out of over 1,400 career games, he's secured 30 or more wins with only 10 Champions - accounting for more than half of his total wins!";  
             break
+        case 'pentakill':
+            tooltipTitle = 'PENATKILL AT WORLDS/MSI';
+            tooltipContent = "Any champion that has recorded a  " +"Pentakill'".bold() + " at " +"Worlds'".bold() + " (Play-Ins or Main Event) or " + +"MSI'".bold() + " (Mid Season Invitational). Fun Facts; Only 1 player has secured a Pentakill at Worlds and MSI..." +" Rekkles!".bold() +" Also, only a single player has more than 1 pentakills at Worlds, it was Imp, both at 2014 Worlds!";  
+            break
         default:
             console.log(cols[index])
             tooltipTitle = cols[index];
@@ -407,8 +411,8 @@ function updateHeaders(puzzleData) {
             tooltipTitle = 'LIFE STEAL / VAMP';
             tooltipContent = "Life steal".bold()+  " or "+ " Vamp ".bold() +"(includes Omnivamp & Physical Vamp) is defined as any damaging spell that heals the caster for a "+ "% of damage dealt.".bold() +" It does not count any attacks that heal the caster for a " + "flat ".bold() +" amount (i.e heals).";
             break
-        case 'evolver':
-            tooltipTitle = 'EVOLVER';
+        case 'evolves':
+            tooltipTitle = 'HAS AN EVOLUTION';
             tooltipContent = "Any champion which has an " + "evolution".bold()+  " meaning that one or more of their abilities are functionally different to their non-evolved counterparts. Note that any abilities that just for example, 'does more damage' does not count, as the ability isnt fundamentlaly any different.";
             break
         case 'project':

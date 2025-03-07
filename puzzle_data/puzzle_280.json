@@ -1,14 +1,14 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
         "Adc",
         "Season 7+",
-        "shield"
+        "life steal"
     ],
     "cols": [
         "knock-up",
-        "Noxus",
-        "ult reset"
+        "Freljord",
+        "pentakill"
     ],
     "solutions": [
         [
@@ -17,14 +17,20 @@
             "Ziggs"
         ],
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
+            "Ashe"
         ],
         [
-            "Sivir",
-            "Vayne"
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
         ],
         [
             "Belveth",
@@ -40,62 +46,32 @@
             "Yone"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
+            "Aurora",
+            "Ornn"
         ],
         [
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
+        ],
+        [
+            "Aatrox",
             "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Diana",
-            "Galio",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
+            "Briar",
             "Ksante",
+            "Kayn",
             "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Riven",
+            "Samira",
             "Sion",
-            "Tahm kench",
-            "Vi",
-            "Yasuo",
-            "Yone"
+            "Trundle"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Kled",
-            "Mel",
-            "Mordekaiser",
-            "Rell",
-            "Riven",
-            "Sion"
-        ],
-        [
-            "Naafiri",
             "Olaf",
-            "Sivir",
-            "Vex",
-            "Viktor"
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Aphelios"
         ]
     ]
 }

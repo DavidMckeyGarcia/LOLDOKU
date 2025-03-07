@@ -1,24 +1,16 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
-        "invis",
-        "Season 2-6"
+        "Space Groove",
+        "Season 7+"
     ],
     "cols": [
-        "Demacia",
         "stun",
-        "0 games"
+        "Freljord",
+        "Immunity"
     ],
     "solutions": [
-        [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
         [
             "Amumu",
             "Brand",
@@ -52,55 +44,71 @@
             "Zac"
         ],
         [
-            "Briar",
-            "Master yi",
-            "Nunu"
-        ],
-        [
-            "Vayne"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Akshan"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
             "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Camille",
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Viego",
             "Zac"
         ],
         [
-            "Illaoi"
+            "Blitzcrank",
+            "Gragas",
+            "Lissandra",
+            "Nami",
+            "Nunu",
+            "Taric",
+            "Twisted fate"
+        ],
+        [
+            "Gragas",
+            "Lissandra",
+            "Nunu"
+        ],
+        [
+            "Lissandra"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Aurora",
+            "Ornn"
+        ],
+        [
+            "Aurora",
+            "Camille",
+            "Kayn",
+            "Mel",
+            "Viego",
+            "Xayah",
+            "Yuumi"
         ]
     ]
 }

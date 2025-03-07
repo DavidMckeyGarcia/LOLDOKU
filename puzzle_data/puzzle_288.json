@@ -1,54 +1,59 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "global ult",
-        "Season 2-6"
+        "Mid",
+        "ult execute",
+        "Season 7+"
     ],
     "cols": [
-        "Shadow Isles",
-        "silence",
-        "0 games"
+        "fear",
+        "Zaun",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
-        ],
-        [
-            "Fiddlesticks"
-        ],
-        [
-            "Briar",
-            "Master yi",
-            "Nunu"
-        ],
-        [
-            "Karthus",
-            "Maokai",
-            "Senna",
+            "Hwei",
             "Vex"
         ],
         [
-            "Soraka"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Jinx",
+            "Urgot"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Jinx"
         ],
         [
             "Briar",
-            "Mel",
+            "Hwei",
             "Vex"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
+            "Renata glasc",
+            "Zeri"
         ],
         [
-            "Lulu"
-        ],
-        [
-            "Illaoi"
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
         ]
     ]
 }

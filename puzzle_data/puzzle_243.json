@@ -2,46 +2,34 @@
     "difficulty": "diamond",
     "rows": [
         "Jungle",
-        "Season 2-6",
-        "invis"
+        "invis",
+        "Season 2-6"
     ],
     "cols": [
-        "knock-up",
-        "Demacia",
+        "root",
+        "Zaun",
         "0 games"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
             "Ivern",
-            "Jarvan IV",
-            "Kayn",
             "Lee sin",
+            "Maokai",
+            "Morgana",
             "Nautilus",
             "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
             "Zac",
             "Zyra"
         ],
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
             "Briar",
@@ -49,46 +37,40 @@
             "Nunu"
         ],
         [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Illaoi"
-        ],
-        [
+            "LeBlanc",
             "Neeko",
-            "Reksai",
-            "Wukong"
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
         ],
         [
-            "Vayne"
+            "Twitch"
         ],
         [
             "Akshan"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Illaoi"
         ]
     ]
 }

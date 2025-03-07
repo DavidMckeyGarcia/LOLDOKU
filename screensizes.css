@@ -233,6 +233,11 @@
     height: 50px;
     width: 100px;
     font-size: 14px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
   }
 
   /* ===== SOLUTIONS MODAL ADJUSTMENTS ===== */

@@ -256,7 +256,7 @@ function updateHeaders(puzzleData) {
                 break;
         case 'ult reset':
             tooltipTitle = 'ULTIMATE RESET';
-            tooltipContent = "A champion whose ultimate ability cooldown is " +"refunded".bold() +" or its " +"duration increased/extended".bold() +" when scoring a" +"champion takedown. ".bold()+ "Ultimate resets are one of the best ways to get pentakills!";
+            tooltipContent = "A champion whose ultimate ability cooldown is " +"refunded".bold() +" or its " +"duration increased/extended".bold() +" when scoring a" +" champion takedown. ".bold()+ "Ultimate resets are one of the best ways to get pentakills!";
             tooltipImage = 'images/tooltips/reset.png';
             break;
         case 'manaless':

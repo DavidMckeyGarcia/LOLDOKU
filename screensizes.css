@@ -70,14 +70,12 @@
 
   .FF-button-container {
     margin-top: 5px;
-    font-size: 2px;
     border: 5px solid blue;
-    font-size: 10px;
-
   }
   
   #forfeit, #refresh {
-    font-size: 15px;
+    font-size: 20px;
+    padding: none;
   }
 
   .FF-button-container button {

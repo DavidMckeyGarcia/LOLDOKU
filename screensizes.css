@@ -52,7 +52,6 @@
 
   .column-image,
   .row-image {
-    border: 1px dashed blue;
     max-width: 60%;
     max-height: 60%;
   }
@@ -62,18 +61,16 @@
     margin-top: 1px;
     width: 100%;
     font-weight: bold;
-    border: 1px dotted green;
   }
 
   .grid-header {
     padding: 0px;
-    border: 1px dashed red;
   }
 
 
   .FF-button-container {
     margin-top: 5px;
-    gap: 10px;
+    font-size: 2px;
   }
   
   .FF-button-container button {
@@ -81,6 +78,7 @@
     height: 40px;
     font-size: 10px;
   }
+
   
 
 
@@ -90,7 +88,7 @@
   .tooltip {
     max-width: 280px;
     min-width: 200px;
-    margin-top: -150px;
+    margin-top: -100px;
   }
 
   .tooltip-title {

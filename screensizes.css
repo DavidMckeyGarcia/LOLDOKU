@@ -72,10 +72,15 @@
     margin-top: 5px;
   }
   
-  #forfeit, #refresh {
+  #forfeit{
     font-size: 17px;
     padding: 0px;
   }
+
+  #refresh {
+    font-size: 25px;
+  }
+
 
   .FF-button-container button {
     width: 40px;

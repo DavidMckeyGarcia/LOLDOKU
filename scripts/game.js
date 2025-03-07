@@ -122,54 +122,59 @@ function initializeSearch() {
     }
   }
   
-  // Update renderResults to include a highlighted class
-  function renderResults(results) {
-    // If there are no results, hide the results dropdown
-    if (!results.length) {
+// Update the renderResults function to submit the answer on click
+function renderResults(results) {
+  // If there are no results, hide the results dropdown
+  if (!results.length) {
+    resultsWrapper.classList.remove('show');
+    return;
+  }
+
+  // Create a list of result items with images
+  const content = results
+    .map((item, index) => {
+      // Transform the champion name to match your image naming convention
+      const championName = item.toLowerCase().replace(/\s+/g, '');
+      const imagePath = `images/Champions/${championName}Square.webp`;
+      
+      return `<li>
+        <div style="display: flex; align-items: center;">
+          <img src="${imagePath}" alt="${item}" style="width: 30px; height: 30px; margin-right: 10px; border-radius: 3px;">
+          <span class="champion-name">${item}</span>
+        </div>
+      </li>`;
+    })
+    .join('');
+
+  // Show the results dropdown and populate it with the search results
+  resultsWrapper.classList.add('show');
+  resultsWrapper.innerHTML = `<ul>${content}</ul>`;
+
+  // Add click event to each result item
+  const resultItems = resultsWrapper.querySelectorAll('li');
+  resultItems.forEach((item) => {
+    item.addEventListener('click', function() {
+      // Get the text content from the span element inside this li
+      const championName = this.querySelector('span').textContent;
+      searchInput.value = championName;
       resultsWrapper.classList.remove('show');
-      return;
-    }
-  
-    // Create a list of result items with images
-    const content = results
-      .map((item, index) => {
-        // Transform the champion name to match your image naming convention
-        const championName = item.toLowerCase().replace(/\s+/g, '');
-        const imagePath = `images/Champions/${championName}Square.webp`;
-        
-        return `<li>
-          <div style="display: flex; align-items: center;">
-            <img src="${imagePath}" alt="${item}" style="width: 30px; height: 30px; margin-right: 10px; border-radius: 3px;">
-            <span class="champion-name">${item}</span>
-          </div>
-        </li>`;
-      })
-      .join('');
-  
-    // Show the results dropdown and populate it with the search results
-    resultsWrapper.classList.add('show');
-    resultsWrapper.innerHTML = `<ul>${content}</ul>`;
-  
-    // Add click event to each result item
-    const resultItems = resultsWrapper.querySelectorAll('li');
-    resultItems.forEach((item) => {
-      item.addEventListener('click', function() {
-        // Get the text content from the span element inside this li
-        const championName = this.querySelector('span').textContent;
-        searchInput.value = championName;
-        resultsWrapper.classList.remove('show');
-      });
-  
-      // Add mouseover event to highlight the item
-      item.addEventListener('mouseover', function() {
-        // Remove highlight from all items
-        resultItems.forEach(i => i.classList.remove('active'));
-        // Add highlight to this item
-        this.classList.add('active');
-      });
+      
+      // Add this line to submit the answer when an item is clicked
+      if (typeof submitAnswer === 'function') {
+        submitAnswer();
+      }
     });
-  }
-  }
+
+    // Add mouseover event to highlight the item
+    item.addEventListener('mouseover', function() {
+      // Remove highlight from all items
+      resultItems.forEach(i => i.classList.remove('active'));
+      // Add highlight to this item
+      this.classList.add('active');
+    });
+  });
+}
+}
   
 // Add this at the top with your other game state variables
 let currentActiveIndex = -1;

@@ -313,7 +313,7 @@ function updateHeaders(puzzleData) {
             break
         case 'pentakill':
             tooltipTitle = 'PENATKILL AT WORLDS/MSI';
-            tooltipContent = "Any champion that has recorded a  " +"Pentakill'".bold() + " at " +"Worlds'".bold() + " (Play-Ins or Main Event) or " + +"MSI'".bold() + " (Mid Season Invitational). Fun Facts; Only 1 player has secured a Pentakill at Worlds and MSI..." +" Rekkles!".bold() +" Also, only a single player has more than 1 pentakills at Worlds, it was Imp, both at 2014 Worlds!";  
+            tooltipContent = "Any champion that has recorded a  " +"Pentakill'".bold() + " at " +"Worlds".bold() + " (Play-Ins or Main Event) or " + "MSI".bold() + " (Mid Season Invitational). Fun Facts; Only 1 player has secured a Pentakill at Worlds and MSI..." +" Rekkles!".bold() +" Also, only a single player has more than 1 pentakills at Worlds, it was Imp, both at 2014 Worlds!";  
             tooltipImage = 'images/tooltips/pentakill.png'; 
             break
         default:

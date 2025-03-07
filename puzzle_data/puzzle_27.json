@@ -1,48 +1,57 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "coven",
+        "Jungle",
+        "blink",
         "Season 2-6"
     ],
     "cols": [
+        "Shadow Isles",
         "root",
-        "Bilgewater",
-        "30+ wins"
+        "arcane"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Corki"
+            "Ekko",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Viego"
         ],
         [
             "LeBlanc",
             "Lissandra",
-            "Morgana",
-            "Zyra"
+            "Ryze"
         ],
         [
-            "Nami",
-            "Nilah"
+            "Ambessa",
+            "Ekko",
+            "LeBlanc"
         ],
         [
-            "Ahri",
-            "LeBlanc",
-            "Lissandra"
+            "Hecarim",
+            "Kalista",
+            "Thresh"
         ],
         [
             "Ivern",
@@ -56,16 +65,10 @@
             "Zyra"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Lissandra",
-            "Taliyah",
+            "Ekko",
+            "Jayce",
+            "Jinx",
+            "Vi",
             "Viktor"
         ]
     ]

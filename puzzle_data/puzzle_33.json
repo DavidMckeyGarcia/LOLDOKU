@@ -1,97 +1,68 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Jungle",
+        "Adc",
         "Season 2-6",
-        "evolves"
+        "arcade"
     ],
     "cols": [
-        "knock-up",
-        "Demacia",
-        "arcane"
+        "The Void",
+        "root",
+        "tether"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Kalista"
+        ],
+        [
+            "Khazix",
             "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
+            "Velkoz"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
             "Zac",
             "Zyra"
-        ],
-        [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
         ],
         [
             "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
+            "Illaoi",
             "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Ekko",
-            "Jayce",
-            "Jinx",
-            "Vi",
-            "Viktor"
+            "Kled",
+            "Zac"
         ],
         [
             "Belveth",
-            "Kayn"
+            "Kaisa",
+            "Malzahar"
         ],
         [
-            "Kayle"
+            "Caitlyn",
+            "Qiyana"
         ],
         [
-            "Viktor"
+            "Malzahar"
         ]
     ]
 }

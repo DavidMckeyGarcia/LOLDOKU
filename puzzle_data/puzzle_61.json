@@ -1,63 +1,68 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "dark star",
-        "OG40"
+        "Mid",
+        "OG40",
+        "blink"
     ],
     "cols": [
-        "Freljord",
-        "fear",
-        "arcane"
+        "Bilgewater",
+        "silence",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Gnar",
+            "Fizz",
+            "Twisted fate"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Azir",
+            "Elise",
+            "Ezreal",
             "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Jayce",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Gangplank",
+            "Twisted fate"
         ],
         [
-            "Ambessa",
-            "Heimerdinger",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Orianna"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
+            "Blitzcrank",
+            "Chogath",
             "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Heimerdinger",
+            "Alistar",
+            "Ashe",
             "Janna",
-            "Singed",
-            "Warwick"
+            "Jax",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Kassadin"
+        ],
+        [
+            "Ezreal",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

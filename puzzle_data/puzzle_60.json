@@ -1,115 +1,137 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "true damage",
-        "Season 7+"
+        "cosmic",
+        "Season 2-6"
     ],
     "cols": [
-        "Shadow Isles",
-        "stun",
-        "ult reset"
+        "knock-up",
+        "Ixtal",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
-        ],
-        [
-            "Amumu",
-            "Brand",
+            "Belveth",
             "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
+            "Diana",
             "Gragas",
-            "Hecarim",
             "Ivern",
-            "Jax",
-            "Morgana",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
             "Nautilus",
             "Nunu",
-            "Pantheon",
             "Poppy",
-            "Qiyana",
-            "Rammus",
+            "Reksai",
             "Rell",
             "Sejuani",
-            "Sett",
-            "Skarner",
             "Sylas",
             "Taliyah",
-            "Udyr",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
             "Vi",
             "Viego",
             "Volibear",
             "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Wukong",
+            "Xin Zhao"
         ],
         [
+            "Anivia",
             "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Gwen"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
+            "Lulu",
+            "Nami",
+            "Nautilus",
             "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
+            "Rakan",
+            "Sion",
+            "Xin Zhao"
         ],
         [
-            "Ahri",
+            "Nidalee",
+            "Skarner"
+        ],
+        [
             "Belveth",
-            "Darius",
+            "Hecarim",
+            "Jhin",
+            "Lux",
             "Master yi",
-            "Olaf",
-            "Vayne"
+            "Nunu",
+            "Skarner",
+            "Varus",
+            "Vladimir",
+            "Xin Zhao"
         ],
         [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Rengar",
+            "Zyra"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

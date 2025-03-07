@@ -1,68 +1,41 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Adc",
-        "true damage",
-        "worlds skin"
+        "Support",
+        "worlds skin",
+        "Season 7+"
     ],
     "cols": [
-        "Ionia",
         "root",
-        "yordle"
+        "Shadow Isles",
+        "arcane"
     ],
     "solutions": [
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
             "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
             "Senna",
             "Seraphine",
-            "Varus",
-            "Xayah"
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Corki",
-            "Tristana",
-            "Ziggs"
+            "Maokai",
+            "Senna",
+            "Thresh"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ivern",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Syndra",
-            "Yone"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Amumu",
-            "Corki"
-        ],
-        [
-            "Akali",
-            "Irelia",
-            "Jhin",
-            "Kennen",
-            "Lee sin",
-            "Rakan",
-            "Shen",
-            "Syndra",
-            "Xayah",
-            "Zed"
+            "Heimerdinger",
+            "Janna",
+            "Mel"
         ],
         [
             "Aphelios",
@@ -82,9 +55,42 @@
             "Zyra"
         ],
         [
-            "Corki",
-            "Gnar",
-            "Kennen"
+            "Kalista",
+            "Karthus",
+            "Maokai",
+            "Thresh",
+            "Viego"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Janna",
+            "Jayce",
+            "Jinx",
+            "LeBlanc",
+            "Orianna",
+            "Singed"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Ambessa",
+            "Mel"
         ]
     ]
 }

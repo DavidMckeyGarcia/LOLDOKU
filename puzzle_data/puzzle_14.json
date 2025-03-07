@@ -1,71 +1,125 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "pool party",
-        "life steal"
+        "Jungle",
+        "Space Groove",
+        "shield"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "ult reset"
+        "Shurima",
+        "stun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Sivir",
-            "Vayne"
-        ],
-        [
-            "Draven"
-        ],
-        [
-            "Braum",
-            "Jarvan IV",
-            "Lee sin",
-            "Lulu",
-            "Reksai",
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
             "Taliyah",
-            "Zac",
-            "Ziggs"
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Singed"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Nasus"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lissandra",
+            "Nami",
+            "Nunu",
+            "Taric",
+            "Twisted fate"
+        ],
+        [
+            "Lulu",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Ksante",
+            "Naafiri",
+            "Sivir"
         ],
         [
             "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Briar",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
             "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Samira",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
             "Sion",
-            "Trundle"
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Aatrox",
-            "Belveth",
-            "Olaf",
-            "Viego"
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ]
     ]
 }

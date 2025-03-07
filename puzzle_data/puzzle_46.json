@@ -1,63 +1,101 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
         "Adc",
-        "empyrean",
-        "invis"
+        "elderwood",
+        "true damage"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "yordle"
+        "slow",
+        "The Void",
+        "tether"
     ],
     "solutions": [
         [
             "Aphelios",
+            "Ashe",
             "Caitlyn",
+            "Corki",
+            "Draven",
             "Jhin",
             "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
             "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
             "Senna",
             "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Lucian",
-            "Vayne"
-        ],
-        [
-            "Corki",
+            "Sivir",
+            "Smolder",
             "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
             "Ziggs"
         ],
         [
-            "Jhin",
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Kalista"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Karthus",
+            "Rakan",
+            "Reksai"
+        ],
+        [
+            "Reksai"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Belveth",
+            "Camille",
+            "Chogath",
+            "Corki",
+            "Darius",
+            "Draven",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gwen",
+            "Ivern",
             "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
+            "Kogmaw",
+            "Lillia",
+            "Nunu",
+            "Olaf",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Sett",
+            "Syndra",
+            "Twitch",
+            "Urgot",
+            "Velkoz",
+            "Zoe"
         ],
         [
-            "Kayle",
-            "Lux"
+            "Belveth",
+            "Chogath",
+            "Kogmaw",
+            "Velkoz"
         ],
         [
-            "Vex"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Vayne"
-        ],
-        [
-            "Teemo"
+            "Renata glasc"
         ]
     ]
 }

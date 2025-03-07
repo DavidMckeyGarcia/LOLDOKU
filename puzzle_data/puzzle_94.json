@@ -1,52 +1,44 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
+        "Support",
         "Season 2-6",
-        "dash"
+        "evolves"
     ],
     "cols": [
         "knock-up",
-        "Zaun",
-        "Immunity"
+        "Noxus",
+        "arcane"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
             "Galio",
-            "Gragas",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Sylas",
-            "Taliyah",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
             "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Zyra"
         ],
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Aurora",
-            "Ekko",
-            "Fizz",
-            "Galio",
-            "Karthus",
-            "Kayle",
-            "Lissandra",
+            "Alistar",
+            "Annie",
             "Mel",
-            "Ryze",
-            "Vladimir",
-            "Zed",
-            "Zilean"
+            "Rell",
+            "Swain"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Mel"
         ],
         [
             "Aatrox",
@@ -72,81 +64,29 @@
             "Zyra"
         ],
         [
+            "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
+        ],
+        [
             "Ekko",
+            "Jayce",
             "Jinx",
             "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
+            "Viktor"
         ],
         [
-            "Bard",
-            "Ekko",
-            "Fiora",
-            "Kled",
-            "Lissandra",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
             "Belveth",
-            "Braum",
-            "Briar",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Malphite",
-            "Nautilus",
-            "Ornn",
-            "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Yone",
-            "Zac",
-            "Ziggs"
+            "Kayn"
         ],
         [
-            "Ekko",
-            "Urgot",
-            "Vi",
-            "Warwick",
-            "Zac",
-            "Zeri",
-            "Ziggs"
+            "Kayn",
+            "Smolder"
         ],
         [
-            "Aurora",
-            "Bard",
-            "Camille",
-            "Ekko",
-            "Fiora",
-            "Fizz",
-            "Galio",
-            "Kayn",
-            "Kled",
-            "Viego",
-            "Yuumi",
-            "Zac"
+            "Viktor"
         ]
     ]
 }

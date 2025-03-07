@@ -1,62 +1,64 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "prestige",
-        "Season 2-6"
+        "Jungle",
+        "Season 2-6",
+        "blink"
     ],
     "cols": [
-        "Targon",
-        "silence",
+        "Zaun",
+        "root",
         "Immunity"
     ],
     "solutions": [
         [
-            "Pantheon"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Camille",
-            "Fiora",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Sion",
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
             "Zac"
         ],
         [
-            "Diana",
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Zoe"
-        ],
-        [
-            "Garen",
-            "Lulu",
-            "Soraka"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
             "Camille",
+            "Ekko",
             "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Kayle",
+            "Karthus",
             "Kayn",
+            "Viego",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
             "Lissandra",
-            "Xayah",
-            "Yuumi",
-            "Zed"
-        ],
-        [
-            "Aurelion Sol",
-            "Diana"
-        ],
-        [
-            "Lulu"
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
             "Bard",
@@ -65,6 +67,21 @@
             "Kled",
             "Lissandra",
             "Zac",
+            "Zed"
+        ],
+        [
+            "Ekko"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Ekko",
+            "Lissandra",
+            "Ryze",
+            "Viego",
             "Zed"
         ]
     ]

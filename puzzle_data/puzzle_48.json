@@ -1,14 +1,14 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
         "Top",
-        "pool party",
-        "OG40"
+        "worlds skin",
+        "blink"
     ],
     "cols": [
         "slow",
-        "Piltover",
-        "ult reset"
+        "Freljord",
+        "pentakill"
     ],
     "solutions": [
         [
@@ -28,6 +28,7 @@
             "Illaoi",
             "Irelia",
             "Jarvan IV",
+            "Jayce",
             "Ksante",
             "Kayle",
             "Kayn",
@@ -61,89 +62,114 @@
             "Zac"
         ],
         [
-            "Camille",
-            "Heimerdinger"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Aatrox",
+            "Akali",
             "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
+            "Fiora",
             "Vayne"
         ],
         [
-            "Braum",
+            "Aatrox",
+            "Akali",
+            "Aphelios",
+            "Ashe",
+            "Azir",
+            "Bard",
             "Caitlyn",
+            "Camille",
+            "Corki",
             "Dr. Mundo",
-            "Draven",
+            "Ekko",
+            "Elise",
             "Fiora",
             "Gangplank",
+            "Gnar",
+            "Gragas",
             "Graves",
-            "Heimerdinger",
+            "Irelia",
+            "Janna",
             "Jarvan IV",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Karthus",
+            "Kindred",
             "Lee sin",
             "Leona",
-            "Lulu",
-            "Miss Fortune",
+            "Malphite",
+            "Maokai",
+            "Nami",
+            "Nunu",
             "Orianna",
-            "Reksai",
-            "Sett",
+            "Rakan",
+            "Rengar",
+            "Ryze",
+            "Shen",
             "Singed",
             "Syndra",
             "Taliyah",
-            "Zac",
-            "Ziggs",
-            "Zoe"
-        ],
-        [
-            "Caitlyn",
-            "Heimerdinger",
-            "Orianna"
-        ],
-        [
-            "Singed"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
+            "Talon",
+            "Thresh",
             "Twisted fate",
             "Twitch",
-            "Warwick",
-            "Zilean"
+            "Viego",
+            "Yuumi",
+            "Zac",
+            "Zed",
+            "Zoe",
+            "Zyra"
         ],
         [
-            "Heimerdinger"
+            "Ashe",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Nunu"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Akali",
+            "Aphelios",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Ryze",
+            "Twitch",
+            "Vayne",
+            "Xayah"
+        ],
+        [
+            "Ekko",
+            "Kassadin",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Reksai",
+            "Ryze",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Zed"
+        ],
+        [
+            "Lissandra"
+        ],
+        [
+            "Ezreal",
+            "Ryze"
         ]
     ]
 }

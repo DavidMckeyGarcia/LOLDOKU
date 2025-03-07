@@ -1,85 +1,132 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "blink",
-        "PROJECT"
+        "Support",
+        "prestige",
+        "Season 2-6"
     ],
     "cols": [
-        "root",
+        "knock-up",
         "Targon",
-        "never played"
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Aphelios"
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
         ],
         [
-            "Aphelios",
+            "Alistar",
             "Ashe",
-            "Draven",
-            "Jhin",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Zoe"
+        ],
+        [
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Jax",
             "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
+            "Kaisa",
+            "Lux",
+            "Neeko",
+            "Pantheon",
             "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
+            "Thresh",
+            "Volibear",
             "Zeri"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Pantheon"
-        ],
-        [
-            "Pyke",
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
             "Reksai",
-            "Shen",
-            "Tahm kench",
-            "Viego"
-        ],
-        [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
-        ],
-        [
-            "Leona"
-        ],
-        [
-            "Ashe",
-            "Fiora",
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Mordekaiser",
-            "Pyke",
+            "Riven",
             "Sejuani",
-            "Senna",
-            "Vayne",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
             "Vi",
-            "Warwick"
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Aurelion Sol",
+            "Diana"
+        ],
+        [
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

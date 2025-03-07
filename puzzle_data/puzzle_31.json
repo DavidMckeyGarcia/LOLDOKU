@@ -1,92 +1,70 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "dash",
-        "Season 7+"
+        "Adc",
+        "Season 2-6",
+        "life steal"
     ],
     "cols": [
-        "Shadow Isles",
+        "Demacia",
         "root",
-        "yordle"
+        "ascended"
     ],
     "solutions": [
         [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
         ],
         [
             "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
             "Nautilus",
-            "Nunu",
-            "Qiyana",
             "Rengar",
-            "Shaco",
+            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Varus"
         ],
         [
-            "Gwen",
-            "Hecarim",
-            "Maokai",
-            "Thresh",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Kled",
-            "Poppy",
-            "Tristana",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
+            "Morgana"
         ],
         [
             "Aphelios",
-            "Hwei",
             "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Lee sin",
+            "Morgana",
+            "Senna"
         ],
         [
-            "Vex"
+            "Aatrox",
+            "Kayn",
+            "Nasus"
         ]
     ]
 }

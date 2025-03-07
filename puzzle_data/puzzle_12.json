@@ -1,74 +1,64 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
+        "Mid",
         "Season 2-6",
-        "true damage"
+        "arcade"
     ],
     "cols": [
-        "Piltover",
-        "root",
-        "riot records"
+        "silence",
+        "Bilgewater",
+        "manaless"
     ],
     "solutions": [
         [
-            "Camille",
-            "Heimerdinger"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Fizz",
+            "Twisted fate"
         ],
         [
             "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
+            "Ambessa",
+            "Katarina",
+            "Kennen",
+            "Vladimir",
             "Yasuo",
             "Yone",
-            "Yorick"
+            "Zed"
         ],
         [
-            "Jayce"
+            "Lulu"
         ],
         [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
+            "Illaoi",
+            "Nami",
             "Nautilus",
+            "Tahm kench"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
+            "Kled",
+            "Reksai",
             "Rengar",
-            "Varus",
+            "Yasuo",
             "Zac",
-            "Zyra"
+            "Zed"
         ],
         [
-            "Ahri",
-            "Ekko",
+            "Blitzcrank",
+            "Malzahar"
+        ],
+        [
+            "Miss Fortune"
+        ],
+        [
+            "Belveth",
             "Yasuo"
-        ],
-        [
-            "Camille"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ksante",
-            "Olaf",
-            "Sett",
-            "Yone"
         ]
     ]
 }

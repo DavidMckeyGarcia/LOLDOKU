@@ -1,68 +1,122 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "Season 7+",
-        "life steal"
+        "Mid",
+        "prestige",
+        "global ult"
     ],
     "cols": [
-        "root",
         "Zaun",
-        "pentakill"
+        "root",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Aphelios",
             "Hwei",
-            "Ksante",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
             "Mel",
             "Neeko",
-            "Renata glasc",
-            "Senna",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Xayah"
+            "Swain"
         ],
         [
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Jinx",
             "Renata glasc",
             "Zeri"
         ],
         [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
+            "Caitlyn",
+            "Jinx",
             "Ksante",
+            "LeBlanc",
             "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
             "Morgana",
-            "Senna"
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
         ],
         [
-            "Warwick"
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Jax",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Sivir",
+            "Thresh",
+            "Volibear",
+            "Zeri"
         ],
         [
-            "Aphelios"
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Briar",
+            "Ekko",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
+            "Shen",
+            "Twisted fate",
+            "Xerath"
         ]
     ]
 }

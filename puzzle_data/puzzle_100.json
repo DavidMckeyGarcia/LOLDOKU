@@ -1,76 +1,123 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
+        "Jungle",
         "OG40",
-        "empyrean"
+        "global ult"
     ],
     "cols": [
+        "fear",
         "Shadow Isles",
-        "root",
-        "100+ games"
+        "never played"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Senna"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
         ],
         [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jayce",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
+            "Amumu",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Dr. Mundo",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Kindred",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Reksai",
+            "Rell",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zyra"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
             "Karthus"
         ],
         [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
             "Morgana",
             "Nunu",
-            "Ryze",
+            "Rammus",
             "Shaco",
-            "Singed",
-            "Soraka"
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
+            "Briar",
+            "Nocturne",
             "Vex"
         ],
         [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
         ],
         [
-            "Jax",
-            "Jhin",
-            "Varus"
+            "Ashe",
+            "Bard",
+            "Briar",
+            "Draven",
+            "Jinx",
+            "Kled",
+            "Lillia",
+            "Maokai",
+            "Senna",
+            "Shen",
+            "Soraka"
         ]
     ]
 }

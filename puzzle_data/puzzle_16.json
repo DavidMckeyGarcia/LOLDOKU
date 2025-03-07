@@ -1,63 +1,91 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "prestige",
-        "global ult"
+        "Jungle",
+        "Space Groove",
+        "blink"
     ],
     "cols": [
-        "silence",
-        "Freljord",
-        "tether"
+        "Zaun",
+        "stun",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Anivia",
-            "Aurora",
+            "Amumu",
             "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
             "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Taliyah"
+        ],
+        [
+            "Blitzcrank"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lissandra",
+            "Nami",
+            "Nunu",
+            "Taric",
+            "Twisted fate"
+        ],
+        [
             "Lissandra"
         ],
         [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
+            "Ekko"
         ],
         [
-            "Garen",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Brand",
-            "Kindred",
+            "Ambessa",
+            "Ekko",
             "Lissandra",
-            "Volibear"
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
         ],
         [
-            "Aatrox",
             "LeBlanc",
-            "Morgana",
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Ashe",
-            "Ornn"
-        ],
-        [
-            "Kled",
-            "Nocturne"
+            "Lissandra",
+            "Ryze"
         ]
     ]
 }

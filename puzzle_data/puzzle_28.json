@@ -1,70 +1,67 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "hextech",
-        "global ult"
+        "Top",
+        "pool party",
+        "Season 2-6"
     ],
     "cols": [
-        "Zaun",
         "root",
-        "30+ wins"
+        "The Void",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
             "Zac"
         ],
         [
-            "Ivern",
+            "Chogath"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Caitlyn",
             "Lee sin",
-            "Maokai",
-            "Morgana",
+            "Leona",
+            "Singed",
+            "Zac"
+        ],
+        [
+            "Reksai"
+        ],
+        [
+            "Fiora"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
             "Nautilus",
-            "Nunu",
-            "Qiyana",
             "Rengar",
-            "Shaco",
+            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Taliyah"
+            "Khazix",
+            "Reksai",
+            "Velkoz"
         ],
         [
-            "Janna",
-            "Singed",
-            "Ziggs"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Galio"
-        ],
-        [
-            "Ekko",
+            "Darius",
+            "Fiora",
             "Jinx",
-            "Ziggs"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Galio",
-            "Ryze",
-            "Taliyah"
+            "Kalista",
+            "Lucian"
         ]
     ]
 }

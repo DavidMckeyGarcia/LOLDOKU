@@ -180,6 +180,13 @@ def create_puzzle():
         sols = puzzle_solutions(puzzle)
     return puzzle
 
+def create_chal():
+    puzzle = create_puzzle()
+    puzzle_dif = puzzle_difficulty(puzzle)
+    print(puzzle_dif)
+    if puzzle_dif != 'challenger':
+        create_chal()
+    return puzzle
 
 
 def create_multiple_puzzle_json_files(num_puzzles=5, output_folder="puzzle_data"):
@@ -202,9 +209,10 @@ def create_multiple_puzzle_json_files(num_puzzles=5, output_folder="puzzle_data"
     # Generate and save multiple puzzles
     for i in range(num_puzzles):
         # Generate a new random solvable puzzle
-        puzzle = create_puzzle()
+        #puzzle = create_puzzle()
+        puzzle = create_chal()
+        
         grid_solutions = puzzle_solutions(puzzle)
-        grid_categories = [sum(dic.values(), []) for dic in puzzle]
         
         # Extract row and column headers
         r1,c1 = puzzle[0].values()
@@ -238,8 +246,7 @@ def create_multiple_puzzle_json_files(num_puzzles=5, output_folder="puzzle_data"
     print(f"Successfully created {num_puzzles} puzzle JSON files in '{output_folder}' folder!")
 
 # Optional: You can call the function with custom number of puzzles
-create_multiple_puzzle_json_files(num_puzzles=300)
-
+create_multiple_puzzle_json_files(num_puzzles=100)
 
 
 

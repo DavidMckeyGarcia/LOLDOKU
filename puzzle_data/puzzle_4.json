@@ -1,67 +1,93 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "OG40",
-        "true damage"
+        "Mid",
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "Shurima",
-        "fear",
-        "0 games"
+        "Shadow Isles",
+        "knock-up",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
+            "Karthus",
+            "Vex"
         ],
         [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Azir",
+            "Elise",
+            "Ezreal",
+            "Gragas",
+            "Jayce",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
+        ],
+        [
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Aurelion Sol",
             "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
         ],
         [
-            "Briar",
-            "Master yi",
-            "Nunu"
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
+            "Karthus"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Master yi",
-            "Nunu"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Ksante"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Akshan",
-            "Master yi",
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
             "Nunu",
-            "Samira"
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

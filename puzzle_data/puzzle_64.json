@@ -1,75 +1,126 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
         "Support",
-        "Season 7+",
-        "life steal"
+        "arcade",
+        "shield"
     ],
     "cols": [
-        "root",
-        "Targon",
-        "arcane"
+        "Zaun",
+        "knock-up",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
+        ],
+        [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
             "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
             "Zyra"
         ],
         [
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
+            "Milio",
             "Neeko",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Blitzcrank",
+            "Ziggs"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Corki",
+            "Hecarim",
+            "Kaisa",
+            "Veigar"
+        ],
+        [
+            "Blitzcrank",
+            "Ekko",
+            "Janna",
+            "Orianna",
             "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Urgot",
+            "Vi",
+            "Viktor"
         ],
         [
-            "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Ambessa",
-            "Mel"
-        ],
-        [
-            "Aphelios",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Ksante",
             "Lee sin",
-            "Morgana",
-            "Senna"
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Aphelios"
-        ],
-        [
-            "Ambessa",
-            "Warwick"
+            "Aphelios",
+            "Blitzcrank",
+            "Ekko",
+            "Kaisa",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Nocturne",
+            "Nunu",
+            "Shen",
+            "Sivir",
+            "Skarner",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

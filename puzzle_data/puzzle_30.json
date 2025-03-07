@@ -1,100 +1,84 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "true damage",
-        "Season 2-6"
+        "Adc",
+        "Season 2-6",
+        "arcade"
     ],
     "cols": [
-        "Zaun",
-        "knock-up",
-        "0 games"
+        "Freljord",
+        "stun",
+        "arcane"
     ],
     "solutions": [
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
+            "Ashe"
         ],
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
-        ],
-        [
-            "Renata glasc",
-            "Twitch",
-            "Urgot"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Akshan",
-            "Master yi",
-            "Nunu",
-            "Samira"
-        ],
-        [
-            "Ekko",
+            "Caitlyn",
             "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
+            "Mel"
         ],
         [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
             "Braum",
-            "Diana",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
             "Ivern",
-            "Kalista",
-            "Lulu",
+            "Lissandra",
             "Nami",
             "Nautilus",
-            "Reksai",
             "Riven",
             "Sejuani",
+            "Syndra",
             "Tahm kench",
             "Taliyah",
+            "Thresh",
             "Velkoz",
             "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Illaoi"
+            "Ekko",
+            "Jayce",
+            "Jinx",
+            "Vi",
+            "Viktor"
+        ],
+        [
+            "Brand"
+        ],
+        [
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Caitlyn"
         ]
     ]
 }

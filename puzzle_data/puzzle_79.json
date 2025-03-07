@@ -1,16 +1,20 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
-        "Season 7+",
-        "shield"
+        "ult execute",
+        "prestige"
     ],
     "cols": [
-        "stun",
         "Bilgewater",
+        "stun",
         "100+ games"
     ],
     "solutions": [
+        [
+            "Graves",
+            "Nautilus"
+        ],
         [
             "Amumu",
             "Brand",
@@ -44,10 +48,6 @@
             "Zac"
         ],
         [
-            "Graves",
-            "Nautilus"
-        ],
-        [
             "Elise",
             "Gragas",
             "Graves",
@@ -60,83 +60,61 @@
             "Shen"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Nilah",
             "Pyke"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
+            "Jhin",
+            "Syndra"
+        ],
+        [
+            "Fizz",
+            "Miss Fortune",
+            "Pyke"
+        ],
+        [
+            "Brand",
             "Camille",
-            "Ekko",
-            "Ivern",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
             "Ksante",
-            "Milio",
+            "Leona",
+            "Lissandra",
             "Morgana",
-            "Nautilus",
             "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
             "Renata glasc",
             "Riven",
-            "Seraphine",
             "Sett",
-            "Sion",
-            "Skarner",
             "Sona",
-            "Tahm kench",
-            "Taric",
+            "Sylas",
             "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
+            "Vayne",
+            "Volibear"
         ],
         [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
-        ],
-        [
-            "Azir",
-            "Braum",
-            "Janna",
-            "Jarvan IV",
+            "Aatrox",
+            "Caitlyn",
+            "Ezreal",
+            "Jax",
             "Kaisa",
             "Lee sin",
+            "Leona",
+            "Lucian",
             "Lulu",
-            "Orianna",
             "Rakan",
-            "Rumble",
-            "Shen",
-            "Thresh"
+            "Thresh",
+            "Xayah"
         ]
     ]
 }

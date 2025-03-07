@@ -350,7 +350,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // NEW loadData function to load a random puzzle file
 
-function loadData(numPuzzles = 300) {
+function loadData(numPuzzles = 100) {
   resetGame(); // DELETE FOR LOCAL STORAGE MEMORY
   clearSavedGame(); //DELETE FOR LOCAL STORAGE MEMORY
 

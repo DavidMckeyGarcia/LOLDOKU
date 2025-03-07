@@ -1,112 +1,87 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "Space Groove",
-        "Season 2-6"
+        "Top",
+        "PROJECT",
+        "ult execute"
     ],
     "cols": [
+        "Noxus",
         "knock-up",
-        "Bilgewater",
-        "manaless"
+        "shred"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
+            "Ambessa",
+            "Darius",
             "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
+            "Kled",
             "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
+            "Riven",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
             "Zac"
         ],
         [
-            "Blitzcrank",
-            "Gragas",
-            "Lulu",
-            "Nami",
-            "Nunu",
-            "Samira"
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Wukong"
         ],
         [
-            "Nami",
-            "Twisted fate"
+            "Katarina",
+            "Mordekaiser"
         ],
         [
-            "Rumble"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
             "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
+            "Sylas",
             "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Yasuo"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
+            "Mordekaiser",
+            "Renekton",
+            "Vi"
         ],
         [
-            "Aatrox",
-            "Gnar",
-            "Kled",
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Chogath",
             "Reksai",
-            "Rengar",
-            "Yasuo",
-            "Zac",
-            "Zed"
+            "Riven"
+        ],
+        [
+            "Evelynn",
+            "Garen"
         ]
     ]
 }

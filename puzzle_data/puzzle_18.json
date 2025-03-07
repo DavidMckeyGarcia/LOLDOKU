@@ -1,74 +1,66 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
+        "Support",
         "Season 7+",
-        "Space Groove"
+        "elderwood"
     ],
     "cols": [
+        "Freljord",
         "slow",
-        "Bilgewater",
-        "vastayan"
+        "ascended"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Anivia",
-            "Aurelion Sol",
-            "Aurora",
-            "Azir",
+            "Ashe",
             "Brand",
-            "Cassiopeia",
-            "Chogath",
-            "Corki",
-            "Diana",
-            "Ekko",
-            "Elise",
-            "Fizz",
+            "Braum"
+        ],
+        [
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
             "Galio",
-            "Gragas",
             "Heimerdinger",
-            "Hwei",
-            "Irelia",
+            "Janna",
             "Karma",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Lissandra",
+            "Leona",
+            "Lulu",
             "Lux",
+            "Maokai",
             "Mel",
-            "Naafiri",
-            "Orianna",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Pantheon",
-            "Qiyana",
-            "Ryze",
+            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
             "Seraphine",
+            "Sona",
+            "Soraka",
             "Swain",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Talon",
-            "Tristana",
-            "Twisted fate",
+            "Tahm kench",
+            "Thresh",
             "Velkoz",
-            "Vex",
-            "Viktor",
-            "Vladimir",
             "Xerath",
-            "Zed",
-            "Ziggs",
+            "Yuumi",
             "Zilean",
-            "Zoe"
+            "Zyra"
         ],
         [
-            "Fizz",
-            "Twisted fate"
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
-            "Ahri",
             "Aurora",
-            "Neeko"
+            "Ornn"
         ],
         [
             "Aphelios",
@@ -103,34 +95,24 @@
             "Zoe"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Kayn",
+            "Naafiri"
         ],
         [
-            "Aurora",
-            "Neeko",
+            "Gnar"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Karthus",
             "Rakan",
-            "Xayah"
+            "Reksai"
         ],
         [
-            "Gragas",
-            "Lissandra",
-            "Lulu",
-            "Lux",
-            "Nami",
-            "Nasus",
-            "Nunu",
-            "Rumble",
-            "Samira",
-            "Teemo",
-            "Twisted fate"
-        ],
-        [
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Nami"
+            "Azir"
         ]
     ]
 }

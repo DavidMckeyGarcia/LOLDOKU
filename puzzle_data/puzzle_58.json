@@ -1,46 +1,88 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Top",
+        "Jungle",
         "Season 7+",
-        "invis"
+        "hextech"
     ],
     "cols": [
-        "fear",
         "The Void",
+        "stun",
         "Immunity"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Belveth",
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Chogath"
-        ],
-        [
+            "Amumu",
+            "Brand",
+            "Briar",
             "Camille",
-            "Fiora",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Sion",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
             "Zac"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Camille",
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Viego",
+            "Xin Zhao",
+            "Zac"
         ],
         [
             "Belveth",
             "Kaisa"
         ],
         [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
             "Aurora",
             "Camille",
+            "Gwen",
             "Kayn",
             "Mel",
             "Viego",
@@ -48,15 +90,26 @@
             "Yuumi"
         ],
         [
-            "Shaco"
+            "Kassadin",
+            "Kogmaw",
+            "Malzahar"
         ],
         [
-            "Kaisa",
-            "Reksai"
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
         ],
         [
-            "Aurora",
-            "Viego"
+            "Galio",
+            "Kogmaw",
+            "Sion"
         ]
     ]
 }

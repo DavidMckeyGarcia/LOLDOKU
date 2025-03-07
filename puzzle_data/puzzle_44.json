@@ -1,16 +1,21 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "Season 2-6",
-        "empyrean"
+        "PROJECT",
+        "Season 2-6"
     ],
     "cols": [
+        "Shadow Isles",
         "slow",
-        "Freljord",
-        "never played"
+        "riot records"
     ],
     "solutions": [
+        [
+            "Maokai",
+            "Senna",
+            "Thresh"
+        ],
         [
             "Ashe",
             "Bard",
@@ -48,35 +53,42 @@
             "Zyra"
         ],
         [
-            "Ashe",
-            "Brand",
-            "Braum"
+            "Senna",
+            "Sona"
         ],
         [
-            "Alistar",
+            "Senna"
+        ],
+        [
+            "Akali",
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Janna",
+            "Ekko",
+            "Fiora",
+            "Gangplank",
+            "Irelia",
+            "Jhin",
+            "Jinx",
             "Leona",
-            "Maokai",
-            "Milio",
-            "Morgana",
-            "Nami",
+            "Mordekaiser",
             "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
+            "Sejuani",
             "Senna",
-            "Sona",
-            "Soraka",
-            "Tahm kench",
-            "Thresh",
-            "Yuumi",
-            "Zyra"
+            "Sylas",
+            "Varus",
+            "Warwick",
+            "Zed"
+        ],
+        [
+            "Akali",
+            "Ekko",
+            "Mordekaiser",
+            "Senna",
+            "Yasuo"
+        ],
+        [
+            "Hecarim",
+            "Kalista",
+            "Thresh"
         ],
         [
             "Aatrox",
@@ -124,59 +136,9 @@
             "Zyra"
         ],
         [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
-        ],
-        [
-            "Bard",
-            "Braum",
-            "Draven",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Kindred",
-            "Kled",
-            "Nami",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Volibear",
-            "Zyra"
-        ],
-        [
-            "Akali",
-            "Brand",
-            "Jhin",
-            "Ksante",
-            "Kayle",
-            "Lux",
-            "Nocturne",
-            "Pyke",
-            "Varus",
-            "Vex",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Brand",
-            "Jhin",
-            "Pyke"
+            "Ahri",
+            "Ekko",
+            "Yasuo"
         ]
     ]
 }

@@ -1,122 +1,84 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "ult execute",
-        "OG40"
+        "Jungle",
+        "invis",
+        "Season 2-6"
     ],
     "cols": [
-        "The Void",
-        "slow",
-        "ult reset"
+        "Bandle City",
+        "fear",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Velkoz"
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
-            "Karma",
-            "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Swain"
-        ],
-        [
-            "Chogath",
-            "Reksai"
-        ],
-        [
-            "Akali",
-            "Chogath",
-            "Darius",
-            "Draven",
+            "Belveth",
+            "Briar",
+            "Ekko",
             "Evelynn",
-            "Garen",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
+        ],
+        [
+            "Teemo"
+        ],
+        [
+            "Shaco"
+        ],
+        [
+            "Kaisa",
+            "Neeko",
+            "Viego",
+            "Wukong"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Hecarim"
+        ],
+        [
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
             "Jhin",
             "Jinx",
-            "Pyke",
-            "Reksai",
-            "Syndra",
-            "Urgot",
-            "Viego"
-        ],
-        [
-            "Darius",
-            "Viego"
-        ],
-        [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Tahm kench",
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

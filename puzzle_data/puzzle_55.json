@@ -1,88 +1,94 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "invis",
+        "Support",
+        "prestige",
         "OG40"
     ],
     "cols": [
-        "fear",
-        "Zaun",
-        "never played"
+        "knock-up",
+        "Bandle City",
+        "yordle"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Elise",
-            "Heimerdinger",
-            "Kennen",
-            "Naafiri"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Twitch"
-        ],
-        [
-            "Akshan",
-            "Pyke",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Teemo",
-            "Twitch",
-            "Vayne",
-            "Viego",
-            "Wukong"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
+            "Alistar",
             "Blitzcrank",
-            "Dr. Mundo",
+            "Braum",
+            "Galio",
             "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Yuumi"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Fizz",
+            "Lulu",
+            "Teemo",
+            "Yuumi"
+        ],
+        [
+            "Fizz",
+            "Lulu",
+            "Teemo"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Ashe",
+            "Anivia",
             "Blitzcrank",
             "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
             "Janna",
             "Malphite",
-            "Morgana",
             "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
+            "Sion"
+        ],
+        [
+            "Corki",
+            "Heimerdinger",
             "Teemo",
-            "Twitch",
-            "Warwick"
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

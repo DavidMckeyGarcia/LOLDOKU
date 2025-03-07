@@ -1,82 +1,161 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
+        "Support",
         "OG40",
-        "elderwood"
+        "global ult"
     ],
     "cols": [
-        "stun",
-        "The Void",
-        "100+ games"
+        "Noxus",
+        "slow",
+        "Immunity"
     ],
     "solutions": [
         [
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
             "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
             "Seraphine",
-            "Vayne"
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
+            "Zyra"
         ],
         [
-            "Kaisa",
-            "Kogmaw"
-        ],
-        [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jayce",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
+            "Bard",
+            "Galio",
+            "Mel",
+            "Yuumi",
+            "Zilean"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Anivia",
             "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Anivia",
             "Ashe",
-            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
             "Heimerdinger",
-            "Jax",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
             "Morgana",
+            "Nasus",
             "Nunu",
             "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
             "Sion",
-            "Taric",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
             "Twisted fate",
-            "Veigar",
+            "Twitch",
             "Warwick",
             "Zilean"
         ],
         [
-            "Chogath",
-            "Kassadin"
+            "Evelynn",
+            "Karthus",
+            "Kayle",
+            "Ryze",
+            "Sion",
+            "Zilean"
         ],
         [
-            "Alistar",
+            "Briar",
+            "Draven",
+            "Kled",
+            "Mel",
+            "Sion"
+        ],
+        [
             "Ashe",
-            "Janna",
-            "Jax",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Nocturne",
+            "Ornn",
+            "Pantheon",
             "Ryze",
-            "Tristana"
+            "Senna",
+            "Shen",
+            "Sion",
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
         ],
         [
             "Bard",
-            "Gnar",
-            "Hecarim",
-            "Veigar"
-        ],
-        [
-            "Reksai"
-        ],
-        [
-            "Azir",
-            "Gnar",
-            "Rakan",
-            "Xayah"
+            "Ekko",
+            "Galio",
+            "Karthus",
+            "Kled",
+            "Mel",
+            "Ryze",
+            "Sion"
         ]
     ]
 }

@@ -2,77 +2,77 @@
     "difficulty": "platinum",
     "rows": [
         "Mid",
-        "true damage",
+        "shield",
         "OG40"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "pentakill"
+        "fear",
+        "Noxus",
+        "tether"
     ],
     "solutions": [
         [
             "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Vex"
         ],
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
             "Sylas"
         ],
         [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
         ],
         [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
+            "Ambessa",
+            "Annie",
+            "Kled",
+            "Mel",
+            "Mordekaiser",
+            "Rell",
+            "Riven",
+            "Sion"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Vayne"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Kogmaw",
-            "Twitch",
-            "Vayne"
-        ],
-        [
+            "Karma",
+            "Kled",
             "Morgana",
-            "Nunu",
-            "Ryze",
+            "Nocturne",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Fiddlesticks",
             "Shaco",
-            "Singed",
-            "Soraka"
+            "Warwick"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
         ],
         [
-            "Ryze",
-            "Tristana",
-            "Twitch"
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

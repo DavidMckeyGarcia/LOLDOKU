@@ -1,58 +1,97 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "PROJECT",
-        "life steal"
+        "Top",
+        "hextech",
+        "true damage"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "arcane"
+        "Demacia",
+        "knock-up",
+        "Immunity"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Warwick"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Illaoi",
-            "Nilah"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
             "Aatrox",
-            "Briar",
-            "Warwick"
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Ambessa",
-            "Warwick"
+            "Camille",
+            "Fiora",
+            "Gwen",
+            "Kayle",
+            "Kayn",
+            "Kled",
+            "Sion",
+            "Zac"
+        ],
+        [
+            "Galio",
+            "Jarvan IV",
+            "Poppy"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
+            "Ziggs"
+        ],
+        [
+            "Galio",
+            "Kogmaw",
+            "Sion"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Camille",
+            "Fiora",
+            "Gwen",
+            "Kogmaw"
         ]
     ]
 }

@@ -1,84 +1,77 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "life steal",
-        "Season 2-6"
+        "Jungle",
+        "Season 7+",
+        "shield"
     ],
     "cols": [
-        "Ionia",
-        "stun",
-        "darkin"
+        "Noxus",
+        "fear",
+        "yordle"
     ],
     "solutions": [
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Varus"
-        ],
-        [
+            "Briar",
+            "Elise",
             "Kayn",
-            "Lee sin"
+            "Mordekaiser",
+            "Rell",
+            "Talon"
+        ],
+        [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
             "Ambessa",
             "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Aatrox",
-            "Kayn"
+            "Briar",
+            "Hwei",
+            "Vex"
         ],
         [
-            "Ahri",
-            "Ivern",
-            "Jhin",
-            "Syndra",
-            "Varus",
-            "Yasuo",
-            "Zed"
+            "Vex"
         ],
         [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
+            "Ambessa",
+            "Annie",
+            "Kled",
+            "Mel",
+            "Mordekaiser",
+            "Rell",
             "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
+            "Sion"
         ],
         [
-            "Aatrox",
-            "Varus"
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
+        ],
+        [
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ]
     ]
 }

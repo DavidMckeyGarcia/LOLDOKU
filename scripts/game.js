@@ -176,53 +176,75 @@ let currentActiveIndex = -1;
 
 // Modify your openModal function
 function openModal(index) {
-    const gridItems = document.querySelectorAll('.grid-item');
-    
-    // Check if the index is within the range of 1 to 9
-    if (index < 0 || index > 8) {
-        console.log(`Grid item index ${index + 1} is out of allowed range (1-9) and cannot open modal.`);
-        return; // Exit the function early
-    }
+  const gridItems = document.querySelectorAll('.grid-item');
+  
+  // Check if the index is within the range of 1 to 9
+  if (index < 0 || index > 8) {
+      console.log(`Grid item index ${index + 1} is out of allowed range (1-9) and cannot open modal.`);
+      return; // Exit the function early
+  }
 
-    // Check if the cell is already correctly answered
-    if (gridItems[index].classList.contains('correct')) {
-      console.log(`Grid item ${index + 1} is already correct and cannot be changed`);
-      return; // Exit the function early
-    }
+  // Check if the cell is already correctly answered
+  if (gridItems[index].classList.contains('correct')) {
+    console.log(`Grid item ${index + 1} is already correct and cannot be changed`);
+    return; // Exit the function early
+  }
+
+  if (livesRemaining <= 0 && !window.unlimitedMode) {
+    console.log(`User ran out of lives`);
+    return; // Exit the function early
+  }
   
-    if (livesRemaining <= 0 && !window.unlimitedMode) {
-      console.log(`User ran out of lives`);
-      return; // Exit the function early
-    }
-    
-    const modal = document.getElementById('answer-modal');
-    const userAnswerInput = document.getElementById('user-answer');
-    const submitButton = document.getElementById('submit-answer');
-    
-    // Store the current grid item index in global variable
-    currentActiveIndex = index;
+  const modal = document.getElementById('answer-modal');
+  const userAnswerInput = document.getElementById('user-answer');
+  const submitButton = document.getElementById('submit-answer');
+  const resultsList = document.querySelector('.results ul');
   
-    // Show the modal
-    modal.style.display = 'flex';
+  // Store the current grid item index in global variable
+  currentActiveIndex = index;
+
+  // Show the modal
+  modal.style.display = 'flex';
+
+  //update sub headers
+  updateModalh2(currentActiveIndex);
+
+  // Focus the input field
+  userAnswerInput.focus();
+
+  // Add event listener for the Enter key
+  userAnswerInput.addEventListener('keyup', handleKeyUp);
   
-    //update sub headers
-    updateModalh2(currentActiveIndex);
+  // Handle the answer submission when the submit button is clicked
+  submitButton.onclick = submitAnswer;
+
+  // Set up event delegation for dropdown items
+  // First remove any existing event listener to avoid duplicates
+  if (resultsList._clickListener) {
+      resultsList.removeEventListener('click', resultsList._clickListener);
+  }
   
-    // Focus the input field
-    userAnswerInput.focus();
-  
-    // Add event listener for the Enter key
-    userAnswerInput.addEventListener('keyup', handleKeyUp);
-    
-    // Handle the answer submission when the submit button is clicked
-    submitButton.onclick = submitAnswer;
-  
-    // Close the modal if clicked outside the modal content
-    modal.onclick = function(event) {
-      if (event.target === modal) {
-        closeModal();
+  // Create a new click listener function
+  resultsList._clickListener = function(event) {
+      const listItem = event.target.closest('li');
+      if (listItem) {
+          // Set the input value to the selected champion
+          userAnswerInput.value = listItem.textContent.trim();
+          
+          // Submit the answer
+          submitAnswer();
       }
-    };
+  };
+  
+  // Add the new click listener
+  resultsList.addEventListener('click', resultsList._clickListener);
+
+  // Close the modal if clicked outside the modal content
+  modal.onclick = function(event) {
+    if (event.target === modal) {
+      closeModal();
+    }
+  };
 }
 
 function submitAnswer() {
@@ -271,58 +293,34 @@ function handleKeyUp(event) {
     }
 }
 
-// Add this function to set up the dropdown handling
-function setupDropdownAutoSubmit() {
-  // Get the results container
-  const resultsContainer = document.querySelector('.results');
-  const resultsList = resultsContainer.querySelector('ul');
+
+function closeModal() {
+  const modal = document.getElementById('answer-modal');
+  const userAnswerInput = document.getElementById('user-answer');
+  const submitButton = document.getElementById('submit-answer');
+  const resultsList = document.querySelector('.results ul');
+
+  // Remove event listeners
+  userAnswerInput.removeEventListener('keyup', handleKeyUp);
+  submitButton.onclick = null;
+  modal.onclick = null;
   
-  // Use event delegation to handle clicks on dropdown items
-  resultsList.addEventListener('click', function(event) {
-    // Find the closest li element from the click target
-    const listItem = event.target.closest('li');
-    
-    if (listItem) {
-      // Get the champion name from the clicked item
-      const championName = listItem.textContent.trim();
-      
-      // Set the input value to the selected champion
-      const userAnswerInput = document.getElementById('user-answer');
-      userAnswerInput.value = championName;
-      
-      // Check if we're on mobile
-      if (window.innerWidth <= 768) {
-        // Submit the answer automatically on mobile
-        console.log("Mobile detected, auto-submitting: " + championName);
-        setTimeout(submitAnswer, 100); // Small delay to ensure value is set
-      }
-    }
-  });
+  // Remove dropdown item click listener if it exists
+  if (resultsList && resultsList._clickListener) {
+      resultsList.removeEventListener('click', resultsList._clickListener);
+      resultsList._clickListener = null;
   }
 
-
-// Updated closeModal function to properly remove event listeners
-function closeModal() {
-    const modal = document.getElementById('answer-modal');
-    const userAnswerInput = document.getElementById('user-answer');
-    const submitButton = document.getElementById('submit-answer');
+  // Add the closing animation class
+  modal.classList.add('closing');
   
-    // Remove event listeners first
-    userAnswerInput.removeEventListener('keyup', handleKeyUp);
-    submitButton.onclick = null;
-    modal.onclick = null;
-  
-    // Add the closing animation class
-    modal.classList.add('closing');
-    
-    setTimeout(() => {
-        modal.style.display = 'none';
-        modal.classList.remove('closing'); // Remove the class for next time
-        // Reset the current active index
-        currentActiveIndex = -1;
-    }, 150); // Match this to the animation duration (0.15s = 150ms)
+  setTimeout(() => {
+      modal.style.display = 'none';
+      modal.classList.remove('closing'); // Remove the class for next time
+      // Reset the current active index
+      currentActiveIndex = -1;
+  }, 150); // Match this to the animation duration (0.15s = 150ms)
 }
-
   
 function updateModalh2(index) {
     // Use the cached data instead of fetching again

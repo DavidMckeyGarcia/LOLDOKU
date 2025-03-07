@@ -599,6 +599,4 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log('tooltipcs ready')
     initializeButtons(); // Initialize the FF15 and Refresh buttons
     console.log('buttons ready')
-    setupDropdownAutoSubmit();
-    console.log('Mobile submit ready')
   });

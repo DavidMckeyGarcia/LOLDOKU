@@ -171,8 +171,10 @@ function initializeSearch() {
   }
   }
   
-  
-// Open submit awnser modal
+// Add this at the top with your other game state variables
+let currentActiveIndex = -1;
+
+// Modify your openModal function
 function openModal(index) {
     const gridItems = document.querySelectorAll('.grid-item');
     
@@ -197,82 +199,23 @@ function openModal(index) {
     const userAnswerInput = document.getElementById('user-answer');
     const submitButton = document.getElementById('submit-answer');
     
-    // Store the current grid item index
-    const currentIndex = index;
+    // Store the current grid item index in global variable
+    currentActiveIndex = index;
   
     // Show the modal
     modal.style.display = 'flex';
   
     //update sub headers
-    updateModalh2(currentIndex);
+    updateModalh2(currentActiveIndex);
   
     // Focus the input field
     userAnswerInput.focus();
   
-    function submitAnswer() {
-      const userAnswer = userAnswerInput.value.trim();
-      if (userAnswer) {
-        answers[currentIndex] = userAnswer; // Store the user's answer
-        
-        // Check if the answer is correct
-        const isCorrect = validateAnswer(currentIndex, userAnswer);
-        
-        // Only decrease lives on incorrect answers
-        if (!isCorrect && !window.unlimitedMode) {
-          livesRemaining--;
-          updateLivesDisplay();
-        }
-        
-        // Update the UI based on correctness
-        updateCellStatus(currentIndex, isCorrect);
-  
-        if (isCorrect) {
-          correctSquares[currentIndex] = true;
-          score = score + 100
-          updateScoreDisplay()
-        }
-  
-        // Save game state
-        saveGameState();
-        
-        // Check if the game is over
-        checkGameStatus();
-        
-        console.log(`User's answer for grid item ${currentIndex + 1}: ${userAnswer} - ${isCorrect ? 'Correct' : 'Incorrect'}`);
-        console.log(`Lives remaining: ${livesRemaining}`);
-        console.log(`Score: ${score}`)
-      }
-      closeModal();
-      userAnswerInput.value = '';
-    }
-  
-    // Updated closeModal function
-    function closeModal() {
-      const modal = document.getElementById('answer-modal');
-    
-      // Add the closing animation class
-      modal.classList.add('closing');
-      setTimeout(() => {
-          modal.style.display = 'none';
-          modal.classList.remove('closing'); // Remove the class for next time
-          userAnswerInput.removeEventListener('keyup', handleKeyUp);
-      }, 150); // Match this to the animation duration (0.3s = 300ms)
-  }
-  
-  
-  // In the openModal function, modify the event handling:
-    function handleKeyUp(event) {
-      if (event.key === 'Enter') {
-        // At this point the search input should contain the selected item
-        submitAnswer();
-    }
-  }
-  
-    // Handle the answer submission when the submit button is clicked
-    submitButton.onclick = submitAnswer;
-  
     // Add event listener for the Enter key
     userAnswerInput.addEventListener('keyup', handleKeyUp);
+    
+    // Handle the answer submission when the submit button is clicked
+    submitButton.onclick = submitAnswer;
   
     // Close the modal if clicked outside the modal content
     modal.onclick = function(event) {
@@ -280,6 +223,75 @@ function openModal(index) {
         closeModal();
       }
     };
+}
+
+// Move these functions outside of openModal to avoid closure issues
+function submitAnswer() {
+    const userAnswerInput = document.getElementById('user-answer');
+    const userAnswer = userAnswerInput.value.trim();
+    
+    if (userAnswer && currentActiveIndex !== -1) {
+      answers[currentActiveIndex] = userAnswer; // Store the user's answer
+      
+      // Check if the answer is correct
+      const isCorrect = validateAnswer(currentActiveIndex, userAnswer);
+      
+      // Only decrease lives on incorrect answers
+      if (!isCorrect && !window.unlimitedMode) {
+        livesRemaining--;
+        updateLivesDisplay();
+      }
+      
+      // Update the UI based on correctness
+      updateCellStatus(currentActiveIndex, isCorrect);
+
+      if (isCorrect) {
+        correctSquares[currentActiveIndex] = true;
+        score = score + 100
+        updateScoreDisplay()
+      }
+
+      // Save game state
+      saveGameState();
+      
+      // Check if the game is over
+      checkGameStatus();
+      
+      console.log(`User's answer for grid item ${currentActiveIndex + 1}: ${userAnswer} - ${isCorrect ? 'Correct' : 'Incorrect'}`);
+      console.log(`Lives remaining: ${livesRemaining}`);
+      console.log(`Score: ${score}`)
+    }
+    closeModal();
+    userAnswerInput.value = '';
+}
+
+function handleKeyUp(event) {
+    if (event.key === 'Enter') {
+      // At this point the search input should contain the selected item
+      submitAnswer();
+    }
+}
+
+// Updated closeModal function to properly remove event listeners
+function closeModal() {
+    const modal = document.getElementById('answer-modal');
+    const userAnswerInput = document.getElementById('user-answer');
+    const submitButton = document.getElementById('submit-answer');
+  
+    // Remove event listeners first
+    userAnswerInput.removeEventListener('keyup', handleKeyUp);
+    submitButton.onclick = null;
+    modal.onclick = null;
+  
+    // Add the closing animation class
+    modal.classList.add('closing');
+    
+    setTimeout(() => {
+        modal.style.display = 'none';
+        modal.classList.remove('closing'); // Remove the class for next time
+        // Reset the current active index
+        currentActiveIndex = -1;
+    }, 150); // Match this to the animation duration (0.15s = 150ms)
 }
 
   

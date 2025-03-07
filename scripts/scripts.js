@@ -313,7 +313,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Close modal when Start button is clicked
   if (startButton) {
     startButton.addEventListener('click', function() {
-      closeModal();
+      closeWelcomeModal();
     });
     console.log("Start button event listener added");
   }
@@ -322,7 +322,7 @@ document.addEventListener('DOMContentLoaded', function() {
   welcomeModal.addEventListener('click', function(event) {
     // If the click is on the modal background (not the content)
     if (event.target === welcomeModal) {
-      closeModal();
+      closeWelcomeModal();
     }
   });
   
@@ -333,7 +333,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
   
   // Function to close the modal with animation
-  function closeModal() {
+  function closeWelcomeModal() {
     welcomeModal.classList.add('closing');
     console.log("Closing animation started");
     

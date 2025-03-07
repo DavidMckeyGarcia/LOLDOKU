@@ -389,9 +389,9 @@ function updateHeaders(puzzleData) {
             tooltipTitle = 'DASH';
             tooltipContent = "A " + "dash".bold() +" is a type of champion ability in League of Legends that causes the caster to move to a location or in a direction while traversing the intervening distance. This is distinct from blinks, which describe instantaneous movement from one location to another.";
             break;
-        case 'global':
-            tooltipTitle = 'GLOBAL ULT';
-            tooltipContent = "Global Ultimates are characterized by spells which have a range of" + "at least 3000 units.".bold() + " For reference, 3000 units is roughly the distance from the nexus to a Tier 2 turret.";
+        case 'global ult':
+            tooltipTitle = 'GLOBAL/SEMI-GLOBAL ULT';
+            tooltipContent = "Global and Semi-Global Ultimates are characterized by spells which have a range of " + "at least 3000 units.".bold() + " For reference, 3000 units is roughly the distance from the nexus to a Tier 2 turret. True Global Ultimates have unlimted range!";
             tooltipImage = 'images/tooltips/global.png';
             break;
         case 'invis':

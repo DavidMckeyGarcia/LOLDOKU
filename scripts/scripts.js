@@ -184,7 +184,7 @@ let searchable = [
 
 //load a random puzzle file
 
-function loadData(numPuzzles = 100) {
+function loadData(numPuzzles = 1000) {
   resetGame(); // DELETE FOR LOCAL STORAGE MEMORY
   clearSavedGame(); //DELETE FOR LOCAL STORAGE MEMORY
 

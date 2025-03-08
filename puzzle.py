@@ -76,7 +76,7 @@ cat2_weights = {
 
 cat3 = {
 
-    "misc": [["manaless"], ["inf scaling"], ["arcane"], ["ult reset"],  ["riot records"], ["Immunity"], ["100% AP Ratio"], ["tether"], ["shred"]],
+    "misc": [["manaless"], ["inf scaling"], ["arcane"], ["ult reset"],  ["riot records"], ["100% AP Ratio"], ["tether"], ["shred"]], #["Immunity"]
 
     "race": [ ["celestial"], ["yordle"], ["ascended"], ["vastayan"], ["darkin"]],
 

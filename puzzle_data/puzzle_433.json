@@ -1,69 +1,171 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "iron",
     "rows": [
-        "Jungle",
-        "shield",
-        "OG40"
+        "Adc",
+        "blink",
+        "prestige"
     ],
     "cols": [
-        "Piltover",
-        "silence",
-        "Immunity"
+        "slow",
+        "Bilgewater",
+        "never played"
     ],
     "solutions": [
         [
-            "Camille"
-        ],
-        [
-            "Fiddlesticks"
-        ],
-        [
-            "Camille",
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Viego",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Camille",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Camille",
-            "Ekko",
-            "Galio",
-            "Kled",
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
             "Mel",
-            "Sion",
-            "Yuumi"
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Heimerdinger"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
+        ],
+        [
+            "Ekko",
             "Kassadin",
-            "Soraka"
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Reksai",
+            "Ryze",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Zed"
         ],
         [
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Pyke",
+            "Reksai",
+            "Shen",
+            "Tahm kench",
+            "Viego"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Akali",
+            "Brand",
+            "Caitlyn",
+            "Camille",
+            "Cassiopeia",
+            "Darius",
+            "Diana",
             "Evelynn",
-            "Karthus",
+            "Fiora",
+            "Fizz",
+            "Garen",
+            "Jinx",
+            "Ksante",
+            "Kaisa",
             "Kayle",
-            "Ryze",
-            "Sion",
-            "Zilean"
+            "Kayn",
+            "Kindred",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lulu",
+            "Lux",
+            "Malphite",
+            "Miss Fortune",
+            "Morgana",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Sett",
+            "Shaco",
+            "Sivir",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Sylas",
+            "Teemo",
+            "Thresh",
+            "Volibear",
+            "Yuumi",
+            "Zed",
+            "Zeri",
+            "Zoe",
+            "Zyra"
+        ],
+        [
+            "Fizz",
+            "Miss Fortune",
+            "Pyke"
+        ],
+        [
+            "Brand",
+            "Evelynn",
+            "Fiora",
+            "Garen",
+            "Jinx",
+            "Kayn",
+            "Kindred",
+            "Leona",
+            "Malphite",
+            "Miss Fortune",
+            "Morgana",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Sivir",
+            "Sona",
+            "Soraka",
+            "Teemo",
+            "Thresh",
+            "Vayne",
+            "Volibear",
+            "Xayah",
+            "Yuumi",
+            "Zeri",
+            "Zyra"
         ]
     ]
 }

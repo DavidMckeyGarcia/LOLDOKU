@@ -1,85 +1,76 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "global ult",
-        "Season 7+"
+        "Jungle",
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "knock-up",
-        "Piltover",
-        "0 games"
+        "root",
+        "Zaun",
+        "tether"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
             "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
             "Zyra"
         ],
         [
-            "Heimerdinger",
-            "Seraphine"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Mel",
-            "Milio"
-        ],
-        [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Briar",
-            "Mel",
-            "Vex"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
             "Sylas",
-            "Yone"
+            "Zac"
         ],
         [
-            "Camille",
-            "Seraphine"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Briar",
+            "Aphelios",
+            "Hwei",
+            "Ksante",
             "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Twitch"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

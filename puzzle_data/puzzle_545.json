@@ -1,107 +1,68 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "hextech",
-        "Season 2-6"
+        "Top",
+        "Season 7+",
+        "blink"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "100+ games"
+        "Zaun",
+        "root",
+        "arcane"
     ],
     "solutions": [
         [
-            "Draven",
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Ambessa",
+            "Heimerdinger",
+            "Jayce",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
             "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
             "Xayah"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Sion",
-            "Swain"
+            "Ambessa",
+            "Mel"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Galio",
-            "Janna",
-            "Jarvan IV",
-            "Poppy",
-            "Sejuani",
-            "Sion",
-            "Ziggs"
+            "Ekko"
         ],
         [
-            "Alistar",
-            "Janna",
-            "Jarvan IV",
-            "Renekton",
-            "Sejuani",
-            "Tristana"
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
         ],
         [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Braum",
-            "Elise",
-            "Gnar",
-            "Jayce",
-            "Jhin",
-            "Lucian",
-            "Lulu",
-            "Sejuani",
-            "Syndra",
-            "Thresh",
-            "Varus"
+            "Ambessa",
+            "Ekko",
+            "LeBlanc"
         ]
     ]
 }

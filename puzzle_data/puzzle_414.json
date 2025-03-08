@@ -1,61 +1,61 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
+        "Support",
         "OG40",
-        "life steal"
+        "true damage"
     ],
     "cols": [
-        "root",
-        "The Void",
-        "pentakill"
+        "Noxus",
+        "silence",
+        "0 games"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
         ],
         [
-            "Chogath"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
+            "Blitzcrank",
+            "Lulu",
             "Soraka"
         ],
         [
+            "Mel",
+            "Milio"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Blitzcrank",
             "Chogath",
-            "Kassadin"
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Ryze",
-            "Tristana",
-            "Twitch"
+            "Master yi"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
+            "Darius",
+            "Draven",
+            "Samira"
         ],
         [
-            "Belveth"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Aphelios"
+            "Akshan",
+            "Master yi",
+            "Samira"
         ]
     ]
 }

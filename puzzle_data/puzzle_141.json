@@ -1,127 +1,63 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "cosmic",
-        "dash"
+        "Adc",
+        "dash",
+        "prestige"
     ],
     "cols": [
-        "stun",
+        "knock-up",
         "Freljord",
-        "yordle"
+        "ascended"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
+            "Kalista",
+            "Samira",
             "Ziggs"
         ],
         [
-            "Anivia",
-            "Hecarim",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Sion",
-            "Skarner",
-            "Xin Zhao"
+            "Ashe"
         ],
         [
-            "Anivia",
-            "Lissandra",
-            "Nunu"
+            "Varus"
         ],
         [
-            "Lulu"
-        ],
-        [
+            "Aatrox",
             "Alistar",
-            "Ambessa",
-            "Amumu",
             "Aurelion Sol",
-            "Bard",
+            "Azir",
+            "Belveth",
             "Braum",
             "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Hecarim",
-            "Irelia",
             "Ivern",
-            "Jax",
+            "Jarvan IV",
             "Ksante",
-            "Leona",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
             "Nautilus",
             "Ornn",
-            "Pantheon",
             "Poppy",
-            "Pyke",
-            "Qiyana",
-            "Rammus",
+            "Rakan",
+            "Reksai",
             "Rell",
-            "Renekton",
             "Riven",
+            "Samira",
             "Sejuani",
-            "Sett",
             "Sylas",
             "Taliyah",
-            "Thresh",
-            "Urgot",
-            "Vayne",
             "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
+            "Wukong",
             "Xin Zhao",
+            "Yasuo",
             "Yone",
-            "Zac"
+            "Zac",
+            "Ziggs"
         ],
         [
             "Aurora",
@@ -135,15 +71,43 @@
             "Volibear"
         ],
         [
-            "Amumu",
-            "Corki",
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Naafiri",
+            "Pantheon",
+            "Renekton"
+        ],
+        [
+            "Aatrox",
+            "Diana",
             "Fizz",
-            "Gnar",
-            "Kled",
-            "Poppy",
-            "Tristana",
-            "Vex",
-            "Ziggs"
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Brand",
+            "Kindred",
+            "Lissandra",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ]
     ]
 }

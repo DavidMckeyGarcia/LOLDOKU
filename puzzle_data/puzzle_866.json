@@ -1,85 +1,104 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "Season 7+",
-        "invis"
+        "ult execute",
+        "elderwood"
     ],
     "cols": [
-        "root",
-        "Zaun",
-        "Immunity"
+        "fear",
+        "Shurima",
+        "never played"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
             "Shaco",
-            "Zac",
+            "Warwick"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
+        ],
+        [
+            "Amumu",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Dr. Mundo",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Kindred",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Reksai",
+            "Rell",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
             "Zyra"
         ],
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Camille",
-            "Ekko",
+            "Akshan"
+        ],
+        [
+            "Akshan",
+            "Chogath",
+            "Draven",
             "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Viego",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Aurora",
-            "Camille",
-            "Gwen",
-            "Kayn",
-            "Mel",
-            "Viego",
-            "Xayah",
-            "Yuumi"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Twitch"
-        ],
-        [
-            "Aurora",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
             "Viego"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Azir"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Rakan",
+            "Reksai",
+            "Wukong",
+            "Xayah"
         ]
     ]
 }

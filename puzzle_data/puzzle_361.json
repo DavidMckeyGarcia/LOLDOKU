@@ -1,66 +1,69 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
         "Adc",
-        "PROJECT",
-        "invis"
+        "OG40",
+        "empyrean"
     ],
     "cols": [
-        "stun",
         "Freljord",
-        "Immunity"
+        "stun",
+        "0 games"
     ],
     "solutions": [
+        [
+            "Ashe"
+        ],
         [
             "Ashe",
             "Seraphine",
             "Vayne"
         ],
         [
-            "Ashe"
-        ],
-        [
-            "Kogmaw",
             "Mel",
-            "Xayah"
+            "Samira"
         ],
         [
+            "Anivia",
             "Ashe",
-            "Ekko",
-            "Fiora",
-            "Irelia",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
             "Jax",
-            "Leona",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Brand"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
             "Pyke",
-            "Renekton",
-            "Sejuani",
-            "Sylas",
-            "Vayne",
-            "Vi",
-            "Warwick"
+            "Zac"
         ],
         [
-            "Ashe",
-            "Sejuani"
-        ],
-        [
-            "Ekko",
-            "Fiora",
-            "Zed"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Aurora"
-        ],
-        [
-            "Aurora",
-            "Viego"
+            "Vex"
         ]
     ]
 }

@@ -1,76 +1,103 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "shield"
+        "Top",
+        "prestige",
+        "ult execute"
     ],
     "cols": [
-        "Shurima",
-        "silence",
-        "shred"
+        "Shadow Isles",
+        "knock-up",
+        "manaless"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
-        ],
-        [
-            "Fiddlesticks"
-        ],
-        [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
+            "Gwen",
+            "Maokai",
+            "Yorick"
         ],
         [
             "Aatrox",
-            "Azir",
-            "Taliyah"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Jayce",
-            "Rengar",
-            "Vi"
-        ],
-        [
-            "Akshan",
-            "Azir",
-            "Ksante",
-            "Naafiri",
-            "Sivir"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Garen",
+            "Chogath",
+            "Gragas",
             "Jarvan IV",
-            "Mordekaiser",
-            "Olaf",
-            "Rell",
-            "Rumble",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
             "Sion",
-            "Vi"
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Senna",
+            "Thresh"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Garen",
+            "Katarina",
+            "Lee sin",
+            "Sett",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Viego"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Akali",
+            "Garen",
+            "Reksai",
+            "Viego"
         ]
     ]
 }

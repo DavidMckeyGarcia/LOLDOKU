@@ -1,86 +1,130 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
+        "Mid",
         "Season 2-6",
-        "true damage"
+        "blink"
     ],
     "cols": [
-        "silence",
-        "Ionia",
-        "100+ games"
+        "Freljord",
+        "stun",
+        "manaless"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
             "Akali",
-            "Irelia",
-            "Kayn",
+            "Ambessa",
+            "Katarina",
             "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
+            "Vladimir",
             "Yasuo",
-            "Yone"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Ahri",
-            "Ivern",
-            "Jhin",
-            "Syndra",
-            "Varus",
-            "Yasuo",
+            "Yone",
             "Zed"
         ],
         [
-            "Aatrox",
-            "Azir",
             "Braum",
-            "Elise",
             "Gnar",
-            "Jayce",
-            "Jhin",
-            "Lucian",
-            "Lulu",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
             "Sejuani",
             "Syndra",
+            "Tahm kench",
+            "Taliyah",
             "Thresh",
-            "Varus"
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Aatrox",
+            "Gnar",
+            "Kled",
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ivern",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Syndra",
+            "Lissandra"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
             "Yone"
         ],
         [
-            "Syndra"
+            "Ambessa",
+            "Katarina",
+            "Reksai",
+            "Shen",
+            "Viego",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ]
     ]
 }

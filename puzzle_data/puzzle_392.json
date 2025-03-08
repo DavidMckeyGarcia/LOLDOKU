@@ -1,74 +1,81 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "blink",
-        "arcade"
+        "Mid",
+        "Season 2-6",
+        "global ult"
     ],
     "cols": [
-        "root",
-        "The Void",
-        "100% AP Ratio"
+        "fear",
+        "Demacia",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Chogath"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Chogath",
+            "Azir",
+            "Elise",
+            "Ezreal",
+            "Gragas",
+            "Jayce",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Hecarim"
+        ],
+        [
             "Fiora",
-            "Gangplank",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Braum",
+            "Elise",
             "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
+            "Jayce",
+            "Jhin",
+            "Lucian",
+            "Lulu",
+            "Sejuani",
+            "Syndra",
+            "Thresh",
+            "Varus"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
+            "Briar",
+            "Nocturne",
+            "Vex"
         ],
         [
-            "Kassadin",
-            "Reksai"
+            "Galio",
+            "Lux"
         ],
         [
-            "Ekko",
-            "Master yi",
-            "Pantheon",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego"
-        ],
-        [
+            "Ashe",
             "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Belveth",
+            "Ezreal",
             "Kaisa",
-            "Malzahar"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Veigar"
+            "Maokai",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

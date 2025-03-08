@@ -1,83 +1,57 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "life steal",
-        "Season 2-6"
+        "Mid",
+        "prestige",
+        "Season 7+"
     ],
     "cols": [
         "Freljord",
-        "root",
-        "arcane"
+        "fear",
+        "darkin"
     ],
     "solutions": [
         [
-            "Ashe",
+            "Anivia",
+            "Aurora",
             "Brand",
-            "Braum"
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
+            "Naafiri"
         ],
         [
-            "Olaf",
-            "Trundle",
-            "Udyr"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Ambessa",
-            "Warwick"
-        ],
-        [
-            "Braum",
-            "Gnar",
+            "Brand",
             "Kindred",
             "Lissandra",
-            "Sejuani",
             "Volibear"
         ],
         [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Aatrox",
+            "Darius",
+            "Shaco"
         ],
         [
-            "Ekko",
-            "Jayce",
-            "Jinx",
-            "Vi",
-            "Viktor"
+            "Aatrox",
+            "Kayn"
+        ],
+        [
+            "Aurora",
+            "Ornn"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

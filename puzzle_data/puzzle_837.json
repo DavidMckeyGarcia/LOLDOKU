@@ -1,101 +1,102 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Adc",
-        "empyrean",
-        "ult execute"
+        "Season 7+",
+        "shield"
     ],
     "cols": [
-        "The Void",
-        "slow",
-        "pentakill"
+        "Freljord",
+        "stun",
+        "tether"
     ],
     "solutions": [
         [
-            "Kaisa",
-            "Kogmaw"
+            "Ashe"
         ],
         [
-            "Aphelios",
             "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
             "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
+            "Vayne"
         ],
         [
-            "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Tristana",
-            "Twitch",
-            "Vayne",
-            "Xayah"
+            "Kalista"
         ],
         [
-            "Malzahar"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "Akali",
-            "Brand",
-            "Jhin",
+            "Ambessa",
+            "Briar",
+            "Camille",
             "Ksante",
-            "Kayle",
-            "Lux",
-            "Nocturne",
+            "Milio",
+            "Neeko",
+            "Ornn",
             "Pyke",
-            "Varus",
-            "Vex",
-            "Zac",
-            "Zed"
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Akali"
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ],
         [
-            "Chogath",
-            "Reksai"
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Akali",
-            "Chogath",
-            "Darius",
-            "Draven",
-            "Evelynn",
-            "Garen",
-            "Jhin",
-            "Jinx",
-            "Pyke",
-            "Reksai",
-            "Syndra",
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
             "Urgot",
-            "Viego"
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Akali",
-            "Darius",
-            "Jinx"
+            "Karma",
+            "Kled",
+            "Morgana",
+            "Nocturne",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
         ]
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "shield",
-        "OG40"
+        "OG40",
+        "invis"
     ],
     "cols": [
         "knock-up",
-        "Bilgewater",
-        "yordle"
+        "The Void",
+        "arcane"
     ],
     "solutions": [
         [
@@ -29,56 +29,20 @@
             "Ziggs"
         ],
         [
-            "Fizz",
-            "Twisted fate"
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
         ],
         [
-            "Corki",
-            "Fizz",
+            "Ambessa",
+            "Ekko",
             "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Diana",
-            "Galio",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Riven",
-            "Sion",
-            "Tahm kench",
-            "Vi",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
-        ],
-        [
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Vex"
+            "Jayce",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
         ],
         [
             "Alistar",
@@ -91,16 +55,27 @@
             "Sion"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Chogath",
+            "Kassadin"
         ],
         [
-            "Amumu",
-            "Corki",
             "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Janna",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Kaisa",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

@@ -1,92 +1,85 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "blink",
-        "worlds skin"
+        "Adc",
+        "dash",
+        "elderwood"
     ],
     "cols": [
-        "knock-up",
-        "Bilgewater",
+        "Ionia",
+        "root",
         "ascended"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
+            "Jhin",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Irelia",
             "Ivern",
-            "Jarvan IV",
             "Kayn",
             "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Shen",
             "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
             "Yasuo",
             "Yone"
         ],
         [
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
-            "Pantheon"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Azir",
-            "Gragas",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
             "Lee sin",
-            "Malphite",
-            "Nami",
-            "Nunu",
-            "Rakan",
-            "Taliyah",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Gangplank",
-            "Graves",
-            "Nami",
-            "Twisted fate"
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
         ],
         [
             "Aatrox",
             "Azir",
+            "Diana",
+            "Kayn",
             "Leona",
+            "Naafiri",
+            "Pantheon",
             "Renekton"
+        ],
+        [
+            "Ahri",
+            "Rakan",
+            "Wukong",
+            "Xayah"
+        ],
+        [
+            "LeBlanc",
+            "Xayah"
+        ],
+        [
+            "Azir"
         ]
     ]
 }

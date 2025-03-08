@@ -1,58 +1,39 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Adc",
-        "elderwood",
-        "shield"
+        "Support",
+        "shield",
+        "OG40"
     ],
     "cols": [
-        "Shurima",
         "knock-up",
-        "100% AP Ratio"
+        "Ionia",
+        "shred"
     ],
     "solutions": [
         [
-            "Sivir"
-        ],
-        [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Azir"
-        ],
-        [
-            "Azir",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
             "Rakan",
-            "Reksai",
-            "Wukong"
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Gnar",
-            "Hecarim",
-            "Veigar",
-            "Wukong"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Akshan",
-            "Azir",
-            "Ksante",
-            "Naafiri",
-            "Sivir"
+            "Rell"
         ],
         [
             "Azir",
@@ -81,24 +62,45 @@
             "Yone"
         ],
         [
-            "Aphelios",
-            "Blitzcrank",
-            "Ekko",
-            "Kaisa",
+            "Hwei",
+            "Ivern",
             "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Nocturne",
-            "Nunu",
+            "Lee sin",
+            "Rakan",
+            "Sett",
             "Shen",
-            "Sivir",
-            "Skarner",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Viktor",
-            "Volibear"
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Garen",
+            "Jarvan IV",
+            "Mordekaiser",
+            "Olaf",
+            "Rell",
+            "Rumble",
+            "Sion",
+            "Vi"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ]
     ]
 }

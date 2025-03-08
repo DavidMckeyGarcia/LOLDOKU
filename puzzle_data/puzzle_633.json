@@ -1,16 +1,27 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
         "Jungle",
-        "arcade",
-        "Season 2-6"
+        "OG40",
+        "elderwood"
     ],
     "cols": [
+        "Freljord",
         "root",
-        "The Void",
-        "never played"
+        "ascended"
     ],
     "solutions": [
+        [
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
         [
             "Ivern",
             "Lee sin",
@@ -25,107 +36,38 @@
             "Zyra"
         ],
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
         ],
         [
-            "Amumu",
-            "Belveth",
-            "Brand",
-            "Briar",
-            "Dr. Mundo",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Kindred",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
             "Morgana",
             "Nunu",
-            "Rammus",
-            "Reksai",
-            "Rell",
-            "Rengar",
-            "Sejuani",
+            "Ryze",
             "Shaco",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Zyra"
+            "Singed",
+            "Soraka"
         ],
         [
-            "Caitlyn",
-            "Qiyana"
+            "Nasus",
+            "Taric"
         ],
         [
-            "Belveth",
-            "Kaisa",
-            "Malzahar"
+            "Gnar"
         ],
         [
-            "Belveth",
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Miss Fortune",
-            "Sona"
+            "LeBlanc",
+            "Xayah"
         ],
         [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
-        ],
-        [
-            "Bard",
-            "Braum",
-            "Draven",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Kindred",
-            "Kled",
-            "Nami",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Volibear",
-            "Zyra"
+            "Azir"
         ]
     ]
 }

@@ -1,115 +1,90 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "prestige",
-        "true damage"
+        "Support",
+        "life steal",
+        "coven"
     ],
     "cols": [
-        "Bandle City",
+        "Bilgewater",
         "stun",
-        "yordle"
+        "ult reset"
     ],
     "solutions": [
         [
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
             "Heimerdinger",
-            "Rumble",
-            "Teemo"
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Swain"
+        ],
+        [
+            "Illaoi",
+            "Nilah"
         ],
         [
             "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
+            "Briar",
             "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
+            "Morgana",
             "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
             "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Viego",
+            "Warwick"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Aatrox",
+            "Belveth",
+            "Olaf",
+            "Viego"
         ],
         [
-            "Fizz",
-            "Lulu",
-            "Teemo",
-            "Yuumi"
+            "Nami",
+            "Nilah"
         ],
         [
-            "Brand",
+            "Ashe",
             "Camille",
             "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
+            "Elise",
             "Lissandra",
             "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
+            "Nami",
+            "Syndra"
         ],
         [
-            "Fizz",
-            "Lulu",
-            "Teemo"
-        ],
-        [
-            "Corki"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Amumu",
-            "Corki"
+            "Ahri"
         ]
     ]
 }

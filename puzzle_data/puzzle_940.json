@@ -1,77 +1,122 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
         "Adc",
-        "worlds skin",
-        "true damage"
+        "OG40",
+        "PROJECT"
     ],
     "cols": [
-        "root",
-        "Shurima",
-        "tether"
+        "Demacia",
+        "slow",
+        "shred"
     ],
     "solutions": [
         [
+            "Lucian",
+            "Vayne"
+        ],
+        [
             "Aphelios",
+            "Ashe",
             "Caitlyn",
+            "Corki",
+            "Draven",
             "Jhin",
             "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
             "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
             "Senna",
             "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
             "Varus",
-            "Xayah"
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Sivir"
+            "Corki",
+            "Kogmaw"
         ],
         [
-            "Kalista"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Akali",
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Gangplank",
+            "Irelia",
             "Jhin",
             "Jinx",
-            "LeBlanc",
-            "Lee sin",
             "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
+            "Mordekaiser",
+            "Pyke",
+            "Sejuani",
+            "Senna",
+            "Sylas",
+            "Varus",
+            "Warwick",
+            "Zed"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Jax",
+            "Mordekaiser",
             "Renekton",
-            "Taliyah"
-        ],
-        [
-            "Aatrox",
-            "Kalista",
-            "LeBlanc",
-            "Yuumi",
-            "Zac"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Ksante"
-        ],
-        [
-            "Renata glasc"
+            "Vi"
         ]
     ]
 }

@@ -1,74 +1,60 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "true damage"
+        "Mid",
+        "OG40",
+        "worlds skin"
     ],
     "cols": [
+        "Demacia",
         "fear",
-        "Noxus",
-        "100+ games"
+        "ascended"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
-        ],
-        [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
-        ],
-        [
-            "Briar",
             "Hwei",
             "Vex"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Darius",
-            "Urgot"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Darius",
-            "Draven",
-            "Samira"
+            "Nasus",
+            "Taric"
         ],
         [
-            "Syndra"
+            "Fiora",
+            "Jarvan IV",
+            "Vayne"
+        ],
+        [
+            "Aatrox"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Leona",
+            "Renekton"
         ]
     ]
 }

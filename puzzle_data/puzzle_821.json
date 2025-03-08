@@ -1,95 +1,99 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "Season 7+",
-        "Space Groove"
+        "Adc",
+        "life steal",
+        "PROJECT"
     ],
     "cols": [
+        "Zaun",
         "knock-up",
-        "Noxus",
-        "yordle"
+        "never played"
     ],
     "solutions": [
         [
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
+        ],
+        [
+            "Warwick"
+        ],
+        [
             "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
             "Belveth",
             "Briar",
             "Ksante",
             "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
+            "Lee sin",
             "Samira",
-            "Sylas",
-            "Yone"
+            "Sion",
+            "Trundle"
         ],
         [
-            "Ambessa",
+            "Aphelios",
+            "Belveth",
             "Briar",
+            "Gwen",
+            "Illaoi",
             "Kayn",
-            "Mel",
-            "Rell",
+            "Morgana",
+            "Nilah",
             "Samira",
-            "Smolder"
+            "Senna",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
-            "Vex"
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Blitzcrank",
-            "Gragas",
-            "Lulu",
-            "Nami",
-            "Nunu",
-            "Samira"
+            "Sejuani",
+            "Sylas",
+            "Vi",
+            "Yasuo"
         ],
         [
-            "Samira"
-        ],
-        [
-            "Lulu",
-            "Rumble",
-            "Teemo"
+            "Ashe",
+            "Fiora",
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Mordekaiser",
+            "Pyke",
+            "Sejuani",
+            "Senna",
+            "Vayne",
+            "Vi",
+            "Warwick"
         ]
     ]
 }

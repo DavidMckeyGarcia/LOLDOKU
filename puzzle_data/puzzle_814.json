@@ -1,92 +1,58 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
         "Mid",
-        "arcade",
-        "invis"
+        "life steal",
+        "arcade"
     ],
     "cols": [
-        "Ionia",
-        "root",
-        "100% AP Ratio"
+        "fear",
+        "Freljord",
+        "shred"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
             "Hwei",
-            "Irelia",
-            "Karma",
-            "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Vex"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Aurelion Sol",
-            "Chogath",
             "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
+            "Jayce",
+            "Karthus",
+            "Zoe"
         ],
         [
-            "Ahri",
-            "Yasuo"
+            "Aatrox",
+            "Briar",
+            "Warwick"
         ],
         [
-            "Caitlyn",
-            "Qiyana"
+            "Olaf",
+            "Trundle",
+            "Udyr"
         ],
         [
-            "Belveth",
-            "Blitzcrank",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Veigar"
+            "Briar",
+            "Nasus",
+            "Olaf",
+            "Sion",
+            "Trundle"
         ],
         [
-            "Akali",
-            "Wukong"
+            "Hecarim"
         ],
         [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Brand"
         ],
         [
-            "Kaisa",
-            "Neeko",
-            "Viego",
-            "Wukong"
+            "Corki"
         ]
     ]
 }

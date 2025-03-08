@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
         "Adc",
-        "Season 7+",
-        "blink"
+        "coven",
+        "Season 7+"
     ],
     "cols": [
         "slow",
-        "The Void",
-        "never played"
+        "Bilgewater",
+        "pentakill"
     ],
     "solutions": [
         [
@@ -37,25 +37,43 @@
             "Ziggs"
         ],
         [
-            "Kaisa",
-            "Kogmaw"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
             "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
+            "Ezreal",
             "Jinx",
+            "Kaisa",
             "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
             "Twitch",
             "Vayne",
-            "Xayah",
-            "Zeri"
+            "Xayah"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Evelynn",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nilah",
+            "Syndra",
+            "Zyra"
+        ],
+        [
+            "Nami",
+            "Nilah"
+        ],
+        [
+            "Akali"
         ],
         [
             "Aphelios",
@@ -90,55 +108,13 @@
             "Zoe"
         ],
         [
-            "Belveth",
-            "Kaisa"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
             "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Pyke"
         ],
         [
-            "Ekko",
-            "Kassadin",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Reksai",
-            "Ryze",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Zed"
-        ],
-        [
-            "Kassadin",
-            "Reksai"
-        ],
-        [
-            "Pyke",
-            "Reksai",
-            "Shen",
-            "Tahm kench",
-            "Viego"
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
         ]
     ]
 }

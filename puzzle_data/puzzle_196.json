@@ -1,65 +1,48 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "true damage"
+        "Jungle",
+        "shield",
+        "Season 2-6"
     ],
     "cols": [
-        "fear",
-        "Zaun",
-        "0 games"
+        "Piltover",
+        "silence",
+        "darkin"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Camille"
         ],
         [
-            "Ekko",
+            "Fiddlesticks"
+        ],
+        [
+            "Kayn"
+        ],
+        [
+            "Camille",
             "Orianna",
-            "Viktor",
-            "Ziggs"
+            "Seraphine"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Naafiri"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Jayce"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
+            "Lulu"
         ],
         [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Renata glasc",
-            "Twitch",
-            "Urgot"
-        ],
-        [
-            "Akshan",
-            "Master yi",
-            "Samira"
+            "Aatrox",
+            "Varus"
         ]
     ]
 }

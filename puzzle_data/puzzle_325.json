@@ -1,72 +1,129 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
         "Support",
-        "blink",
-        "OG40"
+        "OG40",
+        "Space Groove"
     ],
     "cols": [
-        "The Void",
-        "knock-up",
-        "ascended"
+        "slow",
+        "Bilgewater",
+        "yordle"
     ],
     "solutions": [
         [
-            "Velkoz"
-        ],
-        [
-            "Alistar",
-            "Blitzcrank",
+            "Ashe",
+            "Bard",
+            "Brand",
             "Braum",
             "Galio",
+            "Heimerdinger",
             "Janna",
+            "Karma",
+            "Leona",
             "Lulu",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Milio",
+            "Morgana",
             "Nami",
             "Nautilus",
-            "Neeko",
+            "Pantheon",
             "Poppy",
+            "Pyke",
             "Rakan",
-            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Sona",
+            "Soraka",
+            "Swain",
             "Tahm kench",
+            "Thresh",
             "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
             "Zyra"
         ],
         [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
         ],
         [
-            "Kassadin",
-            "Reksai"
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
         ],
         [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Pantheon"
-        ],
-        [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Alistar",
             "Anivia",
-            "Blitzcrank",
+            "Ashe",
             "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
             "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
             "Malphite",
+            "Morgana",
+            "Nasus",
             "Nunu",
-            "Sion"
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
         ],
         [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Gragas",
+            "Lissandra",
+            "Lulu",
+            "Lux",
+            "Nami",
             "Nasus",
-            "Taric"
+            "Nunu",
+            "Rumble",
+            "Samira",
+            "Teemo",
+            "Twisted fate"
+        ],
+        [
+            "Nami",
+            "Twisted fate"
+        ],
+        [
+            "Lulu",
+            "Rumble",
+            "Teemo"
         ]
     ]
 }

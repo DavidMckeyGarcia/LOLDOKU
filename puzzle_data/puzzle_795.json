@@ -1,86 +1,74 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "evolves",
-        "OG40"
+        "Top",
+        "elderwood",
+        "invis"
     ],
     "cols": [
-        "Noxus",
+        "Shurima",
         "knock-up",
-        "ult reset"
+        "pentakill"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Kayn",
-            "Smolder"
-        ],
-        [
-            "Belveth",
-            "Kayn"
-        ],
-        [
-            "Belveth",
-            "Viktor"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
+            "Aatrox",
             "Chogath",
-            "Janna",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
             "Malphite",
-            "Nunu",
-            "Sion"
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Azir"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Xayah"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

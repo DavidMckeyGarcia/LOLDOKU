@@ -1,71 +1,96 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "invis"
+        "Mid",
+        "prestige",
+        "OG40"
     ],
     "cols": [
-        "Bilgewater",
+        "Demacia",
         "root",
-        "vastayan"
+        "shred"
     ],
     "solutions": [
         [
-            "Miss Fortune",
-            "Nilah"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Xayah"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aphelios",
             "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
-        ],
-        [
-            "Pyke"
-        ],
-        [
+            "Karma",
             "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
             "Neeko",
             "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Aurora",
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Sona",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
             "Neeko",
-            "Rengar",
-            "Wukong"
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Evelynn",
+            "Garen",
+            "Zoe"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ]
     ]
 }

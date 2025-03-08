@@ -1,66 +1,174 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "global ult",
-        "elderwood"
+        "Season 2-6",
+        "evolves"
     ],
     "cols": [
-        "root",
-        "Shadow Isles",
-        "pentakill"
+        "Noxus",
+        "slow",
+        "manaless"
     ],
     "solutions": [
         [
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Camille",
+            "Chogath",
+            "Darius",
+            "Dr. Mundo",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gnar",
+            "Gragas",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Irelia",
+            "Jarvan IV",
+            "Jayce",
             "Ksante",
+            "Kayle",
+            "Kayn",
+            "Kled",
+            "Malphite",
             "Maokai",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Quinn",
+            "Rumble",
+            "Sett",
+            "Shen",
             "Singed",
+            "Sion",
+            "Skarner",
             "Swain",
+            "Sylas",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Urgot",
+            "Volibear",
+            "Warwick",
+            "Yorick",
             "Zac"
         ],
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
+            "Aatrox",
             "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
             "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Aurelion Sol",
+            "Azir",
+            "Bard",
+            "Braum",
+            "Darius",
+            "Diana",
+            "Draven",
+            "Ekko",
+            "Elise",
             "Fiora",
-            "Vayne"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Karthus",
-            "Maokai",
-            "Senna",
-            "Vex"
-        ],
-        [
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Ryze"
-        ],
-        [
-            "LeBlanc",
-            "Xayah"
-        ],
-        [
+            "Gnar",
             "Hecarim",
-            "Karthus"
+            "Illaoi",
+            "Ivern",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Khazix",
+            "Kindred",
+            "Kled",
+            "Lissandra",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Quinn",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Varus",
+            "Velkoz",
+            "Viktor",
+            "Volibear",
+            "Zac",
+            "Zed",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Xayah"
+            "Aatrox",
+            "Gnar",
+            "Kled",
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
+        ],
+        [
+            "Kayn",
+            "Smolder"
+        ],
+        [
+            "Bard",
+            "Belveth",
+            "Gangplank",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Khazix",
+            "Smolder",
+            "Viktor"
+        ],
+        [
+            "Belveth"
         ]
     ]
 }

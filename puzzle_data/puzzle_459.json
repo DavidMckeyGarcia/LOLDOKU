@@ -2,22 +2,15 @@
     "difficulty": "challenger",
     "rows": [
         "Top",
-        "hextech",
-        "global ult"
+        "Season 7+",
+        "arcade"
     ],
     "cols": [
-        "Shurima",
         "fear",
-        "ascended"
+        "Demacia",
+        "yordle"
     ],
     "solutions": [
-        [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
-        ],
         [
             "Aatrox",
             "Darius",
@@ -25,35 +18,45 @@
             "Warwick"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Amumu",
-            "Rammus",
-            "Renekton"
-        ],
-        [
-            "Nocturne"
-        ],
-        [
-            "Renekton"
-        ],
-        [
-            "Taliyah",
-            "Xerath"
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
             "Briar",
-            "Nocturne",
+            "Hwei",
             "Vex"
         ],
         [
-            "Pantheon",
-            "Xerath"
+            "Sylas"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Sona"
+        ],
+        [
+            "Corki",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

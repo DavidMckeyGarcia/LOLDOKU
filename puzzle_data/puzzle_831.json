@@ -1,19 +1,16 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Adc",
-        "Season 7+",
-        "hextech"
+        "ult execute",
+        "worlds skin"
     ],
     "cols": [
-        "Shurima",
         "root",
-        "yordle"
+        "Bilgewater",
+        "100% AP Ratio"
     ],
     "solutions": [
-        [
-            "Sivir"
-        ],
         [
             "Aphelios",
             "Caitlyn",
@@ -26,43 +23,78 @@
             "Xayah"
         ],
         [
-            "Corki",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
             "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Amumu",
-            "Rammus",
-            "Renekton"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Amumu",
-            "Poppy",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
             "Tristana",
-            "Ziggs"
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Chogath",
+            "Evelynn",
+            "Jhin",
+            "Jinx",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Singed",
+            "Xayah",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Gangplank",
+            "Graves",
+            "Nami",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Ekko",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Nunu",
+            "Shen",
+            "Thresh",
+            "Twisted fate",
+            "Viego"
         ]
     ]
 }

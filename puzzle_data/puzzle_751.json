@@ -1,58 +1,71 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
+        "Mid",
         "arcade",
-        "OG40"
+        "blink"
     ],
     "cols": [
-        "silence",
-        "Piltover",
-        "arcane"
+        "root",
+        "Bilgewater",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Camille",
-            "Heimerdinger",
-            "Jayce"
+            "Fizz",
+            "Twisted fate"
         ],
         [
-            "Ambessa",
-            "Heimerdinger",
+            "Azir",
+            "Elise",
+            "Ezreal",
+            "Gragas",
             "Jayce",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Blitzcrank",
-            "Malzahar"
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
         ],
         [
             "Caitlyn",
-            "Ezreal"
+            "Qiyana"
         ],
         [
-            "Caitlyn"
+            "Miss Fortune"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa"
         ],
         [
-            "Heimerdinger"
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Ezreal",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

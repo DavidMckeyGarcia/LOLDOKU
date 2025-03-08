@@ -1,78 +1,66 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "global ult"
+        "Jungle",
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "Shadow Isles",
-        "root",
-        "pentakill"
+        "Ionia",
+        "fear",
+        "yordle"
     ],
     "solutions": [
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
         ],
         [
-            "Darius",
-            "Fiora",
-            "Jinx",
-            "Kalista",
-            "Lucian"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Karthus",
-            "Maokai",
-            "Senna",
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
+            "Briar",
+            "Hwei",
             "Vex"
         ],
         [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
+            "Vex"
         ],
         [
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Ryze"
+            "Akali",
+            "Wukong"
+        ],
+        [
+            "Shaco"
+        ],
+        [
+            "Teemo"
         ]
     ]
 }

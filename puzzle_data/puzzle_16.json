@@ -1,69 +1,93 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
         "Jungle",
-        "Season 7+",
-        "hextech"
+        "Season 2-6",
+        "dash"
     ],
     "cols": [
-        "Bandle City",
-        "root",
-        "ult reset"
+        "Demacia",
+        "fear",
+        "riot records"
     ],
     "solutions": [
         [
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
+            "Jarvan IV",
             "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
+        ],
+        [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
             "Shaco",
-            "Zac",
-            "Zyra"
+            "Warwick"
         ],
         [
-            "Belveth",
-            "Master yi",
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
             "Olaf",
+            "Qiyana",
+            "Sett",
             "Viego"
         ],
         [
-            "Yuumi"
+            "Fiora",
+            "Lucian",
+            "Quinn"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Aatrox",
+            "Darius",
+            "Hecarim"
         ],
         [
-            "Belveth",
-            "Naafiri",
+            "Ahri",
+            "Ekko",
+            "Yasuo"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Jarvan IV",
+            "Lucian",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sylas",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
             "Vex",
-            "Viego"
+            "Warwick"
         ],
         [
-            "Tristana"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Singed",
-            "Swain"
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Qiyana",
+            "Sett",
+            "Viego",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

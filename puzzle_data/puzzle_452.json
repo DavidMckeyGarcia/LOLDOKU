@@ -1,98 +1,76 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "OG40",
-        "hextech"
+        "Adc",
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
-        "fear",
         "Zaun",
-        "100% AP Ratio"
+        "stun",
+        "shred"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
+            "Jinx",
             "Twitch",
-            "Warwick"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
-            "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Nocturne"
-        ],
-        [
-            "Janna",
-            "Singed",
+            "Zeri",
             "Ziggs"
         ],
         [
-            "Alistar",
-            "Nocturne",
-            "Rammus",
-            "Tristana"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Corki",
+            "Kogmaw"
+        ],
+        [
+            "Warwick"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Briar",
+            "Nasus",
+            "Olaf",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Briar",
+            "Rell",
+            "Zoe"
         ]
     ]
 }

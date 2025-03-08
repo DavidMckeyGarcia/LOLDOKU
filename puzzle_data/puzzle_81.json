@@ -1,122 +1,95 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
         "Jungle",
-        "shield",
-        "arcade"
+        "life steal",
+        "worlds skin"
     ],
     "cols": [
-        "Shadow Isles",
-        "stun",
-        "arcane"
+        "root",
+        "Ionia",
+        "ascended"
     ],
     "solutions": [
         [
-            "Hecarim",
-            "Karthus",
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Viego"
-        ],
-        [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
             "Morgana",
             "Nautilus",
             "Nunu",
-            "Pantheon",
-            "Poppy",
             "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Senna",
-            "Thresh",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
             "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Aphelios",
             "Ksante",
-            "Milio",
+            "Lee sin",
             "Morgana",
-            "Nautilus",
-            "Neeko",
+            "Senna"
+        ],
+        [
+            "Kayn",
+            "Lee sin"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Maokai",
             "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
+            "Rengar",
+            "Ryze",
+            "Singed",
+            "Xayah",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Janna",
-            "Mel",
-            "Orianna",
-            "Vi",
-            "Viktor"
+            "Akali",
+            "Irelia",
+            "Jhin",
+            "Kennen",
+            "Lee sin",
+            "Rakan",
+            "Shen",
+            "Syndra",
+            "Xayah",
+            "Zed"
         ],
         [
-            "Hecarim"
-        ],
-        [
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Malzahar",
-            "Qiyana",
-            "Riven",
-            "Sona",
-            "Veigar"
-        ],
-        [
-            "Caitlyn"
+            "Aatrox",
+            "Azir",
+            "Leona",
+            "Renekton"
         ]
     ]
 }

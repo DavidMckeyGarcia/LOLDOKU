@@ -1,64 +1,160 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "global ult",
-        "Season 7+"
+        "pool party",
+        "global ult"
     ],
     "cols": [
-        "Targon",
-        "fear",
-        "arcane"
+        "Noxus",
+        "slow",
+        "shred"
     ],
     "solutions": [
         [
-            "Aurelion Sol",
-            "Diana",
-            "Pantheon",
-            "Zoe"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
             "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "Jayce",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
             "LeBlanc",
             "Mel",
-            "Orianna",
-            "Viktor"
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
+            "Ahri",
+            "Akali",
+            "Anivia",
             "Aurelion Sol",
-            "Pantheon",
-            "Soraka"
-        ],
-        [
-            "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Caitlyn",
+            "Aurora",
+            "Azir",
+            "Brand",
+            "Cassiopeia",
+            "Chogath",
+            "Corki",
+            "Diana",
             "Ekko",
-            "Jinx",
-            "Mel"
+            "Elise",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Heimerdinger",
+            "Hwei",
+            "Irelia",
+            "Jayce",
+            "Karma",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Naafiri",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Talon",
+            "Tristana",
+            "Twisted fate",
+            "Velkoz",
+            "Vex",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
         ],
         [
-            "Aphelios",
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
+        ],
+        [
+            "Draven"
+        ],
+        [
+            "Braum",
+            "Caitlyn",
+            "Dr. Mundo",
+            "Draven",
+            "Fiora",
+            "Gangplank",
+            "Graves",
+            "Heimerdinger",
+            "Jarvan IV",
+            "Lee sin",
+            "Leona",
+            "Lulu",
+            "Miss Fortune",
+            "Orianna",
+            "Reksai",
+            "Sett",
+            "Singed",
+            "Syndra",
+            "Taliyah",
+            "Zac",
+            "Ziggs",
+            "Zoe"
+        ],
+        [
+            "Jarvan IV",
+            "Renekton",
             "Zoe"
         ],
         [
             "Briar",
-            "Hwei",
-            "Vex"
+            "Draven",
+            "Kled",
+            "Mel",
+            "Sion"
         ],
         [
-            "Ambessa",
-            "Mel"
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Nocturne",
+            "Ornn",
+            "Pantheon",
+            "Ryze",
+            "Senna",
+            "Shen",
+            "Sion",
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
+        ],
+        [
+            "Briar",
+            "Karthus",
+            "Sion"
         ]
     ]
 }

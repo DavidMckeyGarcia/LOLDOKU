@@ -2,97 +2,83 @@
     "difficulty": "platinum",
     "rows": [
         "Jungle",
-        "coven",
+        "Season 2-6",
         "global ult"
     ],
     "cols": [
-        "stun",
-        "Demacia",
-        "30+ wins"
+        "root",
+        "Zaun",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
             "Ivern",
-            "Jax",
+            "Lee sin",
+            "Maokai",
             "Morgana",
             "Nautilus",
             "Nunu",
-            "Pantheon",
-            "Poppy",
             "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Dr. Mundo",
+            "Ekko",
             "Vi",
-            "Viego",
-            "Volibear",
             "Warwick",
-            "Xin Zhao",
             "Zac"
         ],
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
         ],
         [
-            "Taliyah"
-        ],
-        [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
+            "Ivern",
+            "Jhin",
+            "Jinx",
             "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Morgana"
-        ],
-        [
-            "Ahri",
-            "LeBlanc",
-            "Lissandra"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
             "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Galio",
-            "Lux"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Viktor"
         ],
         [
-            "Galio",
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
             "Ryze",
-            "Taliyah"
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

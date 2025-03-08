@@ -1,99 +1,136 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "life steal",
-        "coven"
+        "Mid",
+        "Season 2-6",
+        "prestige"
     ],
     "cols": [
         "stun",
-        "Noxus",
-        "pentakill"
+        "Freljord",
+        "ult reset"
     ],
     "solutions": [
         [
             "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
             "Gragas",
             "Heimerdinger",
             "Irelia",
-            "Jax",
-            "Ksante",
             "Kennen",
-            "Ornn",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
             "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
+            "Qiyana",
+            "Seraphine",
             "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
             "Yone",
+            "Zilean"
+        ],
+        [
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
             "Zac"
         ],
         [
-            "Ambessa",
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
             "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
+            "Viktor"
         ],
         [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
-            "Ashe",
+            "Brand",
             "Camille",
             "Cassiopeia",
-            "Elise",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
             "Lissandra",
             "Morgana",
-            "Nami",
-            "Syndra"
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
         ],
         [
-            "Cassiopeia",
-            "Elise",
-            "LeBlanc"
+            "Brand",
+            "Kindred",
+            "Lissandra",
+            "Volibear"
         ],
         [
-            "Akali"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Sivir",
+            "Swain",
+            "Vayne"
         ]
     ]
 }

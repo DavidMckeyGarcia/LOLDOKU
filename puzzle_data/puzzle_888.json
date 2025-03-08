@@ -1,16 +1,26 @@
 {
-    "difficulty": "iron",
+    "difficulty": "silver",
     "rows": [
         "Top",
-        "Season 2-6",
-        "dash"
+        "invis",
+        "Season 2-6"
     ],
     "cols": [
+        "Freljord",
         "stun",
-        "Noxus",
         "pentakill"
     ],
     "solutions": [
+        [
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
         [
             "Ambessa",
             "Camille",
@@ -41,20 +51,34 @@
             "Zac"
         ],
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
             "Akali",
             "Darius",
             "Fiora",
             "Vayne"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
         ],
         [
             "Aurelion Sol",
@@ -83,83 +107,10 @@
         ],
         [
             "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
-            "Darius",
             "Fiora",
             "Jinx",
             "Kalista",
             "Lucian"
-        ],
-        [
-            "Alistar",
-            "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
-            "Ivern",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Nautilus",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sett",
-            "Sylas",
-            "Taliyah",
-            "Thresh",
-            "Urgot",
-            "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Alistar",
-            "Ambessa",
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Kled",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Talon"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Fiora",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Vayne"
         ]
     ]
 }

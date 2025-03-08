@@ -1,101 +1,73 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "OG40",
-        "Fright Night"
+        "Top",
+        "Season 7+",
+        "pool party"
     ],
     "cols": [
+        "Demacia",
         "root",
-        "Freljord",
-        "never played"
+        "ascended"
     ],
     "solutions": [
         [
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus",
+            "Pantheon",
+            "Renekton"
+        ],
+        [
+            "Sylas"
+        ],
+        [
             "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Hwei",
+            "Ksante",
             "Mel",
+            "Neeko",
+            "Renata glasc",
             "Senna",
             "Seraphine",
-            "Varus",
             "Xayah"
         ],
         [
-            "Ashe"
+            "Kayn",
+            "Naafiri"
         ],
         [
-            "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
+            "Fiora",
+            "Jarvan IV"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
+            "Caitlyn",
+            "Lee sin",
+            "Leona",
             "Singed",
-            "Soraka"
+            "Zac"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Nautilus",
-            "Nunu",
-            "Renata glasc",
-            "Shaco"
-        ],
-        [
-            "Nunu",
-            "Trundle"
-        ],
-        [
-            "Draven",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Shaco",
-            "Trundle",
-            "Zeri"
+            "Leona",
+            "Renekton",
+            "Taric"
         ]
     ]
 }

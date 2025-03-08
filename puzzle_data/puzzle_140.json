@@ -1,14 +1,14 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "Season 7+",
-        "global ult"
+        "cosmic",
+        "shield"
     ],
     "cols": [
         "knock-up",
-        "Targon",
-        "riot records"
+        "Shadow Isles",
+        "manaless"
     ],
     "solutions": [
         [
@@ -36,67 +36,86 @@
             "Zyra"
         ],
         [
-            "Diana",
-            "Pantheon"
-        ],
-        [
-            "Ekko",
-            "Evelynn",
+            "Hecarim",
             "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
+            "Maokai",
             "Viego"
         ],
         [
             "Belveth",
             "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Xin Zhao"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Belveth",
+            "Vladimir"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Ksante",
-            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
             "Neeko",
-            "Ornn",
+            "Nunu",
+            "Poppy",
             "Rakan",
             "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Senna",
-            "Sett",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
+            "Riven",
             "Sion",
-            "Taliyah",
-            "Ziggs"
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Aurelion Sol",
-            "Pantheon",
-            "Soraka"
+            "Senna",
+            "Thresh",
+            "Vex"
         ],
         [
-            "Ekko",
-            "Ezreal",
-            "Kaisa",
-            "Karthus",
-            "Senna"
+            "Ambessa",
+            "Garen",
+            "Kled",
+            "Lee sin",
+            "Mordekaiser",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

@@ -1,68 +1,82 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
         "Adc",
-        "Season 7+",
-        "life steal"
+        "Space Groove",
+        "Season 2-6"
     ],
     "cols": [
-        "knock-up",
-        "Shurima",
-        "darkin"
+        "Bandle City",
+        "stun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
+            "Corki",
+            "Tristana"
+        ],
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Corki",
+            "Tristana",
             "Ziggs"
         ],
         [
-            "Sivir"
+            "Lulu",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Varus"
+            "Blitzcrank",
+            "Gragas",
+            "Lissandra",
+            "Nami",
+            "Nunu",
+            "Taric",
+            "Twisted fate"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Lulu",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
+            "Lulu"
         ],
         [
-            "Kayn",
-            "Naafiri"
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Aatrox",
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
-        ],
-        [
-            "Aatrox",
-            "Ksante",
-            "Nasus"
-        ],
-        [
-            "Aatrox",
-            "Kayn"
+            "Gnar",
+            "Kled",
+            "Lulu",
+            "Ziggs"
         ]
     ]
 }

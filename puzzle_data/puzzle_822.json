@@ -1,107 +1,110 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "shield",
-        "prestige"
+        "Season 2-6",
+        "life steal"
     ],
     "cols": [
-        "Freljord",
-        "knock-up",
-        "vastayan"
+        "Demacia",
+        "stun",
+        "arcane"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Brand",
-            "Braum"
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
             "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
             "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Nami",
-            "Neeko",
-            "Rakan"
-        ],
-        [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Diana",
-            "Galio",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Riven",
-            "Sion",
-            "Tahm kench",
-            "Vi",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Neeko",
-            "Rakan"
-        ],
-        [
             "Brand",
-            "Kindred",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Mel"
+        ],
+        [
+            "Fiora",
+            "Lucian",
+            "Quinn"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
             "Lissandra",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
+            "Nami",
+            "Nautilus",
             "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Ahri",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Ekko",
+            "Jayce",
+            "Jinx",
+            "Vi",
+            "Viktor"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Ambessa",
+            "Warwick"
         ]
     ]
 }

@@ -1,59 +1,127 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "Season 7+",
-        "empyrean"
+        "Adc",
+        "dash",
+        "Season 2-6"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "ult reset"
+        "Shadow Isles",
+        "stun",
+        "arcane"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Kalista",
+            "Senna"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
+            "Ashe",
+            "Seraphine",
             "Vayne"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Caitlyn",
+            "Jinx",
+            "Mel"
         ],
         [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Belveth",
-            "Naafiri",
+            "Gwen",
+            "Hecarim",
+            "Maokai",
+            "Thresh",
             "Vex",
             "Viego"
         ],
         [
-            "Nocturne",
-            "Vex"
+            "Alistar",
+            "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
         ],
         [
-            "Pyke"
+            "Ambessa",
+            "Caitlyn",
+            "Ekko",
+            "Jayce",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Vex"
+            "Hecarim",
+            "Kalista",
+            "Thresh"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
+        ],
+        [
+            "Ekko",
+            "Jayce",
+            "Jinx",
+            "Vi",
+            "Viktor"
         ]
     ]
 }

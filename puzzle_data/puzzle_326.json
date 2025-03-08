@@ -1,67 +1,62 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "Season 7+",
+        "Support",
+        "OG40",
         "true damage"
     ],
     "cols": [
+        "silence",
         "Bilgewater",
-        "root",
-        "vastayan"
+        "yordle"
     ],
     "solutions": [
         [
-            "Miss Fortune",
-            "Nilah"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
         ],
         [
-            "Xayah"
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Gangplank",
+            "Twisted fate"
         ],
         [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Chogath",
+            "Garen"
         ],
         [
             "Gangplank",
             "Pyke"
         ],
         [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Ahri"
+            "Amumu",
+            "Corki"
         ]
     ]
 }

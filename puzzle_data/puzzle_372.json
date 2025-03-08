@@ -1,16 +1,20 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "dash",
-        "Season 2-6"
+        "invis",
+        "prestige"
     ],
     "cols": [
+        "Bilgewater",
         "stun",
-        "Demacia",
-        "darkin"
+        "arcane"
     ],
     "solutions": [
+        [
+            "Fizz",
+            "Twisted fate"
+        ],
         [
             "Ambessa",
             "Anivia",
@@ -43,110 +47,60 @@
             "Zilean"
         ],
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Naafiri"
-        ],
-        [
-            "Alistar",
             "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Briar",
-            "Camille",
             "Ekko",
-            "Elise",
+            "Heimerdinger",
+            "Jayce",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Fizz",
+            "Miss Fortune",
+            "Pyke"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
             "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
-            "Ivern",
             "Jax",
             "Ksante",
             "Leona",
-            "Nautilus",
-            "Ornn",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
             "Pantheon",
-            "Poppy",
             "Pyke",
             "Qiyana",
-            "Rammus",
-            "Rell",
-            "Renekton",
+            "Renata glasc",
             "Riven",
-            "Sejuani",
             "Sett",
+            "Sona",
             "Sylas",
-            "Taliyah",
             "Thresh",
-            "Urgot",
             "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
-            "Zac"
+            "Volibear"
         ],
         [
-            "Fiora",
-            "Galio",
-            "Jarvan IV",
-            "Lucian",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sylas",
-            "Vayne",
-            "Xin Zhao"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Naafiri"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Aatrox",
-            "Varus"
+            "Caitlyn",
+            "Jinx",
+            "LeBlanc"
         ]
     ]
 }

@@ -1,30 +1,45 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Mid",
+        "Adc",
         "dash",
-        "Season 2-6"
+        "hextech"
     ],
     "cols": [
+        "root",
         "Shurima",
-        "fear",
-        "darkin"
+        "tether"
     ],
     "solutions": [
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Sivir"
         ],
         [
-            "Naafiri"
+            "Kalista"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
         ],
         [
             "Aatrox",
@@ -39,32 +54,25 @@
         ],
         [
             "Aatrox",
-            "Briar",
-            "Hecarim",
+            "Illaoi",
+            "Kled",
             "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
+            "Sylas",
+            "Yuumi",
+            "Zac"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Naafiri"
+            "Singed",
+            "Swain"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Taliyah"
+            "Amumu",
+            "Rammus",
+            "Renekton"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Aatrox",
-            "Varus"
+            "Malzahar",
+            "Nocturne"
         ]
     ]
 }

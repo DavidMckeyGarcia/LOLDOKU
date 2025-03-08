@@ -1,71 +1,157 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "shield",
-        "Season 2-6"
+        "Mid",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "silence",
-        "Noxus",
-        "ult reset"
+        "slow",
+        "Bandle City",
+        "yordle"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
-            "Briar",
+            "Ahri",
+            "Akali",
+            "Anivia",
+            "Aurelion Sol",
+            "Aurora",
+            "Azir",
+            "Brand",
+            "Cassiopeia",
+            "Chogath",
+            "Corki",
+            "Diana",
+            "Ekko",
             "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Heimerdinger",
+            "Hwei",
+            "Irelia",
+            "Jayce",
+            "Karma",
+            "Karthus",
             "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Kled",
+            "Kayle",
+            "Lissandra",
+            "Lux",
             "Mel",
-            "Mordekaiser",
-            "Rell",
-            "Riven",
-            "Sion"
-        ],
-        [
             "Naafiri",
-            "Olaf",
-            "Sivir",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Talon",
+            "Tristana",
+            "Twisted fate",
+            "Velkoz",
             "Vex",
-            "Viktor"
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
         ],
         [
-            "Lulu"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
         ],
         [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Kennen",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Belveth",
+            "Camille",
+            "Chogath",
+            "Corki",
             "Darius",
             "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Ksante",
+            "Kogmaw",
+            "Lillia",
+            "Nunu",
+            "Olaf",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Sett",
+            "Syndra",
+            "Twitch",
+            "Urgot",
+            "Velkoz",
+            "Zoe"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
+            "Corki"
+        ],
+        [
+            "Amumu",
+            "Corki"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
+        ],
+        [
+            "Yuumi"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

@@ -1,86 +1,67 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
+        "Jungle",
         "true damage",
-        "Season 2-6"
+        "Season 7+"
     ],
     "cols": [
-        "Ionia",
-        "root",
-        "shred"
+        "Demacia",
+        "fear",
+        "0 games"
     ],
     "solutions": [
         [
-            "Karma",
-            "Rakan"
-        ],
-        [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
+            "Jarvan IV",
             "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
-            "Rell"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ivern",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Syndra",
-            "Yone"
+            "Briar",
+            "Master yi"
         ],
         [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Corki",
+            "Fiora",
             "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
+            "Vayne"
         ],
         [
-            "Ahri",
-            "Ivern",
-            "Jhin",
-            "Syndra",
-            "Varus",
-            "Yasuo",
-            "Zed"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Akshan",
+            "Master yi",
+            "Samira"
         ],
         [
-            "Jayce",
-            "Rengar",
-            "Vi"
+            "Sylas"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

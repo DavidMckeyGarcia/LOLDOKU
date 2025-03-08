@@ -1,71 +1,53 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "true damage",
-        "Season 7+"
+        "Support",
+        "arcade",
+        "Season 2-6"
     ],
     "cols": [
-        "Shurima",
-        "fear",
-        "manaless"
+        "silence",
+        "The Void",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Velkoz"
         ],
         [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Swain"
         ],
         [
-            "Akshan",
-            "Amumu",
-            "Ksante"
+            "Blitzcrank",
+            "Malzahar"
         ],
         [
+            "Belveth",
+            "Kaisa",
+            "Malzahar"
+        ],
+        [
+            "Ahri",
+            "Belveth"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Khazix",
+            "Reksai",
+            "Velkoz"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
             "Darius",
-            "Urgot"
-        ],
-        [
-            "Akali",
-            "Belveth",
-            "Garen",
-            "Sett",
-            "Yone"
-        ],
-        [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Viktor"
         ]
     ]
 }

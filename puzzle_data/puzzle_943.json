@@ -1,68 +1,80 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "blink",
-        "Season 2-6"
+        "Adc",
+        "ult execute",
+        "OG40"
     ],
     "cols": [
-        "silence",
-        "Noxus",
+        "stun",
+        "Shadow Isles",
         "pentakill"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Kalista",
+            "Senna"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
+        ],
+        [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Viego"
         ],
         [
             "Akali",
-            "Ezreal",
-            "Lucian",
+            "Darius",
+            "Jinx"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Karthus"
+        ],
+        [
             "Ryze",
-            "Tristana"
-        ],
-        [
-            "Kassadin"
-        ],
-        [
-            "Ambessa",
-            "Katarina",
-            "LeBlanc"
-        ],
-        [
-            "Ezreal",
-            "Ryze"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
-            "Darius",
-            "Fiora",
-            "Jinx",
-            "Kalista",
-            "Lucian"
+            "Tristana",
+            "Twitch"
         ]
     ]
 }

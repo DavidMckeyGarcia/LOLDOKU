@@ -1,27 +1,16 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "dark star",
+        "worlds skin",
         "Season 2-6"
     ],
     "cols": [
-        "Freljord",
         "knock-up",
-        "ascended"
+        "Ixtal",
+        "ult reset"
     ],
     "solutions": [
-        [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
         [
             "Belveth",
             "Briar",
@@ -47,30 +36,46 @@
             "Zyra"
         ],
         [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
         ],
         [
-            "Lissandra"
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
         ],
         [
-            "Chogath",
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Gragas",
+            "Janna",
             "Jarvan IV",
-            "Malphite"
+            "Kalista",
+            "Lee sin",
+            "Malphite",
+            "Nami",
+            "Nunu",
+            "Rakan",
+            "Taliyah",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Varus",
-            "Xerath"
+            "Malphite",
+            "Nidalee",
+            "Rengar",
+            "Zyra"
         ],
         [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
+            "Aatrox",
+            "Singed",
+            "Vayne",
+            "Viego"
         ],
         [
             "Aatrox",
@@ -96,10 +101,14 @@
             "Zyra"
         ],
         [
+            "Rengar",
+            "Zyra"
+        ],
+        [
             "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
+            "Ahri",
+            "Darius",
+            "Viktor"
         ]
     ]
 }

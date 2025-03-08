@@ -1,22 +1,16 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "evolves",
+        "worlds skin",
         "Season 2-6"
     ],
     "cols": [
-        "Zaun",
         "knock-up",
-        "darkin"
+        "Noxus",
+        "ult reset"
     ],
     "solutions": [
-        [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
         [
             "Anivia",
             "Aurelion Sol",
@@ -35,25 +29,52 @@
             "Ziggs"
         ],
         [
-            "Naafiri"
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
             "Viktor"
         ],
         [
-            "Belveth",
-            "Kayn"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Gragas",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Malphite",
+            "Nami",
+            "Nunu",
+            "Rakan",
+            "Taliyah",
             "Zac",
-            "Ziggs"
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Elise",
+            "LeBlanc",
+            "Talon"
+        ],
+        [
+            "Aatrox",
+            "Singed",
+            "Vayne",
+            "Viego"
         ],
         [
             "Aatrox",
@@ -79,8 +100,17 @@
             "Zyra"
         ],
         [
+            "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
+        ],
+        [
             "Aatrox",
-            "Varus"
+            "Ahri",
+            "Darius",
+            "Viktor"
         ]
     ]
 }

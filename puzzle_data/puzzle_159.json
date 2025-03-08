@@ -1,50 +1,105 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "empyrean",
-        "blink"
+        "Adc",
+        "arcade",
+        "invis"
     ],
     "cols": [
-        "silence",
-        "Shadow Isles",
+        "Ionia",
+        "slow",
         "pentakill"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Karthus",
-            "Vex"
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
+        ],
+        [
+            "Ahri",
+            "Yasuo"
+        ],
+        [
+            "Ahri",
+            "Belveth",
+            "Brand",
+            "Caitlyn",
+            "Corki",
+            "Hecarim",
+            "Kaisa",
+            "Miss Fortune",
+            "Qiyana",
+            "Sona",
+            "Ziggs"
+        ],
+        [
+            "Ezreal",
+            "Kaisa"
         ],
         [
             "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Wukong"
         ],
         [
-            "Malzahar"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Akali"
-        ],
-        [
-            "Kassadin"
-        ],
-        [
+            "Akali",
+            "Aurora",
+            "Kaisa",
+            "Khazix",
+            "Pyke",
+            "Qiyana",
+            "Reksai",
+            "Rengar",
+            "Senna",
+            "Shaco",
+            "Talon",
+            "Teemo",
+            "Twitch",
             "Viego"
         ],
         [
-            "Ezreal",
-            "Ryze"
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

@@ -1,93 +1,97 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "dark star"
+        "Support",
+        "OG40",
+        "dash"
     ],
     "cols": [
-        "Zaun",
+        "Ionia",
         "root",
-        "manaless"
+        "riot records"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Ivern",
-            "Lee sin",
+            "Karma",
+            "Leona",
+            "Lux",
             "Maokai",
+            "Mel",
             "Morgana",
             "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Senna",
+            "Sona"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Morgana",
             "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Evelynn",
+            "Karthus",
+            "Kayle"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
             "Qiyana",
             "Rengar",
             "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
             "Zac"
         ],
         [
+            "Ahri",
+            "Akali",
             "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Kled",
-            "Reksai",
-            "Rengar",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Qiyana",
+            "Sett",
+            "Viego",
             "Yasuo",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Orianna"
-        ],
-        [
-            "Jhin",
-            "Karma",
-            "Lissandra",
-            "Lux",
-            "Shaco",
-            "Varus"
-        ],
-        [
-            "Mordekaiser"
+            "Yone"
         ]
     ]
 }

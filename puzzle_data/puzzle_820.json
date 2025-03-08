@@ -1,70 +1,87 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Adc",
-        "arcade",
-        "global ult"
+        "invis",
+        "Season 7+"
     ],
     "cols": [
-        "knock-up",
-        "Shadow Isles",
-        "riot records"
+        "Noxus",
+        "stun",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Kalista",
+            "Draven",
+            "Mel",
             "Samira",
-            "Ziggs"
+            "Smolder"
         ],
         [
-            "Kalista",
-            "Senna"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
             "Aphelios",
             "Ezreal",
+            "Jinx",
             "Kaisa",
-            "Senna"
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
         ],
         [
-            "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
+            "LeBlanc",
+            "Talon"
         ],
         [
-            "Hecarim"
-        ],
-        [
-            "Ahri",
-            "Ezreal",
-            "Kaisa",
+            "Neeko",
+            "Pyke",
             "Qiyana",
-            "Sona",
-            "Yasuo"
+            "Vayne",
+            "Viego"
         ],
         [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
-        ],
-        [
-            "Karthus",
-            "Maokai",
-            "Senna",
-            "Vex"
-        ],
-        [
-            "Ekko",
-            "Ezreal",
+            "Akali",
             "Kaisa",
-            "Karthus",
-            "Senna"
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
         ]
     ]
 }

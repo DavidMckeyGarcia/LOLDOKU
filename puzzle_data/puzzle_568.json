@@ -1,94 +1,79 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "elderwood",
-        "evolves"
+        "Mid",
+        "hextech",
+        "ult execute"
     ],
     "cols": [
-        "stun",
-        "Ionia",
-        "Immunity"
+        "knock-up",
+        "Shurima",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
+            "Neeko",
             "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
+            "Taliyah",
+            "Velkoz",
             "Yasuo",
-            "Yone"
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Camille",
-            "Fiora",
-            "Gwen",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Sion",
-            "Zac"
-        ],
-        [
-            "Bard",
-            "Gnar",
-            "Hecarim",
-            "Veigar"
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
             "Ahri",
-            "Rakan",
-            "Wukong",
-            "Xayah"
-        ],
-        [
-            "Bard",
-            "Karthus",
-            "Xayah"
-        ],
-        [
-            "Bard",
+            "Naafiri",
+            "Swain",
+            "Vex",
             "Viktor"
         ],
         [
-            "Kayn"
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
+            "Ziggs"
         ],
         [
-            "Bard",
-            "Kayle",
-            "Kayn"
+            "Amumu",
+            "Rammus",
+            "Renekton"
+        ],
+        [
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Darius",
+            "Viego"
         ]
     ]
 }

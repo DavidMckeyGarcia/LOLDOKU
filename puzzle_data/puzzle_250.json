@@ -1,145 +1,76 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "dash",
-        "prestige"
+        "shield",
+        "OG40"
     ],
     "cols": [
-        "stun",
-        "Shadow Isles",
-        "vastayan"
+        "Demacia",
+        "fear",
+        "tether"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
             "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
             "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
+            "Quinn",
             "Sylas",
-            "Tahm kench",
-            "Udyr",
+            "Vayne"
+        ],
+        [
+            "Aatrox",
+            "Darius",
             "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
             "Zac"
         ],
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Wukong"
-        ],
-        [
-            "Alistar",
-            "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
-            "Ivern",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Nautilus",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sett",
-            "Sylas",
-            "Taliyah",
-            "Thresh",
-            "Urgot",
-            "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Gwen",
-            "Hecarim",
-            "Maokai",
-            "Thresh",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Ahri",
-            "Aurora",
-            "Rakan",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Lissandra",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
             "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
+        ],
+        [
+            "Karma",
+            "Kled",
+            "Morgana",
+            "Nocturne",
             "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
+            "Taric",
+            "Yuumi"
         ],
         [
-            "Senna",
-            "Thresh"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Ahri",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

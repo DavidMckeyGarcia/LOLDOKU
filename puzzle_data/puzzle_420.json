@@ -1,109 +1,72 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "OG40",
-        "invis"
+        "Mid",
+        "invis",
+        "Space Groove"
     ],
     "cols": [
-        "stun",
-        "Bandle City",
-        "Immunity"
+        "Demacia",
+        "knock-up",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
+            "Neeko",
             "Sylas",
             "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Rumble",
-            "Teemo"
+            "Ahri",
+            "Aurora",
+            "Neeko"
         ],
         [
-            "Camille",
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Viego",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle",
-            "Ryze",
-            "Sion",
-            "Zilean"
+            "Vayne"
         ],
         [
             "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Teemo"
+            "Reksai",
+            "Wukong"
         ],
         [
             "Aurora",
-            "Viego"
+            "Neeko",
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Lux"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lulu",
+            "Nami",
+            "Nunu",
+            "Samira"
+        ],
+        [
+            "Nami"
         ]
     ]
 }

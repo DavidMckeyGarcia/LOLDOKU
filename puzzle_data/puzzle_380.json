@@ -1,23 +1,16 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "elderwood",
+        "true damage",
         "Season 2-6"
     ],
     "cols": [
-        "Shurima",
         "fear",
-        "manaless"
+        "Targon",
+        "shred"
     ],
     "solutions": [
-        [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
-        ],
         [
             "Aatrox",
             "Darius",
@@ -25,38 +18,34 @@
             "Warwick"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
+            "Pantheon"
+        ],
+        [
             "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
+            "Jarvan IV",
+            "Jayce",
             "Mordekaiser",
+            "Nasus",
+            "Olaf",
             "Renekton",
             "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Sion",
+            "Trundle",
+            "Wukong"
         ],
         [
-            "Azir"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Hecarim"
+            "Zoe"
         ],
         [
-            "Gnar",
-            "Reksai"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Taliyah"
+            "Corki",
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
         ],
         [
             "Aatrox",
@@ -64,14 +53,13 @@
             "Hecarim"
         ],
         [
-            "Aatrox",
-            "Gnar",
-            "Kled",
-            "Reksai",
+            "Aurelion Sol",
+            "Diana"
+        ],
+        [
+            "Jayce",
             "Rengar",
-            "Yasuo",
-            "Zac",
-            "Zed"
+            "Vi"
         ]
     ]
 }

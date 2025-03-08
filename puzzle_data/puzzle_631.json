@@ -1,101 +1,72 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "Fright Night",
-        "Season 2-6"
+        "Top",
+        "Season 7+",
+        "arcade"
     ],
     "cols": [
-        "Bilgewater",
+        "Piltover",
         "root",
-        "100% AP Ratio"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
+            "Camille",
+            "Heimerdinger",
+            "Jayce"
         ],
         [
-            "Ivern",
-            "Lee sin",
+            "Ksante",
             "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
-        ],
-        [
-            "Nautilus",
-            "Pyke"
-        ],
-        [
-            "Nautilus",
-            "Nunu",
-            "Renata glasc",
-            "Shaco"
-        ],
-        [
-            "Nunu",
-            "Veigar",
-            "Zeri"
-        ],
-        [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Aurelion Sol",
-            "Ekko",
-            "Fiora",
+            "Aatrox",
             "Gnar",
-            "Hecarim",
-            "Jhin",
-            "Jinx",
-            "Tahm kench",
-            "Thresh",
-            "Varus",
-            "Vi",
-            "Viktor",
-            "Volibear"
+            "Gragas",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Maokai",
+            "Renekton",
+            "Rumble",
+            "Shen"
+        ],
+        [
+            "Camille",
+            "Seraphine"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Kaisa",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa"
         ]
     ]
 }

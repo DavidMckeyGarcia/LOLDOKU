@@ -1,92 +1,128 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
         "Adc",
-        "Season 2-6",
-        "global ult"
+        "ult execute",
+        "Season 2-6"
     ],
     "cols": [
-        "Ionia",
-        "stun",
-        "yordle"
+        "Shadow Isles",
+        "slow",
+        "riot records"
     ],
     "solutions": [
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
+            "Kalista",
+            "Senna"
         ],
         [
+            "Aphelios",
             "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
+            "Caitlyn",
             "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
             "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
             "Ziggs"
         ],
         [
-            "Ahri",
-            "Ivern",
-            "Jhin",
-            "Syndra",
-            "Varus",
-            "Yasuo",
-            "Zed"
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
         ],
         [
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Chogath",
+            "Darius",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Syndra",
+            "Urgot",
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Evelynn",
+            "Viego"
+        ],
+        [
+            "Hecarim",
+            "Kalista",
+            "Thresh"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
             "Aurelion Sol",
+            "Azir",
             "Bard",
             "Braum",
+            "Darius",
+            "Diana",
+            "Draven",
             "Ekko",
             "Elise",
             "Fiora",
             "Gnar",
             "Hecarim",
+            "Illaoi",
             "Ivern",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Khazix",
+            "Kindred",
+            "Kled",
             "Lissandra",
+            "Lulu",
             "Nami",
             "Nautilus",
-            "Riven",
+            "Quinn",
+            "Reksai",
+            "Rengar",
             "Sejuani",
             "Syndra",
             "Tahm kench",
             "Taliyah",
             "Thresh",
+            "Varus",
             "Velkoz",
-            "Vi",
             "Viktor",
             "Volibear",
-            "Zac"
+            "Zac",
+            "Zed",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
-        ],
-        [
-            "Lillia",
-            "Shen"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
+            "Ahri",
             "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Kled",
-            "Vex",
-            "Ziggs"
+            "Yasuo"
         ]
     ]
 }

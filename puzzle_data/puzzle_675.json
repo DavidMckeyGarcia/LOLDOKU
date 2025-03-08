@@ -1,86 +1,107 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "OG40",
-        "invis"
+        "Adc",
+        "pool party",
+        "ult execute"
     ],
     "cols": [
-        "fear",
-        "Freljord",
-        "100% AP Ratio"
+        "slow",
+        "Ionia",
+        "shred"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Aurelion Sol",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Anivia",
+            "Aphelios",
             "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
+            "Caitlyn",
             "Corki",
-            "Evelynn",
-            "Gangplank",
-            "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Aurora"
-        ],
-        [
+            "Draven",
+            "Jhin",
+            "Jinx",
             "Kaisa",
-            "Neeko",
-            "Viego",
-            "Wukong"
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Jhin",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Corki",
+            "Kogmaw"
+        ],
+        [
+            "Braum",
+            "Caitlyn",
+            "Dr. Mundo",
+            "Draven",
+            "Fiora",
+            "Gangplank",
+            "Graves",
+            "Heimerdinger",
+            "Jarvan IV",
+            "Lee sin",
+            "Leona",
+            "Lulu",
+            "Miss Fortune",
+            "Orianna",
+            "Reksai",
+            "Sett",
+            "Singed",
+            "Syndra",
+            "Taliyah",
+            "Zac",
+            "Ziggs",
+            "Zoe"
+        ],
+        [
+            "Lee sin",
+            "Sett",
+            "Syndra"
+        ],
+        [
+            "Jarvan IV",
+            "Renekton",
+            "Zoe"
+        ],
+        [
+            "Akali",
+            "Chogath",
+            "Darius",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Syndra",
+            "Urgot",
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Jhin",
+            "Syndra"
+        ],
+        [
+            "Evelynn",
+            "Garen"
         ]
     ]
 }

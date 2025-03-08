@@ -1,83 +1,48 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
+        "Adc",
         "Season 2-6",
-        "Space Groove"
+        "ult execute"
     ],
     "cols": [
         "slow",
-        "Noxus",
-        "vastayan"
+        "The Void",
+        "shred"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Anivia",
-            "Aurelion Sol",
-            "Aurora",
-            "Azir",
-            "Brand",
-            "Cassiopeia",
-            "Chogath",
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
             "Corki",
-            "Diana",
-            "Ekko",
-            "Elise",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Heimerdinger",
-            "Hwei",
-            "Irelia",
-            "Jayce",
-            "Karma",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Lissandra",
-            "Lux",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
             "Mel",
-            "Naafiri",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Ryze",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
             "Seraphine",
-            "Swain",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Talon",
+            "Sivir",
+            "Smolder",
             "Tristana",
-            "Twisted fate",
-            "Velkoz",
-            "Vex",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zed",
-            "Ziggs",
-            "Zilean",
-            "Zoe"
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Kaisa",
+            "Kogmaw"
         ],
         [
-            "Ahri",
-            "Aurora",
-            "Neeko"
+            "Corki",
+            "Kogmaw"
         ],
         [
             "Aatrox",
@@ -125,35 +90,37 @@
             "Zyra"
         ],
         [
+            "Khazix",
+            "Reksai",
+            "Velkoz"
+        ],
+        [
+            "Jayce",
+            "Rengar",
+            "Vi"
+        ],
+        [
+            "Akali",
+            "Chogath",
             "Darius",
             "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Syndra",
+            "Urgot",
+            "Viego"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar"
+            "Chogath",
+            "Reksai"
         ],
         [
-            "Gragas",
-            "Lissandra",
-            "Lulu",
-            "Lux",
-            "Nami",
-            "Nasus",
-            "Nunu",
-            "Rumble",
-            "Samira",
-            "Teemo",
-            "Twisted fate"
-        ],
-        [
-            "Samira"
-        ],
-        [
-            "Nami"
+            "Evelynn",
+            "Garen"
         ]
     ]
 }

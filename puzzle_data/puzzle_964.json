@@ -1,26 +1,85 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "global ult"
+        "Jungle",
+        "global ult",
+        "Season 7+"
     ],
     "cols": [
+        "Zaun",
         "stun",
-        "Targon",
-        "tether"
+        "0 games"
     ],
     "solutions": [
         [
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Briar",
+            "Master yi"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
             "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
         ],
         [
-            "Aphelios"
+            "Briar",
+            "Mel",
+            "Vex"
         ],
         [
-            "Kalista"
+            "Renata glasc",
+            "Zeri"
         ],
         [
             "Ambessa",
@@ -40,35 +99,14 @@
             "Yone"
         ],
         [
-            "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
+            "Akshan",
+            "Ambessa",
             "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Aurelion Sol",
-            "Pantheon",
-            "Soraka"
-        ],
-        [
-            "Kled",
-            "Nocturne"
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

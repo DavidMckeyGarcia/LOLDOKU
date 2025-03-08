@@ -1,101 +1,95 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
         "Adc",
-        "true damage",
-        "prestige"
+        "Season 2-6",
+        "life steal"
     ],
     "cols": [
+        "Zaun",
         "stun",
-        "Ionia",
-        "shred"
+        "pentakill"
     ],
     "solutions": [
+        [
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
         [
             "Ashe",
             "Seraphine",
             "Vayne"
         ],
         [
-            "Jhin",
-            "Varus",
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
             "Xayah"
         ],
         [
-            "Corki",
-            "Kogmaw"
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Viktor",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Amumu",
-            "Camille",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
             "Fiora",
+            "Gnar",
+            "Hecarim",
             "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ivern",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Syndra",
-            "Yone"
-        ],
-        [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
             "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
+            "Nami",
+            "Nautilus",
             "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
             "Thresh",
-            "Vayne",
-            "Volibear"
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Kayn",
-            "Lee sin",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yasuo",
-            "Zed"
+            "Darius",
+            "Fiora",
+            "Jinx",
+            "Kalista",
+            "Lucian"
         ],
         [
-            "Evelynn",
-            "Garen",
-            "Zoe"
+            "Warwick"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Aphelios"
         ]
     ]
 }

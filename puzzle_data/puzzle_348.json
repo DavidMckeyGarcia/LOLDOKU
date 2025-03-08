@@ -1,61 +1,67 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "invis",
-        "worlds skin"
+        "Adc",
+        "Season 7+",
+        "arcade"
     ],
     "cols": [
-        "fear",
-        "Noxus",
-        "30+ wins"
+        "root",
+        "Piltover",
+        "yordle"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
+            "Caitlyn",
+            "Ezreal",
+            "Seraphine"
         ],
         [
-            "Taliyah"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "LeBlanc"
-        ],
-        [
-            "Aatrox"
-        ],
-        [
-            "Alistar",
-            "Elise",
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Azir",
             "Corki",
-            "LeBlanc",
-            "Orianna",
-            "Ryze",
-            "Taliyah"
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Camille",
+            "Seraphine"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Corki",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

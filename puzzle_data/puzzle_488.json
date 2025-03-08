@@ -1,77 +1,95 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
+        "Top",
         "true damage",
-        "worlds skin"
+        "Space Groove"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "yordle"
+        "Demacia",
+        "knock-up",
+        "shred"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Corki",
-            "Tristana",
-            "Ziggs"
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Wukong"
         ],
         [
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Belveth",
+            "Chogath",
             "Ivern",
             "Ksante",
             "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Amumu",
-            "Corki"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Gangplank",
-            "Graves",
-            "Nami",
-            "Twisted fate"
+            "Samira",
+            "Velkoz",
+            "Yone"
         ],
         [
             "Corki",
-            "Gnar",
-            "Kennen"
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
+        ],
+        [
+            "Lux"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lulu",
+            "Nami",
+            "Nunu",
+            "Samira"
+        ],
+        [
+            "Nasus",
+            "Rumble"
         ]
     ]
 }

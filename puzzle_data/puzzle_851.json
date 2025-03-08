@@ -2,22 +2,15 @@
     "difficulty": "diamond",
     "rows": [
         "Jungle",
-        "OG40",
-        "ult execute"
+        "dash",
+        "arcade"
     ],
     "cols": [
-        "Shurima",
         "fear",
-        "yordle"
+        "Zaun",
+        "arcane"
     ],
     "solutions": [
-        [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
-        ],
         [
             "Briar",
             "Fiddlesticks",
@@ -27,41 +20,53 @@
             "Warwick"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
+            "Ekko",
+            "Vi",
             "Warwick"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
         ],
         [
-            "Akshan"
+            "Ekko",
+            "Urgot",
+            "Vi",
+            "Warwick",
+            "Zac",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Darius",
-            "Urgot"
+            "Ambessa",
+            "Caitlyn",
+            "Ekko",
+            "Jayce",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Veigar"
+            "Hecarim"
+        ],
+        [
+            "Blitzcrank",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn"
         ]
     ]
 }

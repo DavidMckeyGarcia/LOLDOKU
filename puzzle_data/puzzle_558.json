@@ -1,22 +1,19 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
         "Mid",
-        "life steal",
-        "empyrean"
+        "empyrean",
+        "Season 2-6"
     ],
     "cols": [
-        "Demacia",
+        "Bilgewater",
         "fear",
         "never played"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Fizz",
+            "Twisted fate"
         ],
         [
             "Hwei",
@@ -32,32 +29,7 @@
             "Naafiri"
         ],
         [
-            "Morgana"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Warwick"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
-            "Kayn",
-            "Morgana",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Kayle",
-            "Lux"
+            "Pyke"
         ],
         [
             "Nocturne",
@@ -67,6 +39,42 @@
             "Brand",
             "Jhin",
             "Pyke"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus",
+            "Tahm kench"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Hecarim"
+        ],
+        [
+            "Bard",
+            "Braum",
+            "Draven",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kindred",
+            "Kled",
+            "Nami",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Volibear",
+            "Zyra"
         ]
     ]
 }

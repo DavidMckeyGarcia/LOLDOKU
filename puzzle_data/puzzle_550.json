@@ -1,96 +1,87 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Mid",
-        "ult execute",
-        "prestige"
+        "Jungle",
+        "OG40",
+        "worlds skin"
     ],
     "cols": [
-        "Noxus",
         "root",
+        "Targon",
         "arcane"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "Jayce",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Riven"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Jinx"
-        ],
-        [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
+            "Ivern",
             "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
+            "Maokai",
             "Morgana",
-            "Neeko",
+            "Nautilus",
+            "Nunu",
             "Qiyana",
-            "Renata glasc",
-            "Senna",
+            "Rengar",
             "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
+            "Zac",
             "Zyra"
         ],
         [
+            "Diana",
+            "Pantheon"
+        ],
+        [
+            "Ekko",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Aphelios",
             "Caitlyn",
+            "Jhin",
             "Jinx",
-            "LeBlanc"
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Singed",
+            "Xayah",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Aphelios",
+            "Leona",
+            "Zoe"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Janna",
+            "Jayce",
+            "Jinx",
+            "LeBlanc",
+            "Orianna",
+            "Singed"
         ]
     ]
 }

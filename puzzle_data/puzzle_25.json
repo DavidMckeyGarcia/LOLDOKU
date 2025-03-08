@@ -1,104 +1,100 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "Season 2-6",
-        "cosmic"
+        "ult execute",
+        "prestige"
     ],
     "cols": [
-        "Shadow Isles",
-        "stun",
-        "0 games"
+        "knock-up",
+        "Ionia",
+        "yordle"
     ],
     "solutions": [
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Aatrox",
+            "Chogath",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
+            "Jarvan IV",
             "Ksante",
-            "Kennen",
+            "Kayn",
+            "Malphite",
             "Ornn",
-            "Pantheon",
             "Poppy",
-            "Renekton",
             "Riven",
-            "Sett",
             "Sion",
-            "Skarner",
             "Sylas",
             "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
             "Yone",
             "Zac"
         ],
         [
-            "Ambessa",
-            "Illaoi"
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
             "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Akali",
+            "Jhin",
+            "Syndra"
+        ],
+        [
+            "Veigar"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
             "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
+            "Sylas",
+            "Yasuo",
+            "Zyra"
         ],
         [
-            "Illaoi"
+            "Ahri",
+            "Akali",
+            "Kayn",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Hecarim"
-        ],
-        [
-            "Anivia",
-            "Hecarim",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Sion",
-            "Skarner",
-            "Xin Zhao"
-        ],
-        [
-            "Illaoi",
-            "Master yi"
+            "Fizz",
+            "Lulu",
+            "Teemo"
         ]
     ]
 }

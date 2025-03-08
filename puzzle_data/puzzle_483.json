@@ -1,77 +1,72 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "life steal",
-        "Season 2-6"
+        "Jungle",
+        "coven",
+        "true damage"
     ],
     "cols": [
         "root",
-        "Zaun",
-        "arcane"
+        "Noxus",
+        "tether"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Mel"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Warwick"
-        ],
-        [
-            "Ambessa",
-            "Warwick"
-        ],
-        [
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
             "Nautilus",
+            "Nunu",
+            "Qiyana",
             "Rengar",
-            "Varus",
+            "Shaco",
             "Zac",
             "Zyra"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
         ],
         [
-            "Ekko",
-            "Jayce",
-            "Jinx",
-            "Vi",
-            "Viktor"
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Morgana",
+            "Zyra"
+        ],
+        [
+            "Cassiopeia",
+            "Elise",
+            "LeBlanc"
+        ],
+        [
+            "LeBlanc",
+            "Morgana"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Samira"
+        ],
+        [
+            "Renata glasc"
         ]
     ]
 }

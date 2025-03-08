@@ -1,67 +1,65 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "worlds skin",
+        "Adc",
+        "pool party",
         "OG40"
     ],
     "cols": [
+        "Shurima",
         "root",
-        "Piltover",
-        "ult reset"
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Camille"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
+            "Sivir"
         ],
         [
             "Aphelios",
             "Caitlyn",
             "Jhin",
             "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Renekton",
+            "Taliyah"
         ],
         [
             "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce",
-            "Orianna"
+            "Lee sin",
+            "Leona",
+            "Singed",
+            "Zac"
         ],
         [
-            "Aatrox",
-            "Singed",
-            "Vayne",
-            "Viego"
+            "Fiora",
+            "Gangplank"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
         ],
         [
             "Morgana",
@@ -72,12 +70,23 @@
             "Soraka"
         ],
         [
-            "Heimerdinger"
-        ],
-        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
             "Master yi",
-            "Singed",
-            "Sivir"
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ]
     ]
 }

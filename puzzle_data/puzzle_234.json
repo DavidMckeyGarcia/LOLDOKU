@@ -1,79 +1,99 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "evolves",
+        "Mid",
+        "blink",
         "Season 2-6"
     ],
     "cols": [
-        "stun",
         "The Void",
-        "manaless"
+        "stun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Amumu",
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
+        ],
+        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
             "Brand",
-            "Briar",
-            "Camille",
+            "Cassiopeia",
             "Ekko",
             "Elise",
             "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
             "Pantheon",
-            "Poppy",
             "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
+            "Seraphine",
             "Sylas",
+            "Syndra",
             "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Belveth",
-            "Khazix",
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Kassadin",
             "Reksai"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
             "Viego",
-            "Zac"
+            "Yone"
         ],
         [
-            "Bard",
-            "Viktor"
+            "Ekko",
+            "Master yi",
+            "Pantheon",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego"
         ],
         [
-            "Belveth",
-            "Kaisa",
-            "Khazix"
-        ],
-        [
-            "Belveth"
+            "Khazix",
+            "Reksai",
+            "Velkoz"
         ],
         [
             "Aurelion Sol",
@@ -101,19 +121,19 @@
             "Zac"
         ],
         [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
-        ],
-        [
-            "Aatrox",
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
             "Gnar",
-            "Kled",
-            "Reksai",
-            "Rengar",
-            "Yasuo",
-            "Zac",
-            "Zed"
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

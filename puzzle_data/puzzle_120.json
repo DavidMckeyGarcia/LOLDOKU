@@ -1,23 +1,16 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
         "Mid",
         "Season 7+",
-        "pool party"
+        "blink"
     ],
     "cols": [
-        "Bandle City",
         "root",
-        "tether"
+        "Bilgewater",
+        "100+ games"
     ],
     "solutions": [
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar"
-        ],
         [
             "Hwei",
             "Karma",
@@ -32,13 +25,20 @@
             "Swain"
         ],
         [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
+            "Fizz",
+            "Twisted fate"
         ],
         [
-            "Yuumi"
+            "Azir",
+            "Elise",
+            "Ezreal",
+            "Gragas",
+            "Jayce",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
         ],
         [
             "Aphelios",
@@ -52,24 +52,28 @@
             "Xayah"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Nilah",
+            "Pyke"
         ],
         [
-            "Heimerdinger",
-            "Lulu"
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ],
         [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
         ],
         [
-            "Taric",
-            "Zac"
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Ezreal",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

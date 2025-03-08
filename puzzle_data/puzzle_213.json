@@ -1,106 +1,75 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "global ult",
-        "Season 7+"
+        "Support",
+        "blink",
+        "Season 2-6"
     ],
     "cols": [
-        "The Void",
+        "Targon",
         "root",
-        "never played"
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
         ],
         [
-            "Hwei",
             "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Galio"
+        ],
+        [
+            "Pantheon"
+        ],
+        [
             "LeBlanc",
             "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Ryze"
         ],
         [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Elise",
-            "Heimerdinger",
-            "Kennen",
-            "Naafiri"
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
         ],
         [
-            "Kaisa"
+            "Aurelion Sol",
+            "Diana"
         ],
         [
-            "Caitlyn",
+            "Ivern",
+            "Jhin",
             "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Ashe",
-            "Bard",
-            "Briar",
-            "Draven",
-            "Jinx",
-            "Kled",
-            "Lillia",
-            "Maokai",
-            "Senna",
-            "Shen",
-            "Soraka"
-        ],
-        [
-            "Belveth",
-            "Kaisa"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Ahri",
+            "Azir",
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
         ]
     ]
 }

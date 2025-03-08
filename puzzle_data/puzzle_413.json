@@ -1,62 +1,79 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "ult execute",
-        "Season 2-6"
+        "Jungle",
+        "PROJECT",
+        "OG40"
     ],
     "cols": [
-        "silence",
-        "Shadow Isles",
-        "Immunity"
+        "Zaun",
+        "root",
+        "tether"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Camille",
-            "Fiora",
-            "Gwen",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Sion",
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
             "Zac"
         ],
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Viego"
-        ],
-        [
-            "Evelynn",
-            "Viego"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
-            "Bard",
-            "Ekko",
-            "Fiora",
-            "Kled",
-            "Lissandra",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
             "Zac",
-            "Zed"
+            "Zyra"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Senna",
+            "Varus"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

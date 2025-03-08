@@ -1,67 +1,64 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
         "Jungle",
-        "Season 2-6",
-        "prestige"
+        "true damage",
+        "Space Groove"
     ],
     "cols": [
-        "fear",
-        "Targon",
-        "ascended"
+        "root",
+        "Shurima",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
             "Shaco",
-            "Warwick"
+            "Zac",
+            "Zyra"
         ],
         [
-            "Diana",
-            "Pantheon"
-        ],
-        [
-            "Diana",
-            "Kayn",
+            "Amumu",
+            "Jax",
             "Nasus",
-            "Pantheon"
+            "Rammus",
+            "Taliyah"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
+            "Taliyah"
         ],
         [
-            "Aurelion Sol",
-            "Diana"
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
+            "Akshan",
+            "Amumu",
+            "Ksante"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Shaco"
+            "Ahri",
+            "Corki"
         ],
         [
-            "Diana",
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Zoe"
+            "Lissandra",
+            "Lux",
+            "Nunu"
         ],
         [
-            "Aatrox",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Pantheon"
+            "Nasus"
+        ],
+        [
+            "Lissandra"
         ]
     ]
 }

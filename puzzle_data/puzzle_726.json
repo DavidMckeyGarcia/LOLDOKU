@@ -1,25 +1,20 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "OG40",
-        "shield"
+        "Season 7+",
+        "cosmic"
     ],
     "cols": [
-        "Freljord",
+        "Bilgewater",
         "root",
-        "Immunity"
+        "never played"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
         ],
         [
             "Ksante",
@@ -29,69 +24,95 @@
             "Zac"
         ],
         [
-            "Camille",
+            "Chogath",
+            "Dr. Mundo",
             "Fiora",
+            "Garen",
+            "Gnar",
             "Gwen",
-            "Kayle",
+            "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
             "Kayn",
+            "Kennen",
             "Kled",
-            "Sion",
-            "Zac"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle",
-            "Ryze",
-            "Sion",
-            "Zilean"
-        ],
-        [
-            "Braum",
-            "Nunu",
-            "Olaf",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
             "Udyr",
-            "Volibear"
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
+        ],
+        [
+            "Nilah",
+            "Pyke"
         ],
         [
             "Aphelios",
             "Hwei",
-            "Ivern",
             "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
             "Mel",
-            "Morgana",
-            "Nautilus",
             "Neeko",
-            "Nunu",
             "Renata glasc",
             "Senna",
-            "Seraphine"
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Camille",
-            "Ekko",
-            "Galio",
-            "Kled",
-            "Mel",
-            "Sion",
-            "Yuumi"
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus"
+        ],
+        [
+            "Jhin",
+            "Lissandra",
+            "Lux",
+            "Nautilus",
+            "Nunu",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Belveth",
+            "Hecarim",
+            "Illaoi",
+            "Jhin",
+            "Nami",
+            "Nunu",
+            "Rakan",
+            "Skarner",
+            "Xayah",
+            "Xin Zhao"
         ]
     ]
 }

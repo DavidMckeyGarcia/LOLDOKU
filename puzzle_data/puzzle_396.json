@@ -1,108 +1,72 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
         "Mid",
         "Season 2-6",
-        "cosmic"
+        "shield"
     ],
     "cols": [
-        "knock-up",
-        "Noxus",
-        "yordle"
+        "silence",
+        "Shadow Isles",
+        "riot records"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
             "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Karthus",
+            "Vex"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
             "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
-        ],
-        [
-            "Anivia",
-            "Belveth",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Rakan",
-            "Sion",
-            "Xin Zhao"
-        ],
-        [
-            "Sion",
-            "Vladimir"
+            "Yone"
         ],
         [
             "Lulu"
+        ],
+        [
+            "Hecarim",
+            "Kalista",
+            "Thresh"
+        ],
+        [
+            "Ahri",
+            "Ekko",
+            "Yasuo"
+        ],
+        [
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Senna",
+            "Thresh",
+            "Vex"
+        ],
+        [
+            "Aphelios",
+            "Ekko",
+            "Ksante",
+            "Kaisa",
+            "Mordekaiser",
+            "Olaf",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

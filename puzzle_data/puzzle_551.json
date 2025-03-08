@@ -1,136 +1,97 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "hextech",
-        "Season 7+"
+        "Mid",
+        "arcade",
+        "dash"
     ],
     "cols": [
-        "Noxus",
-        "slow",
-        "yordle"
+        "root",
+        "Piltover",
+        "manaless"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
-        ],
-        [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
+            "Hwei",
             "Karma",
-            "Leona",
-            "Lulu",
+            "LeBlanc",
+            "Lissandra",
             "Lux",
-            "Maokai",
             "Mel",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Sion",
             "Swain"
         ],
         [
-            "Anivia",
-            "Galio",
-            "Janna",
-            "Jarvan IV",
-            "Kassadin",
-            "Kogmaw",
-            "Nocturne",
-            "Poppy",
-            "Rammus",
-            "Sejuani",
-            "Singed",
-            "Sion",
-            "Swain",
-            "Tristana",
-            "Ziggs"
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna",
+            "Seraphine"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
+            "Akali",
             "Ambessa",
-            "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
+            "Katarina",
+            "Kennen",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Aphelios",
-            "Aurora",
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Belveth",
+            "Yasuo"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Caitlyn",
+            "Camille",
+            "Ezreal",
+            "Jayce"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Ambessa",
             "Belveth",
             "Briar",
-            "Camille",
-            "Gwen",
-            "Hwei",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Lillia",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Ornn",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Seraphine",
+            "Gnar",
+            "Kled",
+            "Lee sin",
+            "Reksai",
+            "Renekton",
+            "Rengar",
             "Sett",
-            "Smolder",
-            "Sylas",
-            "Vex",
+            "Shen",
+            "Shyvana",
+            "Tryndamere",
             "Viego",
-            "Yuumi",
-            "Zeri",
-            "Zoe"
-        ],
-        [
-            "Vex"
+            "Yasuo",
+            "Yone",
+            "Zac"
         ]
     ]
 }

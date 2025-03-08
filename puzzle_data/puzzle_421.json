@@ -1,87 +1,107 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "global ult"
+        "Mid",
+        "PROJECT",
+        "shield"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "Immunity"
+        "knock-up",
+        "Zaun",
+        "shred"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Miss Fortune",
-            "Nilah"
-        ],
-        [
-            "Kogmaw",
-            "Mel",
-            "Xayah"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
             "Sylas",
-            "Viego",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
+        ],
+        [
+            "Sejuani",
+            "Sylas",
+            "Vi",
+            "Yasuo"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Mordekaiser",
+            "Renekton",
+            "Vi"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aurora",
-            "Camille",
-            "Gwen",
-            "Kayn",
-            "Mel",
-            "Viego",
-            "Xayah",
-            "Yuumi"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
+            "Blitzcrank",
             "Ekko",
-            "Ornn",
-            "Pantheon",
+            "Janna",
+            "Orianna",
+            "Renata glasc",
+            "Urgot",
+            "Vi",
+            "Viktor"
+        ],
+        [
+            "Garen",
+            "Jarvan IV",
+            "Mordekaiser",
+            "Olaf",
+            "Rell",
+            "Rumble",
             "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Bard",
-            "Ekko",
-            "Galio",
-            "Karthus",
-            "Kled",
-            "Mel",
-            "Ryze",
-            "Sion"
+            "Vi"
         ]
     ]
 }

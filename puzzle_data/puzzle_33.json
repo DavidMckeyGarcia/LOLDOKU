@@ -1,70 +1,121 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "blink",
-        "Season 2-6"
+        "Top",
+        "Season 7+",
+        "dash"
     ],
     "cols": [
-        "root",
-        "Piltover",
-        "arcane"
+        "knock-up",
+        "The Void",
+        "yordle"
     ],
     "solutions": [
         [
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Chogath"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Belveth",
+            "Kaisa"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
             "Lee sin",
-            "Maokai",
-            "Morgana",
+            "Malphite",
             "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Camille"
-        ],
-        [
-            "Ekko",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
             "Vi",
-            "Warwick"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Ezreal"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "LeBlanc"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
             "Zac",
-            "Zyra"
+            "Ziggs"
         ],
         [
-            "Jayce"
+            "Belveth",
+            "Kaisa",
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Ekko",
-            "Jayce",
-            "Jinx",
-            "Vi",
-            "Viktor"
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Kled",
+            "Poppy",
+            "Tristana",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

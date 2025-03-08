@@ -1,58 +1,61 @@
 {
     "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "invis",
-        "cosmic"
+        "Top",
+        "Season 7+",
+        "hextech"
     ],
     "cols": [
+        "Demacia",
         "fear",
-        "Noxus",
-        "tether"
+        "ascended"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Urgot",
             "Warwick"
         ],
         [
-            "Briar",
-            "Elise",
+            "Aatrox",
             "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
+            "Nasus",
+            "Pantheon",
+            "Renekton"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
+            "Sylas"
         ],
         [
-            "Shaco"
+            "Briar",
+            "Hwei",
+            "Vex"
         ],
         [
-            "LeBlanc",
-            "Talon"
+            "Kayn",
+            "Naafiri"
         ],
         [
-            "LeBlanc"
+            "Galio",
+            "Jarvan IV",
+            "Poppy"
         ],
         [
-            "Hecarim"
+            "Nocturne"
         ],
         [
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Illaoi"
+            "Renekton"
         ]
     ]
 }

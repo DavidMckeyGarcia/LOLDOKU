@@ -1,97 +1,75 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "blink",
-        "Season 7+"
+        "Mid",
+        "Season 7+",
+        "empyrean"
     ],
     "cols": [
-        "knock-up",
-        "The Void",
-        "never played"
+        "Demacia",
+        "root",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Kaisa",
-            "Kogmaw"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Kassadin",
-            "Reksai"
-        ],
-        [
-            "Pyke",
-            "Reksai",
-            "Shen",
-            "Tahm kench",
-            "Viego"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
             "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Belveth",
-            "Kaisa"
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
         ],
         [
-            "Akshan",
+            "Sylas"
+        ],
+        [
             "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
             "Renata glasc",
-            "Samira",
             "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
+        ],
+        [
+            "Kayle",
+            "Lux"
+        ],
+        [
+            "Jhin",
+            "Ksante",
+            "Lux",
+            "Varus",
+            "Zac"
+        ],
+        [
+            "Akali"
         ]
     ]
 }

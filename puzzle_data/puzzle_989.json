@@ -1,83 +1,90 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "OG40",
+        "Top",
+        "Season 2-6",
         "true damage"
     ],
     "cols": [
-        "Freljord",
-        "knock-up",
-        "ult reset"
+        "Shadow Isles",
+        "root",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Brand",
-            "Braum"
+            "Gwen",
+            "Maokai",
+            "Yorick"
         ],
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
             "Tahm kench",
-            "Velkoz",
+            "Volibear",
+            "Warwick",
+            "Wukong"
+        ],
+        [
+            "Hecarim",
+            "Kalista",
+            "Thresh"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
             "Zyra"
         ],
         [
-            "Swain"
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
+            "Gwen"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Master yi",
-            "Singed",
-            "Sivir"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
-            "Belveth",
-            "Chogath",
             "Ivern",
             "Ksante",
             "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
+            "Renata glasc"
         ],
         [
-            "Ahri",
             "Belveth",
-            "Darius",
+            "Chogath",
+            "Corki",
+            "Fiora",
+            "Gangplank",
             "Master yi",
-            "Olaf",
-            "Vayne"
+            "Nunu"
         ]
     ]
 }

@@ -1,70 +1,84 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "ult execute",
-        "Season 7+"
+        "Jungle",
+        "life steal",
+        "OG40"
     ],
     "cols": [
-        "Demacia",
-        "root",
-        "0 games"
+        "Freljord",
+        "fear",
+        "manaless"
     ],
     "solutions": [
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
             "Zac"
         ],
         [
-            "Ambessa",
-            "Illaoi"
+            "Olaf",
+            "Trundle",
+            "Udyr"
         ],
         [
-            "Garen"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Akshan"
-        ],
-        [
-            "Sylas"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
+            "Aatrox",
             "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Lee sin",
+            "Viego",
+            "Vladimir"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Dr. Mundo",
+            "Katarina",
+            "Tryndamere"
         ]
     ]
 }

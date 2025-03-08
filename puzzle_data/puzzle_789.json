@@ -1,94 +1,126 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Support",
-        "Season 2-6",
-        "coven"
+        "dark star",
+        "Season 2-6"
     ],
     "cols": [
-        "Demacia",
-        "root",
-        "100+ games"
+        "stun",
+        "Shadow Isles",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Karma",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
             "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
+            "Milio",
             "Morgana",
+            "Nami",
             "Nautilus",
             "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
             "Renata glasc",
-            "Senna",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Maokai",
+            "Senna",
+            "Thresh"
         ],
         [
             "Alistar",
             "Ashe",
-            "Braum",
-            "Janna",
-            "Leona",
-            "Lulu",
-            "Maokai",
-            "Rakan",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Lissandra",
+            "Orianna",
+            "Thresh",
+            "Xerath"
+        ],
+        [
             "Thresh"
         ],
         [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Ivern",
+            "Chogath",
             "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
+            "Karma",
+            "Lux",
+            "Thresh",
             "Varus",
-            "Zac",
-            "Zyra"
+            "Xerath"
         ],
         [
-            "Aatrox",
-            "Azir",
+            "Aurelion Sol",
+            "Bard",
             "Braum",
+            "Ekko",
             "Elise",
+            "Fiora",
             "Gnar",
-            "Jayce",
-            "Jhin",
-            "Lucian",
-            "Lulu",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
             "Sejuani",
             "Syndra",
+            "Tahm kench",
+            "Taliyah",
             "Thresh",
-            "Varus"
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Morgana"
+            "Hecarim",
+            "Kalista",
+            "Thresh"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Morgana",
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Elise",
-            "Syndra"
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Jhin",
+            "Jinx",
+            "Tahm kench",
+            "Thresh",
+            "Varus",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ]
     ]
 }

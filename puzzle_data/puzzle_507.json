@@ -1,95 +1,98 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "pool party",
-        "blink"
+        "Adc",
+        "Season 2-6",
+        "shield"
     ],
     "cols": [
-        "stun",
-        "The Void",
-        "30+ wins"
+        "root",
+        "Ionia",
+        "shred"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Jhin",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Corki",
+            "Kogmaw"
+        ],
+        [
             "Ivern",
-            "Jax",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Ivern",
+            "Jhin",
+            "Syndra",
+            "Varus",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Jayce",
+            "Rengar",
+            "Vi"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
             "Morgana",
             "Nautilus",
+            "Neeko",
             "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Hwei",
+            "Ivern",
+            "Karma",
+            "Lee sin",
+            "Rakan",
             "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Belveth",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Taliyah"
-        ],
-        [
-            "Braum",
-            "Fiora",
-            "Heimerdinger",
-            "Leona",
-            "Orianna",
-            "Renekton",
-            "Sett",
-            "Syndra",
-            "Taliyah",
-            "Taric",
-            "Zac"
-        ],
-        [
-            "Reksai"
-        ],
-        [
-            "Orianna",
-            "Taliyah"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
+            "Shen",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Kassadin",
-            "Reksai"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
+            "Garen",
+            "Jarvan IV",
+            "Mordekaiser",
+            "Olaf",
+            "Rell",
+            "Rumble",
+            "Sion",
+            "Vi"
         ]
     ]
 }

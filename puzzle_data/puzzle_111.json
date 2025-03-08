@@ -1,67 +1,84 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "OG40",
-        "ult execute"
+        "Top",
+        "PROJECT",
+        "OG40"
     ],
     "cols": [
-        "Demacia",
         "stun",
-        "arcane"
+        "Zaun",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
             "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
+            "Camille",
+            "Fiora",
+            "Gnar",
             "Gragas",
             "Heimerdinger",
             "Irelia",
+            "Jax",
+            "Ksante",
             "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
+            "Ornn",
             "Pantheon",
-            "Qiyana",
-            "Seraphine",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
             "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
             "Yone",
-            "Zilean"
+            "Zac"
         ],
         [
-            "Ambessa",
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Ashe",
             "Ekko",
-            "Heimerdinger",
-            "Jayce",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Master yi",
+            "Vayne"
         ],
         [
             "Alistar",
@@ -83,24 +100,17 @@
             "Zilean"
         ],
         [
-            "Heimerdinger",
+            "Blitzcrank",
+            "Dr. Mundo",
             "Janna",
             "Singed",
+            "Twitch",
             "Warwick"
         ],
         [
-            "Garen"
-        ],
-        [
-            "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
-        ],
-        [
-            "Jinx"
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

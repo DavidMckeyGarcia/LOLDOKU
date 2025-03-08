@@ -1,138 +1,110 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
-        "shield",
-        "OG40"
+        "OG40",
+        "pool party"
     ],
     "cols": [
-        "root",
-        "Ionia",
-        "100% AP Ratio"
+        "The Void",
+        "stun",
+        "yordle"
     ],
     "solutions": [
         [
+            "Belveth",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
             "Ivern",
-            "Lee sin",
-            "Maokai",
+            "Jax",
             "Morgana",
             "Nautilus",
             "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
             "Pantheon",
+            "Poppy",
+            "Qiyana",
             "Rammus",
-            "Shen",
-            "Shyvana",
+            "Rell",
+            "Sejuani",
+            "Sett",
             "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
             "Vi",
             "Viego",
             "Volibear",
             "Warwick",
-            "Wukong",
-            "Xin Zhao"
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Hwei",
-            "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Aphelios",
-            "Blitzcrank",
-            "Ekko",
-            "Kaisa",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Nocturne",
-            "Nunu",
-            "Shen",
-            "Sivir",
-            "Skarner",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Viktor",
-            "Volibear"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Master yi"
+            "Chogath",
+            "Kassadin"
         ],
         [
             "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
             "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
+            "Heimerdinger",
             "Jax",
-            "Master yi",
+            "Morgana",
             "Nunu",
             "Rammus",
-            "Sivir",
-            "Tristana",
+            "Sion",
+            "Taric",
             "Twisted fate",
             "Veigar",
             "Warwick",
             "Zilean"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Reksai"
+        ],
+        [
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Ziggs"
         ]
     ]
 }

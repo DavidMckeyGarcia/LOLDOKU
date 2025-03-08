@@ -1,21 +1,19 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Support",
         "OG40",
-        "ult execute"
+        "dash"
     ],
     "cols": [
-        "Bilgewater",
+        "Shurima",
         "root",
-        "shred"
+        "arcane"
     ],
     "solutions": [
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
+            "Xerath",
+            "Zilean"
         ],
         [
             "Karma",
@@ -34,11 +32,17 @@
             "Zyra"
         ],
         [
-            "Rell"
+            "Heimerdinger",
+            "Janna",
+            "Mel"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
         ],
         [
             "Morgana",
@@ -49,22 +53,42 @@
             "Soraka"
         ],
         [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
         ],
         [
-            "Pyke"
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Ksante",
+            "Naafiri",
+            "Rammus",
+            "Renekton",
+            "Taliyah"
         ],
         [
-            "Jhin",
-            "Jinx"
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
         ],
         [
-            "Evelynn",
-            "Garen"
+            "Ambessa",
+            "Caitlyn",
+            "Ekko",
+            "Jayce",
+            "Vi",
+            "Warwick"
         ]
     ]
 }

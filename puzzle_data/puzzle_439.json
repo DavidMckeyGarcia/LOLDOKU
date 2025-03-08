@@ -1,78 +1,114 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
         "Support",
-        "ult execute",
-        "Season 2-6"
+        "prestige",
+        "Season 7+"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "ult reset"
+        "Targon",
+        "stun",
+        "shred"
     ],
     "solutions": [
         [
-            "Karma",
             "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
+            "Pantheon",
             "Soraka",
-            "Swain",
-            "Zyra"
+            "Taric"
         ],
         [
             "Alistar",
             "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
-        ],
-        [
-            "Swain"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Riven"
-        ],
-        [
-            "Darius",
-            "Viego"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
             "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
+            "Rell"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Zoe"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Evelynn",
+            "Garen",
+            "Zoe"
+        ],
+        [
+            "Aphelios",
+            "Zoe"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Briar",
+            "Rell",
+            "Zoe"
         ]
     ]
 }

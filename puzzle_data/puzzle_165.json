@@ -1,57 +1,54 @@
 {
-    "difficulty": "silver",
+    "difficulty": "iron",
     "rows": [
-        "Top",
+        "Mid",
         "Season 2-6",
-        "Fright Night"
+        "dash"
     ],
     "cols": [
-        "Bandle City",
         "knock-up",
-        "100% AP Ratio"
+        "Ionia",
+        "arcane"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Aatrox",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
             "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
+            "Neeko",
             "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
+            "Taliyah",
+            "Velkoz",
             "Yasuo",
             "Yone",
-            "Zac"
+            "Ziggs"
         ],
         [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Lulu"
+            "Ambessa",
+            "Ekko",
+            "Heimerdinger",
+            "Jayce",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
         ],
         [
             "Aatrox",
@@ -77,32 +74,80 @@
             "Zyra"
         ],
         [
-            "Aurelion Sol",
-            "Ekko",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
+            "Ahri",
+            "Ivern",
             "Jhin",
-            "Jinx",
-            "Tahm kench",
-            "Thresh",
+            "Syndra",
             "Varus",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Ekko",
+            "Jayce",
+            "Jinx",
             "Vi",
-            "Viktor",
-            "Volibear"
+            "Viktor"
         ],
         [
-            "Veigar"
-        ],
-        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
             "Nautilus",
-            "Nunu",
-            "Trundle"
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Nunu",
-            "Veigar",
-            "Zeri"
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Caitlyn",
+            "Ekko",
+            "Jayce",
+            "Vi",
+            "Warwick"
         ]
     ]
 }

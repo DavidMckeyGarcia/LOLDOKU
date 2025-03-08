@@ -1,22 +1,21 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
         "Mid",
-        "Season 7+",
-        "life steal"
+        "Season 2-6",
+        "PROJECT"
     ],
     "cols": [
-        "Freljord",
+        "Targon",
         "root",
         "ascended"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
         ],
         [
             "Hwei",
@@ -39,40 +38,40 @@
             "Xerath"
         ],
         [
-            "Aurora",
-            "Ornn"
+            "Aurelion Sol",
+            "Diana"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Kayn",
-            "Naafiri"
-        ],
-        [
-            "Olaf",
-            "Trundle",
-            "Udyr"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
             "Aatrox",
-            "Kayn",
-            "Nasus"
+            "Azir",
+            "Diana",
+            "Varus"
+        ],
+        [
+            "Leona"
+        ],
+        [
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Senna",
+            "Varus"
+        ],
+        [
+            "Leona",
+            "Renekton",
+            "Varus"
         ]
     ]
 }

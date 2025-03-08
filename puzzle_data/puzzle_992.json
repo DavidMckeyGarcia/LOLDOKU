@@ -1,69 +1,84 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "life steal",
-        "hextech"
+        "Top",
+        "Season 2-6",
+        "blink"
     ],
     "cols": [
-        "Demacia",
-        "root",
-        "pentakill"
+        "Freljord",
+        "silence",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
+        ],
+        [
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Aurelion Sol",
+            "Ekko",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
             "Jhin",
             "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
+            "Tahm kench",
+            "Thresh",
             "Varus",
-            "Xayah"
+            "Vi",
+            "Viktor",
+            "Volibear"
         ],
         [
-            "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Tristana",
-            "Twitch",
-            "Vayne",
-            "Xayah"
+            "Lissandra"
         ],
         [
-            "Morgana"
+            "Kassadin"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
-            "Galio",
-            "Jarvan IV",
-            "Poppy"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Kogmaw",
-            "Tristana"
+            "Ekko",
+            "Master yi",
+            "Pantheon",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego"
         ]
     ]
 }

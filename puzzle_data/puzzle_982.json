@@ -1,33 +1,83 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "Season 2-6",
-        "cosmic"
+        "Jungle",
+        "empyrean",
+        "Season 2-6"
     ],
     "cols": [
         "fear",
-        "Demacia",
-        "0 games"
+        "Shurima",
+        "never played"
     ],
     "solutions": [
         [
-            "Hwei",
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
+        ],
+        [
+            "Amumu",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Dr. Mundo",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Kindred",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Reksai",
+            "Rell",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zyra"
+        ],
+        [
+            "Nocturne",
             "Vex"
         ],
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Jax",
+            "Ksante"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
+            "Brand",
+            "Jhin",
+            "Pyke"
         ],
         [
             "Aatrox",
@@ -35,23 +85,34 @@
             "Hecarim"
         ],
         [
+            "Aatrox",
+            "Azir",
+            "Taliyah"
+        ],
+        [
+            "Bard",
+            "Braum",
+            "Draven",
+            "Elise",
             "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Illaoi"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Lux",
-            "Xin Zhao"
-        ],
-        [
+            "Gnar",
+            "Hecarim",
             "Illaoi",
-            "Master yi"
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kindred",
+            "Kled",
+            "Nami",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Volibear",
+            "Zyra"
         ]
     ]
 }

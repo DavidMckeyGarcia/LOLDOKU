@@ -1,64 +1,89 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
         "Top",
-        "true damage",
-        "pool party"
+        "Season 7+",
+        "cosmic"
     ],
     "cols": [
-        "silence",
-        "Demacia",
-        "ult reset"
+        "Freljord",
+        "knock-up",
+        "darkin"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
             "Chogath",
-            "Garen"
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Vayne"
+            "Aatrox",
+            "Kayn"
         ],
         [
-            "Ahri",
+            "Aurora",
+            "Ornn"
+        ],
+        [
             "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Vayne"
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Lulu"
+            "Kayn",
+            "Naafiri"
         ],
         [
-            "Fiora",
-            "Jarvan IV"
+            "Anivia",
+            "Lissandra",
+            "Nunu"
         ],
         [
-            "Singed"
+            "Anivia",
+            "Belveth",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Xin Zhao"
+        ],
+        [
+            "Varus"
         ]
     ]
 }

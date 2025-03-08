@@ -1,79 +1,61 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
+        "Adc",
         "true damage",
-        "OG40"
+        "PROJECT"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "Immunity"
+        "knock-up",
+        "Targon",
+        "shred"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Aphelios"
         ],
         [
-            "Camille",
-            "Fiora",
-            "Gwen",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Sion",
-            "Zac"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Vayne"
-        ],
-        [
-            "Camille",
-            "Fiora",
-            "Gwen",
+            "Corki",
             "Kogmaw"
         ],
         [
-            "Morgana",
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
             "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Samira",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Zoe"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle",
-            "Ryze",
-            "Sion",
-            "Zilean"
+            "Corki",
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
+        ],
+        [
+            "Sejuani",
+            "Sylas",
+            "Vi",
+            "Yasuo"
+        ],
+        [
+            "Leona"
+        ],
+        [
+            "Mordekaiser",
+            "Renekton",
+            "Vi"
         ]
     ]
 }

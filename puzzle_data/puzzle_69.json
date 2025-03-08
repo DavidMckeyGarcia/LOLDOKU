@@ -1,14 +1,14 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
         "Jungle",
-        "pool party",
-        "invis"
+        "life steal",
+        "elderwood"
     ],
     "cols": [
         "slow",
-        "Demacia",
-        "yordle"
+        "The Void",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
@@ -67,73 +67,84 @@
             "Zyra"
         ],
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
+            "Belveth",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
             "Shyvana",
-            "Sylas",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
             "Xin Zhao"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Braum",
-            "Caitlyn",
-            "Dr. Mundo",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Graves",
-            "Heimerdinger",
-            "Jarvan IV",
+            "Aatrox",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Ksante",
+            "Kayn",
             "Lee sin",
-            "Leona",
-            "Lulu",
-            "Miss Fortune",
-            "Orianna",
-            "Reksai",
-            "Sett",
-            "Singed",
-            "Syndra",
-            "Taliyah",
-            "Zac",
-            "Ziggs",
-            "Zoe"
-        ],
-        [
-            "Fiora",
-            "Jarvan IV"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Ziggs"
-        ],
-        [
-            "Akali",
-            "Aurora",
-            "Kaisa",
-            "Khazix",
-            "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
+            "Morgana",
+            "Nasus",
+            "Nilah",
+            "Olaf",
+            "Samira",
             "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
+            "Sion",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Vladimir",
+            "Warwick"
         ],
         [
-            "Vayne"
+            "Belveth"
         ],
         [
-            "Teemo"
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Viego",
+            "Vladimir",
+            "Warwick"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Karthus",
+            "Rakan",
+            "Reksai"
+        ],
+        [
+            "Reksai"
+        ],
+        [
+            "Gnar",
+            "Hecarim",
+            "Veigar",
+            "Wukong"
         ]
     ]
 }

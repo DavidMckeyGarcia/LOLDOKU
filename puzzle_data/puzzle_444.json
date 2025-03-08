@@ -1,107 +1,75 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "true damage",
-        "Fright Night"
+        "Support",
+        "OG40",
+        "cosmic"
     ],
     "cols": [
         "Noxus",
-        "knock-up",
-        "100% AP Ratio"
+        "root",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
+            "Alistar",
+            "Annie",
+            "Mel",
             "Rell",
-            "Talon"
+            "Swain"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
             "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
+            "Galio"
         ],
         [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
-            "Nunu"
-        ],
-        [
+            "Alistar",
             "Annie",
-            "Draven"
+            "Katarina",
+            "Sion"
         ],
         [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Corki",
+            "Ryze"
+        ],
+        [
+            "Sion",
+            "Vladimir"
+        ],
+        [
+            "Jhin",
+            "Lissandra",
+            "Lux",
             "Nautilus",
             "Nunu",
-            "Trundle"
+            "Varus",
+            "Xayah"
         ],
         [
-            "Nunu",
-            "Veigar",
-            "Zeri"
+            "Lissandra"
         ]
     ]
 }

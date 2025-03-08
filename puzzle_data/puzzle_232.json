@@ -1,135 +1,85 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
+        "Top",
         "OG40",
-        "PROJECT"
+        "true damage"
     ],
     "cols": [
-        "slow",
-        "Demacia",
-        "ascended"
+        "fear",
+        "The Void",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
-            "Karma",
-            "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Chogath"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
             "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Sona",
-            "Soraka",
-            "Swain",
+            "Shen",
+            "Skarner",
             "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
+            "Volibear",
+            "Warwick",
+            "Wukong"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
+            "Chogath",
+            "Kassadin"
         ],
         [
-            "Anivia",
+            "Alistar",
             "Ashe",
+            "Blitzcrank",
             "Chogath",
             "Corki",
-            "Dr. Mundo",
             "Evelynn",
-            "Fiddlesticks",
             "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
+            "Jax",
+            "Master yi",
             "Nunu",
             "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
             "Sivir",
-            "Soraka",
-            "Teemo",
             "Tristana",
-            "Tryndamere",
             "Twisted fate",
-            "Twitch",
+            "Veigar",
             "Warwick",
             "Zilean"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Nasus",
-            "Taric"
+            "Belveth",
+            "Chogath",
+            "Kogmaw",
+            "Velkoz"
         ],
         [
-            "Akali",
-            "Ashe",
-            "Ekko",
+            "Belveth",
+            "Chogath",
+            "Corki",
             "Fiora",
             "Gangplank",
-            "Irelia",
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Mordekaiser",
-            "Pyke",
-            "Sejuani",
-            "Senna",
-            "Sylas",
-            "Varus",
-            "Warwick",
-            "Zed"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Leona",
-            "Renekton",
-            "Varus"
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

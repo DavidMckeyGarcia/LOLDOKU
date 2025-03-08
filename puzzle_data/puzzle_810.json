@@ -1,73 +1,88 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "OG40",
-        "ult execute"
+        "Mid",
+        "hextech",
+        "blink"
     ],
     "cols": [
-        "stun",
-        "Ionia",
-        "ult reset"
+        "Zaun",
+        "knock-up",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Sivir",
-            "Vayne"
+            "Azir",
+            "Elise",
+            "Ezreal",
+            "Gragas",
+            "Jayce",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
+        ],
+        [
+            "Janna",
+            "Singed",
+            "Ziggs"
         ],
         [
             "Alistar",
-            "Amumu",
             "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
             "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Ziggs"
         ],
         [
-            "Master yi"
+            "Alistar",
+            "Janna",
+            "Jarvan IV",
+            "Renekton",
+            "Sejuani",
+            "Tristana"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Ekko"
         ],
         [
-            "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Akali",
-            "Jhin",
-            "Syndra"
-        ],
-        [
-            "Darius",
-            "Viego"
+            "Ezreal",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

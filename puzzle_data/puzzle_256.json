@@ -1,90 +1,98 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "OG40",
-        "arcade"
+        "Support",
+        "Season 7+",
+        "Space Groove"
     ],
     "cols": [
-        "Piltover",
-        "fear",
-        "100% AP Ratio"
+        "Freljord",
+        "stun",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Camille"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
-        ],
-        [
-            "Heimerdinger"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Ashe",
+            "Brand",
+            "Braum"
         ],
         [
             "Alistar",
+            "Annie",
             "Ashe",
+            "Bard",
             "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
-            "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
             "Zilean"
         ],
         [
-            "Caitlyn",
-            "Ezreal"
+            "Nami",
+            "Neeko",
+            "Rakan"
         ],
         [
-            "Hecarim"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "Belveth",
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Aurora",
+            "Neeko",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Gragas",
+            "Lissandra",
+            "Nunu"
+        ],
+        [
             "Blitzcrank",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Veigar"
+            "Gragas",
+            "Lissandra",
+            "Nami",
+            "Nunu",
+            "Taric",
+            "Twisted fate"
+        ],
+        [
+            "Nami"
         ]
     ]
 }

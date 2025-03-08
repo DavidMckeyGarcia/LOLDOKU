@@ -1,99 +1,92 @@
 {
     "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "worlds skin",
-        "dash"
+        "Adc",
+        "ult execute",
+        "coven"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "arcane"
+        "Noxus",
+        "stun",
+        "never played"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
             "Aphelios",
-            "Caitlyn",
+            "Ashe",
+            "Draven",
             "Jhin",
             "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Gangplank",
-            "Graves",
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Caitlyn",
-            "Ekko",
-            "Janna",
-            "Jayce",
-            "Jinx",
-            "LeBlanc",
-            "Orianna",
-            "Singed"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
+            "Kalista",
+            "Miss Fortune",
             "Nilah",
-            "Pyke"
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
         ],
         [
-            "Ambessa",
-            "Caitlyn",
-            "Ekko",
-            "Jayce",
-            "Vi",
-            "Warwick"
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Akshan",
+            "Chogath",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Viego"
+        ],
+        [
+            "Cassiopeia",
+            "Elise",
+            "LeBlanc"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Ashe",
+            "Elise",
+            "Evelynn",
+            "Morgana",
+            "Nami",
+            "Nilah",
+            "Zyra"
         ]
     ]
 }

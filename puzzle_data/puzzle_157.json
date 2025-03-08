@@ -1,72 +1,57 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Adc",
-        "Season 2-6",
-        "dark star"
+        "Mid",
+        "worlds skin",
+        "invis"
     ],
     "cols": [
-        "knock-up",
-        "Piltover",
-        "shred"
+        "fear",
+        "Shadow Isles",
+        "ult reset"
     ],
     "solutions": [
         [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Karthus",
+            "Vex"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Aatrox"
+        ],
+        [
             "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal",
-            "Seraphine"
-        ],
-        [
-            "Corki",
-            "Kogmaw"
+            "Karthus",
+            "Maokai",
+            "Thresh",
+            "Viego"
         ],
         [
             "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Singed",
+            "Vayne",
+            "Viego"
         ],
         [
-            "Jayce"
+            "Shaco"
         ],
         [
-            "Jayce",
-            "Rengar",
-            "Vi"
+            "Senna",
+            "Viego"
         ],
         [
-            "Chogath",
-            "Jarvan IV",
-            "Malphite"
-        ],
-        [
-            "Orianna"
-        ],
-        [
-            "Jarvan IV",
-            "Mordekaiser"
+            "Vayne",
+            "Viego"
         ]
     ]
 }

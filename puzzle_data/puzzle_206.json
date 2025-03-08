@@ -1,87 +1,66 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "arcade"
+        "Jungle",
+        "arcade",
+        "invis"
     ],
     "cols": [
-        "Demacia",
+        "Freljord",
         "stun",
-        "shred"
+        "arcane"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
+            "Amumu",
             "Brand",
-            "Cassiopeia",
+            "Briar",
+            "Camille",
             "Ekko",
             "Elise",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
             "Pantheon",
+            "Poppy",
             "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Corki",
-            "Jayce",
-            "Karthus",
-            "Zoe"
-        ],
-        [
-            "Sylas"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
+            "Rammus",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
+            "Sejuani",
             "Sett",
+            "Skarner",
             "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
             "Viego",
-            "Yone"
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Briar",
-            "Rell",
-            "Zoe"
+            "Ekko",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Sona"
+            "Brand"
         ],
         [
             "Blitzcrank",
@@ -94,7 +73,20 @@
             "Veigar"
         ],
         [
-            "Corki"
+            "Caitlyn"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

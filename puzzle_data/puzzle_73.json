@@ -1,35 +1,86 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "OG40",
-        "ult execute"
+        "Support",
+        "life steal",
+        "OG40"
     ],
     "cols": [
         "root",
-        "Ionia",
-        "ult reset"
+        "The Void",
+        "never played"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
             "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
             "Senna",
             "Seraphine",
-            "Varus",
-            "Xayah"
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
+            "Velkoz"
         ],
         [
-            "Sivir",
-            "Vayne"
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Belveth"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Kayn",
+            "Morgana",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
             "Morgana",
@@ -40,25 +91,30 @@
             "Soraka"
         ],
         [
-            "Master yi"
+            "Chogath",
+            "Kassadin"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Akali",
-            "Jhin",
-            "Syndra"
-        ],
-        [
-            "Darius",
-            "Viego"
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ]
     ]
 }

@@ -1,68 +1,102 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "arcade"
+        "Support",
+        "elderwood",
+        "life steal"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "riot records"
+        "Shadow Isles",
+        "stun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
+            "Maokai",
+            "Senna",
+            "Thresh"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
+        ],
+        [
             "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Karthus"
         ],
         [
-            "Graves",
-            "Nautilus"
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
         ],
         [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
+            "Gnar",
+            "Hecarim",
+            "Veigar",
+            "Wukong"
+        ],
+        [
+            "Gwen",
+            "Senna",
             "Viego"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Miss Fortune"
-        ],
-        [
-            "Ahri",
-            "Ezreal",
-            "Kaisa",
-            "Qiyana",
-            "Sona",
-            "Yasuo"
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Viego",
+            "Vladimir",
+            "Warwick"
         ]
     ]
 }

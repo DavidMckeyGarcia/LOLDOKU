@@ -1,26 +1,16 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "Season 7+",
-        "evolves"
+        "Season 2-6",
+        "global ult"
     ],
     "cols": [
-        "Demacia",
         "stun",
-        "100+ games"
+        "Ionia",
+        "shred"
     ],
     "solutions": [
-        [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
-        ],
         [
             "Ambessa",
             "Camille",
@@ -51,51 +41,89 @@
             "Zac"
         ],
         [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Sylas"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
             "Sett",
-            "Sylas",
-            "Viego",
+            "Shen",
+            "Wukong",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Wukong"
         ],
         [
-            "Kayle"
-        ],
-        [
+            "Aurelion Sol",
             "Bard",
-            "Viktor"
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Kaisa"
+            "Ahri",
+            "Ivern",
+            "Jhin",
+            "Syndra",
+            "Varus",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Jayce",
+            "Rengar",
+            "Vi"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Briar",
+            "Karthus",
+            "Sion"
         ]
     ]
 }

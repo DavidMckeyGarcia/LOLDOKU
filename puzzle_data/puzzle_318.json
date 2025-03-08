@@ -1,146 +1,65 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "dash",
+        "Mid",
+        "ult execute",
         "Season 2-6"
     ],
     "cols": [
-        "Zaun",
-        "knock-up",
-        "tether"
+        "silence",
+        "Shadow Isles",
+        "manaless"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Karthus",
+            "Vex"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Ekko",
-            "Urgot",
-            "Vi",
-            "Warwick",
-            "Zac",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Malphite",
-            "Nautilus",
-            "Ornn",
-            "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Kennen",
+            "Vladimir",
             "Yasuo",
             "Yone",
-            "Zac",
-            "Ziggs"
+            "Zed"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Nocturne",
-            "Sylas",
-            "Yuumi",
-            "Zac"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
+            "Viego"
         ],
         [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
+            "Akali",
+            "Garen",
             "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
+            "Viego"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Hecarim",
+            "Kalista",
+            "Thresh"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
+            "Kled",
+            "Reksai",
+            "Rengar",
             "Yasuo",
             "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kalista",
-            "Kled",
-            "Zac"
+            "Zed"
         ]
     ]
 }

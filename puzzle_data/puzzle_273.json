@@ -1,53 +1,70 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "Space Groove"
+        "Mid",
+        "true damage",
+        "Season 2-6"
     ],
     "cols": [
+        "Zaun",
         "knock-up",
-        "Noxus",
-        "ascended"
+        "tether"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
+        ],
+        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
             "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
+            "Neeko",
             "Sylas",
             "Taliyah",
-            "Trundle",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Renata glasc",
+            "Twitch",
+            "Urgot"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Renata glasc"
+        ],
+        [
+            "Ekko",
+            "Jinx",
             "Vi",
-            "Wukong",
-            "Xin Zhao",
+            "Viktor",
             "Zac",
-            "Zyra"
-        ],
-        [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
-        ],
-        [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
+            "Ziggs"
         ],
         [
             "Aatrox",
@@ -73,32 +90,11 @@
             "Zyra"
         ],
         [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
             "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
-        ],
-        [
-            "Blitzcrank",
-            "Gragas",
-            "Lulu",
-            "Nami",
-            "Nunu",
-            "Samira"
-        ],
-        [
-            "Samira"
-        ],
-        [
-            "Nasus",
-            "Taric"
+            "Illaoi",
+            "Kalista",
+            "Kled",
+            "Zac"
         ]
     ]
 }

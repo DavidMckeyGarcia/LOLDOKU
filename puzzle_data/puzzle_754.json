@@ -1,95 +1,79 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "dash",
-        "Season 7+"
+        "Jungle",
+        "life steal",
+        "empyrean"
     ],
     "cols": [
+        "root",
         "Ionia",
-        "fear",
-        "0 games"
+        "tether"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Irelia",
             "Ivern",
             "Kayn",
             "Lee sin",
             "Lillia",
-            "Rakan",
+            "Master yi",
             "Sett",
             "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
+            "Wukong"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Kayn",
+            "Lee sin"
         ],
         [
             "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Ambessa",
-            "Briar",
             "Illaoi",
-            "Naafiri",
-            "Samira",
-            "Vex"
+            "Morgana"
         ],
         [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
+            "Jhin",
+            "Ksante",
+            "Lux",
+            "Varus",
+            "Zac"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Akali",
+            "Jhin",
+            "Varus",
+            "Zed"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
+            "Malzahar",
+            "Nocturne",
+            "Zac"
         ]
     ]
 }

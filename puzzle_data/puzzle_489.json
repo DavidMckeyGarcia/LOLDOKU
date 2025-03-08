@@ -1,68 +1,131 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "true damage",
-        "Season 7+"
+        "Adc",
+        "Season 2-6",
+        "cosmic"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "yordle"
+        "slow",
+        "The Void",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Kaisa",
+            "Kogmaw"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Amumu",
             "Corki"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Aatrox",
+            "Ahri",
+            "Aurelion Sol",
+            "Azir",
+            "Bard",
+            "Braum",
+            "Darius",
+            "Diana",
+            "Draven",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Khazix",
+            "Kindred",
+            "Kled",
+            "Lissandra",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Quinn",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Varus",
+            "Velkoz",
+            "Viktor",
+            "Volibear",
+            "Zac",
+            "Zed",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Khazix",
+            "Reksai",
+            "Velkoz"
         ],
         [
-            "Vex"
+            "Ahri",
+            "Azir",
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Hecarim",
+            "Illaoi",
+            "Jhin",
+            "Kassadin",
+            "Lissandra",
+            "Lulu",
+            "Lux",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Skarner",
+            "Varus",
+            "Vladimir",
+            "Xin Zhao"
+        ],
+        [
+            "Belveth",
+            "Kassadin"
+        ],
+        [
+            "Lissandra"
         ]
     ]
 }

@@ -1,70 +1,82 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
         "Adc",
-        "coven",
-        "global ult"
+        "ult execute",
+        "Season 2-6"
     ],
     "cols": [
-        "Piltover",
-        "knock-up",
-        "100+ games"
+        "Bilgewater",
+        "stun",
+        "riot records"
     ],
     "solutions": [
         [
-            "Caitlyn",
-            "Ezreal",
-            "Seraphine"
-        ],
-        [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
             "Ashe",
-            "Caitlyn",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
             "Ezreal",
-            "Jhin",
             "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
+            "Senna"
         ],
         [
-            "Camille"
+            "Pyke"
         ],
         [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Evelynn",
+            "Viego"
+        ],
+        [
+            "Illaoi",
             "Nami",
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Elise",
-            "Syndra"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
+            "Nautilus",
+            "Tahm kench"
         ],
         [
             "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
             "Taliyah",
-            "Ziggs"
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
-            "Ryze",
-            "Shen"
+            "Ahri",
+            "Ekko",
+            "Yasuo"
         ]
     ]
 }

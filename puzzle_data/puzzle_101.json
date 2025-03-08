@@ -1,63 +1,106 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "ult execute",
-        "OG40"
+        "Adc",
+        "dash",
+        "Season 7+"
     ],
     "cols": [
-        "The Void",
         "root",
-        "0 games"
+        "The Void",
+        "100+ games"
     ],
     "solutions": [
         [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
             "Belveth",
+            "Kaisa",
             "Khazix",
             "Reksai"
         ],
         [
-            "Ivern",
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Kaisa",
             "Lee sin",
+            "Leona",
+            "Lucian",
             "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Rakan",
+            "Renekton",
+            "Sejuani",
+            "Shen",
+            "Thresh",
+            "Tristana"
         ],
         [
-            "Briar",
-            "Master yi"
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Chogath",
-            "Reksai"
+            "Belveth",
+            "Kaisa"
         ],
         [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Akshan"
-        ],
-        [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Master yi"
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

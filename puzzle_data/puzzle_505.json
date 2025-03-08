@@ -1,78 +1,60 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Jungle",
+        "Support",
         "Season 2-6",
-        "invis"
+        "arcade"
     ],
     "cols": [
-        "root",
-        "Zaun",
-        "30+ wins"
+        "Noxus",
+        "silence",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
         ],
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Taliyah"
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
         ],
         [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Darius",
+            "Draven",
+            "Elise",
+            "Kled",
+            "Riven"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
+            "Lulu"
+        ],
+        [
+            "Gnar",
+            "Kled",
+            "Lulu",
             "Ziggs"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Lissandra",
-            "Taliyah",
-            "Viktor"
+            "Riven"
         ],
         [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Blitzcrank",
+            "Malzahar"
         ],
         [
-            "Twitch"
-        ],
-        [
-            "LeBlanc"
+            "Corki",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

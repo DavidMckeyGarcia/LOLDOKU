@@ -1,19 +1,16 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "global ult",
-        "Season 7+"
+        "Season 7+",
+        "dash"
     ],
     "cols": [
-        "Targon",
         "stun",
-        "0 games"
+        "Freljord",
+        "ascended"
     ],
     "solutions": [
-        [
-            "Pantheon"
-        ],
         [
             "Ambessa",
             "Camille",
@@ -44,35 +41,21 @@
             "Zac"
         ],
         [
-            "Ambessa",
-            "Illaoi"
-        ],
-        [
-            "Aurelion Sol",
-            "Pantheon",
-            "Soraka"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
+            "Gnar",
+            "Gragas",
+            "Olaf",
             "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus",
             "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Briar",
-            "Mel",
-            "Vex"
-        ],
-        [
-            "Aphelios",
-            "Zoe"
+            "Renekton"
         ],
         [
             "Ambessa",
@@ -92,14 +75,78 @@
             "Yone"
         ],
         [
-            "Akshan",
+            "Aurora",
+            "Ornn"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Alistar",
             "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
             "Briar",
-            "Mel",
-            "Milio",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Aurora",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Ornn",
+            "Sejuani",
+            "Tryndamere",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Kayn",
+            "Leona",
             "Naafiri",
-            "Samira",
-            "Vex"
+            "Pantheon",
+            "Renekton"
         ]
     ]
 }

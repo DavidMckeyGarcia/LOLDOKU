@@ -1,78 +1,58 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
         "Mid",
-        "dark star",
-        "dash"
+        "arcade",
+        "OG40"
     ],
     "cols": [
-        "Demacia",
         "fear",
-        "30+ wins"
+        "The Void",
+        "pentakill"
     ],
     "solutions": [
-        [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
         [
             "Hwei",
             "Vex"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
         ],
         [
-            "Jarvan IV",
-            "Lux"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Lissandra",
-            "Orianna"
-        ],
-        [
-            "Fiora",
-            "Galio",
-            "Jarvan IV",
+            "Akali",
+            "Ezreal",
             "Lucian",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sylas",
-            "Vayne",
-            "Xin Zhao"
+            "Ryze",
+            "Tristana"
         ],
         [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
+            "Hecarim"
+        ],
+        [
+            "Belveth",
+            "Kaisa",
+            "Malzahar"
+        ],
+        [
+            "Ezreal",
+            "Kaisa"
+        ],
+        [
+            "Fiddlesticks",
             "Shaco",
-            "Urgot",
-            "Vex",
             "Warwick"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "Taliyah"
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Ryze",
+            "Tristana",
+            "Twitch"
         ]
     ]
 }

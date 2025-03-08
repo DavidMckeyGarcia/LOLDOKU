@@ -1,66 +1,67 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "prestige",
-        "Season 7+"
+        "Adc",
+        "OG40",
+        "coven"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "tether"
+        "Piltover",
+        "root",
+        "riot records"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
+            "Caitlyn",
+            "Ezreal",
+            "Seraphine"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Heimerdinger"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
             "Shaco",
-            "Warwick"
+            "Singed",
+            "Soraka"
         ],
         [
-            "Graves",
-            "Nautilus"
+            "Evelynn",
+            "Karthus",
+            "Kayle"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
+            "Camille"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
-        ],
-        [
-            "Aatrox",
             "LeBlanc",
+            "Lissandra",
             "Morgana",
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Zyra"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Ahri",
+            "Akali",
+            "Evelynn"
         ]
     ]
 }

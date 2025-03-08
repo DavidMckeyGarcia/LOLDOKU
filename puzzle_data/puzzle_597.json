@@ -1,73 +1,98 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
         "Top",
-        "Season 7+",
-        "shield"
+        "shield",
+        "Season 7+"
     ],
     "cols": [
-        "fear",
-        "Ionia",
+        "knock-up",
+        "Piltover",
         "darkin"
     ],
     "solutions": [
         [
             "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Akali",
-            "Irelia",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
             "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
             "Wukong",
             "Yasuo",
-            "Yone"
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Camille",
+            "Heimerdinger",
+            "Jayce"
         ],
         [
             "Aatrox",
             "Kayn"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
-        ],
-        [
-            "Kayn",
-            "Naafiri"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Hwei",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
             "Ivern",
-            "Karma",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
             "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Poppy",
             "Rakan",
-            "Sett",
-            "Shen",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
             "Yasuo",
             "Yone"
         ],
         [
+            "Camille",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Naafiri"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Camille",
+            "Seraphine"
+        ],
+        [
+            "Kayn",
             "Naafiri"
         ]
     ]

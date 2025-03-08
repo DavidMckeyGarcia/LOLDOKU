@@ -1,19 +1,16 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
         "Adc",
-        "elderwood",
-        "OG40"
+        "life steal",
+        "Space Groove"
     ],
     "cols": [
-        "Shurima",
         "root",
-        "never played"
+        "Shurima",
+        "ascended"
     ],
     "solutions": [
-        [
-            "Sivir"
-        ],
         [
             "Aphelios",
             "Caitlyn",
@@ -26,75 +23,39 @@
             "Xayah"
         ],
         [
+            "Sivir"
+        ],
+        [
+            "Varus"
+        ],
+        [
             "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
         ],
         [
-            "Azir"
+            "Aatrox",
+            "Ksante",
+            "Nasus"
         ],
         [
-            "LeBlanc",
-            "Xayah"
+            "Aatrox",
+            "Kayn",
+            "Nasus"
         ],
         [
-            "Bard",
-            "Gnar",
-            "Hecarim",
-            "Rakan",
-            "Reksai",
-            "Wukong",
-            "Xayah"
+            "Lissandra",
+            "Lux",
+            "Nunu"
         ],
         [
-            "Amumu",
-            "Jax",
+            "Nasus"
+        ],
+        [
             "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
+            "Taric"
         ]
     ]
 }

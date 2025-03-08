@@ -1,67 +1,101 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "coven",
-        "Season 7+"
+        "Mid",
+        "Season 7+",
+        "dark star"
     ],
     "cols": [
         "Demacia",
-        "knock-up",
-        "Immunity"
+        "root",
+        "never played"
     ],
     "solutions": [
         [
+            "Galio",
+            "Kayle",
             "Lucian",
-            "Vayne"
+            "Lux",
+            "Sylas"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Kogmaw",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
             "Mel",
-            "Xayah"
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Morgana"
-        ],
-        [
-            "Nami",
-            "Zyra"
-        ],
-        [
-            "Camille",
-            "Evelynn",
-            "Lissandra"
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Elise",
+            "Heimerdinger",
+            "Kennen",
+            "Naafiri"
         ],
         [
             "Sylas"
         ],
         [
-            "Belveth",
-            "Briar",
+            "Aphelios",
+            "Hwei",
             "Ksante",
-            "Kayn",
+            "Mel",
             "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Aurora",
-            "Camille",
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
             "Gwen",
             "Kayn",
-            "Mel",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
             "Viego",
             "Xayah",
-            "Yuumi"
+            "Yuumi",
+            "Zeri"
+        ],
+        [
+            "Jarvan IV",
+            "Lux"
+        ],
+        [
+            "Jhin",
+            "Karma",
+            "Lissandra",
+            "Lux",
+            "Shaco",
+            "Varus"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Jhin",
+            "Malphite",
+            "Mordekaiser",
+            "Shaco",
+            "Thresh"
         ]
     ]
 }

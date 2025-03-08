@@ -1,120 +1,82 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "cosmic",
-        "ult execute"
+        "Adc",
+        "shield",
+        "Season 7+"
     ],
     "cols": [
-        "Noxus",
-        "slow",
-        "Immunity"
+        "root",
+        "Shadow Isles",
+        "ascended"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
-            "Rell",
-            "Swain"
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
+            "Kalista",
+            "Senna"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
             "Karma",
-            "Leona",
-            "Lulu",
+            "Lee sin",
             "Lux",
-            "Maokai",
             "Mel",
-            "Milio",
             "Morgana",
-            "Nami",
             "Nautilus",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Senna",
+            "Thresh",
+            "Vex"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Taric"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
             "Renata glasc",
             "Senna",
             "Seraphine",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
+            "Xayah"
         ],
         [
-            "Bard",
-            "Galio",
-            "Mel",
-            "Yuumi",
-            "Zilean"
-        ],
-        [
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Anivia",
-            "Belveth",
-            "Hecarim",
-            "Illaoi",
-            "Jhin",
-            "Kassadin",
-            "Lissandra",
-            "Lulu",
-            "Lux",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Rakan",
-            "Sion",
-            "Skarner",
-            "Varus",
-            "Vladimir",
-            "Xin Zhao"
-        ],
-        [
-            "Lissandra",
-            "Sion",
-            "Vladimir",
-            "Xayah",
-            "Xin Zhao"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Riven"
-        ],
-        [
-            "Akali",
-            "Chogath",
-            "Darius",
-            "Draven",
-            "Evelynn",
-            "Garen",
-            "Jhin",
-            "Jinx",
-            "Pyke",
-            "Reksai",
-            "Syndra",
-            "Urgot",
+            "Gwen",
+            "Senna",
+            "Vex",
             "Viego"
         ],
         [
-            "Evelynn",
-            "Viego"
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

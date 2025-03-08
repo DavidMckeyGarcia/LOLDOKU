@@ -1,19 +1,20 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "iron",
     "rows": [
         "Support",
-        "Season 7+",
-        "pool party"
+        "pool party",
+        "Season 2-6"
     ],
     "cols": [
-        "Ionia",
+        "Freljord",
         "slow",
-        "arcane"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Karma",
-            "Rakan"
+            "Ashe",
+            "Brand",
+            "Braum"
         ],
         [
             "Ashe",
@@ -52,59 +53,18 @@
             "Zyra"
         ],
         [
-            "Heimerdinger",
+            "Alistar",
+            "Ashe",
+            "Braum",
             "Janna",
-            "Mel"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
+            "Leona",
+            "Lulu",
+            "Maokai",
             "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
+            "Thresh"
         ],
         [
-            "Aphelios",
-            "Aurora",
-            "Belveth",
-            "Briar",
-            "Camille",
-            "Gwen",
-            "Hwei",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Lillia",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Ornn",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sett",
-            "Smolder",
-            "Sylas",
-            "Vex",
-            "Viego",
-            "Yuumi",
-            "Zeri",
-            "Zoe"
-        ],
-        [
-            "Ambessa",
-            "Mel"
-        ],
-        [
-            "Lee sin",
-            "Sett",
-            "Syndra"
+            "Braum"
         ],
         [
             "Braum",
@@ -131,10 +91,84 @@
             "Zoe"
         ],
         [
+            "Braum",
             "Caitlyn",
-            "Heimerdinger",
+            "Graves",
+            "Jarvan IV",
+            "Lee sin",
+            "Leona",
+            "Lulu",
             "Orianna",
-            "Singed"
+            "Renekton",
+            "Syndra"
+        ],
+        [
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Aurelion Sol",
+            "Azir",
+            "Bard",
+            "Braum",
+            "Darius",
+            "Diana",
+            "Draven",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jayce",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Khazix",
+            "Kindred",
+            "Kled",
+            "Lissandra",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Quinn",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Varus",
+            "Velkoz",
+            "Viktor",
+            "Volibear",
+            "Zac",
+            "Zed",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Braum",
+            "Elise",
+            "Gnar",
+            "Jayce",
+            "Jhin",
+            "Lucian",
+            "Lulu",
+            "Sejuani",
+            "Syndra",
+            "Thresh",
+            "Varus"
         ]
     ]
 }

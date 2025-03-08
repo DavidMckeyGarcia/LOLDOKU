@@ -1,55 +1,87 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "arcade",
-        "OG40"
+        "Season 7+",
+        "dark star"
     ],
     "cols": [
-        "silence",
-        "Demacia",
-        "30+ wins"
+        "root",
+        "Zaun",
+        "manaless"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
-            "Jarvan IV",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
             "Morgana",
-            "Poppy",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
             "Shyvana",
-            "Sylas",
-            "Xin Zhao"
+            "Viego",
+            "Zac"
         ],
         [
-            "Taliyah"
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Blitzcrank",
-            "Malzahar"
+            "Renata glasc",
+            "Zeri"
         ],
         [
-            "Sona"
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
         ],
         [
-            "Ahri",
-            "Corki"
+            "Jhin",
+            "Karma",
+            "Lissandra",
+            "Lux",
+            "Shaco",
+            "Varus"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Orianna"
         ],
         [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Corki",
-            "Ryze"
+            "Mordekaiser"
         ]
     ]
 }

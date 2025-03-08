@@ -1,60 +1,89 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "empyrean",
-        "invis"
+        "Support",
+        "Space Groove",
+        "dash"
     ],
     "cols": [
-        "Demacia",
-        "fear",
-        "yordle"
+        "root",
+        "Freljord",
+        "tether"
     ],
     "solutions": [
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Ashe",
+            "Brand",
+            "Braum"
+        ],
+        [
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Lissandra",
+            "Lux",
+            "Nunu"
+        ],
+        [
+            "Gragas",
+            "Lissandra",
+            "Nunu"
+        ],
+        [
+            "Taric"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Aurora",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Ornn",
+            "Sejuani",
+            "Tryndamere",
+            "Volibear"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
+            "Illaoi",
             "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Kayle",
-            "Lux"
-        ],
-        [
             "Nocturne",
-            "Vex"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Vayne"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Teemo"
+            "Sylas",
+            "Yuumi",
+            "Zac"
         ]
     ]
 }

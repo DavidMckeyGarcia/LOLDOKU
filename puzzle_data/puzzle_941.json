@@ -1,26 +1,16 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "OG40",
-        "shield"
+        "blink",
+        "Season 7+"
     ],
     "cols": [
-        "Ionia",
         "slow",
-        "30+ wins"
+        "Noxus",
+        "0 games"
     ],
     "solutions": [
-        [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
         [
             "Belveth",
             "Brand",
@@ -77,118 +67,90 @@
             "Zyra"
         ],
         [
-            "Taliyah"
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
         ],
         [
+            "Briar",
             "Master yi"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
+            "Ekko",
             "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Reksai",
             "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Corki",
-            "Ryze"
-        ],
-        [
-            "Hwei",
-            "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
-            "Sett",
             "Shen",
-            "Yasuo",
-            "Yone"
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Zed"
+        ],
+        [
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
+        ],
+        [
+            "Ambessa",
+            "Master yi"
         ],
         [
             "Aphelios",
-            "Azir",
-            "Braum",
+            "Aurora",
+            "Belveth",
+            "Briar",
             "Camille",
-            "Diana",
-            "Ekko",
-            "Galio",
-            "Garen",
+            "Gwen",
             "Hwei",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
             "Ksante",
             "Kaisa",
-            "Karma",
-            "Kassadin",
-            "Kled",
-            "Lee sin",
-            "Lulu",
-            "Lux",
-            "Malphite",
+            "Kayn",
+            "Lillia",
             "Mel",
             "Milio",
-            "Mordekaiser",
-            "Morgana",
             "Naafiri",
-            "Nautilus",
             "Nilah",
-            "Nocturne",
-            "Nunu",
-            "Olaf",
-            "Orianna",
-            "Poppy",
+            "Ornn",
+            "Pyke",
             "Rakan",
             "Renata glasc",
-            "Rumble",
+            "Samira",
             "Senna",
             "Seraphine",
             "Sett",
-            "Shen",
-            "Sion",
-            "Sivir",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Thresh",
-            "Udyr",
-            "Urgot",
+            "Smolder",
+            "Sylas",
             "Vex",
-            "Viktor",
-            "Volibear",
-            "Yuumi"
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
         ],
         [
-            "Azir",
-            "Galio",
-            "Orianna",
-            "Viktor"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

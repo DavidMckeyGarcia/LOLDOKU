@@ -1,77 +1,85 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "true damage",
-        "Season 2-6"
+        "Support",
+        "Season 7+",
+        "global ult"
     ],
     "cols": [
         "knock-up",
-        "Targon",
-        "30+ wins"
+        "Ionia",
+        "ascended"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
-            "Corki"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Zoe"
-        ],
-        [
-            "Ahri",
-            "Corki"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
+            "Alistar",
+            "Blitzcrank",
             "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
+            "Galio",
+            "Janna",
             "Lulu",
             "Nami",
             "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
             "Tahm kench",
-            "Taliyah",
             "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
             "Zyra"
         ],
         [
-            "Aurelion Sol",
-            "Diana"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Lissandra",
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
             "Taliyah",
-            "Viktor"
+            "Ziggs"
+        ],
+        [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Pantheon",
+            "Xerath"
         ]
     ]
 }

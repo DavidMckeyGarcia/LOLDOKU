@@ -1,61 +1,86 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "shield"
+        "Mid",
+        "evolves",
+        "dark star"
     ],
     "cols": [
-        "Targon",
-        "silence",
-        "ult reset"
+        "Demacia",
+        "stun",
+        "arcane"
     ],
     "solutions": [
         [
-            "Pantheon"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
             "Aurelion Sol",
-            "Diana"
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Lulu"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Darius",
+            "Ambessa",
+            "Ekko",
+            "Heimerdinger",
+            "Jayce",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
             "Viktor"
         ],
         [
-            "Aphelios",
-            "Diana",
-            "Taric"
+            "Kayle"
         ],
         [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Naafiri",
-            "Olaf",
-            "Sivir",
-            "Vex",
+            "Bard",
             "Viktor"
+        ],
+        [
+            "Viktor"
+        ],
+        [
+            "Jarvan IV",
+            "Lux"
+        ],
+        [
+            "Lissandra",
+            "Orianna",
+            "Thresh",
+            "Xerath"
+        ],
+        [
+            "Orianna"
         ]
     ]
 }

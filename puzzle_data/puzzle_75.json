@@ -1,100 +1,98 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "blink",
-        "prestige"
+        "global ult",
+        "PROJECT"
     ],
     "cols": [
-        "knock-up",
-        "Targon",
-        "manaless"
+        "Ionia",
+        "fear",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Aurelion Sol",
-            "Diana",
-            "Pantheon",
-            "Zoe"
-        ],
-        [
+            "Ahri",
             "Akali",
-            "Ambessa",
-            "Katarina",
+            "Hwei",
+            "Irelia",
+            "Karma",
             "Kennen",
-            "Vladimir",
+            "Syndra",
             "Yasuo",
             "Yone",
             "Zed"
         ],
         [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Pantheon"
-        ],
-        [
-            "Ambessa",
-            "Katarina",
-            "Reksai",
-            "Shen",
-            "Viego",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Aatrox",
-            "Diana",
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
             "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
+            "Karma",
+            "Lux",
             "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Diana",
-            "Leona",
             "Pantheon",
-            "Soraka",
-            "Zoe"
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Aatrox",
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Briar",
+            "Ekko",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
+            "Shen",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
             "Akali",
-            "Garen",
-            "Katarina",
-            "Lee sin",
-            "Sett",
+            "Irelia",
+            "Jhin",
+            "Master yi",
+            "Varus",
             "Yasuo",
             "Zed"
+        ],
+        [
+            "Warwick"
+        ],
+        [
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Gangplank",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Master yi",
+            "Varus",
+            "Vi",
+            "Warwick"
         ]
     ]
 }

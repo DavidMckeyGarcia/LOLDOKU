@@ -1,90 +1,67 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
+        "Adc",
         "OG40",
-        "prestige"
+        "cosmic"
     ],
     "cols": [
-        "silence",
-        "Demacia",
-        "100+ games"
+        "knock-up",
+        "Shadow Isles",
+        "yordle"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Kalista",
+            "Senna"
         ],
         [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Kayle",
-            "Morgana"
+            "Corki",
+            "Tristana",
+            "Ziggs"
         ],
         [
             "Alistar",
-            "Ashe",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
             "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Garen",
+            "Karthus"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Anivia",
+            "Belveth",
             "Lulu",
-            "Soraka"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Sona",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Aatrox",
-            "Caitlyn",
-            "Ezreal",
-            "Jax",
-            "Kaisa",
-            "Lee sin",
-            "Leona",
-            "Lucian",
-            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
             "Rakan",
-            "Thresh",
-            "Xayah"
+            "Sion",
+            "Xin Zhao"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Lulu"
         ]
     ]
 }

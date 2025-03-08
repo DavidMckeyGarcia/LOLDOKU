@@ -1,71 +1,88 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "dash",
-        "hextech"
+        "Mid",
+        "PROJECT",
+        "Season 2-6"
     ],
     "cols": [
         "root",
-        "The Void",
-        "30+ wins"
+        "Bilgewater",
+        "manaless"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
             "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Kaisa",
-            "Kogmaw"
-        ],
-        [
-            "Corki"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
+            "Neeko",
             "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Belveth",
-            "Kaisa",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "Taliyah"
-        ],
-        [
-            "Singed",
+            "Ryze",
+            "Seraphine",
             "Swain"
         ],
         [
-            "Kassadin",
-            "Kogmaw",
-            "Malzahar"
+            "Fizz",
+            "Twisted fate"
         ],
         [
-            "Galio"
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Kennen",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Senna",
+            "Varus"
+        ],
+        [
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Akali",
+            "Katarina",
+            "Mordekaiser",
+            "Renekton",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus",
+            "Tahm kench"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
+            "Kled",
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ]
     ]
 }

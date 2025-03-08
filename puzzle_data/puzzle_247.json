@@ -1,26 +1,16 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "empyrean",
-        "true damage"
+        "Season 7+",
+        "PROJECT"
     ],
     "cols": [
-        "Ionia",
         "stun",
-        "yordle"
+        "Shadow Isles",
+        "manaless"
     ],
     "solutions": [
-        [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
         [
             "Amumu",
             "Brand",
@@ -54,57 +44,82 @@
             "Zac"
         ],
         [
-            "Amumu",
-            "Poppy",
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
             "Rumble",
-            "Teemo"
-        ],
-        [
-            "Akali",
-            "Jhin",
-            "Varus",
-            "Zed"
-        ],
-        [
-            "Brand",
-            "Jax",
-            "Ksante",
-            "Malzahar",
-            "Pyke",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
             "Zac"
         ],
         [
-            "Vex"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ivern",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Syndra",
-            "Yone"
-        ],
-        [
-            "Amumu",
+            "Ambessa",
+            "Briar",
             "Camille",
-            "Fiora",
-            "Ivern",
             "Ksante",
-            "Nunu",
+            "Milio",
+            "Neeko",
+            "Ornn",
             "Pyke",
+            "Rell",
             "Renata glasc",
+            "Seraphine",
             "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
+            "Sylas",
+            "Viego",
             "Yone"
         ],
         [
-            "Amumu",
-            "Corki"
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Senna"
+        ],
+        [
+            "Akali",
+            "Katarina",
+            "Mordekaiser",
+            "Renekton",
+            "Yasuo",
+            "Zed"
         ]
     ]
 }

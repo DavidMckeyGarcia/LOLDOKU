@@ -1,85 +1,107 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Support",
+        "Mid",
         "OG40",
-        "dash"
+        "true damage"
     ],
     "cols": [
-        "root",
-        "Freljord",
-        "celestial"
+        "Bilgewater",
+        "stun",
+        "tether"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Fizz",
+            "Twisted fate"
         ],
         [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Bard",
-            "Soraka"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
+            "Ambessa",
             "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
             "Nunu",
-            "Tryndamere"
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Soraka"
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ],
         [
-            "Caitlyn",
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
             "Ivern",
             "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Aurora",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Ornn",
-            "Sejuani",
-            "Tryndamere",
-            "Volibear"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard"
+            "Renata glasc"
         ]
     ]
 }

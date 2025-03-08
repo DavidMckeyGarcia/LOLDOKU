@@ -1,56 +1,76 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "true damage",
-        "Season 2-6"
+        "Adc",
+        "global ult",
+        "Season 7+"
     ],
     "cols": [
-        "fear",
-        "Targon",
-        "0 games"
+        "stun",
+        "Freljord",
+        "arcane"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
+            "Ashe"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Ashe",
             "Aurelion Sol",
-            "Diana",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
             "Pantheon",
-            "Zoe"
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
         ],
         [
-            "Akshan",
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Jinx",
+            "Mel"
+        ],
+        [
             "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Darius",
-            "Urgot"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "Zoe"
-        ],
-        [
-            "Akshan",
-            "Master yi",
-            "Samira"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Aurelion Sol",
-            "Diana"
-        ],
-        [
-            "Illaoi"
+            "Ambessa",
+            "Mel"
         ]
     ]
 }

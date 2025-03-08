@@ -1,20 +1,25 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
         "Top",
         "shield",
-        "Season 7+"
+        "Season 2-6"
     ],
     "cols": [
-        "Bilgewater",
+        "Demacia",
         "stun",
-        "tether"
+        "darkin"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
             "Ambessa",
@@ -47,15 +52,16 @@
         ],
         [
             "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Kayn"
         ],
         [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
             "Ambessa",
@@ -92,39 +98,41 @@
             "Yone"
         ],
         [
-            "Karma",
-            "Kled",
-            "Morgana",
-            "Nocturne",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Naafiri"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Fiora",
+            "Lucian",
+            "Quinn"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Ivern",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Riven",
+            "Sejuani",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Thresh",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Zac"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Aatrox",
+            "Varus"
         ]
     ]
 }

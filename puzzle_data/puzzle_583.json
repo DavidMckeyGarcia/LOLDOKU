@@ -1,101 +1,93 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "Season 2-6",
-        "prestige"
+        "Jungle",
+        "PROJECT",
+        "dash"
     ],
     "cols": [
+        "Targon",
         "root",
-        "Demacia",
-        "yordle"
+        "riot records"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
+            "Diana",
+            "Pantheon"
         ],
         [
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
             "Nautilus",
+            "Nunu",
+            "Qiyana",
             "Rengar",
-            "Varus",
+            "Shaco",
             "Zac",
             "Zyra"
         ],
         [
-            "Fiora",
-            "Lucian",
-            "Quinn"
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
+            "Sett",
+            "Viego"
         ],
         [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
+            "Leona"
+        ],
+        [
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Senna",
+            "Varus"
+        ],
+        [
+            "Akali",
+            "Ekko",
+            "Mordekaiser",
+            "Senna",
+            "Yasuo"
+        ],
+        [
+            "Aurelion Sol",
+            "Diana",
+            "Leona",
+            "Pantheon"
         ],
         [
             "Caitlyn",
-            "Jinx",
+            "Ivern",
             "Ksante",
-            "LeBlanc",
             "Lee sin",
             "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
+            "Maokai",
+            "Nautilus",
             "Qiyana",
-            "Renata glasc",
-            "Senna",
+            "Rengar",
             "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
+            "Zac"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Sona",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Fizz",
-            "Lulu",
-            "Teemo"
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Qiyana",
+            "Sett",
+            "Viego",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

@@ -1,108 +1,79 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "invis"
+        "Support",
+        "invis",
+        "Season 2-6"
     ],
     "cols": [
-        "stun",
-        "Noxus",
-        "vastayan"
+        "root",
+        "Shadow Isles",
+        "arcane"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
             "Morgana",
             "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
-        ],
-        [
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
             "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
             "Renata glasc",
+            "Senna",
             "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
+            "Maokai",
+            "Senna",
+            "Thresh"
         ],
         [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
+            "Heimerdinger",
+            "Janna",
+            "Mel"
         ],
         [
             "LeBlanc",
-            "Talon"
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
         ],
         [
-            "Aurora",
-            "Neeko",
+            "Senna",
+            "Viego"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
+            "Nautilus",
             "Rengar",
-            "Wukong"
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Hecarim",
+            "Kalista",
+            "Thresh"
+        ],
+        [
+            "Ekko",
+            "Jayce",
+            "Jinx",
+            "Vi",
+            "Viktor"
         ]
     ]
 }

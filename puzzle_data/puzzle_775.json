@@ -1,127 +1,73 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
         "Adc",
-        "dash",
-        "worlds skin"
+        "OG40",
+        "empyrean"
     ],
     "cols": [
-        "Zaun",
-        "stun",
-        "darkin"
+        "root",
+        "Bilgewater",
+        "pentakill"
     ],
     "solutions": [
         [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
             "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Ashe",
+            "Mel",
+            "Senna",
             "Seraphine",
-            "Vayne"
+            "Varus",
+            "Xayah"
         ],
         [
-            "Varus"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Ekko",
-            "Urgot",
-            "Vi",
-            "Warwick",
-            "Zac",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Alistar",
-            "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
-            "Ivern",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Nautilus",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sett",
-            "Sylas",
-            "Taliyah",
-            "Thresh",
-            "Urgot",
-            "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Naafiri"
-        ],
-        [
-            "Dr. Mundo",
-            "Ekko",
-            "Janna",
+            "Aphelios",
+            "Ezreal",
             "Jinx",
-            "Orianna",
-            "Singed",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
             "Twitch",
-            "Zac"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Bard",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Irelia",
-            "Jax",
-            "Kennen",
-            "Leona",
-            "Nami",
-            "Nunu",
-            "Orianna",
-            "Renekton",
-            "Syndra",
-            "Taliyah",
-            "Thresh",
-            "Twisted fate",
             "Vayne",
-            "Viego",
+            "Xayah"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Ryze",
+            "Tristana",
+            "Twitch"
+        ],
+        [
+            "Jhin",
+            "Ksante",
+            "Lux",
+            "Varus",
             "Zac"
         ],
         [
-            "Aatrox"
+            "Pyke"
+        ],
+        [
+            "Akali"
         ]
     ]
 }

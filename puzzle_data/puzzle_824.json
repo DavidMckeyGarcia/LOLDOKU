@@ -1,14 +1,14 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "ult execute",
-        "Season 7+"
+        "prestige",
+        "global ult"
     ],
     "cols": [
         "knock-up",
-        "Bandle City",
-        "shred"
+        "Noxus",
+        "100+ games"
     ],
     "solutions": [
         [
@@ -29,50 +29,92 @@
             "Ziggs"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar"
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Corki",
+            "Azir",
+            "Elise",
+            "Ezreal",
+            "Gragas",
             "Jayce",
-            "Karthus",
-            "Zoe"
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
         ],
         [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Veigar"
-        ],
-        [
-            "Evelynn",
-            "Garen"
-        ],
-        [
-            "Belveth",
-            "Briar",
+            "Aatrox",
+            "Diana",
+            "Fizz",
             "Ksante",
             "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
             "Neeko",
-            "Ornn",
             "Rakan",
-            "Rell",
-            "Samira",
+            "Riven",
             "Sylas",
-            "Yone"
+            "Yasuo",
+            "Zyra"
         ],
         [
-            "Yuumi"
+            "Cassiopeia",
+            "Darius",
+            "Katarina",
+            "Kayn",
+            "LeBlanc",
+            "Riven",
+            "Swain"
+        ],
+        [
+            "Aatrox",
+            "Caitlyn",
+            "Ezreal",
+            "Jax",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Lulu",
+            "Rakan",
+            "Thresh",
+            "Xayah"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
         ],
         [
             "Briar",
-            "Rell",
-            "Zoe"
+            "Draven",
+            "Kled",
+            "Mel",
+            "Sion"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

@@ -1,70 +1,77 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "OG40",
-        "true damage"
+        "Adc",
+        "Space Groove",
+        "dash"
     ],
     "cols": [
-        "Targon",
+        "Bilgewater",
         "root",
-        "Immunity"
+        "ascended"
     ],
     "solutions": [
         [
-            "Pantheon"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Camille",
-            "Fiora",
-            "Gwen",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Sion",
-            "Zac"
+            "Varus"
         ],
         [
-            "Soraka",
+            "Nami",
+            "Twisted fate"
+        ],
+        [
+            "Lissandra",
+            "Lux",
+            "Nunu"
+        ],
+        [
+            "Nasus",
             "Taric"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Fizz",
+            "Graves",
+            "Illaoi",
+            "Nautilus",
+            "Nilah",
+            "Pyke"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle",
-            "Ryze",
-            "Sion",
-            "Zilean"
-        ],
-        [
-            "Zoe"
-        ],
-        [
+            "Caitlyn",
             "Ivern",
             "Ksante",
-            "Nunu",
-            "Renata glasc"
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
         ],
         [
-            "Camille",
-            "Fiora",
-            "Gwen",
-            "Kogmaw"
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Naafiri",
+            "Pantheon",
+            "Renekton"
         ]
     ]
 }

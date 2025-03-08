@@ -1,76 +1,65 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "cosmic",
-        "invis"
+        "Jungle",
+        "invis",
+        "Fright Night"
     ],
     "cols": [
         "Bilgewater",
-        "knock-up",
+        "root",
         "yordle"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Illaoi",
-            "Nami",
+            "Graves",
             "Nautilus"
         ],
         [
-            "Anivia",
-            "Belveth",
-            "Lulu",
-            "Nami",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
             "Nautilus",
             "Nunu",
-            "Rakan",
-            "Sion",
-            "Xin Zhao"
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Lulu"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
             "Pyke"
         ],
         [
+            "LeBlanc",
             "Neeko",
-            "Reksai",
-            "Wukong"
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
         ],
         [
             "Teemo"
+        ],
+        [
+            "Nautilus",
+            "Pyke"
+        ],
+        [
+            "Nautilus",
+            "Nunu",
+            "Renata glasc",
+            "Shaco"
+        ],
+        [
+            "Veigar"
         ]
     ]
 }

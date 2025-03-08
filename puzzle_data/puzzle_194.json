@@ -1,16 +1,22 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "Season 7+",
-        "shield"
+        "PROJECT",
+        "Season 2-6"
     ],
     "cols": [
+        "Targon",
         "knock-up",
-        "Freljord",
-        "tether"
+        "shred"
     ],
     "solutions": [
+        [
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
+        ],
         [
             "Anivia",
             "Aurelion Sol",
@@ -29,81 +35,56 @@
             "Ziggs"
         ],
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
         ],
         [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
+            "Leona"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
+            "Sejuani",
             "Sylas",
-            "Yone"
+            "Vi",
+            "Yasuo"
         ],
         [
-            "Aurora",
-            "Ornn"
+            "Mordekaiser",
+            "Renekton",
+            "Vi"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Aurelion Sol",
+            "Diana"
         ],
         [
+            "Aatrox",
+            "Aurelion Sol",
             "Azir",
-            "Blitzcrank",
             "Braum",
             "Diana",
-            "Galio",
             "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Lee sin",
+            "Kalista",
             "Lulu",
-            "Malphite",
+            "Nami",
             "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Poppy",
-            "Rakan",
-            "Rell",
+            "Reksai",
             "Riven",
-            "Sion",
+            "Sejuani",
             "Tahm kench",
+            "Taliyah",
+            "Velkoz",
             "Vi",
             "Yasuo",
-            "Yone"
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Karma",
-            "Kled",
-            "Morgana",
-            "Nocturne",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Jayce",
+            "Rengar",
+            "Vi"
         ]
     ]
 }

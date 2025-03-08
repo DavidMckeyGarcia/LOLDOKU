@@ -1,79 +1,119 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "Season 2-6",
-        "shield"
+        "Mid",
+        "global ult",
+        "Season 7+"
     ],
     "cols": [
+        "stun",
         "Shurima",
-        "root",
-        "darkin"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Sivir"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Taliyah"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
             "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Varus"
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
             "Akshan",
             "Azir",
-            "Ksante",
             "Naafiri",
-            "Sivir"
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
+            "Azir",
+            "Elise",
+            "Ezreal",
+            "Gragas",
+            "Jayce",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Taliyah",
+            "Xerath"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
             "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
+            "Milio",
             "Neeko",
-            "Nunu",
+            "Ornn",
+            "Pyke",
+            "Rell",
             "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
+            "Akshan",
+            "Ksante",
             "Naafiri"
+        ],
+        [
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

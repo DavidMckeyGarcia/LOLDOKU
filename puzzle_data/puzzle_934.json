@@ -1,105 +1,60 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "Season 2-6",
-        "worlds skin"
+        "Jungle",
+        "global ult",
+        "Season 2-6"
     ],
     "cols": [
-        "root",
-        "Freljord",
-        "pentakill"
+        "silence",
+        "The Void",
+        "riot records"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
+            "Fiddlesticks"
+        ],
+        [
+            "Belveth",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
             "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Sett",
+            "Viego"
         ],
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Soraka"
         ],
         [
-            "Akali",
+            "Kaisa"
+        ],
+        [
+            "Ekko",
             "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
-        ],
-        [
-            "Darius",
-            "Fiora",
-            "Jinx",
-            "Kalista",
-            "Lucian"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Nunu"
-        ],
-        [
-            "Akali",
-            "Aphelios",
-            "Ezreal",
-            "Fiora",
-            "Jinx",
             "Kaisa",
-            "Kalista",
-            "Ryze",
-            "Twitch",
-            "Vayne",
-            "Xayah"
+            "Karthus",
+            "Senna"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Khazix",
+            "Reksai",
+            "Velkoz"
+        ],
+        [
+            "Ahri",
+            "Ekko",
+            "Yasuo"
         ]
     ]
 }

@@ -1,73 +1,95 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "arcade",
-        "invis"
+        "Adc",
+        "elderwood",
+        "blink"
     ],
     "cols": [
-        "Bandle City",
-        "root",
-        "30+ wins"
+        "Freljord",
+        "slow",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar"
+            "Ashe"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
             "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
             "Seraphine",
-            "Swain"
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Gnar"
         ],
         [
             "Ahri",
             "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Karthus",
+            "Rakan",
+            "Reksai"
+        ],
+        [
+            "Azir",
+            "Gnar",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Lissandra"
+        ],
+        [
+            "Ekko",
+            "Kassadin",
             "Lissandra",
-            "Orianna",
+            "Pantheon",
+            "Pyke",
+            "Reksai",
             "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Zed"
         ],
         [
-            "Corki",
-            "Veigar"
-        ],
-        [
-            "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Ahri",
-            "Corki"
-        ],
-        [
-            "Teemo"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "LeBlanc"
+            "Ezreal",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

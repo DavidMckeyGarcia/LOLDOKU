@@ -1,112 +1,65 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
         "Mid",
-        "Season 7+",
-        "hextech"
+        "Season 2-6",
+        "arcade"
     ],
     "cols": [
-        "Shurima",
-        "stun",
-        "yordle"
+        "Ionia",
+        "fear",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
+            "Ahri",
+            "Akali",
+            "Hwei",
             "Irelia",
+            "Karma",
             "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
             "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
+            "Yasuo",
             "Yone",
-            "Zilean"
+            "Zed"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
+            "Hwei",
             "Vex"
         ],
         [
-            "Amumu",
-            "Rammus",
-            "Renekton"
+            "Ahri",
+            "Aurora",
+            "Neeko"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Malzahar",
-            "Poppy",
-            "Rammus",
-            "Renekton",
-            "Sejuani",
-            "Sion"
+            "Ahri",
+            "Ivern",
+            "Jhin",
+            "Syndra",
+            "Varus",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Tristana",
-            "Ziggs"
+            "Aatrox",
+            "Darius",
+            "Hecarim"
+        ],
+        [
+            "Ahri",
+            "Nami",
+            "Rengar"
+        ],
+        [
+            "Ahri",
+            "Yasuo"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Ahri"
         ]
     ]
 }

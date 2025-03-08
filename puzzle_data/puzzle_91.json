@@ -1,124 +1,93 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
         "Support",
-        "coven",
-        "OG40"
+        "evolves",
+        "prestige"
     ],
     "cols": [
-        "slow",
-        "Ixtal",
-        "riot records"
+        "The Void",
+        "stun",
+        "30+ wins"
     ],
     "solutions": [
         [
+            "Velkoz"
+        ],
+        [
+            "Alistar",
+            "Annie",
             "Ashe",
             "Bard",
+            "Blitzcrank",
             "Brand",
             "Braum",
-            "Galio",
             "Heimerdinger",
-            "Janna",
-            "Karma",
             "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
             "Milio",
             "Morgana",
             "Nami",
             "Nautilus",
+            "Neeko",
             "Pantheon",
             "Poppy",
             "Pyke",
-            "Rakan",
+            "Rell",
             "Renata glasc",
-            "Senna",
             "Seraphine",
             "Sona",
-            "Soraka",
-            "Swain",
             "Tahm kench",
+            "Taric",
             "Thresh",
             "Velkoz",
             "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
-        ],
-        [
-            "Milio",
-            "Neeko",
-            "Zyra"
-        ],
-        [
-            "Senna",
-            "Sona"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Evelynn",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Nilah",
-            "Syndra",
-            "Zyra"
-        ],
-        [
-            "Zyra"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Evelynn"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
             "Zilean"
         ],
         [
-            "Malphite"
+            "Galio"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
+            "Belveth",
+            "Kaisa",
+            "Khazix"
+        ],
+        [
+            "Bard",
+            "Viktor"
+        ],
+        [
+            "Viktor"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Ahri",
+            "LeBlanc",
+            "Lissandra"
         ]
     ]
 }

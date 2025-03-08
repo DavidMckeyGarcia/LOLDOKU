@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "shield",
-        "OG40"
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
         "root",
-        "Noxus",
-        "Immunity"
+        "Targon",
+        "never played"
     ],
     "solutions": [
         [
@@ -25,88 +25,83 @@
             "Swain"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
         ],
         [
-            "Aurora",
-            "Ekko",
-            "Fizz",
-            "Galio",
-            "Karthus",
-            "Kayle",
-            "Lissandra",
-            "Mel",
-            "Ryze",
-            "Vladimir",
-            "Zed",
-            "Zilean"
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Elise",
+            "Heimerdinger",
+            "Kennen",
+            "Naafiri"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Zoe"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
         ],
         [
             "Aphelios",
             "Hwei",
-            "Ivern",
             "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
             "Mel",
-            "Morgana",
-            "Nautilus",
             "Neeko",
-            "Nunu",
             "Renata glasc",
             "Senna",
-            "Seraphine"
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Kled",
-            "Mel",
-            "Mordekaiser",
+            "Aphelios",
+            "Zoe"
+        ],
+        [
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
             "Rell",
-            "Riven",
-            "Sion"
-        ],
-        [
-            "Camille",
-            "Ekko",
-            "Galio",
-            "Kled",
-            "Mel",
-            "Sion",
-            "Yuumi"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle",
-            "Ryze",
-            "Sion",
-            "Zilean"
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ]
     ]
 }

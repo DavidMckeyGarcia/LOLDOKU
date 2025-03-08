@@ -1,155 +1,81 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "elderwood"
+        "Mid",
+        "Space Groove",
+        "true damage"
     ],
     "cols": [
-        "Freljord",
-        "slow",
-        "vastayan"
+        "silence",
+        "Noxus",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Camille",
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Aurelion Sol",
             "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Blitzcrank",
+            "Lulu"
+        ],
+        [
+            "Samira"
+        ],
+        [
+            "Blitzcrank",
+            "Lux",
+            "Nunu",
+            "Twisted fate"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
             "Darius",
-            "Dr. Mundo",
+            "Draven",
+            "Samira"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Corki",
             "Fiora",
             "Gangplank",
-            "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
-            "Jarvan IV",
-            "Jayce",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
-            "Sion",
-            "Skarner",
-            "Swain",
-            "Sylas",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
-            "Zac"
-        ],
-        [
-            "Wukong"
-        ],
-        [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Aurelion Sol",
-            "Azir",
-            "Bard",
-            "Braum",
-            "Darius",
-            "Diana",
-            "Draven",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jayce",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Khazix",
-            "Kindred",
-            "Kled",
-            "Lissandra",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Quinn",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Varus",
-            "Velkoz",
-            "Viktor",
-            "Volibear",
-            "Zac",
-            "Zed",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Ahri",
-            "Nami",
-            "Rengar"
-        ],
-        [
-            "Gnar"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Bard",
-            "Gnar",
-            "Hecarim",
-            "Karthus",
-            "Rakan",
-            "Reksai"
-        ],
-        [
-            "Ahri",
-            "Rakan",
-            "Wukong",
-            "Xayah"
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

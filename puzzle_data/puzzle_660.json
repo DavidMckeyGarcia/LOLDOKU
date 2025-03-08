@@ -1,45 +1,16 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "ult execute",
-        "pool party"
+        "Season 7+",
+        "arcade"
     ],
     "cols": [
-        "stun",
         "Noxus",
-        "never played"
+        "knock-up",
+        "100+ games"
     ],
     "solutions": [
-        [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
         [
             "Alistar",
             "Annie",
@@ -49,82 +20,73 @@
         ],
         [
             "Alistar",
-            "Ashe",
-            "Bard",
             "Blitzcrank",
-            "Brand",
             "Braum",
-            "Heimerdinger",
+            "Galio",
             "Janna",
-            "Leona",
-            "Maokai",
-            "Milio",
-            "Morgana",
+            "Lulu",
             "Nami",
-            "Pyke",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
             "Rakan",
             "Rell",
-            "Renata glasc",
-            "Senna",
-            "Sona",
-            "Soraka",
             "Tahm kench",
-            "Thresh",
-            "Yuumi",
+            "Velkoz",
             "Zyra"
         ],
         [
-            "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
+            "Alistar",
+            "Ashe",
+            "Braum",
+            "Janna",
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
         ],
         [
-            "Darius",
-            "Draven",
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Kaisa",
+            "Rakan",
+            "Xayah"
+        ],
+        [
             "Riven"
         ],
         [
-            "Akshan",
-            "Chogath",
-            "Draven",
-            "Evelynn",
-            "Garen",
-            "Jhin",
-            "Jinx",
-            "Pyke",
-            "Reksai",
-            "Viego"
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
         ],
         [
-            "Braum",
-            "Fiora",
-            "Heimerdinger",
-            "Leona",
-            "Orianna",
-            "Renekton",
-            "Sett",
-            "Syndra",
-            "Taliyah",
-            "Taric",
-            "Zac"
-        ],
-        [
-            "Draven"
-        ],
-        [
-            "Braum",
-            "Dr. Mundo",
-            "Draven",
-            "Fiora",
-            "Graves",
-            "Heimerdinger",
-            "Jarvan IV",
-            "Leona",
-            "Miss Fortune",
-            "Reksai"
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa"
         ]
     ]
 }

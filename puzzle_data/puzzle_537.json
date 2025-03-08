@@ -1,89 +1,153 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "iron",
     "rows": [
         "Top",
-        "ult execute",
-        "arcade"
+        "life steal",
+        "Season 2-6"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "ult reset"
+        "Shadow Isles",
+        "knock-up",
+        "never played"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Gwen",
+            "Maokai",
+            "Yorick"
+        ],
+        [
+            "Aatrox",
+            "Chogath",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
+            "Jarvan IV",
             "Ksante",
-            "Kennen",
+            "Kayn",
+            "Malphite",
             "Ornn",
-            "Pantheon",
             "Poppy",
-            "Renekton",
             "Riven",
-            "Sett",
             "Sion",
-            "Skarner",
             "Sylas",
             "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
             "Yone",
             "Zac"
         ],
         [
-            "Gangplank",
+            "Chogath",
+            "Dr. Mundo",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Gwen",
+            "Heimerdinger",
             "Illaoi",
-            "Tahm kench"
+            "Jarvan IV",
+            "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Viego"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
         ],
         [
-            "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Kayn",
+            "Morgana",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
-            "Pyke"
-        ],
-        [
-            "Darius",
-            "Viego"
-        ],
-        [
-            "Blitzcrank",
-            "Brand",
             "Hecarim",
-            "Malzahar",
-            "Qiyana",
+            "Kalista",
+            "Thresh"
+        ],
+        [
+            "Aatrox",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
             "Riven",
-            "Sona",
-            "Veigar"
+            "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Miss Fortune"
-        ],
-        [
-            "Ahri",
-            "Belveth"
+            "Bard",
+            "Braum",
+            "Draven",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Hecarim",
+            "Illaoi",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kindred",
+            "Kled",
+            "Nami",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Volibear",
+            "Zyra"
         ]
     ]
 }

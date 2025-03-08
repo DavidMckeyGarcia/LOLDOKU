@@ -1,78 +1,82 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "invis",
-        "Season 2-6"
+        "Mid",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "Demacia",
-        "root",
+        "knock-up",
+        "Bandle City",
         "vastayan"
     ],
     "solutions": [
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Vayne"
-        ],
-        [
-            "LeBlanc",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Ahri",
+            "Aurora",
+            "Neeko"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Ahri"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Yuumi"
         ],
         [
             "Aurora",
             "Neeko",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Ahri",
-            "Nami",
-            "Rengar"
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

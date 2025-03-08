@@ -1,135 +1,60 @@
 {
-    "difficulty": "silver",
+    "difficulty": "challenger",
     "rows": [
         "Top",
-        "prestige",
-        "shield"
+        "Season 2-6",
+        "ult execute"
     ],
     "cols": [
-        "stun",
-        "Freljord",
-        "darkin"
+        "root",
+        "Shadow Isles",
+        "0 games"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
             "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
+            "Maokai",
+            "Singed",
+            "Swain",
             "Zac"
         ],
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Kayn"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
-        ],
-        [
-            "Brand",
-            "Kindred",
-            "Lissandra",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Kayn"
+            "Gwen",
+            "Maokai",
+            "Yorick"
         ],
         [
             "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
+            "Illaoi"
+        ],
+        [
             "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
+            "Jhin",
+            "Jinx",
+            "Lissandra",
             "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
+            "Rengar",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
+            "Hecarim",
+            "Kalista",
+            "Thresh"
         ],
         [
-            "Naafiri"
+            "Illaoi"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Viego"
+        ],
+        [
+            "Akshan"
         ]
     ]
 }

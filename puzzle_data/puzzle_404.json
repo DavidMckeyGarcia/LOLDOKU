@@ -1,90 +1,58 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "Season 7+",
-        "prestige"
+        "Jungle",
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
-        "root",
-        "Ixtal",
-        "shred"
+        "fear",
+        "Demacia",
+        "darkin"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Malphite",
-            "Skarner"
-        ],
-        [
-            "Garen",
             "Jarvan IV",
-            "Jayce",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Kayn"
         ],
         [
-            "Milio",
-            "Neeko"
+            "Aatrox",
+            "Briar",
+            "Warwick"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "Aatrox",
+            "Kayn"
         ],
         [
             "Briar",
-            "Rell",
-            "Zoe"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
+            "Sylas"
         ],
         [
-            "Malphite",
-            "Neeko",
-            "Qiyana",
-            "Zyra"
-        ],
-        [
-            "Evelynn",
-            "Garen",
-            "Zoe"
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

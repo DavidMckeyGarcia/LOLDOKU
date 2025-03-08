@@ -1,64 +1,101 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
+        "Jungle",
         "Season 2-6",
-        "blink"
+        "dash"
     ],
     "cols": [
-        "Noxus",
-        "silence",
-        "0 games"
+        "Ixtal",
+        "fear",
+        "manaless"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
         ],
         [
+            "Rengar",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
             "Darius",
-            "Draven",
-            "Elise",
+            "Hecarim"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
             "Kled",
-            "Riven"
+            "Reksai",
+            "Rengar",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ],
         [
-            "Lulu"
+            "Malphite",
+            "Nidalee",
+            "Qiyana",
+            "Rengar"
         ],
         [
-            "Illaoi"
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
         ],
         [
+            "Aatrox",
+            "Akali",
             "Ambessa",
-            "Katarina",
-            "LeBlanc"
-        ],
-        [
-            "Kassadin"
-        ],
-        [
-            "Ambessa",
-            "Master yi"
+            "Belveth",
+            "Briar",
+            "Gnar",
+            "Kled",
+            "Lee sin",
+            "Reksai",
+            "Renekton",
+            "Rengar",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Tryndamere",
+            "Viego",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ]
     ]
 }

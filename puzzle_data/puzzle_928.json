@@ -2,13 +2,13 @@
     "difficulty": "bronze",
     "rows": [
         "Support",
-        "prestige",
-        "Season 2-6"
+        "Season 2-6",
+        "global ult"
     ],
     "cols": [
         "knock-up",
-        "Freljord",
-        "riot records"
+        "Targon",
+        "100+ games"
     ],
     "solutions": [
         [
@@ -29,50 +29,21 @@
             "Zyra"
         ],
         [
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Alistar",
             "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Senna",
-            "Sona"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
+            "Braum",
+            "Janna",
+            "Leona",
             "Lulu",
-            "Malphite",
-            "Neeko",
+            "Maokai",
             "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Brand",
-            "Kindred",
-            "Lissandra",
-            "Volibear"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Evelynn",
-            "Ezreal",
-            "Ksante",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Qiyana",
-            "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo"
+            "Thresh"
         ],
         [
             "Aatrox",
@@ -98,17 +69,46 @@
             "Zyra"
         ],
         [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
+            "Aurelion Sol",
+            "Diana"
         ],
         [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
+            "Aatrox",
+            "Azir",
+            "Braum",
+            "Elise",
+            "Gnar",
+            "Jayce",
+            "Jhin",
+            "Lucian",
+            "Lulu",
+            "Sejuani",
+            "Syndra",
+            "Thresh",
+            "Varus"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Aurelion Sol",
+            "Pantheon",
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

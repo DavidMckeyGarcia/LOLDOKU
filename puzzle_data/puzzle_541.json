@@ -1,86 +1,82 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "invis",
+        "ult execute",
         "Season 7+"
     ],
     "cols": [
-        "Ixtal",
-        "fear",
-        "100% AP Ratio"
+        "Noxus",
+        "root",
+        "0 games"
     ],
     "solutions": [
         [
-            "Nidalee",
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
+        ],
+        [
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
             "Qiyana",
             "Rengar",
-            "Skarner",
+            "Shaco",
+            "Zac",
             "Zyra"
         ],
         [
             "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Master yi"
         ],
         [
-            "Belveth",
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Ambessa",
             "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
-        ],
-        [
-            "Neeko",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Kaisa",
-            "Neeko",
-            "Viego",
-            "Wukong"
-        ],
-        [
-            "Milio",
-            "Neeko"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
             "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
+            "Hwei",
+            "Ksante",
+            "Mel",
             "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

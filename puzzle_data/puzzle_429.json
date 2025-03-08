@@ -1,73 +1,98 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "dark star",
-        "invis"
+        "Support",
+        "global ult",
+        "empyrean"
     ],
     "cols": [
-        "knock-up",
-        "Shurima",
-        "arcane"
+        "Ionia",
+        "root",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
+            "Karma",
+            "Rakan"
+        ],
+        [
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
             "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
         ],
         [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Briar",
             "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Chogath",
-            "Jarvan IV",
-            "Malphite"
-        ],
-        [
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
+            "Shen",
+            "Twisted fate",
             "Xerath"
         ],
         [
-            "Orianna"
+            "Akali",
+            "Jhin",
+            "Varus",
+            "Zed"
         ],
         [
-            "Neeko",
-            "Reksai",
-            "Wukong"
+            "Jhin",
+            "Ksante",
+            "Lux",
+            "Varus",
+            "Zac"
         ],
         [
-            "Akshan"
-        ],
-        [
-            "LeBlanc"
+            "Jax",
+            "Jhin",
+            "Lux",
+            "Nocturne",
+            "Varus"
         ]
     ]
 }

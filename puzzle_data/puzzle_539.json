@@ -1,67 +1,65 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "Season 7+",
-        "elderwood"
+        "Jungle",
+        "Season 2-6",
+        "global ult"
     ],
     "cols": [
-        "Shurima",
-        "root",
+        "Freljord",
+        "silence",
         "tether"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
+            "Fiddlesticks"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
             "Zac"
+        ],
+        [
+            "Braum",
+            "Gnar",
+            "Kindred",
+            "Lissandra",
+            "Sejuani",
+            "Volibear"
+        ],
+        [
+            "Lulu"
         ],
         [
             "Aatrox",
             "Illaoi",
+            "Kalista",
             "Kled",
-            "Sylas",
             "Zac"
         ],
         [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
+            "Ashe",
+            "Ornn"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Soraka"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
-        ],
-        [
-            "Azir"
-        ],
-        [
-            "LeBlanc",
-            "Xayah"
-        ],
-        [
-            "LeBlanc"
+            "Kled",
+            "Nocturne"
         ]
     ]
 }

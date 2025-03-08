@@ -1,69 +1,89 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "empyrean",
-        "OG40"
+        "Adc",
+        "Season 7+",
+        "empyrean"
     ],
     "cols": [
-        "fear",
-        "Freljord",
-        "yordle"
+        "Shadow Isles",
+        "stun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Kalista",
+            "Senna"
         ],
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Anivia",
             "Ashe",
-            "Nunu",
-            "Tryndamere"
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Amumu",
+            "Aphelios",
+            "Ashe",
             "Corki",
-            "Heimerdinger",
-            "Teemo",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
             "Tristana",
-            "Veigar"
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Kaisa",
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
+            "Zac"
+        ],
+        [
+            "Jax",
+            "Jhin",
+            "Lux",
+            "Nocturne",
+            "Varus"
         ]
     ]
 }

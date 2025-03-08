@@ -1,27 +1,16 @@
 {
-    "difficulty": "gold",
+    "difficulty": "iron",
     "rows": [
         "Jungle",
-        "empyrean",
-        "Season 2-6"
+        "dash",
+        "prestige"
     ],
     "cols": [
-        "Freljord",
         "root",
-        "riot records"
+        "Ixtal",
+        "100+ games"
     ],
     "solutions": [
-        [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
         [
             "Ivern",
             "Lee sin",
@@ -36,54 +25,108 @@
             "Zyra"
         ],
         [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
+            "Nidalee",
             "Qiyana",
-            "Sett",
-            "Viego"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Ksante",
-            "Kayle"
-        ],
-        [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
             "Rengar",
-            "Varus",
-            "Zac",
+            "Skarner",
             "Zyra"
         ],
         [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Malphite",
+            "Nidalee",
+            "Qiyana",
+            "Rengar"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Maokai",
+            "Rakan",
+            "Renekton",
+            "Sejuani",
+            "Shen",
+            "Thresh",
+            "Tristana"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Malphite",
+            "Neeko",
+            "Qiyana",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Caitlyn",
+            "Ezreal",
+            "Jax",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Lulu",
+            "Rakan",
+            "Thresh",
+            "Xayah"
         ]
     ]
 }

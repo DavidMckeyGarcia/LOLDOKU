@@ -1,84 +1,110 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "Season 2-6",
-        "arcade"
+        "Top",
+        "prestige",
+        "true damage"
     ],
     "cols": [
-        "Freljord",
-        "stun",
-        "arcane"
+        "Noxus",
+        "root",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ashe"
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
+        ],
+        [
+            "Cassiopeia",
+            "Darius",
+            "Katarina",
+            "Kayn",
+            "LeBlanc",
+            "Riven",
+            "Swain"
         ],
         [
             "Caitlyn",
             "Jinx",
-            "Mel"
-        ],
-        [
-            "Braum",
-            "Gnar",
-            "Kindred",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
             "Lissandra",
-            "Sejuani",
-            "Volibear"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
-        ],
-        [
-            "Ekko",
-            "Jayce",
-            "Jinx",
-            "Vi",
-            "Viktor"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Malzahar",
+            "Lux",
+            "Morgana",
+            "Neeko",
             "Qiyana",
-            "Riven",
-            "Sona",
-            "Veigar"
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
         ],
         [
-            "Caitlyn"
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Jax",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Sivir",
+            "Thresh",
+            "Volibear",
+            "Zeri"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Samira"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Corki",
+            "Fiora",
+            "Gangplank",
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

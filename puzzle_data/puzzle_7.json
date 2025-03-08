@@ -1,68 +1,82 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "shield"
+        "Jungle",
+        "OG40",
+        "dash"
     ],
     "cols": [
+        "Zaun",
         "fear",
-        "Bilgewater",
-        "0 games"
+        "ascended"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
             "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
-        ],
-        [
-            "Hwei",
+            "Fiddlesticks",
+            "Hecarim",
             "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Nasus",
+            "Taric"
+        ],
+        [
+            "Ekko",
             "Urgot",
-            "Vex"
+            "Vi",
+            "Warwick",
+            "Zac",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Milio",
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Kayn",
+            "Leona",
             "Naafiri",
-            "Vex"
+            "Pantheon",
+            "Renekton"
         ]
     ]
 }

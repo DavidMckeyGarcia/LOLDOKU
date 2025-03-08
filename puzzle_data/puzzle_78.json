@@ -1,63 +1,65 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
+        "Mid",
         "Season 2-6",
-        "shield"
+        "elderwood"
     ],
     "cols": [
         "stun",
-        "Ionia",
-        "ascended"
+        "Bandle City",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Amumu",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
             "Brand",
-            "Briar",
-            "Camille",
+            "Cassiopeia",
             "Ekko",
             "Elise",
             "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
             "Pantheon",
-            "Poppy",
             "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
+            "Seraphine",
             "Sylas",
+            "Syndra",
             "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ],
         [
             "Aurelion Sol",
@@ -85,70 +87,28 @@
             "Zac"
         ],
         [
+            "Lulu"
+        ],
+        [
             "Ahri",
-            "Ivern",
-            "Jhin",
-            "Syndra",
-            "Varus",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Aatrox",
             "Azir",
-            "Diana",
-            "Varus"
+            "Lissandra",
+            "Taliyah",
+            "Viktor"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
         ],
         [
-            "Hwei",
-            "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Yasuo",
-            "Yone"
+            "Veigar"
         ],
         [
+            "Ahri",
             "Azir",
-            "Diana",
-            "Naafiri",
-            "Taric"
+            "LeBlanc"
         ]
     ]
 }

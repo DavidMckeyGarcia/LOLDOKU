@@ -1,175 +1,70 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "worlds skin",
-        "blink"
+        "Mid",
+        "shield",
+        "Season 2-6"
     ],
     "cols": [
-        "slow",
-        "Freljord",
-        "pentakill"
+        "Demacia",
+        "fear",
+        "ascended"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Akali",
-            "Camille",
-            "Chogath",
-            "Darius",
-            "Dr. Mundo",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
-            "Jarvan IV",
-            "Jayce",
-            "Ksante",
+            "Galio",
             "Kayle",
-            "Kayn",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Ornn",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
             "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
             "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
-            "Sion",
-            "Skarner",
-            "Swain",
-            "Sylas",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
+            "Sona"
+        ],
+        [
+            "Hwei",
+            "Nocturne",
             "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
-            "Zac"
+            "Vex"
         ],
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Taric"
         ],
         [
-            "Akali",
-            "Darius",
             "Fiora",
-            "Vayne"
+            "Lucian",
+            "Quinn"
         ],
         [
             "Aatrox",
-            "Akali",
-            "Aphelios",
-            "Ashe",
+            "Darius",
+            "Hecarim"
+        ],
+        [
+            "Aatrox",
             "Azir",
-            "Bard",
-            "Caitlyn",
-            "Camille",
-            "Corki",
-            "Dr. Mundo",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Gragas",
-            "Graves",
-            "Irelia",
-            "Janna",
-            "Jarvan IV",
-            "Jayce",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Karthus",
-            "Kindred",
-            "Lee sin",
-            "Leona",
-            "Malphite",
-            "Maokai",
-            "Nami",
-            "Nunu",
-            "Orianna",
-            "Rakan",
-            "Rengar",
-            "Ryze",
-            "Shen",
-            "Singed",
-            "Syndra",
-            "Taliyah",
-            "Talon",
-            "Thresh",
-            "Twisted fate",
-            "Twitch",
-            "Viego",
-            "Yuumi",
-            "Zac",
-            "Zed",
-            "Zoe",
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Nunu"
-        ],
-        [
-            "Akali",
-            "Aphelios",
-            "Ezreal",
-            "Fiora",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Ryze",
-            "Twitch",
-            "Vayne",
-            "Xayah"
-        ],
-        [
-            "Ekko",
-            "Kassadin",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Reksai",
-            "Ryze",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Zed"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "Ezreal",
-            "Ryze"
+            "Diana",
+            "Varus"
         ]
     ]
 }

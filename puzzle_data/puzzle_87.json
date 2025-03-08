@@ -1,16 +1,19 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
         "Top",
-        "ult execute",
-        "Fright Night"
+        "Season 7+",
+        "hextech"
     ],
     "cols": [
+        "The Void",
         "fear",
-        "Noxus",
-        "shred"
+        "tether"
     ],
     "solutions": [
+        [
+            "Chogath"
+        ],
         [
             "Aatrox",
             "Darius",
@@ -18,51 +21,37 @@
             "Warwick"
         ],
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
+            "Aatrox",
+            "Illaoi",
             "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
+            "Sylas",
+            "Zac"
         ],
         [
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
+            "Belveth",
+            "Kaisa"
         ],
         [
-            "Darius",
-            "Urgot"
+            "Briar",
+            "Hwei",
+            "Vex"
         ],
         [
-            "Darius",
-            "Draven",
-            "Riven"
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ],
         [
-            "Evelynn",
-            "Garen"
+            "Kassadin",
+            "Kogmaw",
+            "Malzahar"
         ],
         [
-            "Shaco",
-            "Urgot"
+            "Nocturne"
         ],
         [
-            "Annie",
-            "Draven"
-        ],
-        [
-            "Trundle"
+            "Malzahar",
+            "Nocturne"
         ]
     ]
 }

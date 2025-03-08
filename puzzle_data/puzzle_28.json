@@ -1,67 +1,97 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "pool party",
-        "Season 2-6"
+        "Mid",
+        "Season 7+",
+        "true damage"
     ],
     "cols": [
+        "Ionia",
         "root",
-        "The Void",
-        "pentakill"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Chogath"
-        ],
-        [
+            "Ahri",
             "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Reksai"
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "Fiora"
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Syndra",
+            "Yone"
         ],
         [
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
         ],
         [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
-        ],
-        [
+            "Ahri",
+            "Belveth",
             "Darius",
-            "Fiora",
-            "Jinx",
-            "Kalista",
-            "Lucian"
+            "Master yi",
+            "Olaf",
+            "Vayne"
         ]
     ]
 }

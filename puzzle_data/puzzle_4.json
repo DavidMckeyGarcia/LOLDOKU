@@ -1,19 +1,22 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "global ult",
+        "true damage",
         "OG40"
     ],
     "cols": [
-        "Shadow Isles",
+        "Demacia",
         "knock-up",
-        "100+ games"
+        "riot records"
     ],
     "solutions": [
         [
-            "Karthus",
-            "Vex"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
             "Anivia",
@@ -33,43 +36,42 @@
             "Ziggs"
         ],
         [
-            "Azir",
-            "Elise",
+            "Ahri",
+            "Akali",
+            "Ekko",
             "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
-        ],
-        [
             "Karthus",
-            "Maokai",
-            "Senna",
-            "Vex"
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
+            "Fiora",
+            "Garen",
+            "Vayne"
         ],
         [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
-            "Ryze",
-            "Shen"
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Karthus"
+            "Ahri",
+            "Akali",
+            "Ksante",
+            "Olaf",
+            "Sett",
+            "Yone"
+        ],
+        [
+            "Kayle",
+            "Morgana"
         ],
         [
             "Alistar",
@@ -82,12 +84,9 @@
             "Sion"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
+            "Evelynn",
+            "Karthus",
+            "Kayle"
         ]
     ]
 }

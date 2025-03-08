@@ -1,38 +1,49 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "Season 2-6",
-        "arcade"
+        "Jungle",
+        "blink",
+        "Season 2-6"
     ],
     "cols": [
-        "The Void",
         "root",
-        "tether"
+        "Piltover",
+        "arcane"
     ],
     "solutions": [
         [
-            "Kaisa",
-            "Kogmaw"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Camille"
         ],
         [
-            "Kalista"
+            "Ekko",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Ezreal"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "LeBlanc"
         ],
         [
             "Ivern",
@@ -46,23 +57,14 @@
             "Zyra"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kalista",
-            "Kled",
-            "Zac"
+            "Jayce"
         ],
         [
-            "Belveth",
-            "Kaisa",
-            "Malzahar"
-        ],
-        [
-            "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Malzahar"
+            "Ekko",
+            "Jayce",
+            "Jinx",
+            "Vi",
+            "Viktor"
         ]
     ]
 }

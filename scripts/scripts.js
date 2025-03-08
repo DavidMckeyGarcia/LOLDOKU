@@ -181,6 +181,72 @@ let searchable = [
   ]
 
 
+
+//load a random puzzle file
+
+function loadData(numPuzzles = 100) {
+  resetGame(); // DELETE FOR LOCAL STORAGE MEMORY
+  clearSavedGame(); //DELETE FOR LOCAL STORAGE MEMORY
+
+  // Dynamically generate puzzle file paths based on the number of puzzles
+  const puzzleFiles = Array.from(
+    { length: numPuzzles }, 
+    (_, i) => `puzzle_data/puzzle_${i + 1}.json`
+  );
+
+  // Select a random puzzle file
+  const randomPuzzleFile = puzzleFiles[Math.floor(Math.random() * puzzleFiles.length)];
+
+  // Fetch the selected random puzzle file
+  fetch(randomPuzzleFile)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+      // Store all data in our global variable
+      puzzleData = data;
+      
+      // Update headers using the cached data
+      updateHeaders(puzzleData);
+
+      console.log(randomPuzzleFile)
+
+      // Load game state after data is available
+      loadGameState();
+      
+      // Initialize the grid with the loaded state
+      initializeGrid();
+
+      // INITIQ
+      createSecondGrid();
+      updateSecondGridContent();
+    })
+    .catch(error => {
+      console.error('Error loading random puzzle JSON:', error);
+      
+      // Fallback to default puzzle_data.json if everything else fails
+      fetch('puzzle_data.json')
+        .then(response => response.json())
+        .then(data => {
+          puzzleData = data;
+          updateHeaders(puzzleData);
+          loadGameState();
+          initializeGrid();
+          createSecondGrid();
+          updateSecondGridContent();
+        })
+        .catch(fallbackError => {
+          console.error('Fallback to default puzzle file also failed:', fallbackError);
+        });
+    });
+
+    console.log('Ran LoadData');
+  }
+
+
 /*
 function preloadImages() {
   // Create hidden container for preloaded images
@@ -344,73 +410,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }, 150); // Match the animation duration
   }
 });
-
-
-
-
-// NEW loadData function to load a random puzzle file
-
-function loadData(numPuzzles = 100) {
-  resetGame(); // DELETE FOR LOCAL STORAGE MEMORY
-  clearSavedGame(); //DELETE FOR LOCAL STORAGE MEMORY
-
-  // Dynamically generate puzzle file paths based on the number of puzzles
-  const puzzleFiles = Array.from(
-    { length: numPuzzles }, 
-    (_, i) => `puzzle_data/puzzle_${i + 1}.json`
-  );
-
-  // Select a random puzzle file
-  const randomPuzzleFile = puzzleFiles[Math.floor(Math.random() * puzzleFiles.length)];
-
-  // Fetch the selected random puzzle file
-  fetch(randomPuzzleFile)
-    .then(response => {
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-      return response.json();
-    })
-    .then(data => {
-      // Store all data in our global variable
-      puzzleData = data;
-      
-      // Update headers using the cached data
-      updateHeaders(puzzleData);
-
-      console.log(randomPuzzleFile)
-
-      // Load game state after data is available
-      loadGameState();
-      
-      // Initialize the grid with the loaded state
-      initializeGrid();
-
-      // INITIQ
-      createSecondGrid();
-      updateSecondGridContent();
-    })
-    .catch(error => {
-      console.error('Error loading random puzzle JSON:', error);
-      
-      // Fallback to default puzzle_data.json if everything else fails
-      fetch('puzzle_data.json')
-        .then(response => response.json())
-        .then(data => {
-          puzzleData = data;
-          updateHeaders(puzzleData);
-          loadGameState();
-          initializeGrid();
-          createSecondGrid();
-          updateSecondGridContent();
-        })
-        .catch(fallbackError => {
-          console.error('Fallback to default puzzle file also failed:', fallbackError);
-        });
-    });
-
-    console.log('Ran LoadData');
-  }
 
 
 

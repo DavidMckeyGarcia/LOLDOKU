@@ -1,111 +1,118 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "pool party",
-        "blink"
+        "shield",
+        "Fright Night"
     ],
     "cols": [
-        "Piltover",
-        "slow",
-        "ult reset"
+        "stun",
+        "Freljord",
+        "yordle"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Seraphine"
-        ],
-        [
+            "Alistar",
+            "Annie",
             "Ashe",
             "Bard",
+            "Blitzcrank",
             "Brand",
             "Braum",
-            "Galio",
             "Heimerdinger",
-            "Janna",
-            "Karma",
             "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
             "Milio",
             "Morgana",
             "Nami",
             "Nautilus",
+            "Neeko",
             "Pantheon",
             "Poppy",
             "Pyke",
-            "Rakan",
+            "Rell",
             "Renata glasc",
-            "Senna",
             "Seraphine",
             "Sona",
-            "Soraka",
-            "Swain",
             "Tahm kench",
+            "Taric",
             "Thresh",
             "Velkoz",
             "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
+            "Zilean"
         ],
         [
-            "Swain"
+            "Ashe",
+            "Brand",
+            "Braum"
         ],
         [
-            "Caitlyn",
             "Heimerdinger",
-            "Orianna"
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
             "Braum",
-            "Caitlyn",
-            "Dr. Mundo",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Graves",
-            "Heimerdinger",
-            "Jarvan IV",
-            "Lee sin",
-            "Leona",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Kled",
             "Lulu",
-            "Miss Fortune",
-            "Orianna",
-            "Reksai",
-            "Sett",
-            "Singed",
-            "Syndra",
-            "Taliyah",
-            "Zac",
-            "Ziggs",
-            "Zoe"
+            "Poppy",
+            "Rumble",
+            "Vex"
         ],
         [
-            "Singed"
-        ],
-        [
-            "Ezreal"
-        ],
-        [
-            "Ekko",
-            "Kassadin",
-            "Lissandra",
-            "Pantheon",
+            "Annie",
+            "Nautilus",
+            "Nunu",
             "Pyke",
-            "Reksai",
-            "Ryze",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Zed"
+            "Renata glasc",
+            "Urgot",
+            "Veigar"
         ],
         [
-            "Master yi",
-            "Viego"
+            "Nunu",
+            "Trundle"
+        ],
+        [
+            "Veigar"
         ]
     ]
 }

@@ -1,89 +1,85 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "Season 2-6",
-        "shield"
+        "OG40",
+        "dark star"
     ],
     "cols": [
-        "Freljord",
-        "fear",
-        "riot records"
+        "root",
+        "Shurima",
+        "manaless"
     ],
     "solutions": [
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
             "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
             "Qiyana",
-            "Sett",
-            "Viego"
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
-        ],
-        [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Aphelios",
-            "Ekko",
-            "Ksante",
-            "Kaisa",
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
             "Mordekaiser",
-            "Olaf",
-            "Senna",
+            "Reksai",
+            "Rengar",
+            "Rumble",
             "Sett",
-            "Sona",
-            "Yasuo",
-            "Yone"
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
+        ],
+        [
+            "Dr. Mundo",
+            "Katarina",
+            "Tryndamere"
+        ],
+        [
+            "Jhin",
+            "Karma",
+            "Lissandra",
+            "Lux",
+            "Shaco",
+            "Varus"
+        ],
+        [
+            "Xerath"
+        ],
+        [
+            "Mordekaiser"
         ]
     ]
 }

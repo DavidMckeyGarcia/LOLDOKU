@@ -1,74 +1,119 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "true damage",
-        "Season 2-6"
+        "Jungle",
+        "Season 2-6",
+        "PROJECT"
     ],
     "cols": [
-        "Demacia",
-        "silence",
-        "100+ games"
+        "knock-up",
+        "Ionia",
+        "riot records"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Azir",
-            "Elise",
-            "Ezreal",
+            "Belveth",
+            "Briar",
+            "Diana",
             "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Vayne"
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
         ],
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Syndra"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Lulu"
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
+            "Sett",
+            "Viego"
         ],
         [
             "Aatrox",
+            "Aurelion Sol",
             "Azir",
             "Braum",
-            "Elise",
-            "Gnar",
-            "Jayce",
-            "Jhin",
-            "Lucian",
+            "Diana",
+            "Ivern",
+            "Kalista",
             "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
+            "Riven",
             "Sejuani",
+            "Tahm kench",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Ivern",
+            "Jhin",
             "Syndra",
-            "Thresh",
-            "Varus"
+            "Varus",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Ahri",
+            "Ekko",
+            "Yasuo"
+        ],
+        [
+            "Sejuani",
+            "Sylas",
+            "Vi",
+            "Yasuo"
+        ],
+        [
+            "Akali",
+            "Irelia",
+            "Jhin",
+            "Master yi",
+            "Varus",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Akali",
+            "Ekko",
+            "Mordekaiser",
+            "Senna",
+            "Yasuo"
         ]
     ]
 }

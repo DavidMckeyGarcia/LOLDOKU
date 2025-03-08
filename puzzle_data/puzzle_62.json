@@ -1,14 +1,14 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
         "Adc",
-        "Season 7+",
+        "OG40",
         "prestige"
     ],
     "cols": [
         "Ionia",
-        "root",
-        "ascended"
+        "knock-up",
+        "never played"
     ],
     "solutions": [
         [
@@ -17,42 +17,61 @@
             "Xayah"
         ],
         [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
             "Aphelios",
-            "Caitlyn",
+            "Ashe",
+            "Draven",
             "Jhin",
             "Jinx",
-            "Mel",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
             "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
+            "Sivir",
+            "Twitch",
+            "Vayne",
             "Xayah",
-            "Yone"
+            "Zeri"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Master yi"
         ],
         [
-            "Kayn",
-            "Naafiri"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ],
         [
             "Ahri",
@@ -66,31 +85,49 @@
             "Zed"
         ],
         [
-            "Caitlyn",
-            "Jinx",
+            "Aatrox",
+            "Diana",
+            "Fizz",
             "Ksante",
-            "LeBlanc",
+            "Kayn",
             "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
+            "Lulu",
+            "Malphite",
             "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
             "Zyra"
         ],
         [
-            "Aatrox",
-            "Diana",
+            "Brand",
+            "Evelynn",
+            "Fiora",
+            "Garen",
+            "Jinx",
             "Kayn",
+            "Kindred",
             "Leona",
-            "Pantheon"
+            "Malphite",
+            "Miss Fortune",
+            "Morgana",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Sivir",
+            "Sona",
+            "Soraka",
+            "Teemo",
+            "Thresh",
+            "Vayne",
+            "Volibear",
+            "Xayah",
+            "Yuumi",
+            "Zeri",
+            "Zyra"
         ]
     ]
 }

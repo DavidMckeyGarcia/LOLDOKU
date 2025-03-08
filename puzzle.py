@@ -149,22 +149,24 @@ def puzzle_difficulty(puzzle_solutions):
     threes = sum(1 for x in num_sol if x < 3)
     eights = sum(1 for x in num_sol if x < 8)
     tens = sum(1 for x in num_sol if x <10)
-    twenties = sum(1 for x in num_sol if x <30)
+    twenties = sum(1 for x in num_sol if x <20)
     counts = [ones, threes, eights, tens, twenties]
     total = sum(counts)
 
     # Assign a category based on the range of the number
     if total < 16:
         diff = 'iron'
-    elif total < 19:
+    elif total < 21:
         diff = 'bronze'
-    elif total < 22:
+    elif total < 23:
         diff = 'silver'
     elif total < 25:
         diff = 'gold'
-    elif total < 28:
+    elif total < 27:
         diff = 'platinum'
-    elif total <32:
+    elif total < 30:
+        diff = 'emerald'
+    elif total <33:
         diff = 'diamond'
     else:
         diff = 'challenger'
@@ -180,14 +182,15 @@ def create_puzzle():
         sols = puzzle_solutions(puzzle)
     return puzzle
 
-def create_chal():
+
+def create_dif(difficulty = 'challenger'):
     puzzle = create_puzzle()
-    puzzle_dif = puzzle_difficulty(puzzle)
-    print(puzzle_dif)
-    if puzzle_dif != 'challenger':
-        create_chal()
+    if puzzle_difficulty(puzzle) != difficulty:
+        create_dif()
     return puzzle
 
+
+diffs = []
 
 def create_multiple_puzzle_json_files(num_puzzles=5, output_folder="puzzle_data"):
     """
@@ -210,9 +213,10 @@ def create_multiple_puzzle_json_files(num_puzzles=5, output_folder="puzzle_data"
     for i in range(num_puzzles):
         # Generate a new random solvable puzzle
         #puzzle = create_puzzle()
-        puzzle = create_chal()
+        puzzle = create_puzzle_with_unique_solution()
         
         grid_solutions = puzzle_solutions(puzzle)
+        diffs.append(puzzle_difficulty(grid_solutions))
         
         # Extract row and column headers
         r1,c1 = puzzle[0].values()
@@ -245,8 +249,59 @@ def create_multiple_puzzle_json_files(num_puzzles=5, output_folder="puzzle_data"
     
     print(f"Successfully created {num_puzzles} puzzle JSON files in '{output_folder}' folder!")
 
-# Optional: You can call the function with custom number of puzzles
-create_multiple_puzzle_json_files(num_puzzles=100)
+
+
+#PUZZLES WITH 9 UNIQUE SOLUTIONS
+def has_unique_solution(solutions):
+    """Check if there exists at least one way to choose 9 unique champions
+    that satisfy the constraints of all 9 squares."""
+    
+    def backtrack(index, used_champions):
+        # If we've successfully assigned champions to all squares
+        if index == len(solutions):
+            return True
+            
+        # Try each champion that satisfies the current square
+        for champion in solutions[index]:
+            if champion not in used_champions:
+                # Use this champion
+                used_champions.add(champion)
+                # Recursively try to fill the rest of the squares
+                if backtrack(index + 1, used_champions):
+                    return True
+                # Backtrack
+                used_champions.remove(champion)
+                
+        # If no valid assignment was found
+        return False
+    
+    # Start backtracking from the first square with an empty set of used champions
+    return backtrack(0, set())
+
+def create_puzzle_with_unique_solution():
+    """Creates a puzzle that can be solved with 9 unique champions."""
+    max_attempts = 1000  # Limit to prevent infinite loops
+    attempts = 0
+    
+    while attempts < max_attempts:
+        attempts += 1
+        puzzle = create_puzzle()
+        sols = puzzle_solutions(puzzle)
+        
+        # Check if all squares have at least one champion
+        if all(sols):
+            # Check if there's a way to fill all squares with unique champions
+            if has_unique_solution(sols):
+                return puzzle #, sols, puzzle_difficulty(sols)
+    
+    
+    # If we couldn't find a valid puzzle after max attempts
+    raise Exception(f"Could not generate a valid puzzle after {max_attempts} attempts")
+
+
+create_multiple_puzzle_json_files(num_puzzles=1000)
+
+
 
 
 

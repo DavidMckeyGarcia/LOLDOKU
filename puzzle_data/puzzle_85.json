@@ -1,61 +1,64 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "OG40",
-        "ult execute"
+        "Mid",
+        "global ult",
+        "Season 7+"
     ],
     "cols": [
-        "Zaun",
+        "Targon",
         "fear",
-        "0 games"
+        "arcane"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
+        ],
+        [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Ambessa",
             "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Heimerdinger",
+            "Jayce",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
+        ],
+        [
+            "Aurelion Sol",
+            "Pantheon",
+            "Soraka"
         ],
         [
             "Briar",
-            "Fiddlesticks",
-            "Hecarim",
             "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Vex"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Aphelios",
+            "Zoe"
         ],
         [
             "Briar",
-            "Master yi"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Jinx",
-            "Urgot"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Akshan"
+            "Ambessa",
+            "Mel"
         ]
     ]
 }

@@ -1,87 +1,89 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "PROJECT",
-        "ult execute"
+        "Jungle",
+        "Season 2-6",
+        "empyrean"
     ],
     "cols": [
-        "Noxus",
+        "The Void",
         "knock-up",
-        "shred"
+        "0 games"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Darius",
+            "Belveth",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
             "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Briar",
+            "Master yi"
+        ],
+        [
+            "Khazix",
+            "Reksai",
+            "Velkoz"
         ],
         [
             "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
+            "Aurelion Sol",
+            "Azir",
+            "Braum",
+            "Diana",
+            "Ivern",
+            "Kalista",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Reksai",
             "Riven",
-            "Sion",
-            "Sylas",
+            "Sejuani",
             "Tahm kench",
-            "Trundle",
-            "Wukong",
+            "Taliyah",
+            "Velkoz",
+            "Vi",
             "Yasuo",
-            "Yone",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Illaoi"
+        ],
+        [
+            "Malzahar"
+        ],
+        [
+            "Ksante",
             "Zac"
         ],
         [
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
-        ],
-        [
-            "Katarina",
-            "Mordekaiser"
-        ],
-        [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Mordekaiser",
-            "Renekton",
-            "Vi"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Riven"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Evelynn",
-            "Garen"
+            "Vex"
         ]
     ]
 }

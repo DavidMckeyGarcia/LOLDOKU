@@ -1,16 +1,21 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
         "Adc",
-        "dash",
-        "hextech"
+        "coven",
+        "before s7"
     ],
     "cols": [
+        "stun",
         "Noxus",
-        "root",
-        "ult reset"
+        "vastayan"
     ],
     "solutions": [
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
         [
             "Draven",
             "Mel",
@@ -18,67 +23,108 @@
             "Smolder"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
             "Xayah"
         ],
         [
-            "Sivir",
-            "Vayne"
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Cassiopeia",
+            "Elise",
+            "LeBlanc"
+        ],
+        [
+            "Ahri",
+            "Nami"
         ],
         [
             "Alistar",
-            "Ambessa",
-            "Briar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Cassiopeia",
+            "Ekko",
             "Elise",
-            "Kayn",
-            "Kled",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Talon"
-        ],
-        [
-            "Caitlyn",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
             "Ivern",
-            "Ksante",
-            "Lee sin",
+            "Jax",
+            "Kennen",
             "Leona",
-            "Maokai",
+            "Lissandra",
+            "Morgana",
+            "Nami",
             "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Belveth",
-            "Naafiri",
+            "Nunu",
+            "Orianna",
+            "Pantheon",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Taric",
+            "Thresh",
+            "Twisted fate",
+            "Udyr",
+            "Urgot",
             "Vayne",
-            "Vex",
-            "Viego"
+            "Veigar",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
+            "Zilean"
         ],
         [
             "Alistar",
             "Annie",
+            "Cassiopeia",
+            "Darius",
+            "Draven",
+            "Elise",
+            "Katarina",
+            "Kled",
+            "LeBlanc",
+            "Mordekaiser",
+            "Riven",
             "Sion",
-            "Swain"
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Singed",
-            "Swain"
+            "Ahri",
+            "Nami",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

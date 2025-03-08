@@ -1,21 +1,16 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Support",
-        "Season 7+",
-        "dark star"
+        "hextech",
+        "OG40"
     ],
     "cols": [
-        "Freljord",
         "stun",
-        "100+ games"
+        "Freljord",
+        "100% AP Ratio"
     ],
     "solutions": [
-        [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
         [
             "Alistar",
             "Annie",
@@ -46,57 +41,89 @@
             "Zilean"
         ],
         [
+            "Ashe",
+            "Brand",
+            "Braum"
+        ],
+        [
             "Alistar",
             "Ashe",
-            "Braum",
-            "Janna",
-            "Leona",
-            "Lulu",
-            "Maokai",
-            "Rakan",
-            "Thresh"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
             "Milio",
             "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "Lissandra",
-            "Orianna",
+            "Pantheon",
+            "Tahm kench",
             "Thresh",
-            "Xerath"
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Jarvan IV",
-            "Jhin",
-            "Orianna",
-            "Thresh",
-            "Varus"
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
+        ],
+        [
+            "Anivia",
+            "Sejuani"
+        ],
+        [
+            "Alistar",
+            "Nocturne",
+            "Rammus",
+            "Tristana"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ]
     ]
 }

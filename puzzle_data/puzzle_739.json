@@ -1,110 +1,84 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "invis",
-        "OG40"
+        "shield",
+        "elderwood"
     ],
     "cols": [
-        "Zaun",
-        "fear",
-        "never played"
+        "root",
+        "Ionia",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
+            "Ksante",
+            "Maokai",
             "Singed",
-            "Urgot",
-            "Warwick",
+            "Swain",
             "Zac"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
+            "Akali",
+            "Irelia",
             "Kayn",
             "Kennen",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
+            "Sett",
             "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
             "Wukong",
-            "Yorick"
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Twitch"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Akshan",
-            "Pyke",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Teemo",
-            "Twitch",
-            "Vayne",
-            "Viego",
             "Wukong"
         ],
         [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
             "Morgana",
+            "Nautilus",
+            "Neeko",
             "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Hwei",
+            "Ivern",
+            "Karma",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Neeko",
+            "Rakan"
+        ],
+        [
+            "LeBlanc",
+            "Xayah"
+        ],
+        [
+            "Ahri",
+            "Rakan",
+            "Wukong",
+            "Xayah"
+        ],
+        [
+            "Ahri",
+            "Rakan",
+            "Wukong",
+            "Xayah"
         ]
     ]
 }

@@ -1,69 +1,93 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "OG40",
-        "empyrean"
+        "Jungle",
+        "Season 7+",
+        "ult execute"
     ],
     "cols": [
-        "Freljord",
-        "stun",
-        "0 games"
+        "Ionia",
+        "knock-up",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ashe"
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
         ],
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Mel",
-            "Samira"
-        ],
-        [
-            "Anivia",
-            "Ashe",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
             "Nunu",
-            "Tryndamere"
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Alistar",
             "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Master yi"
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
         ],
         [
-            "Brand"
-        ],
-        [
-            "Brand",
-            "Jax",
+            "Belveth",
+            "Briar",
             "Ksante",
-            "Malzahar",
-            "Pyke",
-            "Zac"
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
             "Vex"
+        ],
+        [
+            "Akali",
+            "Jhin",
+            "Syndra"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Veigar"
         ]
     ]
 }

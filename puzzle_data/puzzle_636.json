@@ -1,69 +1,141 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Adc",
-        "pool party",
-        "OG40"
+        "OG40",
+        "global ult"
     ],
     "cols": [
-        "knock-up",
-        "Bilgewater",
-        "shred"
+        "slow",
+        "Zaun",
+        "arcane"
     ],
     "solutions": [
         [
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
             "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
+            "Kogmaw",
+            "Mel",
             "Miss Fortune",
-            "Nilah"
-        ],
-        [
-            "Corki",
-            "Kogmaw"
-        ],
-        [
-            "Braum",
-            "Jarvan IV",
-            "Lee sin",
-            "Lulu",
-            "Reksai",
-            "Taliyah",
-            "Zac",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
             "Ziggs"
         ],
         [
-            "Gangplank",
-            "Graves",
-            "Miss Fortune"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Jarvan IV",
-            "Renekton",
-            "Zoe"
+            "Caitlyn",
+            "Jinx",
+            "Mel"
         ],
         [
-            "Alistar",
             "Anivia",
-            "Blitzcrank",
+            "Ashe",
             "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
             "Corki",
+            "Dr. Mundo",
             "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
             "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
             "Nasus",
-            "Sion"
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Nocturne",
+            "Ornn",
+            "Pantheon",
+            "Ryze",
+            "Senna",
+            "Shen",
+            "Sion",
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Jinx",
+            "Mel"
         ]
     ]
 }

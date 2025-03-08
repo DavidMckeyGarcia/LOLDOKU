@@ -1,94 +1,105 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Mid",
-        "arcade",
+        "Support",
+        "global ult",
         "OG40"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "riot records"
+        "stun",
+        "Piltover",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ambessa",
+            "Alistar",
             "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Qiyana",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Riven"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
-        ],
-        [
-            "Ahri",
-            "Ezreal",
-            "Kaisa",
-            "Qiyana",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
             "Sona",
-            "Yasuo"
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Heimerdinger",
+            "Seraphine"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ],
         [
             "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
+            "Amumu",
             "Anivia",
+            "Annie",
+            "Ashe",
             "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
             "Nunu",
-            "Sion"
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
+            "Heimerdinger"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

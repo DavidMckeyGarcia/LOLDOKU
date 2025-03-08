@@ -1,50 +1,57 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "OG40",
-        "cosmic"
+        "Top",
+        "cosmic",
+        "true damage"
     ],
     "cols": [
         "knock-up",
-        "Shadow Isles",
-        "yordle"
+        "Demacia",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Kalista",
-            "Senna"
-        ],
-        [
-            "Corki",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
+            "Aatrox",
             "Chogath",
-            "Janna",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
             "Malphite",
-            "Nunu",
-            "Sion"
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Karthus"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Aatrox",
+            "Gnar",
+            "Gragas",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Maokai",
+            "Renekton",
+            "Rumble",
+            "Shen"
         ],
         [
             "Anivia",
@@ -58,10 +65,33 @@
             "Xin Zhao"
         ],
         [
-            "Hecarim"
+            "Lux",
+            "Xin Zhao"
         ],
         [
-            "Lulu"
+            "Jhin",
+            "Lulu",
+            "Rakan",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Syndra"
         ]
     ]
 }

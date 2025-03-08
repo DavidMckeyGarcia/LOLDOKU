@@ -1,44 +1,32 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Adc",
-        "coven",
-        "Season 7+"
+        "life steal",
+        "before s7"
     ],
     "cols": [
-        "slow",
-        "Bilgewater",
+        "root",
+        "Noxus",
         "pentakill"
     ],
     "solutions": [
         [
             "Aphelios",
-            "Ashe",
             "Caitlyn",
-            "Corki",
-            "Draven",
             "Jhin",
             "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
             "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
             "Senna",
             "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
             "Varus",
-            "Zeri",
-            "Ziggs"
+            "Xayah"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
             "Aphelios",
@@ -54,67 +42,77 @@
             "Xayah"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Evelynn",
-            "Lissandra",
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
             "Morgana",
-            "Nami",
-            "Nilah",
-            "Syndra",
+            "Senna"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Samira",
+            "Sion",
+            "Vladimir"
+        ],
+        [
+            "Aphelios"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
             "Zyra"
         ],
         [
-            "Nami",
-            "Nilah"
+            "Alistar",
+            "Annie",
+            "Cassiopeia",
+            "Darius",
+            "Draven",
+            "Elise",
+            "Katarina",
+            "Kled",
+            "LeBlanc",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Akali"
-        ],
-        [
-            "Aphelios",
-            "Aurora",
-            "Belveth",
-            "Briar",
-            "Camille",
-            "Gwen",
-            "Hwei",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Lillia",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Ornn",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sett",
-            "Smolder",
-            "Sylas",
-            "Vex",
-            "Viego",
-            "Yuumi",
-            "Zeri",
-            "Zoe"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Ryze",
+            "Tristana",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

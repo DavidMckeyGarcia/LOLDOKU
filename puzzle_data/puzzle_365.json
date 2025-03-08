@@ -1,95 +1,72 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "global ult",
-        "Season 7+"
+        "Adc",
+        "Season 7+",
+        "cosmic"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "100+ games"
+        "stun",
+        "Bilgewater",
+        "tether"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Briar",
-            "Draven",
-            "Kled",
-            "Mel",
-            "Sion"
-        ],
-        [
             "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
-            "Ryze",
-            "Shen"
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Miss Fortune",
+            "Nilah"
+        ],
+        [
+            "Kalista"
         ],
         [
             "Ambessa",
             "Briar",
-            "Kayn",
-            "Mel",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
             "Rell",
-            "Samira",
-            "Smolder"
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
+        ],
+        [
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Sion",
+            "Skarner",
+            "Xin Zhao"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus"
+        ],
+        [
+            "Illaoi"
         ]
     ]
 }

@@ -1,75 +1,77 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "empyrean"
+        "Jungle",
+        "elderwood",
+        "true damage"
     ],
     "cols": [
-        "Demacia",
+        "Ionia",
         "root",
-        "pentakill"
+        "vastayan"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
             "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Ahri",
+            "Rakan",
+            "Wukong",
+            "Xayah"
+        ],
+        [
+            "LeBlanc",
+            "Xayah"
+        ],
+        [
+            "Ahri",
+            "Rakan",
+            "Wukong",
+            "Xayah"
+        ],
+        [
+            "Ahri",
             "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Ivern",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Syndra",
+            "Yone"
         ],
         [
-            "Sylas"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
+            "Ivern",
             "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Nunu",
+            "Renata glasc"
         ],
         [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
-        ],
-        [
-            "Kayle",
-            "Lux"
-        ],
-        [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
-        ],
-        [
-            "Akali"
+            "Ahri"
         ]
     ]
 }

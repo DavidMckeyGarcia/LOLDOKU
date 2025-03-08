@@ -1,45 +1,54 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "iron",
     "rows": [
         "Top",
-        "OG40",
-        "invis"
+        "shield",
+        "PROJECT"
     ],
     "cols": [
-        "knock-up",
-        "Freljord",
+        "Demacia",
+        "stun",
         "100+ games"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
+            "Fiora",
+            "Garen",
             "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
+            "Kayle",
             "Poppy",
-            "Riven",
-            "Sion",
+            "Quinn",
             "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Vayne"
         ],
         [
+            "Ambessa",
+            "Camille",
+            "Fiora",
             "Gnar",
             "Gragas",
-            "Olaf",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
             "Ornn",
-            "Trundle",
-            "Tryndamere",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
             "Udyr",
-            "Volibear"
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
             "Aatrox",
@@ -54,39 +63,92 @@
             "Shen"
         ],
         [
-            "Alistar",
-            "Anivia",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Ambessa",
+            "Annie",
             "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
             "Neeko",
-            "Reksai",
-            "Wukong"
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Aurora"
+            "Azir",
+            "Braum",
+            "Janna",
+            "Jarvan IV",
+            "Kaisa",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Rakan",
+            "Rumble",
+            "Shen",
+            "Thresh"
         ],
         [
-            "Kaisa"
+            "Fiora",
+            "Lucian",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Ashe",
+            "Jax",
+            "Jhin",
+            "Leona",
+            "Lucian",
+            "Renekton",
+            "Sejuani",
+            "Varus"
         ]
     ]
 }

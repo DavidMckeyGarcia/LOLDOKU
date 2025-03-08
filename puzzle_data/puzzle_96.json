@@ -1,145 +1,76 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
+        "Jungle",
         "dash",
-        "cosmic"
+        "hextech"
     ],
     "cols": [
-        "Ionia",
-        "stun",
-        "darkin"
+        "Shurima",
+        "fear",
+        "arcane"
     ],
     "solutions": [
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Kayn"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Irelia",
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Alistar",
-            "Ambessa",
             "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
-            "Ivern",
             "Jax",
-            "Ksante",
-            "Leona",
-            "Nautilus",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Qiyana",
+            "Nasus",
             "Rammus",
-            "Rell",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sett",
-            "Sylas",
-            "Taliyah",
-            "Thresh",
-            "Urgot",
-            "Vayne",
+            "Taliyah"
+        ],
+        [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Ekko",
             "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
-            "Zac"
+            "Warwick"
         ],
         [
             "Aatrox",
-            "Kayn",
-            "Naafiri"
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Ksante",
+            "Naafiri",
+            "Rammus",
+            "Renekton",
+            "Taliyah"
         ],
         [
-            "Jhin",
-            "Master yi",
-            "Rakan",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Anivia",
+            "Aatrox",
+            "Briar",
             "Hecarim",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Sion",
-            "Skarner",
-            "Xin Zhao"
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
         ],
         [
-            "Varus"
+            "Ambessa",
+            "Caitlyn",
+            "Ekko",
+            "Jayce",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Amumu",
+            "Rammus",
+            "Renekton"
+        ],
+        [
+            "Nocturne"
+        ],
+        [
+            "Janna",
+            "Singed"
         ]
     ]
 }

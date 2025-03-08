@@ -1,58 +1,102 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "Space Groove",
-        "OG40"
+        "Top",
+        "coven",
+        "evolves"
     ],
     "cols": [
-        "silence",
-        "Demacia",
-        "ascended"
+        "Ionia",
+        "stun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
-            "Diana",
+            "Akali",
+            "Irelia",
             "Kayn",
-            "Nasus",
-            "Pantheon"
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Blitzcrank",
-            "Lulu"
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
-            "Lux"
-        ],
-        [
-            "Nasus",
-            "Taric"
-        ],
-        [
-            "Blitzcrank",
             "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Ahri",
+            "Akali",
+            "Syndra"
         ],
         [
-            "Nasus",
-            "Taric"
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Ashe",
+            "Evelynn"
+        ],
+        [
+            "Kayn"
+        ],
+        [
+            "Bard",
+            "Viktor"
+        ],
+        [
+            "Belveth",
+            "Gangplank",
+            "Kaisa",
+            "Smolder",
+            "Viktor"
         ]
     ]
 }

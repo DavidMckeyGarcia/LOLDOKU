@@ -1,65 +1,129 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "ult execute",
-        "Season 2-6"
+        "Top",
+        "worlds skin",
+        "Season 7+"
     ],
     "cols": [
-        "silence",
         "Shadow Isles",
-        "manaless"
+        "knock-up",
+        "100+ games"
     ],
     "solutions": [
         [
+            "Gwen",
+            "Maokai",
+            "Yorick"
+        ],
+        [
+            "Aatrox",
             "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Karthus",
-            "Vex"
-        ],
-        [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
             "Yasuo",
             "Yone",
-            "Zed"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Viego"
-        ],
-        [
-            "Akali",
-            "Garen",
-            "Reksai",
-            "Viego"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
+            "Zac"
         ],
         [
             "Aatrox",
             "Gnar",
-            "Kled",
-            "Reksai",
-            "Rengar",
-            "Yasuo",
+            "Gragas",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Maokai",
+            "Renekton",
+            "Rumble",
+            "Shen"
+        ],
+        [
+            "Kalista",
+            "Karthus",
+            "Maokai",
+            "Thresh",
+            "Viego"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Gragas",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Malphite",
+            "Nami",
+            "Nunu",
+            "Rakan",
+            "Taliyah",
             "Zac",
-            "Zed"
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Ashe",
+            "Azir",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Janna",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Jhin",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Orianna",
+            "Rakan",
+            "Renekton",
+            "Ryze",
+            "Shen",
+            "Syndra",
+            "Thresh",
+            "Xayah"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

@@ -1,106 +1,67 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "true damage",
-        "Season 2-6"
+        "Adc",
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "Targon",
         "stun",
-        "vastayan"
+        "Bandle City",
+        "shred"
     ],
     "solutions": [
         [
-            "Pantheon"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Corki",
+            "Tristana"
+        ],
+        [
+            "Corki",
+            "Kogmaw"
         ],
         [
             "Ambessa",
+            "Briar",
             "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
             "Ksante",
-            "Kennen",
+            "Milio",
+            "Neeko",
             "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Wukong"
-        ],
-        [
-            "Zoe"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
             "Pyke",
+            "Rell",
             "Renata glasc",
+            "Seraphine",
             "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
+            "Sylas",
+            "Viego",
             "Yone"
         ],
         [
-            "Ahri"
+            "Yuumi"
         ],
         [
-            "Aurelion Sol",
-            "Diana"
+            "Briar",
+            "Rell",
+            "Zoe"
         ],
         [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar"
+            "Teemo"
+        ],
+        [
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

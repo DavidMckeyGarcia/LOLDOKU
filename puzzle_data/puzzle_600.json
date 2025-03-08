@@ -1,71 +1,75 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "life steal",
-        "Space Groove"
+        "Support",
+        "invis",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "100+ games"
+        "Ixtal",
+        "root",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ashe",
+            "Milio",
+            "Neeko",
+            "Zyra"
+        ],
+        [
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
             "Seraphine",
-            "Vayne"
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
         ],
         [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
+            "Neeko",
+            "Qiyana",
+            "Rengar"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Teemo"
+        ],
+        [
+            "Milio",
+            "Neeko"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
             "Xayah"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Illaoi",
-            "Nilah"
-        ],
-        [
-            "Aatrox",
-            "Lee sin"
-        ],
-        [
-            "Blitzcrank",
-            "Gragas",
-            "Lissandra",
-            "Nami",
-            "Nunu",
-            "Taric",
-            "Twisted fate"
-        ],
-        [
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Gragas",
-            "Lulu",
-            "Rumble"
+            "Vex"
         ]
     ]
 }

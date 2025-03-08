@@ -1,71 +1,73 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "blink",
-        "pool party"
+        "shield",
+        "elderwood"
     ],
     "cols": [
-        "The Void",
-        "root",
-        "100% AP Ratio"
+        "Shadow Isles",
+        "fear",
+        "riot records"
     ],
     "solutions": [
         [
-            "Chogath"
-        ],
-        [
-            "Ksante",
+            "Gwen",
             "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Yorick"
         ],
         [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Kassadin",
-            "Reksai"
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
+            "Yasuo",
+            "Yone",
+            "Yorick"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
+            "Senna",
+            "Thresh",
+            "Vex"
         ],
         [
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
+        ],
+        [
+            "Aphelios",
             "Ekko",
-            "Master yi",
-            "Pantheon",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego"
+            "Ksante",
+            "Kaisa",
+            "Mordekaiser",
+            "Olaf",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Reksai"
+            "Hecarim",
+            "Karthus"
         ],
         [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
+            "Hecarim"
         ],
         [
-            "Fiora",
-            "Gangplank"
+            "Ahri",
+            "Karthus"
         ]
     ]
 }

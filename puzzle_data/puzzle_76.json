@@ -1,64 +1,84 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "worlds skin",
-        "true damage"
+        "Top",
+        "OG40",
+        "cosmic"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
+        "knock-up",
+        "Shadow Isles",
         "ult reset"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Gangplank",
-            "Graves",
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Aatrox"
+            "Gwen",
+            "Maokai",
+            "Yorick"
         ],
         [
             "Aatrox",
-            "Singed",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
             "Darius",
-            "Urgot"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Darius",
-            "Master yi",
             "Olaf",
+            "Singed",
+            "Swain",
             "Vayne"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Xin Zhao"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Belveth",
+            "Master yi"
         ]
     ]
 }

@@ -1,69 +1,87 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "prestige"
+        "Adc",
+        "shield",
+        "Season 7+"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "tether"
+        "Zaun",
+        "root",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Xayah"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kalista",
-            "Kled",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
-        ],
-        [
-            "Aatrox",
-            "LeBlanc",
-            "Morgana",
+            "Blitzcrank",
+            "Ekko",
+            "Janna",
+            "Orianna",
             "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Urgot",
+            "Vi",
+            "Viktor"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Neeko",
+            "Rakan"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Aurora",
+            "Neeko",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

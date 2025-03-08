@@ -1,104 +1,132 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "OG40",
-        "shield"
+        "Jungle",
+        "before s7",
+        "Space Groove"
     ],
     "cols": [
-        "Bilgewater",
         "knock-up",
-        "tether"
+        "Shurima",
+        "ascended"
     ],
     "solutions": [
         [
-            "Nami",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
             "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
+            "Nunu",
             "Poppy",
-            "Rakan",
+            "Reksai",
             "Rell",
-            "Tahm kench",
-            "Velkoz",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
             "Zyra"
         ],
         [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
         ],
         [
+            "Aatrox",
             "Alistar",
             "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
-        ],
-        [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
-        ],
-        [
+            "Aurelion Sol",
             "Azir",
             "Blitzcrank",
             "Braum",
+            "Chogath",
             "Diana",
+            "Fizz",
             "Galio",
+            "Gragas",
             "Ivern",
             "Janna",
             "Jarvan IV",
-            "Ksante",
+            "Kalista",
             "Lee sin",
             "Lulu",
             "Malphite",
+            "Nami",
             "Nautilus",
-            "Neeko",
             "Nunu",
             "Poppy",
-            "Rakan",
-            "Rell",
+            "Reksai",
             "Riven",
+            "Sejuani",
             "Sion",
             "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
             "Vi",
+            "Wukong",
+            "Xin Zhao",
             "Yasuo",
-            "Yone"
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Karma",
-            "Kled",
-            "Morgana",
-            "Nocturne",
-            "Renata glasc",
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Renekton",
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Leona",
+            "Nasus",
+            "Pantheon",
+            "Renekton",
             "Taric",
-            "Yuumi"
+            "Varus",
+            "Xerath"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lulu",
+            "Nami",
+            "Nunu",
+            "Samira"
+        ],
+        [
+            "Nasus"
+        ],
+        [
+            "Nasus",
+            "Taric"
         ]
     ]
 }

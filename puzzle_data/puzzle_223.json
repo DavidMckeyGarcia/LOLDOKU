@@ -1,121 +1,123 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Support",
-        "OG40",
-        "worlds skin"
+        "Season 7+",
+        "dash"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "ascended"
+        "knock-up",
+        "Shurima",
+        "tether"
     ],
     "solutions": [
         [
             "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
             "Blitzcrank",
-            "Brand",
             "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
+            "Galio",
+            "Janna",
+            "Lulu",
             "Nami",
             "Nautilus",
             "Neeko",
-            "Pantheon",
             "Poppy",
-            "Pyke",
+            "Rakan",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
             "Tahm kench",
-            "Taric",
-            "Thresh",
             "Velkoz",
+            "Zyra"
+        ],
+        [
             "Xerath",
             "Zilean"
         ],
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
+            "Karma",
             "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
+            "Renata glasc",
             "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Yuumi"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Nasus",
-            "Taric"
+            "Akshan",
+            "Ksante",
+            "Naafiri"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Bard",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Irelia",
-            "Jax",
-            "Kennen",
-            "Leona",
-            "Nami",
-            "Nunu",
-            "Orianna",
-            "Renekton",
-            "Syndra",
-            "Taliyah",
-            "Thresh",
-            "Twisted fate",
-            "Vayne",
-            "Viego",
-            "Zac"
-        ],
-        [
-            "Gangplank",
-            "Graves",
-            "Nami",
-            "Twisted fate"
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ],
         [
             "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
             "Azir",
-            "Leona",
-            "Renekton"
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Ksante",
+            "Naafiri",
+            "Rammus",
+            "Renekton",
+            "Taliyah"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Nocturne",
+            "Sylas",
+            "Yuumi",
+            "Zac"
         ]
     ]
 }

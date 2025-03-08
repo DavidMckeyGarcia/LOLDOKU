@@ -1,108 +1,119 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "global ult",
-        "PROJECT"
+        "before s7",
+        "life steal"
     ],
     "cols": [
-        "Noxus",
-        "stun",
-        "ult reset"
+        "root",
+        "Ionia",
+        "riot records"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
             "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
+            "Maokai",
+            "Singed",
+            "Swain",
             "Zac"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Briar",
-            "Draven",
-            "Kled",
-            "Mel",
-            "Sion"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Katarina",
-            "Mordekaiser"
-        ],
-        [
-            "Ashe",
-            "Ekko",
-            "Fiora",
+            "Akali",
             "Irelia",
-            "Jax",
-            "Leona",
-            "Pyke",
-            "Renekton",
-            "Sejuani",
-            "Sylas",
-            "Vayne",
-            "Vi",
-            "Warwick"
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
+            "Yasuo",
+            "Yone",
+            "Yorick"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Jhin",
+            "Karma",
+            "Kennen",
+            "Lee sin",
             "Master yi",
-            "Vayne"
+            "Shen",
+            "Syndra",
+            "Varus",
+            "Wukong",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Evelynn",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Mordekaiser",
+            "Olaf",
+            "Sona",
+            "Yasuo",
+            "Yorick"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Kayn",
+            "Lee sin"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kayn",
+            "Olaf",
+            "Senna",
+            "Viego"
         ]
     ]
 }

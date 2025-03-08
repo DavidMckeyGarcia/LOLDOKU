@@ -1,14 +1,14 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
         "Top",
-        "true damage",
-        "Season 2-6"
+        "arcade",
+        "life steal"
     ],
     "cols": [
         "knock-up",
-        "Shadow Isles",
-        "0 games"
+        "Zaun",
+        "never played"
     ],
     "solutions": [
         [
@@ -32,62 +32,88 @@
             "Zac"
         ],
         [
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Chogath",
+            "Dr. Mundo",
+            "Fiora",
+            "Garen",
+            "Gnar",
             "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
+            "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
             "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
             "Yorick"
         ],
         [
-            "Ambessa",
-            "Illaoi"
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Blitzcrank",
+            "Ziggs"
         ],
         [
             "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Gwen"
-        ],
-        [
-            "Akshan",
-            "Master yi",
-            "Samira"
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Miss Fortune",
+            "Sona"
         ],
         [
             "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
+            "Warwick"
         ],
         [
-            "Illaoi"
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Kayn",
+            "Morgana",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ]
     ]
 }

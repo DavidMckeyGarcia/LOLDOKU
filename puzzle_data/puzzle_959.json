@@ -1,99 +1,68 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "empyrean",
+        "Support",
+        "blink",
         "OG40"
     ],
     "cols": [
-        "Bilgewater",
         "knock-up",
-        "never played"
+        "Piltover",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
             "Nautilus",
-            "Nunu",
+            "Neeko",
             "Poppy",
-            "Reksai",
+            "Rakan",
             "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
+            "Tahm kench",
+            "Velkoz",
             "Zyra"
         ],
         [
-            "Amumu",
-            "Belveth",
-            "Brand",
-            "Briar",
-            "Dr. Mundo",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Kindred",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nunu",
-            "Rammus",
+            "Heimerdinger",
+            "Seraphine"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
+        ],
+        [
             "Reksai",
-            "Rell",
-            "Rengar",
-            "Sejuani",
-            "Shaco",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ezreal"
+        ],
+        [
+            "Ekko",
+            "Master yi",
+            "Pantheon",
             "Shen",
-            "Shyvana",
-            "Skarner",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Zyra"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Ksante",
-            "Zac"
-        ],
-        [
-            "Brand",
-            "Jhin",
-            "Pyke"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
+            "Tahm kench",
+            "Twisted fate",
+            "Viego"
         ],
         [
             "Alistar",
@@ -106,26 +75,26 @@
             "Sion"
         ],
         [
+            "Heimerdinger"
+        ],
+        [
             "Alistar",
-            "Amumu",
             "Ashe",
             "Blitzcrank",
             "Chogath",
-            "Dr. Mundo",
+            "Corki",
             "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
+            "Gangplank",
+            "Jax",
+            "Master yi",
             "Nunu",
             "Rammus",
-            "Shaco",
             "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ]
     ]
 }

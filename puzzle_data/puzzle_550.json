@@ -1,87 +1,98 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "OG40",
-        "worlds skin"
+        "Mid",
+        "Season 7+",
+        "prestige"
     ],
     "cols": [
+        "Piltover",
         "root",
-        "Targon",
-        "arcane"
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Diana",
-            "Pantheon"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Soraka",
-            "Taric"
-        ],
-        [
+            "Ezreal",
             "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
+            "Jayce",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Camille",
+            "Seraphine"
         ],
         [
             "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
+        ],
+        [
             "Caitlyn",
-            "Jhin",
+            "Camille",
+            "Ezreal"
+        ],
+        [
+            "Caitlyn",
             "Jinx",
+            "Ksante",
             "LeBlanc",
             "Lee sin",
             "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
             "Xayah",
-            "Zac",
             "Zyra"
         ],
         [
-            "Aphelios",
-            "Leona",
-            "Zoe"
-        ],
-        [
-            "Caitlyn",
-            "Ekko",
-            "Janna",
-            "Jayce",
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
             "Jinx",
-            "LeBlanc",
-            "Orianna",
-            "Singed"
+            "Kaisa",
+            "Lucian",
+            "Vayne",
+            "Xayah"
         ]
     ]
 }

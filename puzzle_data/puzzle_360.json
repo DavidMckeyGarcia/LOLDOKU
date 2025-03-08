@@ -1,69 +1,49 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "Season 7+",
-        "true damage"
+        "Mid",
+        "true damage",
+        "before s7"
     ],
     "cols": [
-        "Targon",
+        "Freljord",
         "knock-up",
-        "vastayan"
+        "tether"
     ],
     "solutions": [
         [
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Nami",
-            "Neeko",
-            "Rakan"
-        ],
-        [
-            "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
+            "Anivia",
             "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Zoe"
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Nunu",
+            "Olaf"
         ],
         [
             "Belveth",
@@ -76,7 +56,77 @@
             "Yone"
         ],
         [
-            "Ahri"
+            "Renata glasc"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Brand",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Lissandra",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Fiddlesticks",
+            "Illaoi",
+            "Kalista",
+            "Karma",
+            "Kled",
+            "LeBlanc",
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
         ]
     ]
 }

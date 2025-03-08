@@ -1,149 +1,88 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "OG40",
-        "Space Groove"
+        "Jungle",
+        "hextech",
+        "OG40"
     ],
     "cols": [
-        "slow",
-        "Targon",
-        "100% AP Ratio"
+        "Noxus",
+        "root",
+        "shred"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
-            "Karma",
-            "Leona",
-            "Lulu",
-            "Lux",
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
+        ],
+        [
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Mel",
-            "Milio",
             "Morgana",
-            "Nami",
             "Nautilus",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
             "Zyra"
         ],
         [
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
         ],
         [
             "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
+            "Annie",
+            "Sion",
+            "Swain"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Jarvan IV",
+            "Kogmaw",
+            "Renekton",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
             "Morgana",
-            "Nasus",
             "Nunu",
-            "Rammus",
             "Ryze",
             "Shaco",
             "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
+            "Soraka"
         ],
         [
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
             "Corki",
             "Evelynn",
-            "Gangplank",
-            "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Gragas",
-            "Lissandra",
-            "Lulu",
-            "Lux",
-            "Nami",
+            "Karthus",
             "Nasus",
-            "Nunu",
-            "Rumble",
-            "Samira",
-            "Teemo",
-            "Twisted fate"
-        ],
-        [
-            "Taric"
-        ],
-        [
-            "Blitzcrank",
-            "Lux",
-            "Nunu",
-            "Twisted fate"
+            "Sion"
         ]
     ]
 }

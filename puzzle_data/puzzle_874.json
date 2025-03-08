@@ -1,62 +1,87 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "PROJECT",
-        "Season 2-6"
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "Shadow Isles",
-        "fear",
-        "arcane"
+        "root",
+        "Demacia",
+        "riot records"
     ],
     "solutions": [
         [
-            "Gwen",
+            "Ksante",
             "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
+            "Yasuo",
+            "Yone",
             "Yorick"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
         ],
         [
-            "Ambessa",
-            "Heimerdinger",
-            "Jayce",
-            "Singed",
-            "Warwick"
+            "Fiora",
+            "Garen",
+            "Vayne"
         ],
         [
-            "Senna"
+            "Ahri",
+            "Akali",
+            "Ksante",
+            "Olaf",
+            "Sett",
+            "Yone"
         ],
         [
-            "Warwick"
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
+            "Sylas"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Ekko",
-            "Jayce",
-            "Jinx",
-            "Vi",
-            "Viktor"
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
         ]
     ]
 }

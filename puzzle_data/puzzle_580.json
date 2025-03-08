@@ -1,70 +1,167 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "life steal",
-        "Season 7+"
+        "Adc",
+        "dash",
+        "before s7"
     ],
     "cols": [
-        "fear",
-        "Ionia",
-        "ascended"
+        "stun",
+        "Shurima",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Sivir"
+        ],
+        [
+            "Xayah"
+        ],
+        [
+            "Alistar",
+            "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Ksante",
+            "Naafiri",
+            "Rammus",
+            "Renekton",
+            "Taliyah"
         ],
         [
             "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Warwick"
-        ],
-        [
-            "Kayn",
-            "Lee sin"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Nasus"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
+            "Aurora",
             "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
+            "Rengar",
+            "Wukong"
         ],
         [
-            "Kayn",
-            "Naafiri"
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
+            "Pantheon",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Taric",
+            "Thresh",
+            "Twisted fate",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Veigar",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
+            "Zilean"
+        ],
+        [
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Renekton",
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Ahri",
+            "Nami",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

@@ -1,93 +1,78 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Top",
-        "global ult",
-        "dark star"
+        "Jungle",
+        "dash",
+        "prestige"
     ],
     "cols": [
-        "stun",
-        "Zaun",
+        "Bilgewater",
+        "fear",
         "ascended"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Fizz",
+            "Graves",
+            "Illaoi",
+            "Nautilus",
+            "Nilah",
+            "Pyke"
         ],
         [
             "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
             "Kayn",
-            "Nasus",
+            "Leona",
+            "Naafiri",
             "Pantheon",
             "Renekton"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Fizz",
+            "Miss Fortune",
+            "Pyke"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
+            "Aatrox",
+            "Darius",
+            "Shaco"
         ],
         [
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Lissandra",
-            "Orianna",
-            "Thresh",
-            "Xerath"
-        ],
-        [
-            "Orianna"
-        ],
-        [
-            "Varus",
-            "Xerath"
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ]
     ]
 }

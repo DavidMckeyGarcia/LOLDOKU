@@ -1,93 +1,57 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "OG40",
-        "dash"
+        "Jungle",
+        "hextech",
+        "OG40"
     ],
     "cols": [
-        "Shurima",
-        "root",
+        "silence",
+        "The Void",
         "arcane"
     ],
     "solutions": [
         [
-            "Xerath",
-            "Zilean"
+            "Fiddlesticks"
         ],
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Belveth",
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
-        ],
-        [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
+            "Ekko",
+            "Vi",
             "Warwick"
         ],
         [
-            "Aatrox",
-            "Amumu",
-            "Azir",
-            "Jax",
-            "Ksante",
-            "Naafiri",
-            "Rammus",
-            "Renekton",
-            "Taliyah"
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
+            "Kassadin",
+            "Kogmaw",
+            "Malzahar"
         ],
         [
-            "Ambessa",
-            "Caitlyn",
-            "Ekko",
-            "Jayce",
-            "Vi",
+            "Janna",
+            "Singed"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Singed",
             "Warwick"
         ]
     ]

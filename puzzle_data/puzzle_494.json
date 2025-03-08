@@ -1,103 +1,61 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "arcade",
-        "OG40"
+        "Mid",
+        "OG40",
+        "invis"
     ],
     "cols": [
-        "Freljord",
-        "stun",
+        "Ixtal",
+        "knock-up",
         "100+ games"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
             "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
+            "Qiyana"
+        ],
+        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
             "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Braum",
-            "Janna",
-            "Leona",
-            "Lulu",
-            "Maokai",
-            "Rakan",
-            "Thresh"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Malzahar",
-            "Qiyana",
-            "Riven",
-            "Sona",
-            "Veigar"
-        ],
-        [
-            "Caitlyn",
+            "Azir",
+            "Elise",
             "Ezreal",
-            "Kaisa"
+            "Gragas",
+            "Jayce",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
+            "Malphite"
         ],
         [
             "Alistar",
-            "Amumu",
             "Anivia",
-            "Annie",
-            "Ashe",
             "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
+            "Chogath",
+            "Janna",
+            "Malphite",
             "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Sion"
         ],
         [
             "Alistar",
@@ -106,6 +64,19 @@
             "Jax",
             "Ryze",
             "Tristana"
+        ],
+        [
+            "Neeko",
+            "Qiyana",
+            "Rengar"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Kaisa"
         ]
     ]
 }

@@ -1,153 +1,67 @@
 {
-    "difficulty": "iron",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "life steal",
-        "Season 2-6"
+        "hextech",
+        "global ult"
     ],
     "cols": [
-        "Shadow Isles",
-        "knock-up",
-        "never played"
+        "Shurima",
+        "root",
+        "tether"
     ],
     "solutions": [
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
         ],
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
             "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
+            "Maokai",
+            "Singed",
+            "Swain",
             "Zac"
         ],
         [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
+            "Aatrox",
             "Illaoi",
-            "Jarvan IV",
-            "Kayn",
-            "Kennen",
             "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Yorick"
+            "Sylas",
+            "Zac"
         ],
         [
-            "Gwen",
-            "Senna",
-            "Viego"
+            "Amumu",
+            "Rammus",
+            "Renekton"
         ],
         [
-            "Aatrox",
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
+            "Singed",
+            "Swain"
         ],
         [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
-            "Kayn",
-            "Morgana",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Warwick"
+            "Malzahar",
+            "Nocturne"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
             "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Xerath"
         ],
         [
-            "Bard",
-            "Braum",
-            "Draven",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jhin",
+            "Caitlyn",
             "Jinx",
-            "Kalista",
-            "Kindred",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
             "Kled",
-            "Nami",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Volibear",
-            "Zyra"
+            "Nocturne"
         ]
     ]
 }

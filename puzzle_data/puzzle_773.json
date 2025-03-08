@@ -1,85 +1,93 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "hextech",
-        "life steal"
+        "Mid",
+        "true damage",
+        "elderwood"
     ],
     "cols": [
-        "Noxus",
-        "root",
-        "100+ games"
+        "knock-up",
+        "Ionia",
+        "shred"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Elise",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Sion",
-            "Swain"
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Singed",
-            "Swain"
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
         ],
         [
-            "Alistar",
-            "Janna",
-            "Jarvan IV",
-            "Renekton",
-            "Sejuani",
-            "Tristana"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Aphelios",
+            "Belveth",
+            "Chogath",
+            "Ivern",
             "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Aatrox",
-            "Lee sin"
+            "Ahri",
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Syndra",
+            "Yone"
+        ],
+        [
+            "Corki",
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Ahri",
+            "Rakan",
+            "Wukong",
+            "Xayah"
+        ],
+        [
+            "Karthus",
+            "Wukong"
         ]
     ]
 }

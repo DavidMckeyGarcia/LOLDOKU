@@ -1,25 +1,32 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
         "Top",
-        "blink",
-        "arcade"
+        "Season 7+",
+        "Space Groove"
     ],
     "cols": [
-        "The Void",
         "root",
+        "Noxus",
         "never played"
     ],
     "solutions": [
-        [
-            "Chogath"
-        ],
         [
             "Ksante",
             "Maokai",
             "Singed",
             "Swain",
             "Zac"
+        ],
+        [
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
             "Chogath",
@@ -50,37 +57,61 @@
             "Yorick"
         ],
         [
-            "Kassadin",
-            "Reksai"
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
             "Pyke",
-            "Reksai",
-            "Shen",
-            "Tahm kench",
-            "Viego"
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ],
         [
-            "Belveth",
-            "Kaisa",
-            "Malzahar"
+            "Lissandra",
+            "Lux",
+            "Nunu"
         ],
         [
-            "Caitlyn",
-            "Qiyana"
+            "Samira"
         ],
         [
-            "Belveth",
             "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Miss Fortune",
-            "Sona"
+            "Nami",
+            "Nunu",
+            "Samira",
+            "Teemo"
         ]
     ]
 }

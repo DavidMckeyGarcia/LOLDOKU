@@ -1,48 +1,83 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "empyrean",
-        "Season 7+"
+        "Support",
+        "OG40",
+        "empyrean"
     ],
     "cols": [
         "Ionia",
-        "root",
-        "never played"
+        "stun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
+            "Alistar",
+            "Annie",
             "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
             "Akali",
@@ -51,58 +86,15 @@
             "Zed"
         ],
         [
-            "Jhin",
+            "Brand",
+            "Jax",
             "Ksante",
-            "Lux",
-            "Varus",
+            "Malzahar",
+            "Pyke",
             "Zac"
         ],
         [
-            "Brand",
-            "Jhin",
-            "Pyke"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Vex"
         ]
     ]
 }

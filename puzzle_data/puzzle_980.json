@@ -1,86 +1,153 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "iron",
     "rows": [
         "Mid",
-        "evolves",
-        "dark star"
+        "before s7",
+        "prestige"
     ],
     "cols": [
-        "Demacia",
-        "stun",
-        "arcane"
+        "knock-up",
+        "Noxus",
+        "tether"
     ],
     "solutions": [
         [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
             "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
             "Sylas"
         ],
         [
-            "Ambessa",
+            "Aatrox",
+            "Alistar",
             "Anivia",
-            "Annie",
             "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "Jayce",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Kayle"
-        ],
-        [
-            "Bard",
-            "Viktor"
-        ],
-        [
-            "Viktor"
-        ],
-        [
+            "Ivern",
+            "Janna",
             "Jarvan IV",
-            "Lux"
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Lissandra",
-            "Orianna",
-            "Thresh",
-            "Xerath"
+            "Alistar",
+            "Annie",
+            "Cassiopeia",
+            "Darius",
+            "Draven",
+            "Elise",
+            "Katarina",
+            "Kled",
+            "LeBlanc",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Orianna"
+            "Aatrox",
+            "Fiddlesticks",
+            "Illaoi",
+            "Kalista",
+            "Karma",
+            "Kled",
+            "LeBlanc",
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Cassiopeia",
+            "Darius",
+            "Katarina",
+            "Kayn",
+            "LeBlanc",
+            "Riven",
+            "Swain"
+        ],
+        [
+            "Aatrox",
+            "LeBlanc",
+            "Morgana",
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ]
     ]
 }

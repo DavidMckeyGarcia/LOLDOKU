@@ -1,67 +1,115 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "OG40",
-        "coven"
+        "Mid",
+        "hextech",
+        "before s7"
     ],
     "cols": [
-        "Piltover",
+        "Demacia",
         "root",
-        "riot records"
+        "shred"
     ],
     "solutions": [
         [
-            "Caitlyn",
-            "Ezreal",
-            "Seraphine"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Aphelios",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
+        ],
+        [
+            "Galio",
+            "Jarvan IV",
+            "Poppy"
+        ],
+        [
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Jarvan IV",
+            "Kogmaw",
+            "Renekton",
+            "Sion"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
             "Caitlyn",
+            "Ivern",
             "Jhin",
             "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
-            "Ezreal",
-            "Kaisa",
-            "Senna"
-        ],
-        [
-            "Heimerdinger"
-        ],
-        [
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
             "Morgana",
+            "Nautilus",
             "Nunu",
+            "Rengar",
             "Ryze",
             "Shaco",
             "Singed",
-            "Soraka"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
-        ],
-        [
-            "Camille"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Morgana",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
             "Zyra"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Evelynn"
+            "Corki",
+            "Evelynn",
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Karthus",
+            "Kogmaw",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rengar",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Vi",
+            "Wukong"
         ]
     ]
 }

@@ -1,65 +1,103 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "Season 2-6",
-        "global ult"
+        "OG40",
+        "ult execute"
     ],
     "cols": [
-        "Freljord",
-        "silence",
-        "tether"
+        "stun",
+        "Demacia",
+        "arcane"
     ],
     "solutions": [
         [
+            "Amumu",
             "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
             "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Fiddlesticks"
-        ],
-        [
-            "Fiddlesticks",
+            "Hecarim",
+            "Ivern",
+            "Jax",
             "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
             "Sejuani",
-            "Volibear"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kalista",
-            "Kled",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
             "Zac"
         ],
         [
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
+        ],
+        [
+            "Ekko",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
-            "Ornn"
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Soraka"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Kled",
-            "Nocturne"
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Garen"
+        ],
+        [
+            "Jinx"
         ]
     ]
 }

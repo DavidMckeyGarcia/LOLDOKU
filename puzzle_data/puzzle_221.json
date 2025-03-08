@@ -1,145 +1,65 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "blink",
+        "global ult",
         "Season 7+"
     ],
     "cols": [
-        "knock-up",
-        "Freljord",
-        "never played"
+        "Zaun",
+        "fear",
+        "tether"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Amumu",
-            "Belveth",
-            "Brand",
-            "Briar",
             "Dr. Mundo",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Kindred",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Reksai",
-            "Rell",
-            "Rengar",
-            "Sejuani",
-            "Shaco",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Teemo",
-            "Trundle",
-            "Udyr",
+            "Ekko",
             "Vi",
-            "Viego",
-            "Volibear",
             "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Zyra"
+            "Zac"
         ],
         [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "Pyke",
-            "Reksai",
-            "Shen",
-            "Tahm kench",
-            "Viego"
-        ],
-        [
-            "Belveth",
             "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
             "Sylas",
-            "Yone"
+            "Zac"
         ],
         [
-            "Aurora",
-            "Ornn"
+            "Ekko",
+            "Jinx",
+            "Ziggs"
         ],
         [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
             "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Kled",
+            "Nocturne"
+        ],
+        [
             "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
             "Zeri"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ]
     ]
 }

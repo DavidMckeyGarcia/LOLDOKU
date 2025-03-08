@@ -1,114 +1,70 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
         "Support",
-        "prestige",
-        "Season 7+"
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "Targon",
-        "stun",
-        "shred"
+        "Ionia",
+        "silence",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
+            "Karma",
+            "Rakan"
+        ],
+        [
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
             "Alistar",
-            "Annie",
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
             "Braum",
-            "Heimerdinger",
+            "Janna",
             "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
         ],
         [
-            "Rell"
-        ],
-        [
-            "Diana",
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Zoe"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
+            "Ahri",
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
             "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
-        ],
-        [
-            "Evelynn",
-            "Garen",
-            "Zoe"
-        ],
-        [
-            "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
+            "Syndra",
             "Yone"
         ],
         [
-            "Briar",
-            "Rell",
-            "Zoe"
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Syndra"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

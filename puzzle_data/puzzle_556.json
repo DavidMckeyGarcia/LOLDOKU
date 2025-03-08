@@ -1,61 +1,136 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "life steal",
-        "Season 7+"
+        "hextech",
+        "shield"
     ],
     "cols": [
-        "Freljord",
-        "fear",
-        "tether"
+        "Demacia",
+        "stun",
+        "arcane"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
             "Sylas"
         ],
         [
-            "Olaf",
-            "Trundle",
-            "Udyr"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Morgana"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Renata glasc",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
             "Sylas",
-            "Yuumi"
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Heimerdinger",
+            "Jayce",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
+        ],
+        [
+            "Galio",
+            "Jarvan IV",
+            "Poppy"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
+        ],
+        [
+            "Janna",
+            "Singed"
+        ],
+        [
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Janna",
+            "Mel",
+            "Orianna",
+            "Vi",
+            "Viktor"
         ]
     ]
 }

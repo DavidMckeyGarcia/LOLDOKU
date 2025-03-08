@@ -1,146 +1,100 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "shield",
-        "prestige"
+        "Mid",
+        "prestige",
+        "OG40"
     ],
     "cols": [
-        "Ionia",
-        "stun",
-        "darkin"
+        "knock-up",
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
+            "Neeko",
             "Sylas",
             "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Hwei",
-            "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
-            "Sett",
-            "Shen",
+            "Velkoz",
             "Yasuo",
-            "Yone"
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
             "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
             "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
             "Viktor",
-            "Volibear",
-            "Yone"
+            "Ziggs"
         ],
         [
-            "Naafiri"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Kayn",
-            "Lee sin",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Kennen",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
         ],
         [
             "Aatrox",
-            "Kayn"
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Jinx",
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Fizz",
+            "Lulu",
+            "Teemo"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

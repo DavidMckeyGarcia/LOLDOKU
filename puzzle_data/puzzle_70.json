@@ -1,108 +1,52 @@
 {
-    "difficulty": "iron",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "shield"
+        "Support",
+        "shield",
+        "arcade"
     ],
     "cols": [
-        "The Void",
         "stun",
-        "never played"
+        "Freljord",
+        "shred"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
-        [
-            "Ambessa",
-            "Anivia",
+            "Alistar",
             "Annie",
-            "Aurelion Sol",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
             "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
+            "Braum",
             "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Orianna",
             "Pantheon",
-            "Qiyana",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
             "Velkoz",
-            "Viktor",
             "Xerath",
-            "Yone",
             "Zilean"
         ],
         [
-            "Akshan",
+            "Ashe",
             "Brand",
-            "Chogath",
-            "Elise",
-            "Heimerdinger",
-            "Kennen",
-            "Naafiri"
+            "Braum"
         ],
         [
-            "Belveth",
-            "Kaisa"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
-        ],
-        [
-            "Kaisa",
-            "Kassadin"
+            "Rell"
         ],
         [
             "Ambessa",
@@ -139,36 +83,37 @@
             "Yone"
         ],
         [
-            "Akshan",
-            "Aphelios",
-            "Blitzcrank",
             "Braum",
-            "Garen",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kled",
-            "Malphite",
-            "Milio",
-            "Mordekaiser",
-            "Morgana",
-            "Naafiri",
-            "Nilah",
             "Nunu",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Senna",
-            "Shen",
-            "Sivir",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Thresh",
+            "Olaf",
             "Udyr",
-            "Vi",
-            "Volibear",
-            "Yuumi"
+            "Volibear"
+        ],
+        [
+            "Garen",
+            "Jarvan IV",
+            "Mordekaiser",
+            "Olaf",
+            "Rell",
+            "Rumble",
+            "Sion",
+            "Vi"
+        ],
+        [
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Brand"
+        ],
+        [
+            "Corki"
         ]
     ]
 }

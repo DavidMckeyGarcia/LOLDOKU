@@ -1,73 +1,89 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Top",
-        "invis",
-        "Season 2-6"
+        "Adc",
+        "blink",
+        "before s7"
     ],
     "cols": [
-        "Shadow Isles",
+        "Targon",
         "root",
-        "yordle"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Aphelios"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
             "Senna",
-            "Viego"
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Pantheon"
         ],
         [
             "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Lissandra",
+            "Ryze"
         ],
         [
-            "Teemo"
+            "Master yi",
+            "Viego"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Thresh"
+            "Aurelion Sol",
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
         ],
         [
+            "Caitlyn",
             "Ivern",
             "Jhin",
             "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
             "Lissandra",
+            "Lux",
+            "Morgana",
             "Nautilus",
+            "Nunu",
             "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
             "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ]
     ]
 }

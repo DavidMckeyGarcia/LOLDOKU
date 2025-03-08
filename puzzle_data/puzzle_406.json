@@ -1,73 +1,122 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "hextech",
-        "invis"
+        "Support",
+        "ult execute",
+        "Space Groove"
     ],
     "cols": [
         "Noxus",
-        "fear",
+        "slow",
         "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
             "Swain"
         ],
         [
-            "Aatrox",
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
+        ],
+        [
             "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Akali",
+            "Chogath",
+            "Darius",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Syndra",
             "Urgot",
-            "Warwick"
+            "Viego"
         ],
         [
             "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
+            "Evelynn",
+            "Jhin",
+            "Jinx",
+            "Veigar",
+            "Viego"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Sion",
-            "Swain"
+            "Samira"
         ],
         [
-            "Nocturne"
+            "Gragas",
+            "Lissandra",
+            "Lulu",
+            "Lux",
+            "Nami",
+            "Nasus",
+            "Nunu",
+            "Rumble",
+            "Samira",
+            "Teemo",
+            "Twisted fate"
         ],
         [
-            "Alistar",
-            "Nocturne",
-            "Rammus",
-            "Tristana"
-        ],
-        [
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Kaisa",
-            "Neeko",
-            "Viego",
-            "Wukong"
+            "Blitzcrank",
+            "Lux",
+            "Nunu",
+            "Twisted fate"
         ]
     ]
 }

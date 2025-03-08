@@ -1,158 +1,67 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "OG40",
-        "dash"
+        "Jungle",
+        "arcade",
+        "global ult"
     ],
     "cols": [
-        "Bandle City",
         "root",
-        "never played"
+        "Piltover",
+        "tether"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
-            "Kayn",
-            "Kennen",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Yorick"
-        ],
-        [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Tristana",
-            "Yuumi"
-        ],
-        [
-            "Caitlyn",
             "Ivern",
-            "Ksante",
             "Lee sin",
-            "Leona",
             "Maokai",
+            "Morgana",
             "Nautilus",
+            "Nunu",
             "Qiyana",
             "Rengar",
             "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Camille"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
             "Zac"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Bard",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Graves",
-            "Gwen",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Kindred",
-            "Kled",
-            "Leona",
-            "Lillia",
-            "Malphite",
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Malzahar"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
             "Maokai",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rammus",
-            "Reksai",
-            "Rell",
-            "Rengar",
-            "Samira",
-            "Sejuani",
-            "Shaco",
-            "Shen",
-            "Shyvana",
-            "Thresh",
-            "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Yuumi",
-            "Zeri"
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Kled",
+            "Nocturne"
         ]
     ]
 }

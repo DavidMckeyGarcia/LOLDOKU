@@ -1,81 +1,100 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "hextech"
+        "Mid",
+        "empyrean",
+        "true damage"
     ],
     "cols": [
-        "root",
-        "Bandle City",
-        "manaless"
+        "stun",
+        "Demacia",
+        "tether"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
             "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Rumble",
-            "Teemo"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
             "Zac"
         ],
         [
+            "Kayle",
+            "Lux"
+        ],
+        [
+            "Malzahar",
+            "Nocturne",
+            "Zac"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Lulu"
+            "Fiora",
+            "Garen",
+            "Vayne"
         ],
         [
-            "Aatrox",
-            "Gnar",
-            "Kled",
-            "Reksai",
-            "Rengar",
-            "Yasuo",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Tristana"
-        ],
-        [
-            "Renekton"
+            "Renata glasc"
         ]
     ]
 }

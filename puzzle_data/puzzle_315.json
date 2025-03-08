@@ -1,16 +1,20 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Support",
-        "Season 2-6",
-        "invis"
+        "ult execute",
+        "coven"
     ],
     "cols": [
+        "Ionia",
         "stun",
-        "Bandle City",
-        "100+ games"
+        "shred"
     ],
     "solutions": [
+        [
+            "Karma",
+            "Rakan"
+        ],
         [
             "Alistar",
             "Annie",
@@ -41,76 +45,42 @@
             "Zilean"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
+            "Rell"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Braum",
-            "Janna",
-            "Leona",
-            "Lulu",
-            "Maokai",
-            "Rakan",
-            "Thresh"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Braum",
-            "Elise",
-            "Gnar",
-            "Jayce",
+            "Akali",
             "Jhin",
-            "Lucian",
-            "Lulu",
-            "Sejuani",
-            "Syndra",
-            "Thresh",
-            "Varus"
+            "Syndra"
         ],
         [
-            "Neeko",
             "Pyke",
-            "Qiyana",
-            "Vayne",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
             "Viego"
         ],
         [
-            "Teemo"
+            "Evelynn",
+            "Garen"
         ],
         [
-            "Kaisa"
+            "Ahri",
+            "Akali",
+            "Syndra"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Evelynn"
         ]
     ]
 }

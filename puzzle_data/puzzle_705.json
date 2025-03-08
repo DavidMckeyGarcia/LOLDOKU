@@ -1,61 +1,124 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "true damage",
-        "PROJECT"
+        "Support",
+        "dash",
+        "OG40"
     ],
     "cols": [
+        "Freljord",
         "knock-up",
-        "Targon",
-        "shred"
+        "riot records"
     ],
     "solutions": [
         [
-            "Kalista",
+            "Ashe",
+            "Brand",
+            "Braum"
+        ],
+        [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Senna",
+            "Sona"
+        ],
+        [
+            "Aurora",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Ornn",
+            "Sejuani",
+            "Tryndamere",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
             "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
             "Ziggs"
         ],
         [
-            "Aphelios"
-        ],
-        [
-            "Corki",
-            "Kogmaw"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
             "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
+            "Kaisa",
+            "Kayn",
+            "Qiyana",
+            "Sett",
+            "Viego",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Zoe"
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Leona"
-        ],
-        [
-            "Mordekaiser",
-            "Renekton",
-            "Vi"
+            "Evelynn",
+            "Karthus",
+            "Kayle"
         ]
     ]
 }

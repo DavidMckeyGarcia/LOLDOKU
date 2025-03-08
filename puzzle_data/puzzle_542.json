@@ -1,115 +1,94 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "Season 2-6",
-        "global ult"
+        "Jungle",
+        "Season 7+",
+        "blink"
     ],
     "cols": [
-        "Demacia",
-        "stun",
-        "0 games"
+        "knock-up",
+        "Zaun",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
+            "Belveth",
+            "Briar",
+            "Diana",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
             "Ivern",
-            "Lissandra",
-            "Nami",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
             "Nautilus",
-            "Riven",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
             "Sejuani",
-            "Syndra",
-            "Tahm kench",
+            "Sylas",
             "Taliyah",
-            "Thresh",
-            "Velkoz",
+            "Trundle",
             "Vi",
-            "Viktor",
-            "Volibear",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
             "Zac"
         ],
         [
-            "Illaoi"
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
         ],
         [
-            "Galio",
-            "Lux"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
+            "Belveth",
             "Briar",
-            "Ekko",
+            "Ksante",
+            "Kayn",
+            "Neeko",
             "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Briar",
-            "Mel",
-            "Vex"
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Kaisa",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ekko"
+        ],
+        [
+            "Ezreal",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

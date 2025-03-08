@@ -1,62 +1,110 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "OG40",
-        "true damage"
+        "invis",
+        "before s7"
     ],
     "cols": [
-        "silence",
-        "Bilgewater",
-        "yordle"
+        "knock-up",
+        "The Void",
+        "vastayan"
     ],
     "solutions": [
         [
+            "Alistar",
             "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
             "Lulu",
-            "Soraka"
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Velkoz"
         ],
         [
             "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
+            "Neeko",
+            "Rakan"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
+            "Neeko",
+            "Reksai",
+            "Wukong"
         ],
         [
+            "Kaisa",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Aurora",
+            "Neeko",
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
             "Blitzcrank",
+            "Braum",
             "Chogath",
-            "Fiddlesticks",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Chogath",
             "Kassadin",
-            "Soraka"
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Amumu",
-            "Corki"
+            "Ahri",
+            "Nami",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

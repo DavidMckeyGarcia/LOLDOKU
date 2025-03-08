@@ -1,99 +1,140 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "life steal",
-        "Season 2-6"
+        "elderwood",
+        "dash"
     ],
     "cols": [
-        "knock-up",
-        "Bilgewater",
-        "ult reset"
+        "stun",
+        "Shurima",
+        "shred"
     ],
     "solutions": [
         [
+            "Ambessa",
             "Anivia",
+            "Annie",
             "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
             "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
             "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
             "Sylas",
+            "Syndra",
             "Taliyah",
+            "Twisted fate",
+            "Veigar",
             "Velkoz",
-            "Yasuo",
+            "Viktor",
+            "Xerath",
             "Yone",
-            "Ziggs"
+            "Zilean"
         ],
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
-        ],
-        [
-            "Illaoi",
-            "Nilah"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
+            "Akshan",
             "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
+        ],
+        [
+            "Azir"
+        ],
+        [
+            "Karthus",
+            "Wukong"
+        ],
+        [
+            "Alistar",
+            "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
             "Braum",
-            "Diana",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
             "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
+            "Jax",
+            "Ksante",
+            "Leona",
             "Nautilus",
-            "Reksai",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
             "Riven",
             "Sejuani",
-            "Tahm kench",
+            "Sett",
+            "Sylas",
             "Taliyah",
-            "Velkoz",
+            "Thresh",
+            "Urgot",
+            "Vayne",
             "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
         ],
         [
             "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Ksante",
+            "Naafiri",
+            "Rammus",
+            "Renekton",
+            "Taliyah"
+        ],
+        [
+            "Briar",
+            "Corki",
+            "Jarvan IV",
+            "Jayce",
+            "Rell",
+            "Renekton",
+            "Rengar",
+            "Vi",
+            "Wukong"
         ]
     ]
 }

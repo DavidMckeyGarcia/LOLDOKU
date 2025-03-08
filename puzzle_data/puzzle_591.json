@@ -1,97 +1,99 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
         "Adc",
-        "ult execute",
+        "arcade",
         "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Bilgewater",
-        "never played"
+        "stun",
+        "Shadow Isles",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
+            "Kalista",
+            "Senna"
         ],
         [
             "Aphelios",
             "Ashe",
-            "Draven",
+            "Corki",
             "Jhin",
             "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
+            "Kaisa",
             "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
+            "Smolder",
+            "Tristana",
+            "Varus",
             "Zeri"
         ],
         [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Akshan",
-            "Chogath",
-            "Draven",
-            "Evelynn",
-            "Garen",
-            "Jhin",
-            "Jinx",
-            "Pyke",
-            "Reksai",
-            "Viego"
-        ],
-        [
-            "Alistar",
-            "Anivia",
             "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Hecarim"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Corki",
+            "Hecarim",
+            "Kaisa",
+            "Veigar"
         ],
         [
             "Alistar",
             "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
             "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
             "Heimerdinger",
-            "Janna",
-            "Malphite",
+            "Jax",
             "Morgana",
             "Nunu",
             "Rammus",
-            "Shaco",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
             "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ]
     ]
 }

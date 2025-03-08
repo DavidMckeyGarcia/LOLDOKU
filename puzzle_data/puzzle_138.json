@@ -1,103 +1,62 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "PROJECT",
-        "invis"
+        "Support",
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Ionia",
-        "manaless"
+        "silence",
+        "Freljord",
+        "arcane"
     ],
     "solutions": [
         [
-            "Aatrox",
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Brand",
+            "Braum"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Mel"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Blitzcrank",
             "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Akali",
-            "Irelia",
-            "Jhin",
-            "Master yi",
-            "Varus",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Akali",
-            "Katarina",
-            "Mordekaiser",
-            "Renekton",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Neeko",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "Akali",
-            "Wukong"
-        ],
-        [
-            "Akali",
-            "Reksai",
-            "Rengar",
-            "Viego"
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
         ]
     ]
 }

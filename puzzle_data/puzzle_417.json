@@ -1,83 +1,99 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "OG40",
-        "dash"
+        "Adc",
+        "invis",
+        "hextech"
     ],
     "cols": [
-        "fear",
-        "Piltover",
-        "shred"
+        "Demacia",
+        "slow",
+        "yordle"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Lucian",
+            "Vayne"
         ],
         [
-            "Camille"
-        ],
-        [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Heimerdinger"
-        ],
-        [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
+            "Aphelios",
+            "Ashe",
             "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce"
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Briar",
             "Corki",
-            "Jarvan IV",
-            "Jayce",
-            "Rell",
-            "Renekton",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Vayne"
+        ],
+        [
+            "Akali",
+            "Aurora",
+            "Kaisa",
+            "Khazix",
+            "Pyke",
+            "Qiyana",
+            "Reksai",
             "Rengar",
-            "Vi",
-            "Wukong"
+            "Senna",
+            "Shaco",
+            "Talon",
+            "Teemo",
+            "Twitch",
+            "Viego"
+        ],
+        [
+            "Teemo"
+        ],
+        [
+            "Galio",
+            "Jarvan IV",
+            "Poppy"
+        ],
+        [
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Kassadin",
+            "Kogmaw",
+            "Nocturne",
+            "Poppy",
+            "Rammus",
+            "Sejuani",
+            "Singed",
+            "Sion",
+            "Swain",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Tristana",
+            "Ziggs"
         ]
     ]
 }

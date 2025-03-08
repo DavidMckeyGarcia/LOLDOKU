@@ -1,71 +1,142 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "life steal",
-        "worlds skin"
+        "Mid",
+        "ult execute",
+        "Season 7+"
     ],
     "cols": [
-        "Zaun",
-        "fear",
-        "pentakill"
+        "Demacia",
+        "slow",
+        "yordle"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
+            "Ahri",
             "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Warwick"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
-            "Dr. Mundo",
+            "Anivia",
+            "Aurelion Sol",
+            "Aurora",
+            "Azir",
+            "Brand",
+            "Cassiopeia",
+            "Chogath",
+            "Corki",
+            "Diana",
             "Ekko",
-            "Janna",
-            "Jinx",
+            "Elise",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Heimerdinger",
+            "Hwei",
+            "Irelia",
+            "Jayce",
+            "Karma",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Naafiri",
             "Orianna",
-            "Singed",
-            "Twitch",
-            "Zac"
+            "Pantheon",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Talon",
+            "Tristana",
+            "Twisted fate",
+            "Velkoz",
+            "Vex",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
         ],
         [
-            "Aatrox"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Kennen",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Garen"
         ],
         [
             "Akali",
-            "Aphelios",
-            "Ezreal",
-            "Fiora",
+            "Chogath",
+            "Darius",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
             "Jinx",
+            "Pyke",
+            "Reksai",
+            "Syndra",
+            "Urgot",
+            "Viego"
+        ],
+        [
+            "Veigar"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
             "Kaisa",
-            "Kalista",
-            "Ryze",
-            "Twitch",
-            "Vayne",
-            "Xayah"
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

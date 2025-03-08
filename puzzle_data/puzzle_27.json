@@ -1,75 +1,93 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "elderwood",
-        "dash"
+        "Adc",
+        "life steal",
+        "OG40"
     ],
     "cols": [
-        "fear",
-        "Shadow Isles",
-        "yordle"
+        "Bilgewater",
+        "root",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Hecarim",
-            "Karthus"
-        ],
-        [
-            "Gnar",
-            "Veigar"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Gwen",
-            "Hecarim",
-            "Maokai",
-            "Thresh",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Amumu",
+            "Aphelios",
+            "Ashe",
             "Corki",
-            "Fizz",
-            "Gnar",
-            "Kled",
-            "Poppy",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
             "Tristana",
-            "Vex",
-            "Ziggs"
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Illaoi",
+            "Nilah"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Viego",
+            "Vladimir",
+            "Warwick"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ]
     ]
 }

@@ -1,99 +1,100 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "dark star",
-        "evolves"
+        "Top",
+        "Season 7+",
+        "life steal"
     ],
     "cols": [
+        "Demacia",
         "knock-up",
-        "Zaun",
-        "100% AP Ratio"
+        "shred"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
+            "Fiora",
+            "Garen",
             "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
+            "Kayle",
             "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
+            "Quinn",
             "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Vayne"
         ],
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
             "Zac"
         ],
         [
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Wukong"
+        ],
+        [
+            "Sylas"
+        ],
+        [
             "Belveth",
             "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Chogath",
-            "Jarvan IV",
-            "Malphite"
+            "Briar",
+            "Rell",
+            "Zoe"
         ],
         [
-            "Orianna"
+            "Morgana"
         ],
         [
-            "Chogath",
-            "Jhin",
-            "Karma",
-            "Lux",
-            "Thresh",
-            "Varus",
-            "Xerath"
-        ],
-        [
+            "Aatrox",
             "Belveth",
-            "Kayn"
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
         ],
         [
-            "Viktor"
-        ],
-        [
-            "Belveth",
-            "Gangplank",
-            "Kaisa",
-            "Smolder",
-            "Viktor"
+            "Briar",
+            "Nasus",
+            "Olaf",
+            "Sion",
+            "Trundle"
         ]
     ]
 }

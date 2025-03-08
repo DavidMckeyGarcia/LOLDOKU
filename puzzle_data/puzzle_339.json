@@ -1,69 +1,58 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
         "Mid",
-        "OG40",
-        "hextech"
+        "prestige",
+        "ult execute"
     ],
     "cols": [
-        "root",
-        "The Void",
-        "ascended"
+        "Shadow Isles",
+        "fear",
+        "ult reset"
     ],
     "solutions": [
         [
+            "Karthus",
+            "Vex"
+        ],
+        [
             "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Vex"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
-        [
-            "Azir",
-            "Diana",
+            "Ahri",
             "Naafiri",
-            "Pantheon",
-            "Xerath"
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Senna",
+            "Thresh"
         ],
         [
-            "Chogath",
-            "Kassadin"
+            "Aatrox",
+            "Darius",
+            "Shaco"
         ],
         [
-            "Nasus",
-            "Taric"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Sivir",
+            "Swain",
+            "Vayne"
         ],
         [
-            "Singed",
-            "Swain"
+            "Viego"
         ],
         [
-            "Kassadin",
-            "Kogmaw",
-            "Malzahar"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Renekton"
+            "Darius",
+            "Viego"
         ]
     ]
 }

@@ -1,124 +1,71 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "shield",
-        "coven"
+        "Jungle",
+        "before s7",
+        "true damage"
     ],
     "cols": [
-        "stun",
-        "Noxus",
-        "vastayan"
+        "Targon",
+        "fear",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
+            "Diana",
+            "Pantheon"
+        ],
+        [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Taliyah"
+        ],
+        [
+            "Aurelion Sol",
+            "Diana",
+            "Leona",
             "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Soraka",
+            "Taric"
         ],
         [
-            "Ambessa",
+            "Aatrox",
             "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Wukong"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
             "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Kled",
-            "Mel",
-            "Mordekaiser",
-            "Rell",
-            "Riven",
-            "Sion"
-        ],
-        [
-            "Neeko",
-            "Rakan"
-        ],
-        [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
-        ],
-        [
-            "Cassiopeia",
-            "Elise",
-            "LeBlanc"
+            "Warwick"
         ],
         [
             "Ahri",
-            "Nami"
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Zoe"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Ahri",
+            "Corki"
         ]
     ]
 }

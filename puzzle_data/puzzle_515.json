@@ -1,91 +1,82 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 7+",
-        "true damage"
+        "Jungle",
+        "empyrean",
+        "OG40"
     ],
     "cols": [
         "knock-up",
-        "Shadow Isles",
+        "Shurima",
         "0 games"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
+            "Belveth",
+            "Briar",
+            "Diana",
             "Gragas",
+            "Ivern",
             "Jarvan IV",
-            "Ksante",
             "Kayn",
-            "Malphite",
-            "Ornn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
             "Poppy",
-            "Riven",
-            "Sion",
+            "Reksai",
+            "Rell",
+            "Sejuani",
             "Sylas",
-            "Tahm kench",
+            "Taliyah",
             "Trundle",
+            "Vi",
             "Wukong",
-            "Yasuo",
-            "Yone",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
+        ],
+        [
+            "Briar",
+            "Master yi"
+        ],
+        [
+            "Ksante",
             "Zac"
         ],
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Jax",
+            "Ksante"
         ],
         [
-            "Ambessa",
-            "Illaoi"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
             "Vex"
         ],
         [
-            "Belveth",
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
             "Chogath",
-            "Ivern",
-            "Ksante",
+            "Janna",
+            "Malphite",
             "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
+            "Sion"
         ],
         [
-            "Gwen"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
         ],
         [
-            "Akshan",
-            "Master yi",
-            "Samira"
+            "Master yi"
         ]
     ]
 }

@@ -1,74 +1,114 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "ult execute",
-        "Season 7+"
+        "Adc",
+        "before s7",
+        "invis"
     ],
     "cols": [
+        "knock-up",
         "Zaun",
-        "root",
-        "arcane"
+        "yordle"
     ],
     "solutions": [
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
+            "Kalista",
+            "Samira",
             "Ziggs"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "Jayce",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
-        ],
-        [
             "Jinx",
-            "Urgot"
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Jhin",
-            "Jinx"
+            "Corki",
+            "Tristana",
+            "Ziggs"
         ],
         [
-            "Jinx"
+            "Aatrox",
+            "Alistar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Ekko",
+            "Janna",
+            "Jinx",
+            "Orianna",
+            "Singed",
+            "Twitch",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Warwick",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
+        ],
+        [
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Ambessa",
-            "Mel"
+            "Twitch"
+        ],
+        [
+            "Teemo"
         ]
     ]
 }

@@ -1,70 +1,33 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "true damage",
-        "OG40"
+        "Adc",
+        "OG40",
+        "pool party"
     ],
     "cols": [
-        "Noxus",
+        "Freljord",
         "knock-up",
-        "tether"
+        "shred"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
+            "Ashe"
         ],
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
+            "Kalista",
             "Samira",
-            "Velkoz",
-            "Yone"
+            "Ziggs"
         ],
         [
-            "Renata glasc"
+            "Corki",
+            "Kogmaw"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
             "Alistar",
@@ -77,9 +40,29 @@
             "Sion"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
+        ],
+        [
+            "Braum"
+        ],
+        [
+            "Braum",
+            "Jarvan IV",
+            "Lee sin",
+            "Lulu",
+            "Reksai",
+            "Taliyah",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Jarvan IV",
+            "Renekton",
+            "Zoe"
         ]
     ]
 }

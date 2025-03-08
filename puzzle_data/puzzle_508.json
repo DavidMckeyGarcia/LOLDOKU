@@ -1,100 +1,65 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "OG40",
-        "prestige"
+        "Mid",
+        "invis",
+        "before s7"
     ],
     "cols": [
-        "knock-up",
         "Ixtal",
-        "ult reset"
+        "fear",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Neeko",
+            "Qiyana"
         ],
         [
-            "Nidalee",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Ahri",
+            "Aurora",
+            "Neeko"
+        ],
+        [
+            "Neeko",
             "Qiyana",
+            "Rengar"
+        ],
+        [
+            "Shaco"
+        ],
+        [
+            "Aurora",
+            "Neeko",
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Malphite",
+            "Nidalee",
             "Rengar",
             "Skarner",
             "Zyra"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Malphite"
-        ],
-        [
-            "Master yi",
-            "Singed",
-            "Sivir"
-        ],
-        [
             "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Malphite",
-            "Neeko",
-            "Qiyana",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
             "Darius",
-            "Sivir",
-            "Swain",
-            "Vayne"
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Ahri",
+            "Nami",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

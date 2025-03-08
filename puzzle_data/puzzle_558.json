@@ -1,80 +1,100 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "empyrean",
-        "Season 2-6"
+        "cosmic",
+        "global ult"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "never played"
+        "Freljord",
+        "stun",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Akshan",
+            "Anivia",
+            "Aurora",
             "Brand",
-            "Chogath",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
             "Elise",
+            "Gragas",
             "Heimerdinger",
+            "Irelia",
             "Kennen",
-            "Naafiri"
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Pyke"
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "Nocturne",
-            "Vex"
+            "Anivia",
+            "Lissandra",
+            "Nunu"
         ],
         [
-            "Brand",
-            "Jhin",
-            "Pyke"
-        ],
-        [
-            "Illaoi",
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
             "Nami",
             "Nautilus",
-            "Tahm kench"
+            "Nunu",
+            "Sion",
+            "Skarner",
+            "Xin Zhao"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
+            "Belveth",
+            "Master yi"
         ],
         [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
             "Bard",
-            "Braum",
-            "Draven",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Kindred",
-            "Kled",
-            "Nami",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Volibear",
-            "Zyra"
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

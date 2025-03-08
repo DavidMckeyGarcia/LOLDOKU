@@ -1,75 +1,53 @@
 {
-    "difficulty": "iron",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "true damage",
-        "hextech"
+        "Adc",
+        "empyrean",
+        "true damage"
     ],
     "cols": [
         "stun",
         "Zaun",
-        "never played"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Alistar",
             "Ashe",
-            "Bard",
-            "Blitzcrank",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
             "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Janna",
-            "Leona",
-            "Maokai",
-            "Milio",
-            "Morgana",
-            "Nami",
+            "Jax",
+            "Ksante",
+            "Malzahar",
             "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Senna",
-            "Sona",
-            "Soraka",
-            "Tahm kench",
-            "Thresh",
-            "Yuumi",
-            "Zyra"
+            "Zac"
+        ],
+        [
+            "Zac"
+        ],
+        [
+            "Jax",
+            "Jhin",
+            "Varus"
         ],
         [
             "Amumu",
@@ -93,47 +71,7 @@
             "Urgot"
         ],
         [
-            "Akshan",
-            "Amumu",
-            "Belveth",
-            "Chogath",
-            "Draven",
-            "Fiora",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Lillia",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Twitch",
-            "Vayne"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Malzahar",
-            "Poppy",
-            "Rammus",
-            "Renekton",
-            "Sejuani",
-            "Sion"
-        ],
-        [
-            "Janna",
-            "Singed",
-            "Ziggs"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Janna",
-            "Jarvan IV",
-            "Rammus",
-            "Sejuani"
+            "Syndra"
         ]
     ]
 }

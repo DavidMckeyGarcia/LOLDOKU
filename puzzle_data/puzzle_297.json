@@ -1,71 +1,107 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "blink"
+        "Top",
+        "hextech",
+        "shield"
     ],
     "cols": [
-        "Targon",
+        "Bandle City",
         "knock-up",
-        "pentakill"
+        "yordle"
     ],
     "solutions": [
         [
-            "Aphelios"
+            "Heimerdinger",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Kalista",
-            "Samira",
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Tristana"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
             "Ziggs"
         ],
         [
-            "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
+            "Amumu",
+            "Poppy",
             "Tristana",
-            "Twitch",
-            "Vayne",
-            "Xayah"
+            "Ziggs"
         ],
         [
-            "Aphelios",
-            "Zoe"
+            "Lulu",
+            "Rumble",
+            "Yuumi"
         ],
         [
-            "Belveth",
-            "Briar",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Ksante",
-            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
             "Neeko",
-            "Ornn",
+            "Nunu",
+            "Poppy",
             "Rakan",
             "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
-        ],
-        [
-            "Pantheon"
-        ],
-        [
-            "Reksai",
+            "Riven",
+            "Sion",
             "Tahm kench",
+            "Vi",
             "Yasuo",
             "Yone"
         ],
         [
-            "Ezreal",
-            "Ryze"
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ]
     ]
 }

@@ -1,80 +1,97 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "blink",
-        "Season 7+"
+        "Mid",
+        "arcade",
+        "life steal"
     ],
     "cols": [
-        "Freljord",
-        "root",
-        "0 games"
+        "stun",
+        "The Void",
+        "arcane"
     ],
     "solutions": [
         [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
             "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
             "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Briar",
-            "Master yi"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "LeBlanc",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
             "Lissandra",
-            "Ryze"
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
         ],
         [
             "Ambessa",
-            "Master yi"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
+            "Ekko",
+            "Heimerdinger",
+            "Jayce",
+            "LeBlanc",
             "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Orianna",
+            "Viktor"
         ],
         [
-            "Akshan",
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Belveth",
+            "Kaisa",
+            "Malzahar"
+        ],
+        [
+            "Caitlyn"
+        ],
+        [
             "Ambessa",
             "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Belveth"
+        ],
+        [
+            "Ambessa",
+            "Warwick"
         ]
     ]
 }

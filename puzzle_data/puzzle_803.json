@@ -1,72 +1,105 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "true damage",
-        "PROJECT"
+        "Mid",
+        "before s7",
+        "prestige"
     ],
     "cols": [
-        "Shurima",
-        "knock-up",
-        "100+ games"
+        "fear",
+        "Ionia",
+        "yordle"
     ],
     "solutions": [
         [
-            "Sivir"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Kalista",
-            "Samira",
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Kennen",
+            "Tristana",
+            "Veigar",
+            "Vex",
             "Ziggs"
         ],
         [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Akshan",
-            "Amumu",
-            "Ksante"
-        ],
-        [
-            "Belveth",
-            "Chogath",
+            "Ahri",
+            "Akali",
+            "Irelia",
             "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Syndra"
-        ],
-        [
-            "Jax",
-            "Renekton"
-        ],
-        [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Ashe",
-            "Jax",
             "Jhin",
-            "Leona",
-            "Lucian",
-            "Renekton",
-            "Sejuani",
-            "Varus"
+            "Karma",
+            "Kennen",
+            "Lee sin",
+            "Master yi",
+            "Shen",
+            "Syndra",
+            "Varus",
+            "Wukong",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Shaco"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Kayn",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Fizz",
+            "Lulu",
+            "Teemo"
         ]
     ]
 }

@@ -1,106 +1,145 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "worlds skin",
-        "shield"
+        "Mid",
+        "blink",
+        "before s7"
     ],
     "cols": [
-        "root",
         "Noxus",
-        "arcane"
+        "silence",
+        "never played"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Mel"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
             "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Elise",
+            "Heimerdinger",
+            "Kennen",
+            "Naafiri"
+        ],
+        [
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
+        ],
+        [
+            "Kassadin"
+        ],
+        [
+            "Pyke",
+            "Reksai",
+            "Shen",
+            "Tahm kench",
+            "Viego"
         ],
         [
             "Alistar",
-            "Elise",
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Caitlyn",
-            "Ekko",
-            "Janna",
-            "Jayce",
-            "Jinx",
-            "LeBlanc",
-            "Orianna",
-            "Singed"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
-        ],
-        [
-            "Ambessa",
             "Annie",
+            "Cassiopeia",
+            "Darius",
+            "Draven",
+            "Elise",
+            "Katarina",
             "Kled",
-            "Mel",
+            "LeBlanc",
             "Mordekaiser",
-            "Rell",
             "Riven",
-            "Sion"
+            "Sion",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Ambessa",
-            "Ekko",
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Chogath",
+            "Dr. Mundo",
+            "Draven",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Graves",
+            "Hecarim",
+            "Heimerdinger",
+            "Illaoi",
+            "Ivern",
             "Janna",
-            "Mel",
-            "Orianna",
+            "Jarvan IV",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kennen",
+            "Kindred",
+            "Kled",
+            "Leona",
+            "Malphite",
+            "Miss Fortune",
+            "Mordekaiser",
+            "Morgana",
+            "Nami",
+            "Nunu",
+            "Rammus",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Sivir",
+            "Skarner",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Teemo",
+            "Thresh",
+            "Trundle",
+            "Twitch",
+            "Udyr",
+            "Vayne",
             "Vi",
-            "Viktor"
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Yorick",
+            "Zyra"
         ]
     ]
 }

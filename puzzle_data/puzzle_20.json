@@ -1,91 +1,70 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Support",
-        "empyrean",
-        "global ult"
+        "Adc",
+        "OG40",
+        "blink"
     ],
     "cols": [
-        "Bilgewater",
-        "stun",
-        "yordle"
+        "The Void",
+        "knock-up",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
         ],
         [
             "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
+            "Anivia",
             "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Ryze",
+            "Tristana",
+            "Twitch"
+        ],
+        [
+            "Kassadin",
+            "Reksai"
+        ],
+        [
+            "Reksai",
             "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Brand",
-            "Jax",
-            "Ksante",
-            "Malzahar",
-            "Pyke",
-            "Zac"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Kled",
-            "Vex",
-            "Ziggs"
+            "Ezreal",
+            "Ryze"
         ]
     ]
 }

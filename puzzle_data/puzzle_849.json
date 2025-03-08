@@ -1,83 +1,97 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "pool party"
+        "Jungle",
+        "global ult",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Zaun",
+        "knock-up",
+        "Shurima",
         "manaless"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
+            "Belveth",
+            "Briar",
+            "Diana",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
             "Sylas",
-            "Syndra",
             "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
             "Ziggs"
         ],
         [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Taliyah",
+            "Xerath"
         ],
         [
-            "Ambessa",
             "Briar",
-            "Camille",
+            "Kled",
+            "Shen"
+        ],
+        [
+            "Belveth",
+            "Briar",
             "Ksante",
-            "Milio",
+            "Kayn",
             "Neeko",
             "Ornn",
-            "Pyke",
+            "Rakan",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
+            "Samira",
             "Sylas",
-            "Viego",
             "Yone"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Akshan",
+            "Ksante",
+            "Naafiri"
         ],
         [
             "Ambessa",
@@ -86,34 +100,6 @@
             "Sett",
             "Viego",
             "Yone"
-        ],
-        [
-            "Braum",
-            "Fiora",
-            "Heimerdinger",
-            "Leona",
-            "Orianna",
-            "Renekton",
-            "Sett",
-            "Syndra",
-            "Taliyah",
-            "Taric",
-            "Zac"
-        ],
-        [
-            "Dr. Mundo",
-            "Orianna",
-            "Singed",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Dr. Mundo",
-            "Lee sin",
-            "Reksai",
-            "Renekton",
-            "Sett",
-            "Zac"
         ]
     ]
 }

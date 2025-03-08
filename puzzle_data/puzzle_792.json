@@ -1,107 +1,58 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
         "Jungle",
-        "true damage",
-        "Space Groove"
+        "prestige",
+        "OG40"
     ],
     "cols": [
         "silence",
-        "Noxus",
-        "never played"
+        "Piltover",
+        "ascended"
     ],
     "solutions": [
         [
             "Fiddlesticks"
         ],
         [
-            "Briar",
-            "Elise",
+            "Camille"
+        ],
+        [
+            "Diana",
             "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
+            "Nasus",
+            "Pantheon"
         ],
         [
-            "Amumu",
-            "Belveth",
-            "Brand",
-            "Briar",
-            "Dr. Mundo",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Kindred",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Reksai",
-            "Rell",
-            "Rengar",
-            "Sejuani",
-            "Shaco",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Zyra"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Belveth",
-            "Chogath",
-            "Draven",
-            "Fiora",
             "Garen",
-            "Gwen",
-            "Ivern",
-            "Lillia",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Twitch",
-            "Vayne"
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Caitlyn",
+            "Camille",
+            "Ezreal"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ],
         [
             "Blitzcrank",
-            "Lulu"
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Samira"
+            "Heimerdinger"
         ],
         [
-            "Blitzcrank",
-            "Nami",
-            "Nunu",
-            "Samira",
-            "Teemo"
+            "Nasus",
+            "Taric"
         ]
     ]
 }

@@ -1,66 +1,127 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "prestige"
+        "Support",
+        "hextech",
+        "OG40"
     ],
     "cols": [
-        "fear",
-        "Piltover",
-        "ult reset"
+        "Zaun",
+        "knock-up",
+        "never played"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
+        ],
+        [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
+        ],
+        [
+            "Janna",
+            "Singed",
+            "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
+            "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Janna",
+            "Jarvan IV",
+            "Rammus",
+            "Sejuani"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
             "Warwick"
         ],
         [
-            "Camille",
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
             "Heimerdinger",
-            "Jayce"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Jayce"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Caitlyn",
-            "Camille",
-            "Ezreal"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Darius",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
             "Sivir",
-            "Swain",
-            "Vayne"
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ]
     ]
 }

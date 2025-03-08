@@ -1,65 +1,57 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
+        "Support",
         "OG40",
-        "dash"
+        "ult execute"
     ],
     "cols": [
+        "Bilgewater",
         "stun",
-        "Piltover",
-        "30+ wins"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Alistar",
             "Annie",
-            "Aurelion Sol",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
             "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
+            "Braum",
             "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Orianna",
             "Pantheon",
-            "Qiyana",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
             "Velkoz",
-            "Viktor",
             "Xerath",
-            "Yone",
             "Zilean"
         ],
         [
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna",
-            "Seraphine"
+            "Swain"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Gangplank",
+            "Twisted fate"
         ],
         [
             "Alistar",
@@ -81,69 +73,24 @@
             "Zilean"
         ],
         [
-            "Heimerdinger"
+            "Master yi",
+            "Singed",
+            "Sivir"
         ],
         [
-            "Corki",
-            "Ryze"
+            "Pyke"
         ],
         [
-            "Alistar",
-            "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
-            "Ivern",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Nautilus",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
             "Pyke",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Renekton",
             "Riven",
-            "Sejuani",
-            "Sett",
-            "Sylas",
-            "Taliyah",
-            "Thresh",
+            "Syndra",
             "Urgot",
-            "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
-            "Zac"
+            "Veigar",
+            "Viego"
         ],
         [
-            "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "Taliyah"
+            "Darius",
+            "Viego"
         ]
     ]
 }

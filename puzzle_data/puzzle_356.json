@@ -1,122 +1,64 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "OG40",
-        "true damage"
+        "Jungle",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "Shadow Isles",
-        "stun",
-        "never played"
+        "Bilgewater",
+        "fear",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Senna"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
-        ],
-        [
-            "Karthus"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
+            "Briar",
             "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
+            "Hecarim",
+            "Nocturne",
             "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
             "Warwick"
         ],
         [
-            "Gwen"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Akshan",
-            "Amumu",
             "Belveth",
-            "Chogath",
-            "Draven",
-            "Fiora",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Lillia",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Twitch",
+            "Master yi",
+            "Olaf",
+            "Viego"
+        ],
+        [
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Ahri",
+            "Belveth",
+            "Darius",
+            "Master yi",
+            "Olaf",
             "Vayne"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
         ]
     ]
 }

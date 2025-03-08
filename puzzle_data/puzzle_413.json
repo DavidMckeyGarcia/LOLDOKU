@@ -1,66 +1,55 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "PROJECT",
-        "OG40"
+        "Top",
+        "OG40",
+        "prestige"
     ],
     "cols": [
-        "Zaun",
         "root",
-        "tether"
+        "Bandle City",
+        "never played"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
+            "Ksante",
             "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
+            "Singed",
+            "Swain",
             "Zac"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
+            "Heimerdinger",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
-        ],
-        [
-            "Sylas"
-        ],
-        [
-            "Blitzcrank",
+            "Chogath",
             "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
+            "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
         ],
         [
             "Morgana",
@@ -71,9 +60,88 @@
             "Soraka"
         ],
         [
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
             "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
             "Morgana",
-            "Taric"
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Fizz",
+            "Lulu",
+            "Teemo",
+            "Yuumi"
+        ],
+        [
+            "Brand",
+            "Evelynn",
+            "Fiora",
+            "Garen",
+            "Jinx",
+            "Kayn",
+            "Kindred",
+            "Leona",
+            "Malphite",
+            "Miss Fortune",
+            "Morgana",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Sivir",
+            "Sona",
+            "Soraka",
+            "Teemo",
+            "Thresh",
+            "Vayne",
+            "Volibear",
+            "Xayah",
+            "Yuumi",
+            "Zeri",
+            "Zyra"
         ]
     ]
 }

@@ -1,104 +1,74 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "OG40",
-        "prestige"
+        "Mid",
+        "pool party",
+        "ult execute"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "riot records"
+        "root",
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
-        ],
-        [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Senna",
-            "Sona"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
-        ],
-        [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
+            "Hwei",
+            "Karma",
             "LeBlanc",
-            "Riven",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
             "Swain"
         ],
         [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Evelynn",
-            "Ezreal",
-            "Ksante",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Qiyana",
-            "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Kennen",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Lee sin",
+            "Leona",
+            "Singed",
+            "Zac"
+        ],
+        [
+            "Dr. Mundo",
+            "Orianna",
+            "Singed",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Ziggs"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Jinx",
+            "Urgot"
+        ],
+        [
+            "Veigar"
         ]
     ]
 }

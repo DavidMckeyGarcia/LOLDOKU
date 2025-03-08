@@ -1,16 +1,28 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "Season 2-6",
-        "dash"
+        "pool party",
+        "blink"
     ],
     "cols": [
+        "Ionia",
         "knock-up",
-        "Bilgewater",
-        "30+ wins"
+        "riot records"
     ],
     "solutions": [
+        [
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
         [
             "Anivia",
             "Aurelion Sol",
@@ -29,108 +41,53 @@
             "Ziggs"
         ],
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
             "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
             "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Yone"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Lissandra",
-            "Taliyah",
-            "Viktor"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
             "Lee sin",
-            "Malphite",
-            "Nautilus",
-            "Ornn",
-            "Poppy",
-            "Rakan",
+            "Sett",
+            "Syndra"
+        ],
+        [
+            "Braum",
+            "Jarvan IV",
+            "Lee sin",
+            "Lulu",
             "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
             "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Yone",
             "Zac",
             "Ziggs"
         ],
         [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
+            "Sett"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "Taliyah"
+            "Master yi",
+            "Shen",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ekko",
+            "Ezreal",
+            "Viego",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

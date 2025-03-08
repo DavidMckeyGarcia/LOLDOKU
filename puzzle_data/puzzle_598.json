@@ -1,111 +1,85 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "pool party",
-        "Season 2-6"
+        "Support",
+        "worlds skin",
+        "invis"
     ],
     "cols": [
         "knock-up",
-        "Zaun",
-        "ascended"
+        "Bilgewater",
+        "shred"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
-        ],
-        [
+            "Alistar",
+            "Blitzcrank",
             "Braum",
-            "Jarvan IV",
-            "Lee sin",
-            "Lulu",
-            "Reksai",
-            "Taliyah",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Dr. Mundo",
-            "Orianna",
-            "Singed",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Leona",
-            "Renekton",
-            "Taric"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
+            "Galio",
+            "Janna",
             "Lulu",
             "Nami",
             "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
             "Tahm kench",
-            "Taliyah",
             "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
             "Zyra"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Rell"
         ],
         [
             "Aatrox",
+            "Alistar",
             "Azir",
-            "Diana",
-            "Varus"
+            "Gragas",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Malphite",
+            "Nami",
+            "Nunu",
+            "Rakan",
+            "Taliyah",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Gangplank",
+            "Graves",
+            "Nami",
+            "Twisted fate"
+        ],
+        [
+            "Corki",
+            "Jarvan IV",
+            "Jayce",
+            "Karthus",
+            "Renekton",
+            "Rengar",
+            "Zoe"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

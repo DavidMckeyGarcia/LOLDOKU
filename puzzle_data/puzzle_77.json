@@ -1,80 +1,121 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
         "Adc",
-        "coven",
-        "global ult"
+        "PROJECT",
+        "OG40"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "100+ games"
+        "slow",
+        "Freljord",
+        "shred"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Miss Fortune",
-            "Nilah"
-        ],
-        [
+            "Aphelios",
             "Ashe",
             "Caitlyn",
-            "Ezreal",
+            "Corki",
+            "Draven",
             "Jhin",
+            "Jinx",
             "Kaisa",
-            "Lucian",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
             "Tristana",
+            "Twitch",
             "Varus",
-            "Xayah"
+            "Zeri",
+            "Ziggs"
         ],
         [
+            "Ashe"
+        ],
+        [
+            "Corki",
+            "Kogmaw"
+        ],
+        [
+            "Akali",
             "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
-        ],
-        [
-            "Nami",
-            "Nilah"
-        ],
-        [
-            "Ashe",
-            "Elise",
-            "Syndra"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
             "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
+            "Fiora",
             "Gangplank",
-            "Twisted fate"
+            "Irelia",
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Mordekaiser",
+            "Pyke",
+            "Sejuani",
+            "Senna",
+            "Sylas",
+            "Varus",
+            "Warwick",
+            "Zed"
         ],
         [
             "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
+            "Sejuani"
+        ],
+        [
+            "Mordekaiser",
+            "Renekton",
+            "Vi"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
             "Ryze",
-            "Shen"
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ]
     ]
 }

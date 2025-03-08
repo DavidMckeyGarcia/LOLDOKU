@@ -1,110 +1,105 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "Season 2-6",
-        "life steal"
+        "Mid",
+        "Season 7+",
+        "empyrean"
     ],
     "cols": [
         "Demacia",
         "stun",
-        "arcane"
+        "0 games"
     ],
     "solutions": [
         [
             "Galio",
+            "Kayle",
+            "Lucian",
             "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Sylas"
         ],
         [
-            "Alistar",
+            "Ambessa",
+            "Anivia",
             "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
+            "Aurelion Sol",
             "Brand",
-            "Braum",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
             "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
             "Neeko",
+            "Orianna",
             "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
+            "Qiyana",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
             "Velkoz",
+            "Viktor",
             "Xerath",
+            "Yone",
             "Zilean"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Naafiri",
+            "Vex"
         ],
         [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
-        ],
-        [
-            "Ekko",
-            "Jayce",
-            "Jinx",
-            "Vi",
-            "Viktor"
-        ],
-        [
-            "Morgana"
+            "Sylas"
         ],
         [
             "Ambessa",
             "Briar",
+            "Camille",
             "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
             "Viego",
-            "Warwick"
+            "Yone"
         ],
         [
+            "Akshan",
             "Ambessa",
-            "Warwick"
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
+        ],
+        [
+            "Kayle",
+            "Lux"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
+            "Zac"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

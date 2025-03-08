@@ -1,117 +1,75 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "pool party",
-        "shield"
+        "Support",
+        "cosmic",
+        "true damage"
     ],
     "cols": [
-        "stun",
-        "Freljord",
-        "100% AP Ratio"
+        "Noxus",
+        "root",
+        "0 games"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Ashe"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Braum",
-            "Fiora",
-            "Heimerdinger",
-            "Leona",
-            "Orianna",
-            "Renekton",
-            "Sett",
-            "Syndra",
-            "Taliyah",
-            "Taric",
-            "Zac"
-        ],
-        [
-            "Braum"
-        ],
-        [
-            "Fiora",
-            "Gangplank"
-        ],
-        [
-            "Ambessa",
+            "Alistar",
             "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
             "Morgana",
             "Nautilus",
             "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
             "Renata glasc",
-            "Riven",
+            "Senna",
             "Seraphine",
-            "Sett",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Mel",
+            "Milio"
+        ],
+        [
             "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
+            "Vladimir"
         ],
         [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Aphelios",
-            "Blitzcrank",
-            "Ekko",
-            "Kaisa",
-            "Karma",
+            "Jhin",
+            "Lissandra",
             "Lux",
-            "Milio",
-            "Neeko",
-            "Nocturne",
+            "Nautilus",
             "Nunu",
-            "Shen",
-            "Sivir",
-            "Skarner",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Viktor",
-            "Volibear"
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Illaoi",
+            "Master yi"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Samira"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Akshan",
+            "Master yi",
+            "Samira"
         ]
     ]
 }

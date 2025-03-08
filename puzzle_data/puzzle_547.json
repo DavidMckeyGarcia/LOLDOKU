@@ -1,97 +1,83 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "Season 2-6",
-        "shield"
+        "Mid",
+        "global ult",
+        "Season 7+"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "vastayan"
+        "knock-up",
+        "Demacia",
+        "ascended"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Galio",
+            "Kayle",
+            "Lucian",
             "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Sylas"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
         ],
         [
-            "Nami",
-            "Neeko",
-            "Rakan"
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
         ],
         [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Galio",
+            "Lux"
         ],
         [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
+            "Pantheon",
+            "Xerath"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
+            "Belveth",
+            "Briar",
             "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
+            "Kayn",
             "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Kled",
-            "Mel",
-            "Mordekaiser",
+            "Ornn",
+            "Rakan",
             "Rell",
-            "Riven",
-            "Sion"
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Neeko",
-            "Rakan"
+            "Sylas"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

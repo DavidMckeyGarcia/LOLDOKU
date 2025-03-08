@@ -1,70 +1,77 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "Space Groove"
+        "Jungle",
+        "global ult",
+        "PROJECT"
     ],
     "cols": [
-        "stun",
         "Zaun",
-        "tether"
+        "fear",
+        "manaless"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Ekko",
             "Jinx",
-            "Twitch",
-            "Zeri",
             "Ziggs"
         ],
         [
-            "Kalista"
-        ],
-        [
-            "Ambessa",
             "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Nocturne",
+            "Vex"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Briar",
+            "Kled",
+            "Shen"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Blitzcrank",
-            "Gragas",
-            "Lissandra",
-            "Nami",
-            "Nunu",
-            "Taric",
-            "Twisted fate"
+            "Warwick"
         ],
         [
-            "Blitzcrank"
-        ],
-        [
-            "Taric"
+            "Akali",
+            "Katarina",
+            "Mordekaiser",
+            "Renekton",
+            "Yasuo",
+            "Zed"
         ]
     ]
 }

@@ -1,93 +1,76 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "true damage"
+        "Mid",
+        "before s7",
+        "life steal"
     ],
     "cols": [
+        "Targon",
         "fear",
-        "Ionia",
-        "manaless"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Briar",
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
+        ],
+        [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Aurelion Sol",
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Aatrox",
+            "Darius",
             "Fiddlesticks",
             "Hecarim",
             "Nocturne",
             "Shaco",
+            "Urgot",
             "Warwick"
         ],
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
+            "Aatrox",
+            "Ahri",
+            "Darius",
             "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ],
         [
-            "Belveth",
+            "Aphelios"
+        ],
+        [
+            "Aatrox",
             "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
-            "Zac"
+            "Warwick"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Hecarim"
-        ],
-        [
-            "Ahri",
-            "Ivern",
-            "Jhin",
-            "Syndra",
-            "Varus",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Kled",
-            "Reksai",
-            "Rengar",
-            "Yasuo",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ivern",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Syndra",
-            "Yone"
-        ],
-        [
-            "Akali",
             "Belveth",
-            "Garen",
-            "Sett",
-            "Yone"
+            "Olaf",
+            "Viego"
         ]
     ]
 }

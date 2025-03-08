@@ -1,44 +1,91 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "arcade",
+        "dash",
         "OG40"
     ],
     "cols": [
+        "Freljord",
         "fear",
-        "The Void",
-        "pentakill"
+        "100+ games"
     ],
     "solutions": [
+        [
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
         [
             "Hwei",
             "Vex"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
-        [
-            "Akali",
+            "Azir",
+            "Elise",
             "Ezreal",
+            "Gragas",
+            "Jayce",
             "Lucian",
+            "Orianna",
             "Ryze",
+            "Syndra",
             "Tristana"
         ],
         [
-            "Hecarim"
+            "Aurora",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Ornn",
+            "Sejuani",
+            "Tryndamere",
+            "Volibear"
         ],
         [
-            "Belveth",
-            "Kaisa",
-            "Malzahar"
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
         ],
         [
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
             "Ezreal",
-            "Kaisa"
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Maokai",
+            "Rakan",
+            "Renekton",
+            "Sejuani",
+            "Shen",
+            "Thresh",
+            "Tristana"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
             "Fiddlesticks",
@@ -46,13 +93,12 @@
             "Warwick"
         ],
         [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
             "Ryze",
-            "Tristana",
-            "Twitch"
+            "Tristana"
         ]
     ]
 }

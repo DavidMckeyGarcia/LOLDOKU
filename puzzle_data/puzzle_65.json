@@ -1,151 +1,89 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "pool party",
-        "dash"
+        "Mid",
+        "before s7",
+        "global ult"
     ],
     "cols": [
-        "root",
-        "Piltover",
-        "never played"
+        "Zaun",
+        "silence",
+        "shred"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Heimerdinger",
-            "Seraphine"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Bard",
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
+        ],
+        [
             "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Janna",
-            "Leona",
-            "Maokai",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Senna",
-            "Sona",
-            "Soraka",
-            "Tahm kench",
-            "Thresh",
-            "Yuumi",
-            "Zyra"
-        ],
-        [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
-        ],
-        [
-            "Caitlyn",
-            "Heimerdinger",
-            "Orianna"
-        ],
-        [
-            "Braum",
             "Dr. Mundo",
-            "Draven",
-            "Fiora",
-            "Graves",
-            "Heimerdinger",
-            "Jarvan IV",
-            "Leona",
-            "Miss Fortune",
-            "Reksai"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Bard",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Graves",
-            "Gwen",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Kindred",
-            "Kled",
-            "Leona",
-            "Lillia",
-            "Malphite",
-            "Maokai",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rammus",
-            "Reksai",
-            "Rell",
-            "Rengar",
-            "Samira",
-            "Sejuani",
-            "Shaco",
-            "Shen",
-            "Shyvana",
-            "Thresh",
-            "Vayne",
+            "Ekko",
+            "Janna",
+            "Jinx",
+            "Orianna",
+            "Singed",
+            "Twitch",
+            "Urgot",
             "Vi",
-            "Viego",
-            "Volibear",
+            "Viktor",
             "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Yuumi",
-            "Zeri"
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Karthus",
+            "Kogmaw",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rengar",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Vi",
+            "Wukong"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Briar",
+            "Karthus",
+            "Sion"
         ]
     ]
 }

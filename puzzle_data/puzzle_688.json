@@ -1,72 +1,102 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "prestige"
+        "Mid",
+        "OG40",
+        "invis"
     ],
     "cols": [
-        "silence",
-        "Targon",
-        "riot records"
+        "Bilgewater",
+        "knock-up",
+        "never played"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Fizz",
+            "Twisted fate"
         ],
         [
-            "Diana",
-            "Pantheon"
-        ],
-        [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
-            "Viego"
-        ],
-        [
-            "Lulu"
-        ],
-        [
+            "Anivia",
             "Aurelion Sol",
-            "Diana"
-        ],
-        [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
-        ],
-        [
-            "Garen",
-            "Lulu",
-            "Soraka"
-        ],
-        [
+            "Azir",
+            "Chogath",
             "Diana",
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Zoe"
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Ahri",
-            "Akali",
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Elise",
+            "Heimerdinger",
+            "Kennen",
+            "Naafiri"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
             "Evelynn",
-            "Ezreal",
-            "Ksante",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Qiyana",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Akshan",
+            "Pyke",
+            "Reksai",
+            "Rengar",
             "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo"
+            "Shaco",
+            "Teemo",
+            "Twitch",
+            "Vayne",
+            "Viego",
+            "Wukong"
         ]
     ]
 }

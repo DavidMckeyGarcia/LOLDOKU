@@ -1,103 +1,67 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "prestige",
-        "ult execute"
+        "Jungle",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
+        "fear",
         "Shadow Isles",
-        "knock-up",
-        "manaless"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Gwen",
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Hecarim",
+            "Karthus",
             "Maokai",
-            "Yorick"
+            "Viego"
         ],
         [
-            "Aatrox",
-            "Chogath",
+            "Elise",
             "Gragas",
+            "Graves",
             "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
+            "Jax",
+            "Lee sin",
+            "Maokai",
             "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Sejuani",
+            "Shen"
         ],
         [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Gwen"
+        ],
+        [
+            "Syndra"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Gwen",
             "Senna",
-            "Thresh"
+            "Vex",
+            "Viego"
         ],
         [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
+            "Kaisa",
             "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Akali",
-            "Garen",
-            "Katarina",
-            "Lee sin",
-            "Sett",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Viego"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Akali",
-            "Garen",
-            "Reksai",
-            "Viego"
+            "Xayah"
         ]
     ]
 }

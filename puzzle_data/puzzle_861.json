@@ -1,64 +1,138 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
         "Top",
-        "global ult",
-        "hextech"
+        "dark star",
+        "true damage"
     ],
     "cols": [
-        "Freljord",
-        "silence",
-        "yordle"
+        "Shurima",
+        "slow",
+        "tether"
     ],
     "solutions": [
         [
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Camille",
+            "Chogath",
+            "Darius",
+            "Dr. Mundo",
+            "Fiora",
+            "Gangplank",
+            "Garen",
             "Gnar",
             "Gragas",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Irelia",
+            "Jarvan IV",
+            "Jayce",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Nasus",
             "Olaf",
             "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Quinn",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Singed",
+            "Sion",
+            "Skarner",
+            "Swain",
+            "Sylas",
+            "Tahm kench",
+            "Teemo",
             "Trundle",
             "Tryndamere",
             "Udyr",
-            "Volibear"
+            "Urgot",
+            "Volibear",
+            "Warwick",
+            "Yorick",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Xerath"
         ],
         [
             "Chogath",
-            "Garen"
+            "Jarvan IV",
+            "Jhin",
+            "Karma",
+            "Khazix",
+            "Lissandra",
+            "Lux",
+            "Malphite",
+            "Mordekaiser",
+            "Orianna",
+            "Shaco",
+            "Thresh",
+            "Varus",
+            "Xerath"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Karma"
         ],
         [
-            "Ashe",
-            "Ornn"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Kled",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Anivia",
-            "Sejuani"
-        ],
-        [
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
+            "Akshan",
             "Amumu",
-            "Poppy",
-            "Tristana",
-            "Ziggs"
+            "Ksante"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Belveth",
+            "Camille",
+            "Chogath",
+            "Corki",
+            "Darius",
+            "Draven",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Ksante",
+            "Kogmaw",
+            "Lillia",
+            "Nunu",
+            "Olaf",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Sett",
+            "Syndra",
+            "Twitch",
+            "Urgot",
+            "Velkoz",
+            "Zoe"
+        ],
+        [
+            "Renata glasc"
         ]
     ]
 }

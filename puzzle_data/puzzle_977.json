@@ -1,80 +1,71 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "dash",
-        "Season 2-6"
+        "Mid",
+        "hextech",
+        "invis"
     ],
     "cols": [
+        "Shurima",
         "root",
-        "Targon",
-        "30+ wins"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
             "Mel",
-            "Senna",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Varus",
-            "Xayah"
+            "Swain"
         ],
         [
-            "Aphelios"
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "Corki"
+            "Amumu",
+            "Rammus",
+            "Renekton"
         ],
         [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
             "Qiyana",
             "Rengar",
-            "Shaco",
-            "Zac"
+            "Senna",
+            "Shaco"
         ],
         [
-            "Aurelion Sol",
-            "Diana",
-            "Leona",
-            "Pantheon"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "Taliyah"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Aurelion Sol",
-            "Diana"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Lissandra",
-            "Taliyah",
-            "Viktor"
+            "Vayne",
+            "Viego"
         ]
     ]
 }

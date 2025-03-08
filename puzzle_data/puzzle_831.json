@@ -1,100 +1,137 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "ult execute",
-        "worlds skin"
+        "Mid",
+        "prestige",
+        "OG40"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "100% AP Ratio"
+        "Ionia",
+        "stun",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
             "Seraphine",
-            "Varus",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Kayn",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kaisa",
+            "Lucian",
+            "Vayne",
             "Xayah"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Chogath",
-            "Evelynn",
-            "Jhin",
-            "Jinx",
-            "Veigar",
-            "Viego"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Gangplank",
-            "Graves",
-            "Nami",
-            "Twisted fate"
+            "Master yi"
         ],
         [
             "Alistar",
-            "Aphelios",
+            "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
-            "Corki",
-            "Ekko",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
+            "Blitzcrank",
+            "Heimerdinger",
             "Jax",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
+            "Morgana",
             "Nunu",
-            "Shen",
-            "Thresh",
+            "Rammus",
+            "Sion",
+            "Taric",
             "Twisted fate",
-            "Viego"
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Ryze",
+            "Tristana",
+            "Twitch"
         ]
     ]
 }

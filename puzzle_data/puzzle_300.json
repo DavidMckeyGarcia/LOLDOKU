@@ -1,116 +1,85 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
+        "Top",
         "OG40",
-        "evolves"
+        "arcade"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "never played"
+        "knock-up",
+        "Shadow Isles",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
+            "Aatrox",
+            "Chogath",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Elise",
-            "Heimerdinger",
-            "Kennen",
-            "Naafiri"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
             "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Gwen",
+            "Maokai",
+            "Yorick"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Ashe",
+            "Anivia",
             "Blitzcrank",
             "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
             "Janna",
             "Malphite",
-            "Morgana",
             "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
+            "Sion"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
             "Teemo",
-            "Twitch",
-            "Warwick"
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Bard",
-            "Viktor"
-        ],
-        [
-            "Gangplank"
-        ],
-        [
-            "Bard",
             "Belveth",
-            "Kayn"
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Corki",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

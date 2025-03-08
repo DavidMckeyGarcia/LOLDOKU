@@ -1,65 +1,83 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "true damage",
-        "Season 2-6"
+        "OG40",
+        "evolves"
     ],
     "cols": [
-        "fear",
-        "Targon",
-        "shred"
+        "Ionia",
+        "knock-up",
+        "ult reset"
     ],
     "solutions": [
         [
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
             "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Pantheon"
-        ],
-        [
-            "Garen",
+            "Chogath",
+            "Gragas",
             "Jarvan IV",
-            "Jayce",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
             "Sion",
+            "Sylas",
+            "Tahm kench",
             "Trundle",
-            "Wukong"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Zoe"
-        ],
-        [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
             "Aatrox",
             "Darius",
-            "Hecarim"
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
         ],
         [
-            "Aurelion Sol",
-            "Diana"
+            "Master yi"
         ],
         [
-            "Jayce",
-            "Rengar",
-            "Vi"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
+        ],
+        [
+            "Kayn"
+        ],
+        [
+            "Belveth",
+            "Kayn"
+        ],
+        [
+            "Belveth",
+            "Viktor"
         ]
     ]
 }

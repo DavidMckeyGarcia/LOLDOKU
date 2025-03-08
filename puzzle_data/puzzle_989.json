@@ -1,90 +1,57 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "Season 2-6",
-        "true damage"
+        "Jungle",
+        "Season 7+",
+        "cosmic"
     ],
     "cols": [
-        "Shadow Isles",
-        "root",
-        "100% AP Ratio"
+        "fear",
+        "The Void",
+        "ascended"
     ],
     "solutions": [
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
-        ],
-        [
+            "Briar",
+            "Fiddlesticks",
             "Hecarim",
-            "Kalista",
-            "Thresh"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Aurelion Sol",
-            "Ekko",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Jhin",
-            "Jinx",
-            "Tahm kench",
-            "Thresh",
-            "Varus",
-            "Vi",
-            "Viktor",
-            "Volibear"
-        ],
-        [
-            "Gwen"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
             "Belveth",
-            "Chogath",
-            "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
-            "Nunu"
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Belveth",
+            "Kaisa"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Belveth",
+            "Kassadin"
+        ],
+        [
+            "Varus"
         ]
     ]
 }

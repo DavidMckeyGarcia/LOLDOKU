@@ -1,71 +1,54 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Adc",
-        "PROJECT",
-        "Season 7+"
+        "Jungle",
+        "arcade",
+        "ult execute"
     ],
     "cols": [
-        "root",
-        "Zaun",
-        "tether"
+        "Bilgewater",
+        "fear",
+        "yordle"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Kalista"
-        ],
-        [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
             "Warwick"
         ],
         [
-            "Sylas"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Miss Fortune"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Hecarim"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Corki",
+            "Veigar",
+            "Ziggs"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Veigar"
         ]
     ]
 }

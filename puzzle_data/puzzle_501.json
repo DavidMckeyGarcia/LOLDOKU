@@ -1,133 +1,73 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
         "Jungle",
-        "global ult",
-        "OG40"
+        "OG40",
+        "blink"
     ],
     "cols": [
-        "The Void",
-        "root",
-        "never played"
+        "silence",
+        "Ionia",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
+            "Fiddlesticks"
         ],
         [
             "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
+        ],
+        [
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
             "Lee sin",
             "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Amumu",
-            "Belveth",
-            "Brand",
-            "Briar",
-            "Dr. Mundo",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Kindred",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Reksai",
-            "Rell",
-            "Rengar",
+            "Rumble",
             "Sejuani",
-            "Shaco",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Zyra"
+            "Shen"
         ],
         [
-            "Kaisa"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Ashe",
-            "Bard",
-            "Briar",
-            "Draven",
-            "Jinx",
-            "Kled",
-            "Lillia",
-            "Maokai",
-            "Senna",
-            "Shen",
-            "Soraka"
-        ],
-        [
+            "Blitzcrank",
             "Chogath",
-            "Kassadin"
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Master yi"
         ],
         [
             "Alistar",
-            "Amumu",
             "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
             "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
+            "Jax",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Kassadin"
+        ],
+        [
+            "Master yi",
+            "Shen",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Ezreal",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

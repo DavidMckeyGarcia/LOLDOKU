@@ -1,106 +1,62 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "evolves",
-        "Season 2-6"
+        "Support",
+        "pool party",
+        "shield"
     ],
     "cols": [
-        "Demacia",
-        "knock-up",
-        "never played"
+        "silence",
+        "Targon",
+        "yordle"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Kalista",
-            "Samira",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Leona",
+            "Taric",
+            "Zoe"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
             "Ziggs"
         ],
         [
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
+        ],
+        [
             "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
-        ],
-        [
-            "Kayle"
-        ],
-        [
-            "Belveth",
-            "Kayn"
-        ],
-        [
-            "Bard",
-            "Belveth",
-            "Kayn"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
             "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Taric"
         ],
         [
-            "Bard",
-            "Braum",
-            "Draven",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Kindred",
             "Kled",
-            "Nami",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Volibear",
-            "Zyra"
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ]
     ]
 }

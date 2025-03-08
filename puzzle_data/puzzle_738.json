@@ -1,97 +1,118 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "PROJECT",
-        "Season 7+"
+        "Season 7+",
+        "PROJECT"
     ],
     "cols": [
-        "knock-up",
-        "Shurima",
-        "100+ games"
+        "root",
+        "Shadow Isles",
+        "never played"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
             "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
+            "Maokai",
+            "Singed",
+            "Swain",
             "Zac"
         ],
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
+            "Gwen",
             "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
+            "Yorick"
         ],
         [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Jax",
-            "Renekton"
-        ],
-        [
-            "Ashe",
-            "Jax",
-            "Jhin",
-            "Leona",
-            "Lucian",
-            "Renekton",
-            "Sejuani",
-            "Varus"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
+            "Chogath",
+            "Dr. Mundo",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
             "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
             "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
         ],
         [
             "Akshan",
-            "Ksante",
-            "Naafiri"
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Senna",
+            "Varus"
+        ],
+        [
+            "Senna"
+        ],
+        [
+            "Ashe",
+            "Fiora",
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Mordekaiser",
+            "Pyke",
+            "Sejuani",
+            "Senna",
+            "Vayne",
+            "Vi",
+            "Warwick"
         ]
     ]
 }

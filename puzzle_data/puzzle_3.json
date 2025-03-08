@@ -1,67 +1,63 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Adc",
-        "evolves",
-        "arcade"
+        "Jungle",
+        "arcade",
+        "shield"
     ],
     "cols": [
-        "Zaun",
-        "stun",
-        "pentakill"
+        "fear",
+        "Demacia",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Tristana",
-            "Twitch",
-            "Vayne",
-            "Xayah"
-        ],
-        [
-            "Viktor"
-        ],
-        [
-            "Bard",
-            "Viktor"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Blitzcrank",
-            "Ziggs"
-        ],
-        [
-            "Blitzcrank",
-            "Brand",
+            "Briar",
+            "Fiddlesticks",
             "Hecarim",
-            "Malzahar",
-            "Qiyana",
-            "Riven",
-            "Sona",
-            "Veigar"
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Ezreal",
-            "Kaisa"
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
+        ],
+        [
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Sona"
+        ],
+        [
+            "Ahri"
+        ],
+        [
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
+        ],
+        [
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Neeko",
+            "Rakan"
         ]
     ]
 }

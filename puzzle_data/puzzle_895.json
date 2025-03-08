@@ -1,80 +1,97 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "Season 2-6",
-        "pool party"
+        "Mid",
+        "global ult",
+        "before s7"
     ],
     "cols": [
-        "root",
-        "Targon",
-        "yordle"
+        "fear",
+        "Ionia",
+        "arcane"
     ],
     "solutions": [
         [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
             "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
-        ],
-        [
+            "Ambessa",
+            "Ekko",
             "Heimerdinger",
-            "Lulu",
-            "Poppy"
+            "Jayce",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
         ],
         [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Briar",
+            "Nocturne",
+            "Vex"
         ],
         [
-            "Aurelion Sol",
-            "Diana"
-        ],
-        [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
+            "Lillia",
+            "Shen"
         ],
         [
             "Caitlyn",
+            "Ekko",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Jhin",
+            "Karma",
+            "Kennen",
             "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
+            "Master yi",
+            "Shen",
+            "Syndra",
+            "Varus",
+            "Wukong",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Leona",
-            "Taric",
-            "Zoe"
-        ],
-        [
+            "Caitlyn",
+            "Ekko",
             "Heimerdinger",
-            "Lulu",
-            "Ziggs"
+            "Janna",
+            "Jayce",
+            "Jinx",
+            "LeBlanc",
+            "Orianna",
+            "Singed",
+            "Vi",
+            "Viktor",
+            "Warwick"
         ]
     ]
 }

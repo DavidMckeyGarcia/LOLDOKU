@@ -1,80 +1,83 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "OG40",
-        "hextech"
+        "dash",
+        "PROJECT"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "yordle"
+        "fear",
+        "Bilgewater",
+        "shred"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
             "Shaco",
-            "Zac",
-            "Zyra"
+            "Warwick"
+        ],
+        [
+            "Graves",
+            "Nautilus"
         ],
         [
             "Briar",
-            "Elise",
-            "Kayn",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
             "Mordekaiser",
+            "Nasus",
+            "Olaf",
             "Rell",
-            "Talon"
-        ],
-        [
-            "Amumu",
-            "Poppy",
+            "Rengar",
             "Rumble",
-            "Teemo"
+            "Trundle",
+            "Vi",
+            "Wukong"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
             "Shaco",
-            "Singed",
-            "Soraka"
+            "Urgot",
+            "Vex",
+            "Warwick"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
+            "Fizz",
+            "Graves",
+            "Illaoi",
+            "Nautilus",
+            "Nilah",
+            "Pyke"
         ],
         [
-            "Amumu",
+            "Briar",
             "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Jarvan IV",
+            "Jayce",
+            "Rell",
+            "Renekton",
+            "Rengar",
+            "Vi",
+            "Wukong"
         ],
         [
-            "Singed",
-            "Swain"
+            "Warwick"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Sion",
-            "Swain"
+            "Gangplank",
+            "Pyke"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Tristana",
-            "Ziggs"
+            "Mordekaiser",
+            "Renekton",
+            "Vi"
         ]
     ]
 }

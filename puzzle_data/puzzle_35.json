@@ -1,64 +1,72 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "true damage",
-        "Space Groove"
+        "Support",
+        "cosmic",
+        "blink"
     ],
     "cols": [
         "root",
-        "Shurima",
-        "30+ wins"
+        "Noxus",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
+            "Karma",
+            "Leona",
+            "Lux",
             "Maokai",
+            "Mel",
             "Morgana",
             "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
         ],
         [
-            "Taliyah"
+            "Swain"
         ],
         [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Ksante"
-        ],
-        [
-            "Ahri",
-            "Corki"
-        ],
-        [
+            "Jhin",
             "Lissandra",
             "Lux",
-            "Nunu"
+            "Nautilus",
+            "Nunu",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Nasus"
+            "Sion",
+            "Vladimir"
         ],
         [
-            "Lissandra"
+            "Belveth",
+            "Master yi"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
+        ],
+        [
+            "Master yi",
+            "Viego"
         ]
     ]
 }

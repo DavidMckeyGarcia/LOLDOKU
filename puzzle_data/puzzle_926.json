@@ -1,55 +1,150 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "global ult",
-        "empyrean"
+        "dash",
+        "dark star"
     ],
     "cols": [
-        "silence",
-        "Zaun",
-        "0 games"
+        "knock-up",
+        "Freljord",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
             "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
             "Ekko",
-            "Orianna",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
             "Viktor",
-            "Ziggs"
+            "Vladimir",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
-        ],
-        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
             "Briar",
-            "Mel",
-            "Vex"
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Malzahar"
+            "Aurora",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Ornn",
+            "Sejuani",
+            "Tryndamere",
+            "Volibear"
         ],
         [
-            "Zac"
+            "Alistar",
+            "Aurelion Sol",
+            "Belveth",
+            "Briar",
+            "Corki",
+            "Ekko",
+            "Fiora",
+            "Fizz",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Kaisa",
+            "Nocturne",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Thresh",
+            "Tristana",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zeri"
         ],
         [
-            "Vex"
+            "Chogath",
+            "Jarvan IV",
+            "Malphite"
+        ],
+        [
+            "Lissandra"
+        ],
+        [
+            "Chogath",
+            "Jhin",
+            "Karma",
+            "Lux",
+            "Thresh",
+            "Varus",
+            "Xerath"
         ]
     ]
 }

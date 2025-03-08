@@ -1,101 +1,76 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Support",
-        "true damage",
-        "OG40"
+        "Jungle",
+        "OG40",
+        "ult execute"
     ],
     "cols": [
-        "stun",
-        "Shadow Isles",
-        "30+ wins"
+        "fear",
+        "Shurima",
+        "shred"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Maokai",
-            "Senna",
-            "Thresh"
-        ],
-        [
-            "Galio"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
             "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Gwen"
-        ],
-        [
-            "Ahri",
-            "Corki"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
             "Jax",
-            "Morgana",
-            "Nunu",
+            "Nasus",
             "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Taliyah"
         ],
         [
-            "Karthus"
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
         ],
         [
             "Corki",
-            "Ryze"
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Evelynn",
+            "Garen"
         ]
     ]
 }

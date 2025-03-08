@@ -1,81 +1,63 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "shield",
-        "OG40"
+        "Mid",
+        "cosmic",
+        "global ult"
     ],
     "cols": [
-        "Targon",
-        "knock-up",
-        "30+ wins"
+        "Ionia",
+        "silence",
+        "tether"
     ],
     "solutions": [
         [
-            "Aphelios"
-        ],
-        [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Corki"
-        ],
-        [
-            "Aphelios",
-            "Diana",
-            "Taric"
-        ],
-        [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Diana",
-            "Galio",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Riven",
-            "Sion",
-            "Tahm kench",
-            "Vi",
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
             "Yasuo",
-            "Yone"
+            "Yone",
+            "Zed"
         ],
         [
-            "Azir",
-            "Galio",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
             "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Corki",
-            "Ryze"
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Jhin",
+            "Master yi",
+            "Rakan",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Illaoi"
+        ],
+        [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Kled",
+            "Nocturne"
         ]
     ]
 }

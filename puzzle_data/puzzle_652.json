@@ -1,74 +1,84 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "empyrean",
-        "dash"
+        "Jungle",
+        "evolves",
+        "hextech"
     ],
     "cols": [
-        "root",
-        "The Void",
-        "darkin"
+        "knock-up",
+        "Demacia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
-        [
-            "Naafiri"
-        ],
-        [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
-        ],
-        [
-            "Malzahar"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Caitlyn",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
             "Ivern",
-            "Ksante",
+            "Jarvan IV",
+            "Kayn",
             "Lee sin",
-            "Leona",
-            "Maokai",
             "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
             "Belveth",
-            "Kaisa",
-            "Khazix",
-            "Reksai"
+            "Master yi",
+            "Olaf",
+            "Viego"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Naafiri"
+            "Belveth",
+            "Kayn"
+        ],
+        [
+            "Kayle"
+        ],
+        [
+            "Belveth",
+            "Viktor"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
+            "Ziggs"
+        ],
+        [
+            "Galio",
+            "Jarvan IV",
+            "Poppy"
+        ],
+        [
+            "Singed",
+            "Swain"
         ]
     ]
 }

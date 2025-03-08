@@ -1,89 +1,67 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 7+",
-        "cosmic"
+        "Support",
+        "hextech",
+        "ult execute"
     ],
     "cols": [
-        "Freljord",
-        "knock-up",
-        "darkin"
+        "root",
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Kayn"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Kayn",
-            "Naafiri"
-        ],
-        [
-            "Anivia",
-            "Lissandra",
-            "Nunu"
-        ],
-        [
-            "Anivia",
-            "Belveth",
-            "Lulu",
-            "Nami",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
             "Nautilus",
-            "Nunu",
-            "Rakan",
-            "Sion",
-            "Xin Zhao"
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Varus"
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Janna",
+            "Singed",
+            "Ziggs"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Jinx",
+            "Urgot"
+        ],
+        [
+            "Veigar"
         ]
     ]
 }

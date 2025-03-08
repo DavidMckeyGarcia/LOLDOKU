@@ -1,65 +1,85 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "Season 2-6",
-        "arcade"
+        "Jungle",
+        "prestige",
+        "OG40"
     ],
     "cols": [
-        "Ionia",
-        "fear",
-        "vastayan"
+        "The Void",
+        "root",
+        "ascended"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Belveth",
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Ahri",
-            "Aurora",
-            "Neeko"
-        ],
-        [
-            "Ahri",
             "Ivern",
-            "Jhin",
-            "Syndra",
-            "Varus",
-            "Yasuo",
-            "Zed"
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Hecarim"
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar"
+            "Chogath",
+            "Kassadin"
         ],
         [
-            "Ahri",
-            "Yasuo"
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Hecarim"
-        ],
-        [
-            "Ahri"
+            "Nasus",
+            "Taric"
         ]
     ]
 }

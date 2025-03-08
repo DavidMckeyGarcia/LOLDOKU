@@ -1,14 +1,14 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
         "Adc",
-        "Season 2-6",
-        "dash"
+        "before s7",
+        "true damage"
     ],
     "cols": [
         "knock-up",
-        "Targon",
-        "ascended"
+        "Ionia",
+        "riot records"
     ],
     "solutions": [
         [
@@ -17,96 +17,114 @@
             "Ziggs"
         ],
         [
-            "Aphelios"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Varus"
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
         ],
         [
             "Aatrox",
+            "Alistar",
+            "Anivia",
             "Aurelion Sol",
             "Azir",
+            "Blitzcrank",
             "Braum",
+            "Chogath",
             "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Kalista",
+            "Lee sin",
             "Lulu",
+            "Malphite",
             "Nami",
             "Nautilus",
+            "Nunu",
+            "Poppy",
             "Reksai",
             "Riven",
             "Sejuani",
+            "Sion",
             "Tahm kench",
             "Taliyah",
+            "Trundle",
             "Velkoz",
             "Vi",
+            "Wukong",
+            "Xin Zhao",
             "Yasuo",
             "Zac",
             "Ziggs",
             "Zyra"
         ],
         [
-            "Aurelion Sol",
-            "Diana"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
+            "Ahri",
+            "Akali",
+            "Irelia",
             "Ivern",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
+            "Jhin",
+            "Karma",
+            "Kennen",
             "Lee sin",
-            "Malphite",
-            "Nautilus",
-            "Ornn",
-            "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Vi",
+            "Master yi",
+            "Shen",
+            "Syndra",
+            "Varus",
             "Wukong",
-            "Xin Zhao",
             "Yasuo",
-            "Yone",
-            "Zac",
-            "Ziggs"
+            "Zed"
         ],
         [
-            "Aurelion Sol",
-            "Diana",
-            "Leona",
-            "Pantheon"
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Evelynn",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Mordekaiser",
+            "Olaf",
+            "Sona",
+            "Yasuo",
+            "Yorick"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Naafiri",
-            "Pantheon",
-            "Renekton"
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Syndra",
+            "Yone"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ksante",
+            "Olaf",
+            "Sett",
+            "Yone"
         ]
     ]
 }

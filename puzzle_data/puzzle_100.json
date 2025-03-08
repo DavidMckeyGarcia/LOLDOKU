@@ -1,72 +1,112 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
         "Adc",
-        "OG40",
+        "Season 7+",
         "hextech"
     ],
     "cols": [
-        "Zaun",
-        "knock-up",
-        "tether"
+        "slow",
+        "Bandle City",
+        "arcane"
     ],
     "solutions": [
         [
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
             "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
             "Twitch",
+            "Varus",
             "Zeri",
             "Ziggs"
         ],
         [
-            "Kalista",
+            "Corki",
+            "Tristana"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
             "Samira",
-            "Ziggs"
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
         ],
         [
-            "Kalista"
+            "Yuumi"
         ],
         [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Ambessa",
+            "Mel"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
-        ],
-        [
-            "Janna",
-            "Singed",
-            "Ziggs"
-        ],
-        [
-            "Alistar",
             "Anivia",
             "Galio",
             "Janna",
             "Jarvan IV",
+            "Kassadin",
+            "Kogmaw",
+            "Nocturne",
             "Poppy",
+            "Rammus",
             "Sejuani",
+            "Singed",
             "Sion",
+            "Swain",
+            "Tristana",
             "Ziggs"
         ],
         [
-            "Malzahar",
-            "Nocturne"
+            "Tristana"
+        ],
+        [
+            "Janna",
+            "Singed"
         ]
     ]
 }

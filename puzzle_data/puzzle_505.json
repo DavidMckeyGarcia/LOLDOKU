@@ -1,60 +1,138 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "Season 2-6",
-        "arcade"
+        "Adc",
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
         "Noxus",
-        "silence",
-        "yordle"
+        "slow",
+        "0 games"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Mel",
+            "Samira"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Samira",
+            "Sion",
+            "Vladimir"
+        ],
+        [
+            "Aatrox",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Morgana",
+            "Nasus",
+            "Nilah",
+            "Olaf",
+            "Samira",
+            "Senna",
+            "Sion",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Vladimir",
+            "Warwick"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Illaoi",
+            "Samira"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
             "Mel",
             "Rell",
-            "Swain"
+            "Samira",
+            "Smolder"
         ],
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
-        ],
-        [
-            "Riven"
-        ],
-        [
-            "Blitzcrank",
-            "Malzahar"
-        ],
-        [
-            "Corki",
-            "Veigar",
-            "Ziggs"
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

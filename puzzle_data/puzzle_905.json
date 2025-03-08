@@ -1,89 +1,144 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "Space Groove",
-        "dash"
+        "Mid",
+        "before s7",
+        "invis"
     ],
     "cols": [
         "root",
-        "Freljord",
-        "tether"
+        "Ixtal",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
+            "Hwei",
             "Karma",
-            "Leona",
+            "LeBlanc",
+            "Lissandra",
             "Lux",
-            "Maokai",
             "Mel",
-            "Morgana",
-            "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Swain"
         ],
         [
-            "Ashe",
-            "Brand",
-            "Braum"
+            "Neeko",
+            "Qiyana"
         ],
         [
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
             "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Lissandra",
             "Lux",
-            "Nunu"
-        ],
-        [
-            "Gragas",
-            "Lissandra",
-            "Nunu"
-        ],
-        [
-            "Taric"
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
         ],
         [
             "Caitlyn",
             "Ivern",
-            "Ksante",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
             "Lee sin",
             "Leona",
-            "Maokai",
+            "Lissandra",
+            "Lux",
+            "Morgana",
             "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Malphite",
+            "Nidalee",
+            "Rengar",
+            "Skarner",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Aurelion Sol",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Gangplank",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "Lux",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Sivir",
+            "Skarner",
+            "Tahm kench",
+            "Thresh",
+            "Tristana",
+            "Twisted fate",
+            "Varus",
+            "Veigar",
+            "Vi",
+            "Viktor",
+            "Vladimir",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xerath",
+            "Xin Zhao",
+            "Zilean"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
             "Qiyana",
             "Rengar",
-            "Shaco",
-            "Zac"
+            "Senna",
+            "Shaco"
         ],
         [
-            "Aurora",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Ornn",
-            "Sejuani",
-            "Tryndamere",
-            "Volibear"
+            "Neeko",
+            "Qiyana",
+            "Rengar"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Nocturne",
-            "Sylas",
-            "Yuumi",
-            "Zac"
+            "Kaisa",
+            "Neeko",
+            "Viego",
+            "Wukong"
         ]
     ]
 }

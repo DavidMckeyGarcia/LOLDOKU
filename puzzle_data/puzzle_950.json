@@ -1,57 +1,169 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "global ult",
-        "OG40"
+        "Jungle",
+        "before s7",
+        "coven"
     ],
     "cols": [
-        "The Void",
-        "silence",
-        "arcane"
+        "Ionia",
+        "stun",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Velkoz"
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
         ],
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Caitlyn",
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
             "Ekko",
-            "Jinx",
-            "Mel"
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Chogath",
-            "Kassadin"
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
         ],
         [
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Jhin",
+            "Karma",
+            "Kennen",
+            "Lee sin",
+            "Master yi",
+            "Shen",
+            "Syndra",
+            "Varus",
+            "Wukong",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
             "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Brand",
+            "Braum",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
+            "Pantheon",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Taric",
+            "Thresh",
+            "Twisted fate",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Veigar",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
+            "Zilean"
         ],
         [
-            "Heimerdinger",
-            "Janna",
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
             "Singed",
-            "Warwick"
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Syndra"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Ahri"
         ]
     ]
 }

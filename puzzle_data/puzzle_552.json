@@ -1,163 +1,72 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "Season 2-6",
-        "Space Groove"
+        "global ult",
+        "hextech"
     ],
     "cols": [
-        "slow",
-        "Zaun",
-        "tether"
+        "The Void",
+        "root",
+        "yordle"
     ],
     "solutions": [
         [
             "Belveth",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Diana",
-            "Dr. Mundo",
-            "Ekko",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gragas",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Karthus",
-            "Kayn",
             "Khazix",
-            "Kindred",
+            "Reksai"
+        ],
+        [
+            "Ivern",
             "Lee sin",
-            "Lillia",
             "Maokai",
-            "Mordekaiser",
             "Morgana",
-            "Nasus",
             "Nautilus",
-            "Nocturne",
             "Nunu",
-            "Olaf",
-            "Pantheon",
-            "Poppy",
             "Qiyana",
-            "Rammus",
-            "Reksai",
             "Rengar",
-            "Rumble",
-            "Sejuani",
-            "Sett",
             "Shaco",
-            "Shen",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Talon",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
             "Zac",
             "Zyra"
         ],
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
+            "Kaisa"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Aurelion Sol",
-            "Azir",
-            "Bard",
-            "Braum",
-            "Darius",
-            "Diana",
-            "Draven",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jayce",
-            "Jhin",
+            "Caitlyn",
             "Jinx",
-            "Kalista",
-            "Khazix",
-            "Kindred",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
             "Kled",
-            "Lissandra",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Quinn",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Varus",
-            "Velkoz",
-            "Viktor",
-            "Volibear",
-            "Zac",
-            "Zed",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
+            "Vex",
             "Ziggs"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kalista",
-            "Kled",
-            "Zac"
+            "Kassadin",
+            "Kogmaw",
+            "Malzahar"
         ],
         [
-            "Gragas",
-            "Lissandra",
-            "Lulu",
-            "Lux",
-            "Nami",
-            "Nasus",
-            "Nunu",
-            "Rumble",
-            "Samira",
-            "Teemo",
-            "Twisted fate"
+            "Singed",
+            "Swain"
         ],
         [
-            "Blitzcrank"
-        ],
-        [
-            "Taric"
+            "Amumu",
+            "Poppy",
+            "Tristana",
+            "Ziggs"
         ]
     ]
 }

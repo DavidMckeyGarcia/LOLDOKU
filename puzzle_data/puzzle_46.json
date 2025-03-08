@@ -1,54 +1,83 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "empyrean",
-        "invis"
+        "Support",
+        "blink",
+        "prestige"
     ],
     "cols": [
-        "fear",
-        "The Void",
-        "pentakill"
+        "Bilgewater",
+        "knock-up",
+        "30+ wins"
     ],
     "solutions": [
         [
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Galio"
+        ],
+        [
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Fizz",
+            "Miss Fortune",
+            "Pyke"
+        ],
+        [
             "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
         ],
         [
-            "Chogath"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Malzahar"
-        ],
-        [
-            "Akali"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Kaisa",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Akali",
-            "Kaisa",
-            "Twitch",
-            "Vayne"
+            "Ahri",
+            "LeBlanc",
+            "Lissandra"
         ]
     ]
 }

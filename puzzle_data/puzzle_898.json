@@ -1,95 +1,68 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "prestige",
-        "OG40"
+        "Top",
+        "empyrean",
+        "Season 7+"
     ],
     "cols": [
-        "Zaun",
+        "Shadow Isles",
         "root",
-        "yordle"
+        "pentakill"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Gwen",
+            "Maokai",
+            "Yorick"
         ],
         [
-            "Karma",
-            "Leona",
-            "Lux",
+            "Ksante",
             "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Jhin",
+            "Ksante",
+            "Lux",
+            "Varus",
+            "Zac"
+        ],
+        [
+            "Akali"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
             "Mel",
-            "Morgana",
-            "Nautilus",
             "Neeko",
             "Renata glasc",
             "Senna",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Xayah"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Jinx",
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
-        ],
-        [
-            "Fizz",
-            "Lulu",
-            "Teemo"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
         ]
     ]
 }

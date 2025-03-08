@@ -1,74 +1,104 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "invis",
-        "OG40"
+        "Mid",
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
-        "Shadow Isles",
-        "root",
-        "riot records"
+        "stun",
+        "Freljord",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
-            "Yasuo",
-            "Yone",
-            "Yorick"
-        ],
-        [
-            "Senna",
-            "Viego"
-        ],
-        [
-            "LeBlanc",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
             "Neeko",
+            "Orianna",
+            "Pantheon",
             "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
             "Akali",
-            "Kaisa",
-            "Qiyana",
-            "Senna",
-            "Viego"
-        ],
-        [
-            "Karthus"
-        ],
-        [
-            "Morgana",
-            "Nunu",
+            "Ezreal",
+            "Lucian",
             "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Tristana"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Olaf",
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Aphelios"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Aurora",
+            "Ornn"
+        ],
+        [
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
         ]
     ]
 }

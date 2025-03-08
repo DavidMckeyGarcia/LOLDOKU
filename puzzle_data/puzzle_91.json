@@ -1,9 +1,9 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "evolves",
-        "prestige"
+        "Adc",
+        "before s7",
+        "invis"
     ],
     "cols": [
         "The Void",
@@ -12,82 +12,110 @@
     ],
     "solutions": [
         [
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
             "Velkoz"
         ],
         [
             "Alistar",
+            "Amumu",
+            "Anivia",
             "Annie",
             "Ashe",
+            "Aurelion Sol",
             "Bard",
             "Blitzcrank",
             "Brand",
             "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Galio"
-        ],
-        [
-            "Belveth",
-            "Kaisa",
-            "Khazix"
-        ],
-        [
-            "Bard",
-            "Viktor"
-        ],
-        [
-            "Viktor"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Brand",
-            "Camille",
             "Cassiopeia",
+            "Ekko",
+            "Elise",
             "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
+            "Ivern",
             "Jax",
-            "Ksante",
+            "Kennen",
             "Leona",
             "Lissandra",
             "Morgana",
-            "Neeko",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
             "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
+            "Poppy",
+            "Rammus",
+            "Renekton",
             "Riven",
-            "Sett",
+            "Sejuani",
+            "Sion",
+            "Skarner",
             "Sona",
-            "Sylas",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Taric",
             "Thresh",
+            "Twisted fate",
+            "Udyr",
+            "Urgot",
             "Vayne",
-            "Volibear"
+            "Veigar",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
+            "Zilean"
         ],
         [
             "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
             "LeBlanc",
-            "Lissandra"
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Kaisa",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

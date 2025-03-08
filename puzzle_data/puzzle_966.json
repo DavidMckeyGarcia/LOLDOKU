@@ -1,93 +1,144 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "ult execute",
-        "Season 2-6"
+        "Adc",
+        "before s7",
+        "cosmic"
     ],
     "cols": [
-        "knock-up",
-        "Noxus",
-        "riot records"
+        "stun",
+        "Demacia",
+        "pentakill"
     ],
     "solutions": [
         [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
+        ],
+        [
             "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
             "Blitzcrank",
+            "Brand",
             "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Lissandra",
+            "Morgana",
             "Nami",
             "Nautilus",
-            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Pantheon",
             "Poppy",
-            "Rakan",
-            "Rell",
+            "Rammus",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Syndra",
             "Tahm kench",
+            "Taliyah",
+            "Taric",
+            "Thresh",
+            "Twisted fate",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Veigar",
             "Velkoz",
-            "Zyra"
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
+            "Zilean"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
-        ],
-        [
-            "Senna",
-            "Sona"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Riven"
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
             "Akali",
-            "Evelynn",
-            "Viego"
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Ryze",
+            "Tristana",
+            "Twitch",
+            "Vayne"
         ],
         [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
             "Nami",
             "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Nunu",
+            "Sion",
+            "Skarner",
+            "Xin Zhao"
         ],
         [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
+            "Lux",
+            "Xin Zhao"
         ],
         [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
+            "Xayah"
         ]
     ]
 }

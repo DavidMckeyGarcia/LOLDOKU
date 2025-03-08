@@ -1,95 +1,105 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
+        "Jungle",
         "OG40",
-        "Space Groove"
+        "blink"
     ],
     "cols": [
-        "Noxus",
-        "silence",
-        "100% AP Ratio"
+        "stun",
+        "Bilgewater",
+        "tether"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Aurelion Sol",
-            "Chogath",
-            "Corki",
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
             "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
             "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
             "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
         ],
         [
             "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
             "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
+            "Heimerdinger",
             "Jax",
-            "Master yi",
+            "Morgana",
             "Nunu",
             "Rammus",
-            "Sivir",
-            "Tristana",
+            "Sion",
+            "Taric",
             "Twisted fate",
             "Veigar",
             "Warwick",
             "Zilean"
         ],
         [
-            "Samira"
-        ],
-        [
-            "Blitzcrank",
-            "Lulu"
-        ],
-        [
-            "Blitzcrank",
-            "Lux",
-            "Nunu",
+            "Gangplank",
             "Twisted fate"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

@@ -1,103 +1,85 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "Season 7+",
-        "hextech"
+        "Support",
+        "OG40",
+        "true damage"
     ],
     "cols": [
-        "fear",
         "Zaun",
-        "never played"
+        "knock-up",
+        "tether"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
-            "Kayn",
-            "Kennen",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Yorick"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
-        ],
-        [
-            "Nocturne"
-        ],
-        [
+            "Blitzcrank",
             "Janna",
-            "Singed",
-            "Ziggs"
+            "Renata glasc"
         ],
         [
             "Alistar",
-            "Amumu",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
             "Janna",
-            "Jarvan IV",
-            "Rammus",
-            "Sejuani"
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
+        ],
+        [
+            "Renata glasc",
+            "Twitch",
+            "Urgot"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Renata glasc"
         ]
     ]
 }

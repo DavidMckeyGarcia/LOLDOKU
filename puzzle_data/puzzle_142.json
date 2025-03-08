@@ -1,77 +1,122 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "global ult",
-        "OG40"
+        "Mid",
+        "Season 7+",
+        "pool party"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "arcane"
+        "Bilgewater",
+        "stun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
+            "Fizz",
+            "Twisted fate"
+        ],
+        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
             "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Kaisa",
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
+        ],
+        [
+            "Gangplank",
+            "Graves",
+            "Miss Fortune"
+        ],
+        [
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
+            "Taric",
             "Zac"
         ],
         [
             "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Ambessa",
-            "Heimerdinger",
-            "Jayce",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Galio",
-            "Lux"
-        ],
-        [
-            "Caitlyn",
-            "Ekko",
-            "Jinx",
-            "Mel"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
+            "Gangplank"
         ]
     ]
 }

@@ -1,72 +1,70 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "invis",
-        "Season 7+"
+        "Adc",
+        "OG40",
+        "global ult"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "tether"
+        "Noxus",
+        "knock-up",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Vayne"
-        ],
-        [
-            "LeBlanc"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
+            "Draven",
             "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Samira",
+            "Smolder"
         ],
         [
-            "Sylas"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
+        ],
+        [
+            "Briar",
+            "Draven",
+            "Kled",
+            "Mel",
+            "Sion"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

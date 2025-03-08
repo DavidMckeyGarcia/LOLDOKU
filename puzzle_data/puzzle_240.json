@@ -1,75 +1,81 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "blink",
-        "Season 2-6"
+        "Top",
+        "Season 7+",
+        "Fright Night"
     ],
     "cols": [
+        "knock-up",
         "Bilgewater",
-        "root",
-        "ult reset"
+        "tether"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Pyke",
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
             "Tahm kench",
-            "Twisted fate"
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Master yi",
-            "Viego"
-        ],
-        [
+            "Gangplank",
             "Illaoi",
-            "Nami",
-            "Nautilus",
             "Tahm kench"
         ],
         [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
+        ],
+        [
+            "Nautilus",
+            "Nunu",
+            "Trundle"
+        ],
+        [
+            "Nautilus",
+            "Pyke"
+        ],
+        [
+            "Renata glasc"
         ]
     ]
 }

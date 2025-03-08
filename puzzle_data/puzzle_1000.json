@@ -1,108 +1,92 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "evolves",
-        "Season 7+"
+        "Adc",
+        "arcade",
+        "before s7"
     ],
     "cols": [
-        "stun",
-        "Ionia",
+        "root",
+        "Piltover",
         "arcane"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Varus",
+            "Xayah"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
+            "Caitlyn",
+            "Ezreal",
+            "Seraphine"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Caitlyn"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
             "Karma",
-            "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Ambessa",
-            "Ekko",
+            "Caitlyn",
+            "Ezreal",
             "Heimerdinger",
             "Jayce",
+            "Orianna"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Heimerdinger",
+            "Janna",
+            "Jayce",
+            "Jinx",
             "LeBlanc",
-            "Mel",
             "Orianna",
-            "Viktor"
-        ],
-        [
-            "Bard",
-            "Viktor"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Viktor"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Mel"
+            "Singed",
+            "Vi",
+            "Viktor",
+            "Warwick"
         ]
     ]
 }

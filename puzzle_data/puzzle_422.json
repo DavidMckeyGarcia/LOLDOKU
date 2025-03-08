@@ -1,76 +1,104 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "shield",
-        "Season 7+"
+        "Support",
+        "arcade",
+        "OG40"
     ],
     "cols": [
-        "Demacia",
-        "fear",
-        "0 games"
+        "stun",
+        "Noxus",
+        "tether"
     ],
     "solutions": [
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Ambessa",
-            "Illaoi"
-        ],
-        [
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Lux",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
             "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
             "Poppy",
-            "Sona"
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
+            "Alistar",
+            "Annie",
             "Mel",
-            "Milio",
-            "Naafiri",
-            "Vex"
+            "Rell",
+            "Swain"
         ],
         [
-            "Sylas"
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
+            "Riven"
+        ],
+        [
+            "Malzahar"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

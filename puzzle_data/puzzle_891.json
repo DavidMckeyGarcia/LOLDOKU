@@ -1,93 +1,66 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "invis",
-        "Season 2-6"
+        "Top",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "The Void",
-        "root",
-        "manaless"
+        "Shurima",
+        "fear",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
-            "Zac"
-        ],
-        [
-            "Kaisa",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Akali",
-            "Reksai",
-            "Rengar",
-            "Viego"
-        ],
-        [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
         ],
         [
             "Aatrox",
-            "Gnar",
-            "Kled",
-            "Reksai",
-            "Rengar",
-            "Yasuo",
-            "Zac",
-            "Zed"
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Kogmaw",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
         ]
     ]
 }

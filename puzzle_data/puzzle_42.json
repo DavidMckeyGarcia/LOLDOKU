@@ -1,96 +1,97 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "Space Groove",
-        "true damage"
+        "Adc",
+        "blink",
+        "before s7"
     ],
     "cols": [
-        "stun",
-        "Bandle City",
-        "shred"
+        "Piltover",
+        "root",
+        "riot records"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
+            "Caitlyn",
+            "Ezreal",
+            "Seraphine"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Varus",
+            "Xayah"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
         ],
         [
-            "Rell"
+            "Ezreal"
         ],
         [
-            "Blitzcrank",
-            "Gragas",
+            "LeBlanc",
             "Lissandra",
-            "Nami",
-            "Nunu",
-            "Taric",
-            "Twisted fate"
+            "Ryze"
         ],
         [
-            "Lulu",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Nasus",
-            "Rumble"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
+            "Ekko",
+            "Ezreal",
+            "Viego",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Corki"
+            "Caitlyn",
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna"
         ],
         [
-            "Corki",
-            "Garen",
-            "Kogmaw",
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Evelynn",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Mordekaiser",
             "Olaf",
-            "Zoe"
+            "Sona",
+            "Yasuo",
+            "Yorick"
         ]
     ]
 }

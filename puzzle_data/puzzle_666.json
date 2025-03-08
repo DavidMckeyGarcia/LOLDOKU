@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "Season 2-6",
-        "global ult"
+        "ult execute",
+        "dark star"
     ],
     "cols": [
         "stun",
-        "Ionia",
-        "shred"
+        "The Void",
+        "riot records"
     ],
     "solutions": [
         [
@@ -41,89 +41,49 @@
             "Zac"
         ],
         [
+            "Chogath"
+        ],
+        [
             "Akali",
-            "Irelia",
+            "Ksante",
+            "Kayle",
             "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
             "Mordekaiser",
-            "Nasus",
             "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
-        ],
-        [
-            "Ahri",
-            "Ivern",
-            "Jhin",
-            "Syndra",
-            "Varus",
+            "Sett",
             "Yasuo",
-            "Zed"
+            "Yone",
+            "Yorick"
         ],
         [
-            "Jayce",
-            "Rengar",
-            "Vi"
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
+            "Chogath",
+            "Reksai"
+        ],
+        [
+            "Akali",
+            "Evelynn",
+            "Viego"
+        ],
+        [
+            "Lissandra",
+            "Orianna",
+            "Thresh",
             "Xerath"
         ],
         [
-            "Lillia",
-            "Shen"
+            "Chogath",
+            "Khazix"
         ],
         [
-            "Briar",
-            "Karthus",
-            "Sion"
+            "Mordekaiser"
         ]
     ]
 }

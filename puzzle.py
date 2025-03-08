@@ -63,7 +63,7 @@ cat2 = {
                   ["elderwood"], ["PROJECT"], ["cosmic"], ["dark star"], ["hextech"],
                   ["Fright Night"], ["empyrean"], ["Space Groove"] ],
 
-    "release date": [["OG40"], ["Season 7+"], ["Season 2-6"]],
+    "release date": [["OG40"], ["Season 7+"], ["before s7"]],
                                                                                                     
 }
 
@@ -300,6 +300,85 @@ def create_puzzle_with_unique_solution():
 
 
 create_multiple_puzzle_json_files(num_puzzles=1000)
+print(diffs.count('iron') /10)
+print(diffs.count('bronze')/10)
+print(diffs.count('silver')/10)
+print(diffs.count('gold')/10)
+print(diffs.count('platinum')/10)
+print(diffs.count('emerald')/10)
+print(diffs.count('diamond')/10)
+print(diffs.count('challenger')/10)
+
+
+
+
+
+'''
+#GENERATES A RANDOM SOLVABLE PUZZLE
+puzzle = create_puzzle()
+grid_solutions = puzzle_solutions(puzzle)
+grid_categories = [sum(dic.values(), []) for dic in puzzle]
+#rows and column headers
+r1,c1 = puzzle[0].values()
+r2,c2 = puzzle[4].values()
+r3,c3 = puzzle[8].values()
+#ROW and COL headers
+rows, cols = [r1[0], r2[0], r3[0]], [c1[0], c2[0], c3[0]]
+difficulty = puzzle_difficulty(grid_solutions)
+
+
+def create_json_file(difficulty, rows, cols, solutions, output_file="puzzle_data.json"):
+    # Get the current working directory where the script is located
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # Join the script directory with the output file name to create the full file path
+    output_path = os.path.join(script_dir, output_file)
+    
+    # Create a dictionary to store both lists
+    game_data = {
+        'difficulty': difficulty,
+        'rows': rows,
+        'cols': cols,
+        'solutions': solutions
+    }
+
+    # Write the dictionary to a JSON file in the same directory as the script
+    with open(output_path, 'w') as json_file:
+        json.dump(game_data, json_file, indent=4)
+
+    print(f"JSON file '{output_path}' has been created successfully!")
+
+
+create_json_file(difficulty, rows, cols, grid_solutions)
+
+
+
+def sol_data(iter):
+    totals = [None]*iter
+    for i in range(iter):
+        xsol = puzzle_solutions(create_puzzle())
+        totals[i] = difficulty(xsol)
+    return totals
+
+
+rank_data = sol_data(365)
+
+rank_order = ['iron', 'bronze', 'silver', 'gold', 'platinum', 'diamond', 'challenger']
+
+# Create a dictionary to map ranks to their order
+rank_order_dict = {rank: index for index, rank in enumerate(rank_order)}
+
+# Sort the data based on the rank order
+sorted_data = sorted(rank_data, key=lambda x: rank_order_dict.get(x, len(rank_order)))
+
+
+
+plt.hist(sorted_data, bins=7, edgecolor='black') 
+plt.title('Distribution of rank')
+plt.xlabel('Difficulty')
+plt.ylabel('Frequency')
+plt.show()
+'''
 
 
 

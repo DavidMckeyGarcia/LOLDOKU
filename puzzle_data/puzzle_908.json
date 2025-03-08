@@ -1,89 +1,67 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "empyrean",
-        "life steal"
+        "Adc",
+        "Season 7+",
+        "elderwood"
     ],
     "cols": [
+        "Shadow Isles",
         "stun",
-        "Ionia",
-        "0 games"
+        "ascended"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
+            "Kalista",
+            "Senna"
+        ],
+        [
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
             "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
             "Neeko",
-            "Pantheon",
-            "Poppy",
+            "Ornn",
             "Pyke",
             "Rell",
             "Renata glasc",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Karma",
-            "Rakan"
-        ],
-        [
-            "Mel",
-            "Milio"
-        ],
-        [
-            "Brand",
-            "Jax",
-            "Ksante",
-            "Malzahar",
-            "Pyke",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Jhin",
-            "Varus",
-            "Zed"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
+            "Sett",
+            "Sylas",
             "Viego",
-            "Warwick"
+            "Yone"
         ],
         [
             "Kayn",
-            "Lee sin"
+            "Naafiri"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Illaoi",
-            "Samira"
+            "Hecarim",
+            "Karthus"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
+        ],
+        [
+            "Azir"
         ]
     ]
 }

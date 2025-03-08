@@ -1,98 +1,89 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "cosmic",
-        "dash"
+        "Support",
+        "coven",
+        "Season 7+"
     ],
     "cols": [
+        "knock-up",
         "Noxus",
-        "root",
-        "ult reset"
+        "riot records"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Jhin",
-            "Lissandra",
-            "Lux",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
             "Nautilus",
-            "Nunu",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Belveth",
-            "Master yi"
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
             "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
+            "Senna",
+            "Sona"
+        ],
+        [
+            "Nami",
+            "Zyra"
+        ],
+        [
+            "Cassiopeia",
+            "Elise",
+            "LeBlanc"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Evelynn"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
             "Ambessa",
             "Briar",
-            "Elise",
             "Kayn",
-            "Kled",
+            "Mel",
             "Rell",
-            "Riven",
             "Samira",
-            "Talon"
+            "Smolder"
         ],
         [
-            "Caitlyn",
-            "Ivern",
+            "Aphelios",
             "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Belveth",
-            "Naafiri",
-            "Vayne",
-            "Vex",
-            "Viego"
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
         ]
     ]
 }

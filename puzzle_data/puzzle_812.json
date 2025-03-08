@@ -1,16 +1,21 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
         "Adc",
-        "global ult",
-        "Season 2-6"
+        "blink",
+        "dark star"
     ],
     "cols": [
+        "knock-up",
         "Noxus",
-        "stun",
-        "riot records"
+        "100% AP Ratio"
     ],
     "solutions": [
+        [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
         [
             "Draven",
             "Mel",
@@ -18,79 +23,54 @@
             "Smolder"
         ],
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
             "Aphelios",
-            "Ezreal",
-            "Kaisa",
-            "Senna"
-        ],
-        [
-            "Briar",
-            "Draven",
-            "Kled",
-            "Mel",
-            "Sion"
-        ],
-        [
             "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Ekko",
-            "Ezreal",
+            "Corki",
+            "Jhin",
+            "Jinx",
             "Kaisa",
-            "Karthus",
-            "Senna"
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
         ],
         [
-            "Darius",
-            "Draven",
-            "Elise",
-            "Kled",
-            "Riven"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
+            "Reksai",
             "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Ahri",
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
+        ],
+        [
             "Ekko",
-            "Yasuo"
+            "Master yi",
+            "Pantheon",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Malphite"
+        ],
+        [
+            "Mordekaiser"
+        ],
+        [
+            "Chogath",
+            "Jhin",
+            "Karma",
+            "Lux",
+            "Thresh",
+            "Varus",
+            "Xerath"
         ]
     ]
 }

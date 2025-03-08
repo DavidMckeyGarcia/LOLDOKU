@@ -1,79 +1,165 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "iron",
     "rows": [
         "Top",
-        "Season 2-6",
-        "global ult"
+        "dash",
+        "before s7"
     ],
     "cols": [
-        "fear",
-        "Targon",
-        "100+ games"
+        "Ionia",
+        "root",
+        "manaless"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Pantheon"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
+            "Ksante",
             "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
             "Renekton",
             "Rumble",
-            "Shen"
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Hecarim"
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Aurelion Sol",
-            "Diana"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Braum",
-            "Elise",
-            "Gnar",
-            "Jayce",
-            "Jhin",
-            "Lucian",
-            "Lulu",
-            "Sejuani",
-            "Syndra",
-            "Thresh",
-            "Varus"
-        ],
-        [
-            "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Aurelion Sol",
-            "Pantheon",
-            "Soraka"
-        ],
-        [
-            "Ashe",
             "Caitlyn",
-            "Ezreal",
-            "Kaisa",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
             "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Gnar",
+            "Kled",
+            "Lee sin",
+            "Reksai",
+            "Renekton",
+            "Rengar",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Tryndamere",
+            "Viego",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Jhin",
+            "Karma",
+            "Kennen",
+            "Lee sin",
+            "Master yi",
+            "Shen",
+            "Syndra",
+            "Varus",
+            "Wukong",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
             "Ryze",
-            "Shen"
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Katarina",
+            "Kennen",
+            "Kled",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Renekton",
+            "Rengar",
+            "Rumble",
+            "Shen",
+            "Shyvana",
+            "Tryndamere",
+            "Vladimir",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ]
     ]
 }

@@ -1,48 +1,110 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "OG40",
-        "life steal"
+        "Jungle",
+        "invis",
+        "OG40"
     ],
     "cols": [
+        "Noxus",
         "slow",
-        "Ionia",
-        "ascended"
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
+        ],
+        [
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Diana",
+            "Dr. Mundo",
+            "Ekko",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gragas",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Karthus",
+            "Kayn",
+            "Khazix",
+            "Kindred",
+            "Lee sin",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nasus",
+            "Nautilus",
+            "Nocturne",
+            "Nunu",
+            "Olaf",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sejuani",
+            "Sett",
+            "Shaco",
+            "Shen",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Talon",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Taliyah"
+        ],
+        [
+            "LeBlanc",
+            "Talon"
+        ],
+        [
+            "Akali",
+            "Aurora",
             "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
+            "Khazix",
+            "Pyke",
+            "Qiyana",
+            "Reksai",
+            "Rengar",
             "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
+            "Shaco",
+            "Talon",
+            "Teemo",
             "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
+            "Viego"
         ],
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
+            "LeBlanc"
         ],
         [
-            "Varus"
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
         ],
         [
             "Anivia",
@@ -78,43 +140,8 @@
             "Zilean"
         ],
         [
-            "Master yi"
-        ],
-        [
-            "Nasus",
-            "Taric"
-        ],
-        [
-            "Aatrox",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Morgana",
-            "Nasus",
-            "Nilah",
-            "Olaf",
-            "Samira",
-            "Senna",
-            "Sion",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Vladimir",
-            "Warwick"
-        ],
-        [
-            "Kayn",
-            "Lee sin"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Nasus"
+            "Corki",
+            "Ryze"
         ]
     ]
 }

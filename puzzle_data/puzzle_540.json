@@ -1,130 +1,91 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "OG40",
-        "true damage"
+        "Support",
+        "true damage",
+        "Space Groove"
     ],
     "cols": [
-        "slow",
-        "Noxus",
+        "Targon",
+        "stun",
         "30+ wins"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Corki"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
+            "Leona",
+            "Pantheon",
             "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
+            "Taric"
         ],
         [
             "Alistar",
             "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Corki",
-            "Ryze"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Belveth",
-            "Camille",
-            "Chogath",
-            "Corki",
-            "Darius",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Ksante",
-            "Kogmaw",
-            "Lillia",
-            "Nunu",
-            "Olaf",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
             "Pyke",
+            "Rell",
             "Renata glasc",
-            "Samira",
-            "Sett",
-            "Syndra",
-            "Twitch",
-            "Urgot",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
             "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Galio"
+        ],
+        [
             "Zoe"
         ],
         [
-            "Darius",
-            "Draven",
-            "Samira"
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
         ],
         [
             "Ahri",
             "Corki"
+        ],
+        [
+            "Taric"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lissandra",
+            "Nami",
+            "Nunu",
+            "Taric",
+            "Twisted fate"
+        ],
+        [
+            "Lissandra"
         ]
     ]
 }

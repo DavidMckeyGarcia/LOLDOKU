@@ -1,69 +1,155 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "OG40",
-        "shield"
+        "Jungle",
+        "life steal",
+        "Space Groove"
     ],
     "cols": [
-        "Bandle City",
-        "silence",
-        "ult reset"
+        "slow",
+        "Zaun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Heimerdinger",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Diana",
+            "Dr. Mundo",
+            "Ekko",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gragas",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Karthus",
+            "Kayn",
+            "Khazix",
+            "Kindred",
+            "Lee sin",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nasus",
+            "Nautilus",
+            "Nocturne",
+            "Nunu",
+            "Olaf",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Reksai",
+            "Rengar",
             "Rumble",
-            "Teemo"
+            "Sejuani",
+            "Sett",
+            "Shaco",
+            "Shen",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Talon",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
         ],
         [
             "Aatrox",
-            "Darius",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Morgana",
+            "Nasus",
+            "Nilah",
             "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
+            "Samira",
+            "Senna",
+            "Sion",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Vladimir",
+            "Warwick"
         ],
         [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Warwick"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Viego",
+            "Vladimir",
+            "Warwick"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
-        ],
-        [
+            "Gragas",
+            "Lissandra",
             "Lulu",
+            "Lux",
+            "Nami",
+            "Nasus",
+            "Nunu",
             "Rumble",
-            "Yuumi"
+            "Samira",
+            "Teemo",
+            "Twisted fate"
+        ],
+        [
+            "Blitzcrank"
         ],
         [
             "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Naafiri",
-            "Olaf",
-            "Sivir",
-            "Vex",
-            "Viktor"
+            "Lux",
+            "Nunu",
+            "Twisted fate"
         ]
     ]
 }

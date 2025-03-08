@@ -1,74 +1,60 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "elderwood",
-        "dash"
+        "Top",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "Shurima",
         "fear",
-        "vastayan"
+        "Shadow Isles",
+        "yordle"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Azir"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Ahri",
-            "Rakan",
-            "Wukong",
-            "Xayah"
-        ],
-        [
             "Aatrox",
-            "Amumu",
-            "Azir",
-            "Jax",
-            "Ksante",
-            "Naafiri",
-            "Rammus",
-            "Renekton",
-            "Taliyah"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
+            "Darius",
             "Urgot",
-            "Vex",
             "Warwick"
         ],
         [
-            "Ahri",
-            "Aurora",
-            "Rakan",
-            "Rengar",
-            "Wukong"
+            "Gwen",
+            "Maokai",
+            "Yorick"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Gwen"
+        ],
+        [
+            "Amumu",
+            "Corki"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

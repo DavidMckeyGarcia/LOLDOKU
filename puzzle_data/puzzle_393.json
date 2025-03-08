@@ -1,117 +1,87 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Jungle",
+        "Mid",
         "invis",
-        "Season 2-6"
+        "hextech"
     ],
     "cols": [
-        "stun",
-        "Freljord",
-        "ult reset"
+        "knock-up",
+        "Noxus",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
+            "Neeko",
             "Sylas",
             "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
         ],
         [
             "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Aurora"
+            "LeBlanc",
+            "Talon"
         ],
         [
-            "Vayne",
-            "Viego"
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
         ],
         [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
             "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
+            "Sion",
+            "Ziggs"
         ],
         [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
+            "Alistar",
+            "Annie",
+            "Sion",
+            "Swain"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
+            "Kogmaw",
+            "Tristana"
         ]
     ]
 }

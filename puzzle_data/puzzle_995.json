@@ -1,128 +1,82 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "platinum",
     "rows": [
         "Jungle",
-        "Season 2-6",
-        "worlds skin"
+        "empyrean",
+        "invis"
     ],
     "cols": [
-        "stun",
-        "The Void",
-        "yordle"
+        "Shadow Isles",
+        "root",
+        "manaless"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
             "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
+        ],
+        [
             "Ivern",
-            "Jax",
+            "Lee sin",
+            "Maokai",
             "Morgana",
             "Nautilus",
             "Nunu",
-            "Pantheon",
-            "Poppy",
             "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
             "Belveth",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
-        ],
-        [
-            "Khazix",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
             "Reksai",
-            "Velkoz"
-        ],
-        [
-            "Gnar",
-            "Kled",
-            "Lulu",
-            "Ziggs"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Bard",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Irelia",
-            "Jax",
-            "Kennen",
-            "Leona",
-            "Nami",
-            "Nunu",
-            "Orianna",
-            "Renekton",
-            "Syndra",
-            "Taliyah",
-            "Thresh",
-            "Twisted fate",
-            "Vayne",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
             "Viego",
             "Zac"
         ],
         [
-            "Kaisa"
+            "Vex"
         ],
         [
-            "Corki",
-            "Gnar",
-            "Kennen"
+            "Jhin",
+            "Ksante",
+            "Lux",
+            "Varus",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Zac",
+            "Zed"
+        ],
+        [
+            "Senna",
+            "Viego"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Akali",
+            "Reksai",
+            "Rengar",
+            "Viego"
         ]
     ]
 }

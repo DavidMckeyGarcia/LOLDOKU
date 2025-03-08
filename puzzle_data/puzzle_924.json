@@ -1,72 +1,110 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "hextech",
-        "Season 2-6"
+        "Mid",
+        "shield",
+        "OG40"
     ],
     "cols": [
         "Shurima",
-        "root",
-        "arcane"
+        "fear",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Ambessa",
-            "Heimerdinger",
-            "Jayce",
-            "Singed",
-            "Warwick"
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Ksante",
+            "Naafiri",
+            "Sivir"
+        ],
+        [
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
+        ],
+        [
+            "Aphelios",
+            "Blitzcrank",
+            "Ekko",
+            "Kaisa",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Nocturne",
+            "Nunu",
+            "Shen",
+            "Sivir",
+            "Skarner",
+            "Tahm kench",
+            "Thresh",
+            "Vi",
+            "Viktor",
+            "Volibear"
         ],
         [
             "Amumu",
+            "Jax",
+            "Nasus",
             "Rammus",
-            "Renekton"
+            "Sivir",
+            "Zilean"
         ],
         [
-            "Singed",
-            "Swain"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Janna",
-            "Singed"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Taliyah"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Ekko",
-            "Jayce",
-            "Jinx",
-            "Vi",
-            "Viktor"
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ]
     ]
 }

@@ -1,16 +1,23 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "blink",
-        "OG40"
+        "prestige",
+        "life steal"
     ],
     "cols": [
+        "Demacia",
         "root",
-        "Shadow Isles",
-        "0 games"
+        "ult reset"
     ],
     "solutions": [
+        [
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
         [
             "Hwei",
             "Karma",
@@ -25,41 +32,66 @@
             "Swain"
         ],
         [
-            "Karthus",
-            "Vex"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Mel",
+            "Ahri",
             "Naafiri",
-            "Vex"
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Viego"
-        ],
-        [
-            "Ambessa",
-            "Master yi"
-        ],
-        [
+            "Fiora",
+            "Garen",
+            "Kayle",
+            "Lucian",
+            "Lux",
             "Morgana",
-            "Nunu",
-            "Ryze",
+            "Sona",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
             "Shaco",
-            "Singed",
-            "Soraka"
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
         ],
         [
-            "Karthus"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Sivir",
+            "Swain",
+            "Vayne"
         ],
         [
-            "Master yi"
+            "Morgana"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Olaf",
+            "Viego"
         ]
     ]
 }

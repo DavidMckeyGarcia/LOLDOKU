@@ -1,67 +1,122 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "global ult",
-        "OG40"
+        "Top",
+        "arcade",
+        "before s7"
     ],
     "cols": [
-        "Zaun",
-        "fear",
-        "ascended"
+        "The Void",
+        "knock-up",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
+            "Chogath"
+        ],
+        [
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
             "Zac"
         ],
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
         ],
         [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
+            "Belveth",
+            "Kaisa",
+            "Malzahar"
         ],
         [
-            "Ekko",
-            "Jinx",
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
             "Ziggs"
         ],
         [
-            "Briar",
-            "Nocturne",
-            "Vex"
+            "Ahri",
+            "Belveth"
         ],
         [
-            "Pantheon",
-            "Xerath"
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
         ],
         [
+            "Aatrox",
+            "Alistar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
             "Blitzcrank",
-            "Dr. Mundo",
+            "Braum",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
             "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
             "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Nasus",
-            "Taric"
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ]
     ]
 }

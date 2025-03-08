@@ -1,136 +1,86 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "Season 2-6",
-        "prestige"
+        "OG40",
+        "PROJECT"
     ],
     "cols": [
-        "stun",
-        "Freljord",
-        "ult reset"
+        "root",
+        "Shurima",
+        "riot records"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
             "Lissandra",
-            "Malzahar",
+            "Lux",
+            "Mel",
             "Neeko",
-            "Orianna",
-            "Pantheon",
             "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Sylas",
-            "Syndra",
+            "Swain"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Naafiri",
             "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
             "Xerath",
-            "Yone",
             "Zilean"
         ],
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
             "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
+            "Akali",
             "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Hecarim",
-            "Ivern",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Riven",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Zac"
-        ],
-        [
-            "Braum",
-            "Gnar",
-            "Kindred",
-            "Lissandra",
-            "Sejuani",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
             "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Brand",
-            "Kindred",
-            "Lissandra",
-            "Volibear"
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
             "Sivir",
-            "Swain",
-            "Vayne"
+            "Zilean"
+        ],
+        [
+            "Evelynn",
+            "Karthus",
+            "Kayle"
+        ],
+        [
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Senna",
+            "Varus"
+        ],
+        [
+            "Jax",
+            "Renekton"
+        ],
+        [
+            "Akali",
+            "Ekko",
+            "Mordekaiser",
+            "Senna",
+            "Yasuo"
         ]
     ]
 }

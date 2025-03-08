@@ -1,99 +1,70 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "true damage",
-        "elderwood"
+        "Jungle",
+        "Season 7+",
+        "true damage"
     ],
     "cols": [
         "Freljord",
-        "stun",
-        "shred"
+        "fear",
+        "0 games"
     ],
     "solutions": [
         [
-            "Anivia",
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Briar",
+            "Master yi"
+        ],
+        [
             "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Ornn"
         ],
         [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Akshan",
             "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Corki",
-            "Jayce",
-            "Karthus",
-            "Zoe"
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ],
         [
             "Nunu",
             "Olaf"
         ],
         [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
-        ],
-        [
-            "Gnar"
-        ],
-        [
-            "Bard",
-            "Gnar",
-            "Hecarim",
-            "Veigar"
-        ],
-        [
-            "Karthus",
-            "Wukong"
+            "Akshan",
+            "Master yi",
+            "Samira"
         ]
     ]
 }

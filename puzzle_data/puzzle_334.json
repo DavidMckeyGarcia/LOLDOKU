@@ -1,97 +1,114 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "invis",
-        "hextech"
+        "Jungle",
+        "ult execute",
+        "OG40"
     ],
     "cols": [
-        "Freljord",
-        "slow",
-        "yordle"
+        "Zaun",
+        "stun",
+        "riot records"
     ],
     "solutions": [
         [
-            "Ashe"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Aurora"
-        ],
-        [
-            "Akali",
-            "Aurora",
-            "Kaisa",
-            "Khazix",
-            "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
-        ],
-        [
-            "Teemo"
-        ],
-        [
-            "Anivia",
-            "Sejuani"
-        ],
-        [
-            "Anivia",
-            "Galio",
-            "Janna",
-            "Jarvan IV",
-            "Kassadin",
-            "Kogmaw",
-            "Nocturne",
-            "Poppy",
-            "Rammus",
-            "Sejuani",
-            "Singed",
-            "Sion",
-            "Swain",
-            "Tristana",
-            "Ziggs"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
             "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
             "Poppy",
-            "Tristana",
-            "Ziggs"
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
+            "Sett",
+            "Viego"
+        ],
+        [
+            "Jinx",
+            "Urgot"
+        ],
+        [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Evelynn",
+            "Viego"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Evelynn",
+            "Karthus",
+            "Kayle"
         ]
     ]
 }

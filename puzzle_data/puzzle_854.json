@@ -1,74 +1,67 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "Season 7+",
-        "dash"
+        "Jungle",
+        "arcade",
+        "global ult"
     ],
     "cols": [
-        "Piltover",
-        "fear",
-        "ult reset"
+        "silence",
+        "Freljord",
+        "manaless"
     ],
     "solutions": [
         [
-            "Camille",
-            "Heimerdinger",
-            "Jayce"
+            "Fiddlesticks"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Darius",
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
             "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Camille",
-            "Seraphine"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
             "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce"
-        ],
-        [
-            "Aatrox",
             "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
         ],
         [
-            "Aatrox",
-            "Ahri",
+            "Blitzcrank",
+            "Malzahar"
+        ],
+        [
+            "Brand"
+        ],
+        [
             "Belveth",
-            "Naafiri",
-            "Vayne",
-            "Vex",
-            "Viego"
+            "Yasuo"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Briar",
+            "Kled",
+            "Shen"
         ]
     ]
 }

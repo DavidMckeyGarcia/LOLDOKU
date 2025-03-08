@@ -1,88 +1,98 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Mid",
-        "PROJECT",
-        "Season 2-6"
+        "Top",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "manaless"
+        "knock-up",
+        "Freljord",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
             "Yasuo",
             "Yone",
-            "Zed"
+            "Zac"
         ],
         [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Akali",
-            "Katarina",
-            "Mordekaiser",
-            "Renekton",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
             "Aatrox",
-            "Gnar",
-            "Kled",
-            "Reksai",
-            "Rengar",
-            "Yasuo",
-            "Zac",
-            "Zed"
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Nunu",
+            "Olaf"
+        ],
+        [
+            "Ahri",
+            "Belveth",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Vayne"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Aurora",
+            "Ornn"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
         ]
     ]
 }

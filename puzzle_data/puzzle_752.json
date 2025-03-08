@@ -1,72 +1,103 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "PROJECT",
-        "Season 2-6"
+        "Top",
+        "Season 7+",
+        "true damage"
     ],
     "cols": [
         "root",
-        "Bilgewater",
-        "ascended"
+        "Ionia",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
+        ],
+        [
             "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Hwei",
+            "Ksante",
             "Mel",
+            "Neeko",
+            "Renata glasc",
             "Senna",
             "Seraphine",
-            "Varus",
             "Xayah"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
         ],
         [
-            "Varus"
-        ],
-        [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Leona",
-            "Renekton",
-            "Varus"
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Kaisa",
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
         ],
         [
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
+            "Ahri",
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Syndra",
+            "Yone"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Varus"
+            "Belveth",
+            "Chogath",
+            "Corki",
+            "Fiora",
+            "Gangplank",
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

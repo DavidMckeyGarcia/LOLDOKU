@@ -1,22 +1,16 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "elderwood",
-        "ult execute"
+        "dash",
+        "Season 7+"
     ],
     "cols": [
-        "The Void",
         "root",
-        "pentakill"
+        "Ionia",
+        "tether"
     ],
     "solutions": [
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
         [
             "Hwei",
             "Karma",
@@ -31,34 +25,84 @@
             "Swain"
         ],
         [
+            "Ahri",
             "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Reksai"
-        ],
-        [
+            "Karma",
             "LeBlanc",
-            "Xayah"
+            "Malzahar",
+            "Sylas"
         ],
         [
-            "Xayah"
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
         ],
         [
-            "Chogath",
-            "Reksai"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
+            "Ahri",
             "Akali",
-            "Darius",
-            "Jinx"
+            "Irelia",
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Nocturne",
+            "Sylas",
+            "Yuumi",
+            "Zac"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ]
     ]
 }

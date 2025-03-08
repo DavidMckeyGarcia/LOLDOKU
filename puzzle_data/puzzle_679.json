@@ -1,78 +1,88 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "hextech",
-        "shield"
+        "Jungle",
+        "Season 7+",
+        "elderwood"
     ],
     "cols": [
-        "root",
-        "Bandle City",
-        "yordle"
+        "Shurima",
+        "knock-up",
+        "tether"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
             "Zac"
         ],
         [
-            "Heimerdinger",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Tristana"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
+            "Akshan",
             "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Naafiri"
         ],
         [
-            "Lulu",
-            "Rumble",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Renata glasc",
+            "Sylas",
             "Yuumi"
         ],
         [
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Vex"
+            "Azir"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

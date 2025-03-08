@@ -1,72 +1,89 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "ult execute",
-        "Season 2-6"
+        "Mid",
+        "dark star",
+        "invis"
     ],
     "cols": [
-        "Shurima",
-        "knock-up",
-        "shred"
+        "root",
+        "Demacia",
+        "never played"
     ],
     "solutions": [
         [
-            "Sivir"
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Corki",
-            "Kogmaw"
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Elise",
+            "Heimerdinger",
+            "Kennen",
+            "Naafiri"
         ],
         [
-            "Akshan"
+            "Jhin",
+            "Karma",
+            "Lissandra",
+            "Lux",
+            "Shaco",
+            "Varus"
+        ],
+        [
+            "Jarvan IV",
+            "Lux"
         ],
         [
             "Chogath",
-            "Reksai",
-            "Riven"
+            "Jarvan IV",
+            "Jhin",
+            "Malphite",
+            "Mordekaiser",
+            "Shaco",
+            "Thresh"
         ],
         [
-            "Evelynn",
-            "Garen"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Taliyah"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
-            "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
-            "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Jayce",
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
             "Rengar",
-            "Vi"
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Vayne"
+        ],
+        [
+            "Akshan",
+            "Pyke",
+            "Reksai",
+            "Rengar",
+            "Senna",
+            "Shaco",
+            "Teemo",
+            "Twitch",
+            "Vayne",
+            "Viego",
+            "Wukong"
         ]
     ]
 }

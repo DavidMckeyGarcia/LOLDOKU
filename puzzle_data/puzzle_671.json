@@ -1,64 +1,115 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "global ult",
-        "OG40"
+        "Jungle",
+        "Season 7+",
+        "elderwood"
     ],
     "cols": [
-        "Zaun",
-        "silence",
-        "ascended"
+        "knock-up",
+        "Freljord",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Aurora",
+            "Ornn"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Kaisa",
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
         ],
         [
             "Azir",
-            "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
+            "Rakan",
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
+            "Gnar"
         ],
         [
-            "Soraka"
-        ],
-        [
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Nasus",
-            "Taric"
+            "Gnar",
+            "Hecarim",
+            "Veigar",
+            "Wukong"
         ]
     ]
 }

@@ -1,41 +1,40 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Jungle",
+        "Support",
         "Season 7+",
-        "arcade"
+        "ult execute"
     ],
     "cols": [
         "root",
-        "Ixtal",
-        "ult reset"
+        "Shadow Isles",
+        "riot records"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
+            "Karma",
+            "Leona",
+            "Lux",
             "Maokai",
+            "Mel",
             "Morgana",
             "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
         ],
         [
-            "Nidalee",
-            "Qiyana",
-            "Rengar",
-            "Skarner",
-            "Zyra"
+            "Maokai",
+            "Senna",
+            "Thresh"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
+            "Senna",
+            "Sona"
         ],
         [
             "Aphelios",
@@ -49,25 +48,32 @@
             "Xayah"
         ],
         [
-            "Milio",
-            "Neeko"
-        ],
-        [
-            "Belveth",
-            "Naafiri",
+            "Gwen",
+            "Senna",
             "Vex",
             "Viego"
         ],
         [
-            "Caitlyn",
-            "Qiyana"
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
         ],
         [
-            "Qiyana"
+            "Jhin",
+            "Jinx"
         ],
         [
-            "Ahri",
-            "Belveth"
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Evelynn",
+            "Viego"
         ]
     ]
 }

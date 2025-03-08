@@ -1,38 +1,36 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
+        "Mid",
         "dash",
-        "Season 7+"
+        "OG40"
     ],
     "cols": [
+        "Ixtal",
         "fear",
-        "Ionia",
-        "arcane"
+        "pentakill"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Neeko",
+            "Qiyana"
         ],
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Ekko",
-            "Vi",
-            "Warwick"
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Malphite",
+            "Nidalee",
+            "Qiyana",
+            "Rengar"
         ],
         [
             "Aatrox",
@@ -45,45 +43,26 @@
             "Warwick"
         ],
         [
-            "Ahri",
             "Akali",
-            "Irelia",
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
+            "Ezreal",
+            "Fiora",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Vayne"
         ],
         [
-            "Ambessa",
-            "Caitlyn",
-            "Ekko",
-            "Jayce",
-            "Vi",
+            "Malphite"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
             "Warwick"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Mel"
+            "Ryze",
+            "Tristana",
+            "Twitch"
         ]
     ]
 }

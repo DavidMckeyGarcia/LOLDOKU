@@ -1,40 +1,42 @@
 {
-    "difficulty": "silver",
+    "difficulty": "challenger",
     "rows": [
         "Mid",
-        "OG40",
-        "shield"
+        "blink",
+        "OG40"
     ],
     "cols": [
-        "Demacia",
         "silence",
-        "never played"
+        "Zaun",
+        "ascended"
     ],
     "solutions": [
-        [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
         [
             "Chogath",
             "Kassadin",
             "Malzahar"
         ],
         [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Elise",
-            "Heimerdinger",
-            "Kennen",
-            "Naafiri"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Kassadin"
+        ],
+        [
+            "Ekko"
+        ],
+        [
+            "Pantheon"
         ],
         [
             "Blitzcrank",
@@ -44,73 +46,16 @@
             "Soraka"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Ashe",
             "Blitzcrank",
-            "Chogath",
             "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
             "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
+            "Singed",
             "Twitch",
             "Warwick"
         ],
         [
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Blitzcrank",
-            "Braum",
-            "Garen",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kled",
-            "Malphite",
-            "Milio",
-            "Mordekaiser",
-            "Morgana",
-            "Naafiri",
-            "Nilah",
-            "Nunu",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Senna",
-            "Shen",
-            "Sivir",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Thresh",
-            "Udyr",
-            "Vi",
-            "Volibear",
-            "Yuumi"
+            "Nasus",
+            "Taric"
         ]
     ]
 }

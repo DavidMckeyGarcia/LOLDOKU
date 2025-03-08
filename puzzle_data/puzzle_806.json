@@ -1,60 +1,73 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "arcade"
+        "Adc",
+        "life steal",
+        "OG40"
     ],
     "cols": [
-        "Ixtal",
-        "fear",
-        "100+ games"
+        "root",
+        "Freljord",
+        "shred"
     ],
     "solutions": [
         [
-            "Neeko",
-            "Qiyana"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Azir",
-            "Elise",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
-        ],
-        [
-            "Milio",
-            "Neeko"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Kaisa",
-            "Rakan",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
             "Xayah"
         ],
         [
-            "Qiyana"
+            "Ashe"
         ],
         [
-            "Hecarim"
+            "Corki",
+            "Kogmaw"
         ],
         [
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa"
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Olaf",
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Briar",
+            "Nasus",
+            "Olaf",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ]
     ]
 }

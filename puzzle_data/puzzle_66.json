@@ -1,85 +1,105 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "empyrean",
-        "Season 7+"
+        "Support",
+        "before s7",
+        "prestige"
     ],
     "cols": [
-        "Freljord",
+        "Ixtal",
         "root",
-        "100% AP Ratio"
+        "celestial"
     ],
     "solutions": [
         [
-            "Ashe"
+            "Milio",
+            "Neeko",
+            "Zyra"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Jhin",
-            "Ksante",
+            "Karma",
+            "Leona",
             "Lux",
-            "Varus",
-            "Zac"
-        ],
-        [
-            "Jax",
-            "Jhin",
-            "Lux",
-            "Nocturne",
-            "Varus"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
+            "Maokai",
             "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
             "Renata glasc",
             "Senna",
             "Seraphine",
-            "Xayah"
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
+            "Bard",
+            "Soraka"
+        ],
+        [
+            "Malphite",
+            "Nidalee",
+            "Rengar",
+            "Skarner",
+            "Zyra"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Soraka"
+        ],
+        [
+            "Malphite",
             "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Qiyana",
+            "Zyra"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Soraka"
         ]
     ]
 }

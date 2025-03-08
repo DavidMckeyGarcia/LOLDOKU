@@ -1,84 +1,60 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "Season 2-6",
-        "global ult"
+        "Mid",
+        "ult execute",
+        "dark star"
     ],
     "cols": [
-        "root",
-        "Zaun",
-        "ult reset"
+        "fear",
+        "Noxus",
+        "shred"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Viktor",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
-        ],
-        [
+            "Hwei",
             "Vex"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Evelynn",
+            "Garen"
+        ],
+        [
+            "Shaco"
+        ],
+        [
+            "Mordekaiser"
+        ],
+        [
+            "Jarvan IV",
+            "Mordekaiser"
         ]
     ]
 }

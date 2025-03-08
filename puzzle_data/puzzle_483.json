@@ -1,16 +1,24 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
         "Jungle",
-        "coven",
-        "true damage"
+        "Space Groove",
+        "OG40"
     ],
     "cols": [
-        "root",
         "Noxus",
-        "tether"
+        "root",
+        "100+ games"
     ],
     "solutions": [
+        [
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
+        ],
         [
             "Ivern",
             "Lee sin",
@@ -25,48 +33,51 @@
             "Zyra"
         ],
         [
-            "Briar",
             "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Morgana",
-            "Zyra"
-        ],
-        [
-            "Cassiopeia",
-            "Elise",
-            "LeBlanc"
-        ],
-        [
-            "LeBlanc",
-            "Morgana"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Darius",
-            "Draven",
             "Samira"
         ],
         [
-            "Renata glasc"
+            "Lissandra",
+            "Lux",
+            "Nunu"
+        ],
+        [
+            "Gragas",
+            "Lulu",
+            "Rumble"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

@@ -1,81 +1,114 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "OG40",
-        "global ult"
+        "Adc",
+        "dash",
+        "Season 7+"
     ],
     "cols": [
+        "stun",
         "Bilgewater",
-        "knock-up",
-        "tether"
+        "vastayan"
     ],
     "solutions": [
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Miss Fortune",
+            "Nilah"
+        ],
+        [
+            "Xayah"
         ],
         [
             "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
+            "Ambessa",
+            "Amumu",
             "Aurelion Sol",
+            "Bard",
+            "Braum",
             "Briar",
-            "Galio",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Nautilus",
             "Ornn",
-            "Sion",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
             "Taliyah",
-            "Ziggs"
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
         ],
         [
-            "Kled",
-            "Nocturne"
+            "Fizz",
+            "Graves",
+            "Illaoi",
+            "Nautilus",
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Ahri",
+            "Aurora",
+            "Rakan",
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Aurora",
+            "Neeko",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

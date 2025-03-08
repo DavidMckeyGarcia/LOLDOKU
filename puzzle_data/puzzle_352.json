@@ -1,89 +1,50 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "life steal",
-        "Season 7+"
+        "Support",
+        "ult execute",
+        "arcade"
     ],
     "cols": [
-        "Demacia",
-        "knock-up",
-        "pentakill"
+        "silence",
+        "The Void",
+        "shred"
     ],
     "solutions": [
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Aatrox",
+            "Velkoz"
+        ],
+        [
+            "Rell"
+        ],
+        [
             "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Garen"
         ],
         [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
+            "Chogath",
+            "Reksai"
         ],
         [
-            "Morgana"
+            "Evelynn",
+            "Garen"
         ],
         [
-            "Aatrox",
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
-            "Sylas"
+            "Blitzcrank",
+            "Malzahar"
         ],
         [
             "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Aphelios",
             "Kaisa",
-            "Xayah"
+            "Malzahar"
+        ],
+        [
+            "Corki"
         ]
     ]
 }

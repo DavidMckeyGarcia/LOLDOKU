@@ -1,14 +1,14 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
         "Support",
-        "life steal",
-        "pool party"
+        "prestige",
+        "shield"
     ],
     "cols": [
         "root",
-        "Demacia",
-        "riot records"
+        "Noxus",
+        "ascended"
     ],
     "solutions": [
         [
@@ -28,47 +28,86 @@
             "Zyra"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
         ],
         [
-            "Senna",
-            "Sona"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Morgana"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Kayn",
-            "Olaf",
-            "Senna",
-            "Viego"
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
             "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
             "Lee sin",
             "Leona",
-            "Singed",
-            "Zac"
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
         ],
         [
-            "Fiora",
-            "Jarvan IV"
+            "Cassiopeia",
+            "Darius",
+            "Katarina",
+            "Kayn",
+            "LeBlanc",
+            "Riven",
+            "Swain"
         ],
         [
-            "Sett"
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Kled",
+            "Mel",
+            "Mordekaiser",
+            "Rell",
+            "Riven",
+            "Sion"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Taric"
         ]
     ]
 }

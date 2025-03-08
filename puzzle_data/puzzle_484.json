@@ -1,90 +1,122 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "blink",
+        "true damage",
         "Season 7+"
     ],
     "cols": [
-        "Piltover",
-        "knock-up",
-        "100+ games"
+        "Shadow Isles",
+        "stun",
+        "shred"
     ],
     "solutions": [
         [
-            "Camille"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
         ],
         [
-            "Belveth",
+            "Amumu",
+            "Brand",
             "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
+            "Camille",
+            "Ekko",
             "Elise",
             "Gragas",
-            "Graves",
-            "Jarvan IV",
+            "Hecarim",
+            "Ivern",
             "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
             "Sejuani",
-            "Shen"
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Ezreal"
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
         ],
         [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
+            "Gwen"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
             "Yone"
         ],
         [
-            "Ezreal",
-            "Ryze",
-            "Shen"
+            "Corki",
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
         ],
         [
-            "Camille",
-            "Seraphine"
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
         ],
         [
-            "Belveth",
+            "Ambessa",
             "Briar",
+            "Camille",
             "Ksante",
-            "Kayn",
+            "Milio",
             "Neeko",
             "Ornn",
-            "Rakan",
+            "Pyke",
             "Rell",
-            "Samira",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
             "Sylas",
+            "Viego",
             "Yone"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Briar",
+            "Rell",
+            "Zoe"
         ]
     ]
 }

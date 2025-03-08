@@ -1,14 +1,14 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "hextech",
-        "ult execute"
+        "true damage",
+        "before s7"
     ],
     "cols": [
         "knock-up",
-        "Shurima",
-        "ult reset"
+        "Bandle City",
+        "30+ wins"
     ],
     "solutions": [
         [
@@ -29,51 +29,102 @@
             "Ziggs"
         ],
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
         ],
         [
             "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
             "Viktor"
         ],
         [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Ahri",
+            "Corki"
+        ],
+        [
+            "Aatrox",
             "Alistar",
             "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Chogath",
+            "Diana",
+            "Fizz",
             "Galio",
+            "Gragas",
+            "Ivern",
             "Janna",
             "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
+            "Nunu",
             "Poppy",
+            "Reksai",
+            "Riven",
             "Sejuani",
             "Sion",
-            "Ziggs"
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Amumu",
-            "Rammus",
-            "Renekton"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Lulu",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Akshan"
-        ],
-        [
-            "Darius",
-            "Viego"
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ]
     ]
 }

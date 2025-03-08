@@ -1,108 +1,109 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
         "Support",
-        "Season 7+",
-        "blink"
+        "cosmic",
+        "invis"
     ],
     "cols": [
-        "Bilgewater",
-        "stun",
-        "100+ games"
+        "slow",
+        "Bandle City",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Alistar",
-            "Annie",
             "Ashe",
             "Bard",
-            "Blitzcrank",
             "Brand",
             "Braum",
+            "Galio",
             "Heimerdinger",
+            "Janna",
+            "Karma",
             "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
+            "Mel",
             "Milio",
             "Morgana",
             "Nami",
             "Nautilus",
-            "Neeko",
             "Pantheon",
             "Poppy",
             "Pyke",
-            "Rell",
+            "Rakan",
             "Renata glasc",
+            "Senna",
             "Seraphine",
             "Sona",
+            "Soraka",
+            "Swain",
             "Tahm kench",
-            "Taric",
             "Thresh",
             "Velkoz",
             "Xerath",
-            "Zilean"
+            "Yuumi",
+            "Zilean",
+            "Zyra"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Braum",
-            "Janna",
-            "Leona",
+            "Heimerdinger",
             "Lulu",
-            "Maokai",
-            "Rakan",
-            "Thresh"
+            "Yuumi"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Swain"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
-        ],
-        [
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
+            "Anivia",
+            "Belveth",
+            "Hecarim",
+            "Illaoi",
+            "Jhin",
+            "Kassadin",
             "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Yone"
+            "Lulu",
+            "Lux",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Skarner",
+            "Varus",
+            "Vladimir",
+            "Xin Zhao"
         ],
         [
-            "Ezreal",
-            "Ryze",
-            "Shen"
+            "Lulu"
+        ],
+        [
+            "Belveth",
+            "Master yi"
+        ],
+        [
+            "Akali",
+            "Aurora",
+            "Kaisa",
+            "Khazix",
+            "Pyke",
+            "Qiyana",
+            "Reksai",
+            "Rengar",
+            "Senna",
+            "Shaco",
+            "Talon",
+            "Teemo",
+            "Twitch",
+            "Viego"
+        ],
+        [
+            "Teemo"
+        ],
+        [
+            "Vayne",
+            "Viego"
         ]
     ]
 }

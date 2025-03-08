@@ -1,14 +1,14 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
         "Support",
-        "global ult",
-        "OG40"
+        "dark star",
+        "true damage"
     ],
     "cols": [
         "The Void",
-        "stun",
-        "ascended"
+        "knock-up",
+        "never played"
     ],
     "solutions": [
         [
@@ -16,85 +16,98 @@
         ],
         [
             "Alistar",
-            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Alistar",
             "Ashe",
             "Bard",
             "Blitzcrank",
             "Brand",
             "Braum",
             "Heimerdinger",
+            "Janna",
             "Leona",
+            "Maokai",
             "Milio",
             "Morgana",
             "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
             "Pyke",
+            "Rakan",
             "Rell",
             "Renata glasc",
-            "Seraphine",
+            "Senna",
             "Sona",
+            "Soraka",
             "Tahm kench",
-            "Taric",
             "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Pantheon",
-            "Xerath"
+            "Yuumi",
+            "Zyra"
         ],
         [
             "Chogath",
-            "Kassadin"
+            "Khazix"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
+            "Chogath",
+            "Jarvan IV",
+            "Malphite"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Jhin",
+            "Malphite",
+            "Mordekaiser",
+            "Shaco",
+            "Thresh"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Kogmaw",
+            "Velkoz"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
             "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Samira",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Nasus",
-            "Taric"
+            "Akshan",
+            "Amumu",
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

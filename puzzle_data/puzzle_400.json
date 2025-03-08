@@ -1,99 +1,143 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "ult execute",
-        "Season 2-6"
+        "Jungle",
+        "OG40",
+        "blink"
     ],
     "cols": [
-        "Demacia",
+        "Noxus",
         "knock-up",
-        "ult reset"
+        "never played"
     ],
     "solutions": [
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
+            "Briar",
+            "Elise",
             "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Mordekaiser",
+            "Rell",
+            "Talon"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Garen"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Darius",
-            "Viego"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Quinn"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
-            "Azir",
-            "Braum",
+            "Belveth",
+            "Briar",
             "Diana",
+            "Gragas",
             "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
             "Nautilus",
+            "Nunu",
+            "Poppy",
             "Reksai",
-            "Riven",
+            "Rell",
             "Sejuani",
-            "Tahm kench",
+            "Sylas",
             "Taliyah",
-            "Velkoz",
+            "Trundle",
             "Vi",
-            "Yasuo",
+            "Wukong",
+            "Xin Zhao",
             "Zac",
-            "Ziggs",
             "Zyra"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Viktor"
+            "Amumu",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Dr. Mundo",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Kindred",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Reksai",
+            "Rell",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Pyke",
+            "Reksai",
+            "Shen",
+            "Tahm kench",
+            "Viego"
         ]
     ]
 }

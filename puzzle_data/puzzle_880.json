@@ -1,53 +1,96 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "arcade",
-        "Season 2-6"
+        "Top",
+        "life steal",
+        "elderwood"
     ],
     "cols": [
-        "silence",
-        "The Void",
-        "ult reset"
+        "Ionia",
+        "stun",
+        "ascended"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Velkoz"
-        ],
-        [
-            "Swain"
-        ],
-        [
-            "Blitzcrank",
-            "Malzahar"
-        ],
-        [
-            "Belveth",
-            "Kaisa",
-            "Malzahar"
-        ],
-        [
-            "Ahri",
-            "Belveth"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
             "Aatrox",
+            "Kayn",
+            "Nasus",
+            "Pantheon",
+            "Renekton"
+        ],
+        [
+            "Kayn",
+            "Lee sin"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus"
+        ],
+        [
             "Ahri",
-            "Darius",
-            "Viktor"
+            "Rakan",
+            "Wukong",
+            "Xayah"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
+        ],
+        [
+            "Azir"
         ]
     ]
 }

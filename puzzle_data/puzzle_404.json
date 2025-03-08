@@ -1,58 +1,85 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "life steal",
-        "Season 7+"
+        "Adc",
+        "Season 7+",
+        "blink"
     ],
     "cols": [
-        "fear",
-        "Demacia",
-        "darkin"
+        "Noxus",
+        "root",
+        "riot records"
     ],
     "solutions": [
         [
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Ambessa",
             "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Warwick"
-        ],
-        [
-            "Morgana"
-        ],
-        [
-            "Aatrox",
-            "Kayn"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Sylas"
-        ],
-        [
             "Kayn",
-            "Naafiri"
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Ekko",
+            "Ezreal",
+            "Viego",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

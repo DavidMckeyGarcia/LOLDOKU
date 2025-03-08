@@ -510,12 +510,12 @@ function updateHeaders(puzzleData) {
             tooltipImage = 'images/tooltips/og40.png';
             break;
         case "season 7+":
-            tooltipTitle = 'SEASON 7+';
+            tooltipTitle = 'RELEASED AFTER SEASON 7';
             tooltipContent = "Champions that were relased in season 7 or above. This includes around one thrird of League of Legends current champion roster!";
             break;
-        case "season 2-6":
-            tooltipTitle = 'SEASON 2-6';
-            tooltipContent = "Champions that were relased between the start of season 2 and the end of season 6. This includes around one thrird of League of Legends current champion roster!";
+        case "before s7":
+            tooltipTitle = 'RELEASED BEFORE SEASON 7';
+            tooltipContent = "Champions that were relased between before season 7. This includes around two thrird of League of Legends current champion roster!";
             break;
         default:
             tooltipTitle = rows[index];
@@ -548,32 +548,36 @@ function updateHeaders(puzzleData) {
         
         switch(rank.toLowerCase()) {
           case 'iron':
-            tooltipTitle = 'Iron Difficulty';
+            tooltipTitle = 'IRON';
             tooltipContent = 'Very easy puzzle difficulty. Each square has many possible solutions.';
             break;
           case 'bronze':
-            tooltipTitle = 'Bronze Difficulty';
+            tooltipTitle = 'BRONZE';
             tooltipContent = 'Easy puzzle difficulty. Most squares have many possible solutions.';
             break;
           case 'silver':
-            tooltipTitle = 'Silver Difficulty';
+            tooltipTitle = 'SILVER';
             tooltipContent = 'Moderate difficulty with some challenging combinations.';
             break;
           case 'gold':
-            tooltipTitle = 'Gold Difficulty';
+            tooltipTitle = 'GOLD';
             tooltipContent = 'Challenging puzzle requiring some good game knowledge.';
             break;
           case 'platinum':
-            tooltipTitle = 'Platinum Difficulty';
+            tooltipTitle = 'PLATINUM';
             tooltipContent = 'Difficult puzzle with some challenging squares.';
             break;
+          case 'emerald':
+            tooltipTitle = 'EMERALD';
+            tooltipContent = 'Very difficult puzzle for players with some challenging squares.';
+            break;
           case 'diamond':
-            tooltipTitle = 'Diamond Difficulty';
-            tooltipContent = 'Very difficult puzzle for players with extensive League knowledge.';
+            tooltipTitle = 'DIAMOND';
+            tooltipContent = 'Very difficult puzzle which requires extensive League knowledge.';
             break;
           case 'challenger':
-            tooltipTitle = 'Challenger Difficulty';
-            tooltipContent = 'Most squares have only a few correct awnser! The most difficult puzzle category. ';
+            tooltipTitle = 'CHALLENGER';
+            tooltipContent = 'The most difficult puzzle category. Good luck!';
             break;
         }
         

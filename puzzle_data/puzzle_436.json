@@ -1,95 +1,73 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "Season 2-6",
-        "prestige"
+        "Adc",
+        "global ult",
+        "Season 7+"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "vastayan"
+        "knock-up",
+        "Ionia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Nami",
-            "Neeko",
-            "Rakan"
-        ],
-        [
-            "Ivern",
             "Jhin",
-            "Jinx",
-            "Lissandra",
-            "Nautilus",
-            "Rengar",
             "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Illaoi",
-            "Nami",
-            "Nautilus",
-            "Tahm kench"
-        ],
-        [
-            "Ahri",
-            "Nami",
-            "Rengar"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
-        ],
-        [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
-        ],
-        [
-            "Ahri",
-            "Neeko",
-            "Rakan",
             "Xayah"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
         ]
     ]
 }

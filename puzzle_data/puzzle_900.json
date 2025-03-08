@@ -1,101 +1,115 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "true damage",
-        "hextech"
+        "before s7",
+        "global ult"
     ],
     "cols": [
-        "silence",
-        "Demacia",
-        "never played"
+        "Ionia",
+        "root",
+        "arcane"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
+            "Akali",
+            "Irelia",
             "Kayn",
             "Kennen",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
+            "Sett",
             "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
             "Wukong",
-            "Yorick"
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Vayne"
+            "Ambessa",
+            "Heimerdinger",
+            "Jayce",
+            "Singed",
+            "Warwick"
         ],
         [
-            "Akshan",
-            "Amumu",
-            "Belveth",
-            "Chogath",
-            "Draven",
-            "Fiora",
-            "Garen",
-            "Gwen",
+            "Ahri",
+            "Akali",
+            "Irelia",
             "Ivern",
-            "Lillia",
+            "Jhin",
+            "Karma",
+            "Kennen",
+            "Lee sin",
+            "Master yi",
+            "Shen",
+            "Syndra",
+            "Varus",
+            "Wukong",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
             "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Twitch",
-            "Vayne"
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Galio",
-            "Jarvan IV",
-            "Poppy"
-        ],
-        [
-            "Alistar",
-            "Amumu",
+            "Caitlyn",
+            "Ekko",
+            "Heimerdinger",
             "Janna",
-            "Jarvan IV",
-            "Rammus",
-            "Sejuani"
+            "Jayce",
+            "Jinx",
+            "LeBlanc",
+            "Orianna",
+            "Singed",
+            "Vi",
+            "Viktor",
+            "Warwick"
+        ],
+        [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Jinx",
+            "Mel"
         ]
     ]
 }

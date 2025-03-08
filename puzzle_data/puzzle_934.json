@@ -1,60 +1,72 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "global ult",
-        "Season 2-6"
+        "Adc",
+        "dark star",
+        "evolves"
     ],
     "cols": [
-        "silence",
+        "stun",
         "The Void",
-        "riot records"
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Lissandra",
+            "Orianna",
+            "Thresh",
+            "Xerath"
+        ],
+        [
+            "Chogath",
+            "Khazix"
+        ],
+        [
+            "Chogath",
+            "Jhin",
+            "Karma",
+            "Lux",
+            "Thresh",
+            "Varus",
+            "Xerath"
+        ],
+        [
+            "Bard",
+            "Viktor"
         ],
         [
             "Belveth",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
-            "Viego"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Ekko",
-            "Ezreal",
             "Kaisa",
-            "Karthus",
-            "Senna"
+            "Khazix"
         ],
         [
-            "Lulu"
-        ],
-        [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
-        ],
-        [
-            "Ahri",
-            "Ekko",
-            "Yasuo"
+            "Belveth",
+            "Gangplank",
+            "Kaisa",
+            "Smolder",
+            "Viktor"
         ]
     ]
 }

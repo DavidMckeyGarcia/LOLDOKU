@@ -1,110 +1,73 @@
 {
     "difficulty": "silver",
     "rows": [
-        "Mid",
-        "Fright Night",
-        "Season 7+"
+        "Jungle",
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "Freljord",
-        "stun",
+        "Shadow Isles",
+        "root",
         "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
         ],
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Aurelion Sol",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Nunu",
-            "Trundle"
-        ],
-        [
-            "Annie",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
             "Nautilus",
             "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Urgot",
-            "Veigar"
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Nunu",
-            "Veigar",
-            "Zeri"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Ambessa",
+            "Belveth",
             "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
             "Viego",
-            "Yone"
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
             "Aphelios",
@@ -116,6 +79,24 @@
             "Smolder",
             "Viego",
             "Zeri"
+        ],
+        [
+            "Senna",
+            "Viego"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Kaisa",
+            "Neeko",
+            "Viego",
+            "Wukong"
         ]
     ]
 }

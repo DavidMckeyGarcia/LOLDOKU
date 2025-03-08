@@ -1,48 +1,83 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "shield",
-        "Season 2-6"
+        "Top",
+        "arcade",
+        "true damage"
     ],
     "cols": [
-        "Piltover",
-        "silence",
-        "darkin"
+        "fear",
+        "Ionia",
+        "manaless"
     ],
     "solutions": [
         [
-            "Camille"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Fiddlesticks"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Camille",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Naafiri"
-        ],
-        [
-            "Jayce"
-        ],
-        [
-            "Lulu"
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
             "Aatrox",
-            "Varus"
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Ahri",
+            "Yasuo"
+        ],
+        [
+            "Belveth",
+            "Yasuo"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Syndra",
+            "Yone"
+        ],
+        [
+            "Akali",
+            "Belveth",
+            "Garen",
+            "Sett",
+            "Yone"
         ]
     ]
 }

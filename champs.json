@@ -1,7 +1,7 @@
 {
     "Aatrox": {
         "role": ["Top"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Shurima"],
         "crowd control": ["slow", "fear", "knock-up"],
         "kit": ["dash", "life steal"],
@@ -12,7 +12,7 @@
     },
     "Ahri": {
         "role": ["Mid"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["slow"],
         "kit": ["dash", "true damage"],
@@ -23,7 +23,7 @@
     },
     "Akali": {
         "role": ["Mid", "Top"],
-        "release date": "s2",
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["slow"],
         "kit": ["dash", "true damage", "ult execute", "invis"],
@@ -43,7 +43,7 @@
     },
     "Alistar": {
         "role": ["Support"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Noxus"],
         "crowd control": ["stun", "knock-up"],
         "kit": ["dash"],
@@ -63,7 +63,7 @@
     },
     "Amumu": {
         "role": ["Jungle"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Shurima"],
         "crowd control": ["stun"],
         "kit": ["dash", "true damage"],
@@ -74,7 +74,7 @@
     },
     "Anivia": {
         "role": ["Mid"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun", "knock-up"],
         "kit": [],
@@ -84,7 +84,7 @@
     },
     "Annie": {
         "role": ["Mid", "Support"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Noxus"],
         "crowd control": ["stun"],
         "kit": ["shield"],
@@ -104,7 +104,7 @@
     },
     "Ashe": {
         "role": ["Adc", "Support"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun"],
         "kit": ["global ult"],
@@ -114,7 +114,7 @@
     },
     "Aurelion Sol": {
         "role": ["Mid"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Targon"],
         "crowd control": ["slow", "stun", "knock-up"],
         "kit": ["dash", "global ult"],
@@ -136,7 +136,7 @@
     },
     "Azir": {
         "role": ["Mid"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Shurima"],
         "crowd control": ["slow", "knock-up"],
         "kit": ["dash",  "shield"],
@@ -147,7 +147,7 @@
     },
     "Bard": {
         "role": ["Support"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": [],
         "crowd control": ["slow", "stun"],
         "kit": ["dash", "global ult", "evolves"],
@@ -168,7 +168,7 @@
     },
     "Blitzcrank": {
         "role": ["Support"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Zaun"],
         "crowd control": ["stun", "silence", "knock-up"],
         "kit": ["shield"],
@@ -178,7 +178,7 @@
     },
     "Brand": {
         "role": ["Mid", "Jungle", "Support"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun"],
         "kit": [],
@@ -188,7 +188,7 @@
     },
     "Braum": {
         "role": ["Support"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun", "knock-up"],
         "kit": ["dash", "shield"],
@@ -208,7 +208,7 @@
     },
     "Caitlyn": {
         "role": ["Adc"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Piltover"],
         "crowd control": ["slow", "root"],
         "kit": ["dash", "global ult"],
@@ -228,7 +228,7 @@
     },
     "Cassiopeia": {
         "role": ["Mid"],
-        "release date": "s3",
+        "release date": ["before s7"],
         "region": ["Noxus"],
         "crowd control": ["slow", "stun"],
         "kit": [],
@@ -238,7 +238,7 @@
     },
     "Chogath": {
         "role": ["Top", "Mid"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["The Void"],
         "crowd control": ["slow", "silence", "knock-up"],
         "kit": ["true damage", "ult execute"],
@@ -248,7 +248,7 @@
     },
     "Corki": {
         "role": ["Adc", "Mid"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Bandle City"],
         "crowd control": ["slow"],
         "kit": ["dash", "true damage"],
@@ -259,7 +259,7 @@
     },
     "Darius": {
         "role": ["Top"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Noxus"],
         "crowd control": ["slow", "fear"],
         "kit": ["true damage", "ult execute"],
@@ -269,7 +269,7 @@
     },
     "Diana": {
         "role": ["Mid", "Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Targon"],
         "crowd control": ["slow", "knock-up"],
         "kit": ["dash", "shield"],
@@ -280,7 +280,7 @@
     },
     "Dr. Mundo": {
         "role": ["Top", "Jungle"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Zaun"],
         "crowd control": ["slow"],
         "kit": [],
@@ -290,7 +290,7 @@
     },
     "Draven": {
         "role": ["Adc"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Noxus"],
         "crowd control": ["slow"],
         "kit": ["true damage", "ult execute", "global ult"],
@@ -300,7 +300,7 @@
     },
     "Ekko": {
         "role": ["Mid", "Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Zaun"],
         "crowd control": ["slow", "stun"],
         "kit": ["dash", "shield", "global ult", "blink"],
@@ -310,7 +310,7 @@
     },
     "Elise": {
         "role": ["Jungle", "Mid"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Noxus"],
         "crowd control": ["slow", "stun", "blink"],
         "kit": ["dash"],
@@ -320,7 +320,7 @@
     },
     "Evelynn": {
         "role": ["Jungle"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": [],
         "crowd control": ["slow", "invis"],
         "kit": ["ult execute"],
@@ -330,7 +330,7 @@
     },
     "Ezreal": {
         "role": ["Mid", "Adc"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Piltover"],
         "crowd control": [],
         "kit": ["dash", "global ult", "prestige", "blink"],
@@ -340,7 +340,7 @@
     },
     "Fiddlesticks": {
         "role": ["Jungle"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": [],
         "crowd control": ["slow", "silence", "fear", "blink", "life steal"],
         "kit": [],
@@ -350,7 +350,7 @@
     },
     "Fiora": {
         "role": ["Top"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Demacia"],
         "crowd control": ["slow", "stun"],
         "kit": ["dash", "true damage"],
@@ -360,7 +360,7 @@
     },
     "Fizz": {
         "role": ["Mid"],
-        "release date": "s2",
+        "release date": ["before s7"],
         "region": ["Bilgewater", "Bandle City"],
         "crowd control": ["slow", "knock-up"],
         "kit": ["dash"],
@@ -371,7 +371,7 @@
     },
     "Galio": {
         "role": ["Mid", "Support"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Demacia"],
         "crowd control": ["slow", "knock-up"],
         "kit": ["dash", "shield", "global ult"],
@@ -381,7 +381,7 @@
     },
     "Gangplank": {
         "role": ["Top"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Bilgewater"],
         "crowd control": ["slow"],
         "kit": ["true damage", "global ult", "evolves"],
@@ -391,7 +391,7 @@
     },
     "Garen": {
         "role": ["Top"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Demacia"],
         "crowd control": ["slow", "silence"],
         "kit": ["true damage", "shield", "ult execute"],
@@ -401,7 +401,7 @@
     },
     "Gnar": {
         "role": ["Top"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun"],
         "kit": ["dash"],
@@ -412,7 +412,7 @@
     },
     "Gragas": {
         "role": ["Top", "Jungle", "Mid"],
-        "release date": "s3",
+        "release date": ["before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun", "knock-up"],
         "kit": ["dash"],
@@ -422,7 +422,7 @@
     },
     "Graves": {
         "role": ["Jungle"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Bilgewater"],
         "crowd control": ["slow"],
         "kit": ["dash"],
@@ -442,7 +442,7 @@
     },
     "Hecarim": {
         "role": ["Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Shadow Isles"],
         "crowd control": ["slow", "stun", "fear"],
         "kit": ["dash"],
@@ -452,7 +452,7 @@
     },
     "Heimerdinger": {
         "role": ["Mid", "Top", "Support"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Piltover", "Bandle City"],
         "crowd control": ["stun", "slow"],
         "kit": [],
@@ -473,7 +473,7 @@
     },
     "Illaoi": {
         "role": ["Top"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Bilgewater"],
         "crowd control": ["slow"],
         "kit": ["dash", "life steal"],
@@ -483,7 +483,7 @@
     },
     "Irelia": {
         "role": ["Top", "Mid"],
-        "release date": "s2",
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["slow", "stun"],
         "kit": ["dash", "prestige"],
@@ -493,7 +493,7 @@
     },
     "Ivern": {
         "role": ["Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["slow", "stun", "root", "knock-up"],
         "kit": ["dash", "true damage", "shield"],
@@ -503,7 +503,7 @@
     },
     "Janna": {
         "role": ["Support"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Zaun"],
         "crowd control": ["slow", "knock-up"],
         "kit": ["shield"],
@@ -513,7 +513,7 @@
     },
     "Jarvan IV": {
         "role": ["Jungle", "Top"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Demacia"],
         "crowd control": ["slow", "knock-up"],
         "kit": ["dash", "shield"],
@@ -523,7 +523,7 @@
     },
     "Jax": {
         "role": ["Jungle", "Top"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Shurima"],
         "crowd control": ["stun"],
         "kit": ["dash"],
@@ -533,7 +533,7 @@
     },
     "Jayce": {
         "role": ["Mid", "Top"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Piltover"],
         "crowd control": ["slow"],
         "kit": ["dash"],
@@ -543,7 +543,7 @@
     },
     "Jhin": {
         "role": ["Adc"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["slow", "root"],
         "kit": ["ult execute"],
@@ -553,7 +553,7 @@
     },
     "Jinx": {
         "role": ["Adc"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Zaun"],
         "crowd control": ["slow", "root"],
         "kit": ["ult execute", "global ult"],
@@ -583,7 +583,7 @@
     },
     "Kalista": {
         "role": ["Adc"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Shadow Isles"],
         "crowd control": ["slow", "knock-up"],
         "kit": [],
@@ -593,7 +593,7 @@
     },
     "Karma": {
         "role": ["Support", "Mid"],
-        "release date": "s3",
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["slow", "root"],
         "kit": ["shield"],
@@ -603,7 +603,7 @@
     },
     "Karthus": {
         "role": ["Mid", "Jungle"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Shadow Isles"],
         "crowd control": ["slow"],
         "kit": ["global ult"],
@@ -613,7 +613,7 @@
     },
     "Kassadin": {
         "role": ["Mid"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["The Void"],
         "crowd control": ["slow", "silence"],
         "kit": ["blink", "shield"],
@@ -623,7 +623,7 @@
     },
     "Katarina": {
         "role": ["Mid"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Noxus"],
         "crowd control": [],
         "kit": ["blink"],
@@ -633,7 +633,7 @@
     },
     "Kayle": {
         "role": ["Top", "Mid"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Demacia"],
         "crowd control": ["slow"],
         "kit": ["evolves"],
@@ -654,7 +654,7 @@
     },
     "Kennen": {
         "role": ["Top", "Mid"],
-        "release date": "s2",
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["stun"],
         "kit": [],
@@ -665,7 +665,7 @@
     },
     "Khazix": {
         "role": ["Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["The Void"],
         "crowd control": ["slow"],
         "kit": ["dash", "evolves", "invis"],
@@ -675,7 +675,7 @@
     },
     "Kindred": {
         "role": ["Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow"],
         "kit": ["dash"],
@@ -685,7 +685,7 @@
     },
     "Kled": {
         "role": ["Top"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Noxus"],
         "crowd control": ["slow"],
         "kit": ["dash", "shield", "global ult"],
@@ -696,7 +696,7 @@
     },
     "Kogmaw": {
         "role": ["Adc"],
-        "release date": "s3",
+        "release date": ["before s7"],
         "region": ["The Void"],
         "crowd control": ["slow"],
         "kit": ["true damage"],
@@ -706,7 +706,7 @@
     },
     "LeBlanc": {
         "role": ["Mid"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Noxus"],
         "crowd control": ["root"],
         "kit": ["invis", "blink"],
@@ -716,7 +716,7 @@
     },
     "Lee sin": {
         "role": ["Jungle"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["slow", "root", "knock-up"],
         "kit": ["dash", "shield", "life steal"],
@@ -726,7 +726,7 @@
     },
     "Leona": {
         "role": ["Support"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Targon"],
         "crowd control": ["slow", "stun", "root"],
         "kit": ["dash"],
@@ -747,7 +747,7 @@
     },
     "Lissandra": {
         "role": ["Mid"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun", "root"],
         "kit": ["blink"],
@@ -757,7 +757,7 @@
     },
     "Lucian": {
         "role": ["Adc", "Mid"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Demacia"],
         "crowd control": [],
         "kit": ["dash"],
@@ -767,7 +767,7 @@
     },
     "Lulu": {
         "role": ["Support"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Bandle City"],
         "crowd control": ["slow", "knock-up", "silence"],
         "kit": ["shield"],
@@ -778,7 +778,7 @@
     },
     "Lux": {
         "role": ["Mid", "Support"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Demacia"],
         "crowd control": ["slow", "root"],
         "kit": ["shield", "global ult"],
@@ -788,7 +788,7 @@
     },
     "Malphite": {
         "role": ["Top"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Ixtal"],
         "crowd control": ["slow", "knock-up"],
         "kit": ["dash", "shield"],
@@ -818,7 +818,7 @@
     },
     "Master yi": {
         "role": ["Jungle"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Ionia"],
         "crowd control": [],
         "kit": ["true damage", "blink"],
@@ -848,7 +848,7 @@
     },
     "Miss Fortune": {
         "role": ["Adc"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Bilgewater"],
         "crowd control": ["slow"],
         "kit": [],
@@ -858,7 +858,7 @@
     },
     "Mordekaiser": {
         "role": ["Top", "Jungle"],
-        "release date": "s2",
+        "release date": ["before s7"],
         "region": ["Noxus"],
         "crowd control": ["slow"],
         "kit": ["shield"],
@@ -868,7 +868,7 @@
     },
     "Morgana": {
         "role": ["Jungle", "Support"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Demacia"],
         "crowd control": ["slow", "stun", "root"],
         "kit": ["shield", "life steal"],
@@ -889,7 +889,7 @@
     },
     "Nami": {
         "role": ["Support"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Bilgewater"],
         "crowd control": ["slow", "stun", "knock-up"],
         "kit": [],
@@ -900,7 +900,7 @@
     },
     "Nasus": {
         "role": ["Top", "Jungle"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Shurima"],
         "crowd control": ["slow"],
         "kit": ["life steal"],
@@ -911,7 +911,7 @@
     },
     "Nautilus": {
         "role": ["Support", "Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Bilgewater"],
         "crowd control": ["slow", "stun", "root", "knock-up"],
         "kit": ["dash", "shield"],
@@ -932,7 +932,7 @@
     },
     "Nidalee": {
         "role": ["Jungle"],
-        "release date": "s3",
+        "release date": ["before s7"],
         "region": ["Ixtal"],
         "crowd control": [],
         "kit": ["dash"],
@@ -952,7 +952,7 @@
     },
     "Nocturne": {
         "role": ["Jungle"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": [],
         "crowd control": ["slow", "fear"],
         "kit": ["dash", "global ult", "shield"],
@@ -962,7 +962,7 @@
     },
     "Nunu": {
         "role": ["Jungle"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun", "root", "knock-up"],
         "kit": ["true damage", "shield"],
@@ -972,7 +972,7 @@
     },
     "Olaf": {
         "role": ["Top", "Jungle"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow"],
         "kit": ["true damage", "worlds skin", "life steal", "shield"],
@@ -982,7 +982,7 @@
     },
     "Orianna": {
         "role": ["Mid"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Piltover", "Zaun"],
         "crowd control": ["slow", "stun"],
         "kit": ["shield"],
@@ -1002,7 +1002,7 @@
     },
     "Pantheon": {
         "role": ["Top", "Support", "Jungle", "Mid"],
-        "release date": "s5",
+        "release date": ["before s7"],
         "region": ["Targon"],
         "crowd control": ["slow", "stun"],
         "kit": ["dash", "global ult", "blink"],
@@ -1013,7 +1013,7 @@
     },
     "Poppy": {
         "role": ["Top", "Support", "Jungle"],
-        "release date": "s5",
+        "release date": ["before s7"],
         "region": ["Demacia"],
         "crowd control": ["slow", "stun", "knock-up"],
         "kit": ["dash", "shield"],
@@ -1044,7 +1044,7 @@
     },
     "Quinn": {
         "role": ["Top"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Demacia"],
         "crowd control": ["slow"],
         "kit": ["dash"],
@@ -1065,7 +1065,7 @@
     },
     "Rammus": {
         "role": ["Jungle"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Shurima"],
         "crowd control": ["slow", "stun"],
         "kit": ["dash"],
@@ -1075,7 +1075,7 @@
     },
     "Reksai": {
         "role": ["Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["The Void"],
         "crowd control": ["slow", "knock-up"],
         "kit": ["dash", "ult execute", "invis", "blink"],
@@ -1105,7 +1105,7 @@
     },
     "Renekton": {
         "role": ["Top"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Shurima"],
         "crowd control": ["stun"],
         "kit": ["dash"],
@@ -1116,7 +1116,7 @@
     },
     "Rengar": {
         "role": ["Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Ixtal"],
         "crowd control": ["slow", "root"],
         "kit": ["dash", "invis"],
@@ -1127,7 +1127,7 @@
     },
     "Riven": {
         "role": ["Top"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Noxus"],
         "crowd control": ["stun", "knock-up"],
         "kit": ["dash", "shield", "ult execute"],
@@ -1137,7 +1137,7 @@
     },
     "Rumble": {
         "role": ["Top", "Jungle"],
-        "release date": "s2",
+        "release date": ["before s7"],
         "region": ["Bandle City"],
         "crowd control": ["slow"],
         "kit": ["shield"],
@@ -1148,7 +1148,7 @@
     },
     "Ryze": {
         "role": ["Mid"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": [],
         "crowd control": ["slow", "root"],
         "kit": ["global ult", "blink"],
@@ -1168,7 +1168,7 @@
     },
     "Sejuani": {
         "role": ["Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun", "knock-up"],
         "kit": ["dash"],
@@ -1208,7 +1208,7 @@
     },
     "Shaco": {
         "role": ["Jungle"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": [],
         "crowd control": ["slow", "root", "fear"],
         "kit": ["dash", "invis"],
@@ -1218,7 +1218,7 @@
     },
     "Shen": {
         "role": ["Top", "Jungle"],
-        "release date": "s2",
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["slow"],
         "kit": ["dash", "shield", "global ult", "blink"],
@@ -1228,7 +1228,7 @@
     },
     "Shyvana": {
         "role": ["Jungle"],
-        "release date": "s2",
+        "release date": ["before s7"],
         "region": ["Demacia"],
         "crowd control": [],
         "kit": ["dash"],
@@ -1238,7 +1238,7 @@
     },
     "Singed": {
         "role": ["Top"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Zaun"],
         "crowd control": ["slow", "root"],
         "kit": [],
@@ -1248,7 +1248,7 @@
     },
     "Sion": {
         "role": ["Top"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Noxus"],
         "crowd control": ["slow", "stun", "knock-up"],
         "kit": ["shield", "global ult", "high noon", "life steal"],
@@ -1258,7 +1258,7 @@
     },
     "Sivir": {
         "role": ["Adc"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Shurima"],
         "crowd control": ["slow"],
         "kit": ["shield"],
@@ -1268,7 +1268,7 @@
     },
     "Skarner": {
         "role": ["Jungle", "Top"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Ixtal"],
         "crowd control": ["slow", "stun"],
         "kit": ["shield"],
@@ -1288,7 +1288,7 @@
     },
     "Sona": {
         "role": ["Support"],
-        "release date": "s2",
+        "release date": ["before s7"],
         "region": ["Demacia"],
         "crowd control": ["slow", "stun"],
         "kit": ["shield"],
@@ -1298,7 +1298,7 @@
     },
     "Soraka": {
         "role": ["Support"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Targon"],
         "crowd control": ["slow", "root", "silence"],
         "kit": ["global ult"],
@@ -1309,7 +1309,7 @@
     },
     "Swain": {
         "role": ["Top", "Mid", "Support"],
-        "release date": "s3",
+        "release date": ["before s7"],
         "region": ["Noxus"],
         "crowd control": ["slow", "root"],
         "kit": [],
@@ -1329,7 +1329,7 @@
     },
     "Syndra": {
         "role": ["Mid"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["slow", "stun", "evolves"],
         "kit": ["true damage", "ult execute"],
@@ -1339,7 +1339,7 @@
     },
     "Tahm kench": {
         "role": ["Top", "Support"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Bilgewater"],
         "crowd control": ["slow", "stun", "knock-up"],
         "kit": ["shield", "blink", "high noon"],
@@ -1349,7 +1349,7 @@
     },
     "Taliyah": {
         "role": ["Mid", "Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Shurima"],
         "crowd control": ["slow", "stun", "knock-up"],
         "kit": ["dash", "global ult"],
@@ -1359,7 +1359,7 @@
     },
     "Talon": {
         "role": ["Mid", "Jungle"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Noxus"],
         "crowd control": ["slow"],
         "kit": ["dash", "invis"],
@@ -1369,7 +1369,7 @@
     },
     "Taric": {
         "role": ["Support"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Targon"],
         "crowd control": ["stun"],
         "kit": ["shield"],
@@ -1380,7 +1380,7 @@
     },
     "Teemo": {
         "role": ["Top", "Jungle"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Bandle City"],
         "crowd control": ["slow"],
         "kit": ["invis"],
@@ -1391,7 +1391,7 @@
     },
     "Thresh": {
         "role": ["Support"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Shadow Isles"],
         "crowd control": ["slow", "stun", "hook"],
         "kit": ["dash", "shield"],
@@ -1401,7 +1401,7 @@
     },
     "Tristana": {
         "role": ["Adc", "Mid"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Bandle City"],
         "crowd control": ["slow"],
         "kit": ["dash"],
@@ -1412,7 +1412,7 @@
     },
     "Trundle": {
         "role": ["Top", "Jungle"],
-        "release date": "s3",
+        "release date": ["before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow", "knock-up"],
         "kit": ["life steal"],
@@ -1422,7 +1422,7 @@
     },
     "Tryndamere": {
         "role": ["Top"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow"],
         "kit": ["dash"],
@@ -1432,7 +1432,7 @@
     },
     "Twisted fate": {
         "role": ["Mid"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Bilgewater"],
         "crowd control": ["slow", "stun"],
         "kit": ["global ult", "blink"],
@@ -1442,7 +1442,7 @@
     },
     "Twitch": {
         "role": ["Adc"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Zaun"],
         "crowd control": ["slow"],
         "kit": ["true damage", "invis"],
@@ -1452,7 +1452,7 @@
     },
     "Udyr": {
         "role": ["Top", "Jungle"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun"],
         "kit": ["shield", "life steal"],
@@ -1462,7 +1462,7 @@
     },
     "Urgot": {
         "role": ["Top"],
-        "release date": "s2",
+        "release date": ["before s7"],
         "region": ["Zaun"],
         "crowd control": ["slow", "stun", "fear"],
         "kit": ["dash", "true damage",  "shield", "ult execute"],
@@ -1472,7 +1472,7 @@
     },
     "Varus": {
         "role": ["Adc"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["slow", "root"],
         "kit": [],
@@ -1483,7 +1483,7 @@
     },
     "Vayne": {
         "role": ["Adc", "Top"],
-        "release date": "s2",
+        "release date": ["before s7"],
         "region": ["Demacia"],
         "crowd control": ["stun"],
         "kit": ["dash", "true damage", "invis"],
@@ -1493,7 +1493,7 @@
     },
     "Veigar": {
         "role": ["Mid"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Bandle City"],
         "crowd control": ["stun"],
         "kit": ["ult execute"],
@@ -1504,7 +1504,7 @@
     },
     "Velkoz": {
         "role": ["Mid", "Support"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["The Void"],
         "crowd control": ["slow", "stun", "knock-up"],
         "kit": ["true damage"],
@@ -1525,7 +1525,7 @@
     },
     "Vi": {
         "role": ["Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Zaun"],
         "crowd control": ["stun", "knock-up"],
         "kit": ["dash", "shield"],
@@ -1545,7 +1545,7 @@
     },
     "Viktor": {
         "role": ["Mid"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Zaun"],
         "crowd control": ["slow", "stun"],
         "kit": ["shield", "evolves"],
@@ -1556,7 +1556,7 @@
     },
     "Vladimir": {
         "role": ["Mid"],
-        "release date": "s2",
+        "release date": ["before s7"],
         "region": ["Noxus"],
         "crowd control": ["slow"],
         "kit": ["life steal"],
@@ -1566,7 +1566,7 @@
     },
     "Volibear": {
         "role": ["Jungle", "Top"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Freljord"],
         "crowd control": ["slow", "stun"],
         "kit": ["dash", "shield"],
@@ -1576,7 +1576,7 @@
     },
     "Warwick": {
         "role": ["Top", "Jungle"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Zaun"],
         "crowd control": ["slow", "stun", "fear"],
         "kit": ["dash", "life steal"],
@@ -1586,7 +1586,7 @@
     },
     "Wukong": {
         "role": ["Top", "Jungle"],
-        "release date": "s5",
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["knock-up"],
         "kit": ["dash", "invis"],
@@ -1608,7 +1608,7 @@
     },
     "Xerath": {
         "role": ["Mid", "Support"],
-        "release date": "s1",
+        "release date": ["before s7"],
         "region": ["Shurima"],
         "crowd control": ["slow", "stun"],
         "kit": ["global ult"],
@@ -1619,7 +1619,7 @@
     },
     "Xin Zhao": {
         "role": ["Jungle"],
-        "release date": "s3",
+        "release date": ["before s7"],
         "region": ["Demacia"],
         "crowd control": ["slow", "stun", "knock-up"],
         "kit": ["dash"],
@@ -1629,7 +1629,7 @@
     },
     "Yasuo": {
         "role": ["Mid", "Top"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["knock-up"],
         "kit": ["dash", "shield", "blink"],
@@ -1649,7 +1649,7 @@
     },
     "Yorick": {
         "role": ["Top"],
-        "release date": "s6",
+        "release date": ["before s7"],
         "region": ["Shadow Isles"],
         "crowd control": ["slow"],
         "kit": [],
@@ -1669,7 +1669,7 @@
     },
     "Zac": {
         "role": ["Jungle", "Top"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Zaun"],
         "crowd control": ["slow", "stun", "root", "knock-up"],
         "kit": ["dash"],
@@ -1679,7 +1679,7 @@
     },
     "Zed": {
         "role": ["Mid"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Ionia"],
         "crowd control": ["slow"],
         "kit": ["blink"],
@@ -1699,7 +1699,7 @@
     },
     "Ziggs": {
         "role": ["Adc", "Mid"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Zaun"],
         "crowd control": ["slow", "knock-up"],
         "kit": ["dash", "global ult"],
@@ -1710,7 +1710,7 @@
     },
     "Zilean": {
         "role": ["Support", "Mid"],
-        "release date": ["OG40"],
+        "release date": ["OG40", "before s7"],
         "region": ["Shurima"],
         "crowd control": ["slow", "stun"],
         "kit": [],
@@ -1730,7 +1730,7 @@
     },
     "Zyra": {
         "role": ["Support", "Jungle"],
-        "release date": ["Season 2-6"],
+        "release date": ["before s7"],
         "region": ["Ixtal"],
         "crowd control": ["slow", "root", "knock-up"],
         "kit": [],

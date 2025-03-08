@@ -1,29 +1,16 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
         "OG40",
-        "dark star"
+        "hextech"
     ],
     "cols": [
-        "root",
         "Noxus",
-        "never played"
+        "slow",
+        "30+ wins"
     ],
     "solutions": [
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
         [
             "Ambessa",
             "Annie",
@@ -37,21 +24,67 @@
             "Vladimir"
         ],
         [
-            "Akshan",
+            "Ahri",
+            "Akali",
+            "Anivia",
+            "Aurelion Sol",
+            "Aurora",
+            "Azir",
             "Brand",
+            "Cassiopeia",
             "Chogath",
+            "Corki",
+            "Diana",
+            "Ekko",
             "Elise",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Heimerdinger",
-            "Kennen",
-            "Naafiri"
+            "Hwei",
+            "Irelia",
+            "Jayce",
+            "Karma",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Naafiri",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Talon",
+            "Tristana",
+            "Twisted fate",
+            "Velkoz",
+            "Vex",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
         ],
         [
-            "Morgana",
-            "Nunu",
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
             "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Taliyah",
+            "Viktor"
         ],
         [
             "Alistar",
@@ -60,46 +93,67 @@
             "Sion"
         ],
         [
-            "Alistar",
-            "Amumu",
+            "Anivia",
             "Ashe",
-            "Blitzcrank",
             "Chogath",
+            "Corki",
             "Dr. Mundo",
             "Evelynn",
             "Fiddlesticks",
+            "Gangplank",
             "Heimerdinger",
             "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
             "Malphite",
             "Morgana",
+            "Nasus",
             "Nunu",
             "Rammus",
+            "Ryze",
             "Shaco",
+            "Singed",
+            "Sion",
             "Sivir",
             "Soraka",
             "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
             "Twitch",
-            "Warwick"
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Jhin",
-            "Karma",
-            "Lissandra",
-            "Lux",
-            "Shaco",
-            "Varus"
+            "Corki",
+            "Ryze"
         ],
         [
-            "Mordekaiser"
+            "Alistar",
+            "Annie",
+            "Sion",
+            "Swain"
         ],
         [
-            "Chogath",
+            "Anivia",
+            "Galio",
+            "Janna",
             "Jarvan IV",
-            "Jhin",
-            "Malphite",
-            "Mordekaiser",
-            "Shaco",
-            "Thresh"
+            "Kassadin",
+            "Kogmaw",
+            "Nocturne",
+            "Poppy",
+            "Rammus",
+            "Sejuani",
+            "Singed",
+            "Sion",
+            "Swain",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Galio"
         ]
     ]
 }

@@ -1,101 +1,108 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "prestige",
-        "shield"
+        "OG40",
+        "global ult"
     ],
     "cols": [
-        "fear",
-        "Noxus",
-        "riot records"
+        "stun",
+        "Freljord",
+        "0 games"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
             "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
             "Riven",
+            "Sett",
             "Sion",
-            "Swain"
-        ],
-        [
-            "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
-            "Yasuo",
-            "Yone",
-            "Yorick"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Evelynn",
-            "Ezreal",
-            "Ksante",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Qiyana",
-            "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
             "Urgot",
-            "Vex"
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
             "Ambessa",
-            "Annie",
-            "Kled",
-            "Mel",
-            "Mordekaiser",
-            "Rell",
-            "Riven",
-            "Sion"
+            "Illaoi"
         ],
         [
-            "Aphelios",
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
             "Ekko",
-            "Ksante",
-            "Kaisa",
-            "Mordekaiser",
-            "Olaf",
-            "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo",
-            "Yone"
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Briar",
+            "Mel",
+            "Vex"
         ]
     ]
 }

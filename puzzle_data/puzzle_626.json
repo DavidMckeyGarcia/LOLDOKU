@@ -1,110 +1,93 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "OG40",
-        "prestige"
+        "Mid",
+        "prestige",
+        "invis"
     ],
     "cols": [
-        "Noxus",
-        "root",
-        "riot records"
+        "knock-up",
+        "Freljord",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
-            "Viego"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
-        ],
-        [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
             "Zyra"
         ],
         [
-            "Ahri",
+            "Brand",
+            "Kindred",
+            "Lissandra",
+            "Volibear"
+        ],
+        [
             "Akali",
-            "Evelynn",
+            "Darius",
             "Ezreal",
-            "Ksante",
+            "Fiora",
+            "Jinx",
             "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Qiyana",
-            "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo"
+            "Lucian",
+            "Vayne",
+            "Xayah"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

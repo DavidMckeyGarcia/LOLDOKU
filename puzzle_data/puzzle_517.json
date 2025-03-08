@@ -1,64 +1,92 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "life steal",
-        "Season 7+"
+        "Adc",
+        "hextech",
+        "true damage"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "ult reset"
+        "root",
+        "Shurima",
+        "never played"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Sivir"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Illaoi",
-            "Nilah"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Olaf",
-            "Viego"
-        ],
-        [
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
             "Nilah",
-            "Pyke"
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Singed",
+            "Swain"
         ],
         [
+            "Amumu",
+            "Rammus",
+            "Renekton"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Janna",
+            "Jarvan IV",
+            "Rammus",
+            "Sejuani"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Akshan",
+            "Amumu",
             "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

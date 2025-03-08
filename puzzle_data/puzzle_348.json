@@ -1,67 +1,100 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "arcade"
+        "Jungle",
+        "dash",
+        "OG40"
     ],
     "cols": [
-        "root",
-        "Piltover",
-        "yordle"
+        "Bilgewater",
+        "fear",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Graves",
+            "Nautilus"
         ],
         [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Fizz",
+            "Graves",
+            "Illaoi",
+            "Nautilus",
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Braum",
             "Caitlyn",
+            "Elise",
             "Ezreal",
-            "Seraphine"
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Maokai",
+            "Rakan",
+            "Renekton",
+            "Sejuani",
+            "Shen",
+            "Thresh",
+            "Tristana"
         ],
         [
-            "Corki",
-            "Tristana",
-            "Ziggs"
+            "Gangplank",
+            "Twisted fate"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Camille",
-            "Seraphine"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Corki",
-            "Veigar",
-            "Ziggs"
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

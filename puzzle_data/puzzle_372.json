@@ -1,106 +1,99 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "invis",
-        "prestige"
+        "Adc",
+        "true damage",
+        "dark star"
     ],
     "cols": [
-        "Bilgewater",
-        "stun",
-        "arcane"
+        "Ionia",
+        "knock-up",
+        "never played"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "Jayce",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "LeBlanc"
-        ],
-        [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
-        ],
-        [
-            "Caitlyn",
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
             "Jinx",
-            "LeBlanc"
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Syndra",
+            "Yone"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Jhin",
+            "Karma",
+            "Varus"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Malphite"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Jhin",
+            "Malphite",
+            "Mordekaiser",
+            "Shaco",
+            "Thresh"
         ]
     ]
 }

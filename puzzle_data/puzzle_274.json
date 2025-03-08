@@ -1,99 +1,70 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "empyrean",
-        "dash"
+        "Jungle",
+        "invis",
+        "PROJECT"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "manaless"
+        "fear",
+        "Noxus",
+        "riot records"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Akali",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Belveth",
             "Briar",
-            "Gnar",
-            "Kled",
-            "Lee sin",
-            "Reksai",
-            "Renekton",
-            "Rengar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
+        ],
+        [
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
             "Sett",
-            "Shen",
-            "Shyvana",
-            "Tryndamere",
-            "Viego",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Viego"
+        ],
+        [
+            "Shaco"
+        ],
+        [
+            "LeBlanc",
+            "Talon"
+        ],
+        [
+            "Akali",
+            "Kaisa",
+            "Qiyana",
+            "Senna",
+            "Viego"
+        ],
+        [
+            "Warwick"
+        ],
+        [
+            "Katarina",
+            "Mordekaiser"
+        ],
+        [
+            "Akali",
+            "Ekko",
+            "Mordekaiser",
+            "Senna",
+            "Yasuo"
         ]
     ]
 }

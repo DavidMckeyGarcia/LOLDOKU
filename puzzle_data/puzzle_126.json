@@ -1,98 +1,69 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "OG40",
-        "ult execute"
+        "Jungle",
+        "arcade",
+        "OG40"
     ],
     "cols": [
-        "Shurima",
-        "knock-up",
-        "manaless"
+        "fear",
+        "Ixtal",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Aatrox",
-            "Chogath",
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
+        ],
+        [
+            "Elise",
             "Gragas",
+            "Graves",
             "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Amumu",
             "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Qiyana"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Malphite"
         ],
         [
             "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
+            "Ashe",
             "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
-        ],
-        [
-            "Akshan"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Akali",
-            "Garen",
-            "Reksai",
-            "Viego"
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

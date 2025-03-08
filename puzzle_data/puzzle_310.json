@@ -1,119 +1,127 @@
 {
     "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "global ult",
-        "Season 7+"
+        "Top",
+        "PROJECT",
+        "true damage"
     ],
     "cols": [
         "stun",
-        "Shurima",
-        "100+ games"
+        "Freljord",
+        "manaless"
     ],
     "solutions": [
         [
             "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
+            "Camille",
+            "Fiora",
+            "Gnar",
             "Gragas",
             "Heimerdinger",
             "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Azir",
-            "Elise",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Taliyah",
-            "Xerath"
-        ],
-        [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
-            "Ryze",
-            "Shen"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
+            "Jax",
             "Ksante",
-            "Milio",
-            "Neeko",
+            "Kennen",
             "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
             "Sett",
+            "Sion",
+            "Skarner",
             "Sylas",
-            "Viego",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Ashe",
+            "Sejuani"
+        ],
+        [
+            "Akali",
+            "Katarina",
+            "Mordekaiser",
+            "Renekton",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
             "Yone"
         ],
         [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
+            "Nunu",
+            "Olaf"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Akali",
+            "Belveth",
+            "Garen",
+            "Sett",
+            "Yone"
         ]
     ]
 }

@@ -1,23 +1,26 @@
 {
-    "difficulty": "iron",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
         "shield",
-        "Season 2-6"
+        "arcade"
     ],
     "cols": [
-        "Demacia",
+        "Freljord",
         "slow",
-        "100+ games"
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
             "Belveth",
@@ -75,25 +78,14 @@
             "Zyra"
         ],
         [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
+            "Taliyah"
         ],
         [
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
         ],
         [
             "Aphelios",
@@ -151,82 +143,29 @@
         ],
         [
             "Azir",
-            "Braum",
-            "Janna",
-            "Jarvan IV",
-            "Kaisa",
-            "Lee sin",
-            "Lulu",
+            "Galio",
             "Orianna",
-            "Rakan",
-            "Rumble",
-            "Shen",
-            "Thresh"
+            "Viktor"
         ],
         [
-            "Fiora",
-            "Lucian",
-            "Quinn"
+            "Brand"
         ],
         [
-            "Aatrox",
             "Ahri",
-            "Aurelion Sol",
-            "Azir",
-            "Bard",
-            "Braum",
-            "Darius",
-            "Diana",
-            "Draven",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
+            "Belveth",
+            "Brand",
+            "Caitlyn",
+            "Corki",
             "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jayce",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Khazix",
-            "Kindred",
-            "Kled",
-            "Lissandra",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Quinn",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Thresh",
-            "Varus",
-            "Velkoz",
-            "Viktor",
-            "Volibear",
-            "Zac",
-            "Zed",
-            "Ziggs",
-            "Zyra"
+            "Kaisa",
+            "Miss Fortune",
+            "Qiyana",
+            "Sona",
+            "Ziggs"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Braum",
-            "Elise",
-            "Gnar",
-            "Jayce",
-            "Jhin",
-            "Lucian",
-            "Lulu",
-            "Sejuani",
-            "Syndra",
-            "Thresh",
-            "Varus"
+            "Ahri",
+            "Corki"
         ]
     ]
 }

@@ -1,90 +1,76 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "dash",
+        "Top",
+        "invis",
         "Season 7+"
     ],
     "cols": [
         "stun",
-        "Bilgewater",
-        "ult reset"
+        "Freljord",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Miss Fortune",
-            "Nilah"
-        ],
-        [
-            "Sivir",
-            "Vayne"
-        ],
-        [
-            "Alistar",
             "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Briar",
             "Camille",
-            "Ekko",
-            "Elise",
             "Fiora",
             "Gnar",
             "Gragas",
-            "Hecarim",
+            "Heimerdinger",
             "Irelia",
-            "Ivern",
             "Jax",
             "Ksante",
-            "Leona",
-            "Nautilus",
+            "Kennen",
             "Ornn",
             "Pantheon",
             "Poppy",
-            "Pyke",
-            "Qiyana",
-            "Rammus",
-            "Rell",
             "Renekton",
             "Riven",
-            "Sejuani",
             "Sett",
+            "Sion",
+            "Skarner",
             "Sylas",
-            "Taliyah",
-            "Thresh",
+            "Tahm kench",
+            "Udyr",
             "Urgot",
             "Vayne",
-            "Vi",
-            "Viego",
             "Volibear",
             "Warwick",
-            "Xin Zhao",
             "Yone",
             "Zac"
         ],
         [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Belveth",
-            "Naafiri",
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
             "Vayne",
-            "Vex",
             "Viego"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
         ],
         [
             "Ambessa",
@@ -104,14 +90,13 @@
             "Yone"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
         ]
     ]
 }

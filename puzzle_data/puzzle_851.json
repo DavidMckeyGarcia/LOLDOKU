@@ -1,72 +1,140 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "dash",
-        "arcade"
+        "invis",
+        "OG40"
     ],
     "cols": [
-        "fear",
-        "Zaun",
-        "arcane"
+        "slow",
+        "Bilgewater",
+        "30+ wins"
     ],
     "solutions": [
         [
+            "Belveth",
+            "Brand",
             "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
+            "Camille",
+            "Diana",
             "Dr. Mundo",
             "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Briar",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gragas",
+            "Graves",
             "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Karthus",
+            "Kayn",
+            "Khazix",
+            "Kindred",
+            "Lee sin",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nasus",
+            "Nautilus",
             "Nocturne",
+            "Nunu",
+            "Olaf",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sejuani",
+            "Sett",
             "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Ekko",
-            "Urgot",
-            "Vi",
+            "Shen",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Talon",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Volibear",
             "Warwick",
+            "Xin Zhao",
             "Zac",
-            "Zeri",
-            "Ziggs"
+            "Zyra"
         ],
         [
-            "Ambessa",
-            "Caitlyn",
-            "Ekko",
-            "Jayce",
-            "Vi",
-            "Warwick"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Hecarim"
+            "Taliyah"
         ],
         [
-            "Blitzcrank",
-            "Ziggs"
+            "Akali",
+            "Aurora",
+            "Kaisa",
+            "Khazix",
+            "Pyke",
+            "Qiyana",
+            "Reksai",
+            "Rengar",
+            "Senna",
+            "Shaco",
+            "Talon",
+            "Teemo",
+            "Twitch",
+            "Viego"
         ],
         [
-            "Caitlyn"
+            "Pyke"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Corki",
+            "Ryze"
         ]
     ]
 }

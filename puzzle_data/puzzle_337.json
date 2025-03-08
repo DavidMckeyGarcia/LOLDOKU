@@ -1,87 +1,114 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "Season 7+",
-        "dark star"
+        "Space Groove",
+        "shield"
     ],
     "cols": [
-        "root",
-        "Zaun",
-        "manaless"
+        "Freljord",
+        "knock-up",
+        "yordle"
     ],
     "solutions": [
         [
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
             "Ivern",
+            "Jarvan IV",
+            "Kayn",
             "Lee sin",
-            "Maokai",
-            "Morgana",
             "Nautilus",
             "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
             "Zac",
             "Zyra"
         ],
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
+            "Amumu",
+            "Poppy",
             "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
-            "Zac"
+            "Teemo"
         ],
         [
-            "Aphelios",
-            "Hwei",
+            "Gragas",
+            "Lissandra",
+            "Nunu"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lulu",
+            "Nami",
+            "Nunu",
+            "Samira"
+        ],
+        [
+            "Lulu",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Ksante",
-            "Mel",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Sett",
-            "Viego",
+            "Nunu",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Jhin",
-            "Karma",
-            "Lissandra",
-            "Lux",
-            "Shaco",
-            "Varus"
-        ],
-        [
-            "Orianna"
-        ],
-        [
-            "Mordekaiser"
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ]
     ]
 }

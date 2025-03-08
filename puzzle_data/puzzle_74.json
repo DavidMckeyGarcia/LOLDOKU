@@ -1,78 +1,100 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "iron",
     "rows": [
-        "Mid",
-        "coven",
-        "Season 7+"
+        "Support",
+        "Season 7+",
+        "life steal"
     ],
     "cols": [
-        "knock-up",
-        "Ixtal",
+        "Ionia",
+        "stun",
         "never played"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Neeko",
-            "Qiyana"
-        ],
-        [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Elise",
-            "Heimerdinger",
-            "Kennen",
-            "Naafiri"
-        ],
-        [
-            "Nami",
-            "Zyra"
-        ],
-        [
-            "Zyra"
-        ],
-        [
+            "Alistar",
+            "Annie",
             "Ashe",
-            "Elise",
-            "Evelynn",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
             "Morgana",
             "Nami",
-            "Nilah",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
             "Zyra"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ksante",
+            "Hwei",
             "Kayn",
-            "Neeko",
-            "Ornn",
+            "Lillia",
             "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
+            "Sett",
+            "Xayah",
             "Yone"
         ],
         [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
             "Milio",
-            "Neeko"
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
             "Akshan",
@@ -95,6 +117,36 @@
             "Xayah",
             "Yuumi",
             "Zeri"
+        ],
+        [
+            "Kayn",
+            "Lee sin"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Kayn",
+            "Morgana",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ]
     ]
 }

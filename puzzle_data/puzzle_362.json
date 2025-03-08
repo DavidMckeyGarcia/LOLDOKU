@@ -1,86 +1,61 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "hextech",
-        "evolves"
+        "Support",
+        "shield",
+        "cosmic"
     ],
     "cols": [
-        "stun",
-        "The Void",
-        "ascended"
+        "Bilgewater",
+        "silence",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
+        ],
+        [
             "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Nautilus",
+            "Nilah",
+            "Tahm kench"
+        ],
+        [
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Kled",
+            "Lulu",
             "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Rumble",
+            "Vex"
         ],
         [
-            "Chogath"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Malzahar",
-            "Poppy",
-            "Rammus",
-            "Renekton",
-            "Sejuani",
-            "Sion"
+            "Illaoi",
+            "Nami",
+            "Nautilus"
         ],
         [
             "Kassadin",
-            "Kogmaw",
-            "Malzahar"
+            "Lulu"
         ],
         [
-            "Renekton"
-        ],
-        [
-            "Bard",
-            "Viktor"
-        ],
-        [
-            "Belveth",
-            "Kaisa",
-            "Khazix"
-        ],
-        [
-            "Kayn"
+            "Lulu"
         ]
     ]
 }

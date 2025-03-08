@@ -1,53 +1,59 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "global ult",
-        "empyrean"
+        "Top",
+        "pool party",
+        "global ult"
     ],
     "cols": [
-        "Ionia",
         "root",
-        "100% AP Ratio"
+        "Ionia",
+        "yordle"
     ],
     "solutions": [
         [
-            "Karma",
-            "Rakan"
-        ],
-        [
-            "Karma",
-            "Leona",
-            "Lux",
+            "Ksante",
             "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
+            "Singed",
             "Swain",
-            "Zyra"
+            "Zac"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Lillia",
-            "Shen"
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Caitlyn",
+            "Lee sin",
+            "Leona",
+            "Singed",
+            "Zac"
+        ],
+        [
+            "Lee sin",
+            "Sett",
+            "Syndra"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Ziggs"
         ],
         [
             "Caitlyn",
@@ -60,39 +66,13 @@
             "Soraka"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Briar",
-            "Ekko",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Nocturne",
-            "Pantheon",
-            "Shen",
-            "Twisted fate",
-            "Xerath"
+            "Lillia",
+            "Shen"
         ],
         [
-            "Akali",
-            "Jhin",
-            "Varus",
-            "Zed"
-        ],
-        [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
-        ],
-        [
-            "Jax",
-            "Jhin",
-            "Lux",
-            "Nocturne",
-            "Varus"
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

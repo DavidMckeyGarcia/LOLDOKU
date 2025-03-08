@@ -1,14 +1,14 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Mid",
-        "Season 2-6",
-        "life steal"
+        "global ult",
+        "Season 7+"
     ],
     "cols": [
         "knock-up",
-        "The Void",
-        "tether"
+        "Freljord",
+        "ascended"
     ],
     "solutions": [
         [
@@ -29,70 +29,56 @@
             "Ziggs"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
-        ],
-        [
-            "Aatrox",
-            "Aurelion Sol",
             "Azir",
-            "Braum",
             "Diana",
-            "Ivern",
-            "Kalista",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Tahm kench",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
             "Taliyah",
-            "Velkoz",
-            "Vi",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Ziggs"
         ],
         [
-            "Khazix",
-            "Reksai",
-            "Velkoz"
+            "Ashe",
+            "Ornn"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kalista",
-            "Kled",
-            "Zac"
+            "Pantheon",
+            "Xerath"
         ],
         [
-            "Aatrox",
             "Belveth",
             "Briar",
             "Ksante",
             "Kayn",
-            "Lee sin",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
             "Samira",
-            "Sion",
-            "Trundle"
+            "Sylas",
+            "Yone"
         ],
         [
-            "Belveth"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Morgana"
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

@@ -1,88 +1,100 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "ult execute",
-        "dark star"
+        "Top",
+        "prestige",
+        "before s7"
     ],
     "cols": [
-        "Zaun",
-        "root",
-        "100% AP Ratio"
+        "silence",
+        "Ionia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Aurelion Sol",
             "Chogath",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
+            "Garen"
         ],
         [
-            "Jinx",
-            "Urgot"
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Jhin",
-            "Jinx"
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
         ],
         [
+            "Garen",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Kayn",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Sivir",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Blitzcrank",
             "Chogath",
-            "Evelynn",
-            "Jhin",
-            "Jinx",
-            "Veigar",
-            "Viego"
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Orianna"
-        ],
-        [
-            "Jhin",
-            "Karma",
-            "Lissandra",
-            "Lux",
-            "Shaco",
-            "Varus"
-        ],
-        [
-            "Chogath",
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
             "Jhin",
             "Karma",
-            "Lux",
-            "Thresh",
+            "Kennen",
+            "Lee sin",
+            "Master yi",
+            "Shen",
+            "Syndra",
             "Varus",
-            "Xerath"
+            "Wukong",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ]
     ]
 }

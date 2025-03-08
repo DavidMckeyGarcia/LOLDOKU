@@ -1,100 +1,98 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Top",
-        "Season 7+",
-        "PROJECT"
+        "Jungle",
+        "before s7",
+        "prestige"
     ],
     "cols": [
-        "knock-up",
         "Ionia",
-        "arcane"
+        "silence",
+        "tether"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
+            "Ivern",
             "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
+        ],
+        [
+            "Fiddlesticks"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
             "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
             "Zac"
         ],
         [
+            "Ahri",
             "Akali",
             "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Heimerdinger",
-            "Jayce",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Mel"
-        ],
-        [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Akali",
-            "Irelia",
+            "Ivern",
             "Jhin",
+            "Karma",
+            "Kennen",
+            "Lee sin",
             "Master yi",
+            "Shen",
+            "Syndra",
             "Varus",
+            "Wukong",
             "Yasuo",
             "Zed"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Aatrox",
+            "Fiddlesticks",
+            "Illaoi",
+            "Kalista",
+            "Karma",
+            "Kled",
+            "LeBlanc",
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Kayn",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Garen",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Aatrox",
+            "LeBlanc",
+            "Morgana",
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ]
     ]
 }

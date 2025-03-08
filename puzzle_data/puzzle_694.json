@@ -1,66 +1,91 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "Season 7+",
-        "PROJECT"
+        "shield",
+        "arcade"
     ],
     "cols": [
-        "Noxus",
-        "fear",
-        "tether"
+        "Ionia",
+        "root",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
             "Hwei",
-            "Vex"
-        ],
-        [
             "Karma",
             "LeBlanc",
-            "Malzahar",
-            "Sylas"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
+            "Lissandra",
+            "Lux",
             "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Briar",
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
             "Hwei",
-            "Vex"
+            "Ivern",
+            "Karma",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
         ],
         [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
             "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Senna",
+            "Seraphine"
         ],
         [
-            "Katarina",
-            "Mordekaiser"
+            "Aphelios",
+            "Kaisa"
         ],
         [
-            "Warwick"
+            "Ahri",
+            "Yasuo"
         ],
         [
-            "Sylas"
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Ezreal",
+            "Kaisa"
         ]
     ]
 }

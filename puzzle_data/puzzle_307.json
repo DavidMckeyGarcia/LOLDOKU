@@ -1,16 +1,23 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "OG40",
-        "global ult"
+        "shield",
+        "OG40"
     ],
     "cols": [
+        "Freljord",
         "knock-up",
-        "Demacia",
-        "yordle"
+        "riot records"
     ],
     "solutions": [
+        [
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
         [
             "Anivia",
             "Aurelion Sol",
@@ -29,21 +36,67 @@
             "Ziggs"
         ],
         [
-            "Galio",
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
             "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Qiyana",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Ekko",
+            "Ksante",
+            "Kaisa",
+            "Mordekaiser",
+            "Olaf",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
             "Alistar",
@@ -56,34 +109,9 @@
             "Sion"
         ],
         [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
-        ],
-        [
-            "Galio",
-            "Lux"
-        ],
-        [
-            "Kled",
-            "Vex",
-            "Ziggs"
+            "Evelynn",
+            "Karthus",
+            "Kayle"
         ]
     ]
 }

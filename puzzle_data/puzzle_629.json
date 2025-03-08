@@ -1,94 +1,88 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "pool party",
-        "life steal"
+        "Support",
+        "before s7",
+        "shield"
     ],
     "cols": [
         "Ionia",
-        "knock-up",
-        "ult reset"
+        "silence",
+        "30+ wins"
     ],
     "solutions": [
         [
+            "Karma",
+            "Rakan"
+        ],
+        [
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Galio"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Irelia",
             "Ivern",
-            "Kayn",
+            "Jhin",
+            "Karma",
+            "Kennen",
             "Lee sin",
-            "Lillia",
             "Master yi",
+            "Shen",
+            "Syndra",
+            "Varus",
+            "Wukong",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Hwei",
+            "Ivern",
+            "Karma",
+            "Lee sin",
+            "Rakan",
             "Sett",
             "Shen",
-            "Wukong"
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Lee sin",
-            "Sett",
-            "Syndra"
-        ],
-        [
-            "Braum",
-            "Jarvan IV",
-            "Lee sin",
-            "Lulu",
-            "Reksai",
-            "Taliyah",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Singed"
-        ],
-        [
-            "Kayn",
-            "Lee sin"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Olaf",
-            "Viego"
+            "Azir",
+            "Galio",
+            "Orianna",
+            "Viktor"
         ]
     ]
 }

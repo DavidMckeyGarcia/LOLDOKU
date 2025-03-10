@@ -299,15 +299,15 @@ def create_puzzle_with_unique_solution():
     raise Exception(f"Could not generate a valid puzzle after {max_attempts} attempts")
 
 
-create_multiple_puzzle_json_files(num_puzzles=1000)
-print(diffs.count('iron') /10)
-print(diffs.count('bronze')/10)
-print(diffs.count('silver')/10)
-print(diffs.count('gold')/10)
-print(diffs.count('platinum')/10)
-print(diffs.count('emerald')/10)
-print(diffs.count('diamond')/10)
-print(diffs.count('challenger')/10)
+create_multiple_puzzle_json_files(num_puzzles=100)
+print(diffs.count('iron') /1)
+print(diffs.count('bronze')/1)
+print(diffs.count('silver')/1)
+print(diffs.count('gold')/1)
+print(diffs.count('platinum')/1)
+print(diffs.count('emerald')/1)
+print(diffs.count('diamond')/1)
+print(diffs.count('challenger')/1)
 
 
 

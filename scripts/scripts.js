@@ -178,13 +178,150 @@ let searchable = [
   'Zoe',
   'Zyra'
   
-  ]
+]
+
+
+//DAILY PUZZLE LOADER
+// Global variable to track the countdown timer
+let countdownInterval;
+
+function loadData(numPuzzles = 1000) {
+  // Get current date
+  const currentDate = new Date();
+  const dateString = `${currentDate.getFullYear()}-${currentDate.getMonth() + 1}-${currentDate.getDate()}`;
+  
+  // Start countdown timer to next puzzle
+  startCountdownTimer();
+  
+  // Check if we need to reset the game for a new day
+  const lastPlayedDate = localStorage.getItem('lastPlayedDate');
+  if (lastPlayedDate !== dateString) {
+    // New day, new puzzle - clear previous game state
+    resetGame();
+    clearSavedGame();
+    // Store today's date
+    localStorage.setItem('lastPlayedDate', dateString);
+  }
+
+  // Use the date to deterministically select a puzzle
+  // This ensures the same puzzle is shown on the same date for all users
+  // Get a numeric hash from the date string
+  let dateHash = 0;
+  for (let i = 0; i < dateString.length; i++) {
+    dateHash = ((dateHash << 5) - dateHash) + dateString.charCodeAt(i);
+    dateHash = dateHash & dateHash; // Convert to 32bit integer
+  }
+  
+  // Make sure the hash is positive and within the range of available puzzles
+  dateHash = Math.abs(dateHash) % numPuzzles;
+  
+  // Get the puzzle file for today
+  const todaysPuzzleFile = `puzzle_data/puzzle_${dateHash + 1}.json`;
+  
+  console.log(`Today's puzzle: ${todaysPuzzleFile}`);
+
+  // Fetch today's puzzle file
+  fetch(todaysPuzzleFile)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+      // Store all data in our global variable
+      puzzleData = data;
+      
+      // Update headers using the cached data
+      updateHeaders(puzzleData);
+
+      // Load game state after data is available
+      loadGameState();
+      
+      // Initialize the grid with the loaded state
+      initializeGrid();
+
+      createSecondGrid();
+      updateSecondGridContent();
+    })
+    .catch(error => {
+      console.error('Error loading daily puzzle JSON:', error);
+      
+      // Fallback to default puzzle_data.json if everything else fails
+      fetch('puzzle_data.json')
+        .then(response => response.json())
+        .then(data => {
+          puzzleData = data;
+          updateHeaders(puzzleData);
+          loadGameState();
+          initializeGrid();
+          createSecondGrid();
+          updateSecondGridContent();
+        })
+        .catch(fallbackError => {
+          console.error('Fallback to default puzzle file also failed:', fallbackError);
+        });
+    });
+
+  console.log('Ran LoadData');
+}
+
+// Function to start countdown timer to next puzzle
+function startCountdownTimer() {
+  // Clear any existing interval
+  if (countdownInterval) {
+    clearInterval(countdownInterval);
+  }
+  
+  // Update the timer immediately
+  updateCountdownTimer();
+  
+  // Set interval to update every second
+  countdownInterval = setInterval(updateCountdownTimer, 1000);
+}
+
+// Function to calculate and display time until next puzzle
+function updateCountdownTimer() {
+  // Get current date and time
+  const now = new Date();
+  
+  // Calculate the next day at midnight
+  const tomorrow = new Date(now);
+  tomorrow.setDate(tomorrow.getDate() + 1);
+  tomorrow.setHours(0, 0, 0, 0);
+  
+  // Calculate time difference in milliseconds
+  const timeDiff = tomorrow - now;
+  
+  // Convert to hours, minutes, seconds
+  const hours = Math.floor(timeDiff / (1000 * 60 * 60));
+  const minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
+  const seconds = Math.floor((timeDiff % (1000 * 60)) / 1000);
+  
+  // Format the time string with leading zeros
+  const timeString = `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+  
+  // Update the countdown display - assuming you have an element with id 'countdown-timer'
+  const countdownElement = document.getElementById('countdown-timer');
+  if (countdownElement) {
+    countdownElement.textContent = `Next puzzle: ${timeString}`;
+  }
+  
+  // If we've reached the next day, reload the page to get the new puzzle
+  if (timeDiff <= 0) {
+    clearInterval(countdownInterval);
+    location.reload();
+  }
+}
+
+
 
 
 
 //load a random puzzle file
 
-function loadData(numPuzzles = 1000) {
+/*
+function loadData(numPuzzles = 100) {
   resetGame(); // DELETE FOR LOCAL STORAGE MEMORY
   clearSavedGame(); //DELETE FOR LOCAL STORAGE MEMORY
 
@@ -245,110 +382,7 @@ function loadData(numPuzzles = 1000) {
 
     console.log('Ran LoadData');
   }
-
-
-/*
-function preloadImages() {
-  // Create hidden container for preloaded images
-  const preloadContainer = document.createElement('div');
-  preloadContainer.style.display = 'none';
-  document.body.appendChild(preloadContainer);
-
-  // Preload header images
-  const headerImages = [
-    'Adc',
-    'jungle',
-    'mid',
-    'support',
-    'top',
-    'arcane',
-    'ascended',
-    'bandle city',
-    'bilgewater',
-    'blink',
-    'blood moon',
-    'celestial',
-    'cosmic',
-    'coven',
-    'dark star',
-    'darkin',
-    'dash',
-    'demacia',
-    'elderwood',
-    'empyrean',
-    'execute',
-    'fear',
-    'festive',
-    'freljord',
-    'fright night',
-    'global',
-    'hextech',
-    'high noon',
-    'immunity',
-    'infinite',
-    'invis',
-    'invulrenability',
-    'ionia',
-    'ixtal',
-    'jungle',
-    'knock-up',
-    'legacy',
-    'life steal',
-    'manaless',
-    'not played',
-    'noxus',
-    'og40',
-    'piltover',
-    'pool party',
-    'prestige',
-    'project',
-    'riot records',
-    'root',
-    'season 2-6',
-    'season 7+',
-    'shadow isles',
-    'shield',
-    'shred',
-    'shurima',
-    'silence',
-    'slow',
-    'space groove',
-    'star guardian',
-    'stun',
-    'support',
-    'targon',
-    'tether',
-    'the void',
-    'true damage',
-    'ult reset',
-    'unstoppable',
-    'vastayan',
-    'worlds',
-    'yordle',
-    'zaun',
-  ];
-
-  headerImages.forEach(imageName => {
-    const img = new Image();
-    img.src = `images/headers/${imageName}.webp`;
-    preloadContainer.appendChild(img);
-  });
-
-  
-  // Preload each champion image
-  searchable.forEach(champion => {
-    const img = new Image();
-    const championName = champion.toLowerCase().replace(/\s+/g, '');
-    img.src = `images/Champions/${championName}Square.webp`;
-    preloadContainer.appendChild(img);
-  });
-  
-  console.log('Champion, Header, and Tooltip Images Preloaded');
-}
 */
-
-
-
 
 document.addEventListener('DOMContentLoaded', function() {
   // Get references to all needed elements

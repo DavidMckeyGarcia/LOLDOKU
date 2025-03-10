@@ -4,8 +4,8 @@ let correctSquares = new Array(9).fill(false);
 let livesRemaining = 3; 
 let score = 0;
 
-  
-  
+
+// Initialises user input 
 function initializeSearch() {
   const searchInput = document.getElementById('user-answer');
   const searchWrapper = document.querySelector('.wrapper');

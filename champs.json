@@ -984,7 +984,7 @@
         "role": ["Mid"],
         "release date": ["before s7"],
         "region": ["Piltover", "Zaun"],
-        "crowd control": ["slow", "stun"],
+        "crowd control": ["slow", "stun", "knock-up"],
         "kit": ["shield"],
         "skinlines": ["pool party", "worlds skin", "dark star"],
         "esports": ["100+ games", "30+ wins"],
@@ -1714,7 +1714,7 @@
         "region": ["Shurima"],
         "crowd control": ["slow", "stun"],
         "kit": [],
-        "skinlines": ["victorious", "mecha", "time-travel"],
+        "skinlines": [],
         "esports": [],
         "misc": ["inf stacking", "Immunity", "100% AP Ratio"]
     },

@@ -87,3 +87,12 @@
     animation: zoomOut 0.15s ease-in-out forwards;
     pointer-events: none;
 }
+
+
+.countdown {
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px 0;
+  color: #333;
+}

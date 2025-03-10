@@ -589,6 +589,9 @@ function checkGameStatus() {
       const gameOverModal = document.getElementById('game-over-modal');
       if (gameOverModal) {
           gameOverModal.style.display = 'flex';
+
+          // Initialize the countdown timer in the win modal
+          initializeCountdownTimer();
       }
   } else {
       console.log('Game still in progress');

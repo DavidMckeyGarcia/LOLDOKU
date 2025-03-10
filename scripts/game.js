@@ -573,7 +573,7 @@ function checkGameStatus() {
           winModal.style.display = 'flex';
           
           // Initialize the countdown timer in the win modal
-          initializeCountdownTimer();
+          initializeCountdownTimer('win-countdown-timer');
       }
       
       // Reveal the second grid
@@ -591,7 +591,7 @@ function checkGameStatus() {
           gameOverModal.style.display = 'flex';
 
           // Initialize the countdown timer in the win modal
-          initializeCountdownTimer();
+          initializeCountdownTimer('game-over-countdown-timer');
       }
   } else {
       console.log('Game still in progress');
@@ -601,7 +601,7 @@ function checkGameStatus() {
 // Simple function to initialize the countdown timer
 function initializeCountdownTimer() {
   // Get the countdown element
-  const countdownElement = document.getElementById('countdown-timer');
+  const countdownElement = document.getElementById(timerId);
   if (!countdownElement) return;
   
   // Function to update the timer

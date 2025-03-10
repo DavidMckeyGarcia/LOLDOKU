@@ -555,8 +555,7 @@ function loadGameState() {
 }
 
 
-// Update checkGameStatus to show modals instead of alerts
-// Update checkGameStatus to show modals and initialize timer if needed
+// Update checkGameStatus to show modals 
 function checkGameStatus() {
   console.log('Checking game status');
   const correctCount = correctSquares.filter(Boolean).length;
@@ -573,7 +572,7 @@ function checkGameStatus() {
           winModal.style.display = 'flex';
           
           // Initialize the countdown timer in the win modal
-          initializeCountdownTimer('win-countdown-timer');
+          initializeCountdownTimer("win-countdown-timer");
       }
       
       // Reveal the second grid
@@ -591,7 +590,7 @@ function checkGameStatus() {
           gameOverModal.style.display = 'flex';
 
           // Initialize the countdown timer in the win modal
-          initializeCountdownTimer('game-over-countdown-timer');
+          initializeCountdownTimer("game-over-countdown-timer");
       }
   } else {
       console.log('Game still in progress');

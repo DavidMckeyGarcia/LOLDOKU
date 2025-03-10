@@ -26,15 +26,16 @@ function setupFF15Button() {
         livesRemaining = 0;
         updateLivesDisplay();
         saveGameState();
-        checkGameStatus();
-        
-        // Reveal the second grid
-        setTimeout(() => {
-            revealSecondGrid();
-        }, 500);
+    
 
         // Close the modal
         ff15Modal.style.display = 'none';
+        checkGameStatus();
+
+        // Reveal the second grid
+        setTimeout(() => {
+            revealSecondGrid();
+        }, 1000);
     });
 }
 

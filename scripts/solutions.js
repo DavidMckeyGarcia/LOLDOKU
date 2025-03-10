@@ -89,7 +89,6 @@ function revealSecondGrid() {
             secondGridTitle.classList.add('visible');
             statsBox.classList.add('visible');
             secondGridContainer.classList.add('visible');
-            //solutionsContainer.classList.add('visible');
             console.log('Second grid revealed');
         }, 10);
     } else {

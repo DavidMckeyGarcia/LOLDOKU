@@ -182,7 +182,7 @@ let searchable = [
 
 
 //DAILY PUZZLE LOADER
-function loadData(numPuzzles = 100) {
+function loadData(numPuzzles = 1000) {
   // Get current date
   const currentDate = new Date();
   const dateString = `${currentDate.getFullYear()}-${currentDate.getMonth() + 1}-${currentDate.getDate()}`;
@@ -259,8 +259,6 @@ function loadData(numPuzzles = 100) {
   
   console.log('Ran LoadData');
 }
-
-
 
 
 

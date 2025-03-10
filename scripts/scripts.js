@@ -182,18 +182,11 @@ let searchable = [
 
 
 //DAILY PUZZLE LOADER
-
-// Global variable to track the countdown timer
-let countdownInterval;
-
 function loadData(numPuzzles = 100) {
   // Get current date
   const currentDate = new Date();
   const dateString = `${currentDate.getFullYear()}-${currentDate.getMonth() + 1}-${currentDate.getDate()}`;
-  
-  // Start countdown timer to next puzzle
-  // Note: We're not starting it here anymore, we'll start it when needed
-  
+    
   // Check if we need to reset the game for a new day
   const lastPlayedDate = localStorage.getItem('lastPlayedDate');
   if (lastPlayedDate !== dateString) {
@@ -203,120 +196,76 @@ function loadData(numPuzzles = 100) {
     // Store today's date
     localStorage.setItem('lastPlayedDate', dateString);
   }
-
-  // Rest of your loadData function...
-}
-
-// Function to start countdown timer to next puzzle
-function startCountdownTimer() {
-  // Clear any existing interval
-  if (countdownInterval) {
-    clearInterval(countdownInterval);
+  
+  // Use the date to deterministically select a puzzle
+  // This ensures the same puzzle is shown on the same date for all users
+  // Get a numeric hash from the date string
+  let dateHash = 0;
+  for (let i = 0; i < dateString.length; i++) {
+    dateHash = ((dateHash << 5) - dateHash) + dateString.charCodeAt(i);
+    dateHash = dateHash & dateHash; // Convert to 32bit integer
   }
+    
+  // Make sure the hash is positive and within the range of available puzzles
+  dateHash = Math.abs(dateHash) % numPuzzles;
+    
+  // Get the puzzle file for today
+  const todaysPuzzleFile = `puzzle_data/puzzle_${dateHash + 1}.json`;
+    
+  console.log(`Today's puzzle: ${todaysPuzzleFile}`);
   
-  // Update the timer immediately
-  updateCountdownTimer();
-  
-  // Set interval to update every second
-  countdownInterval = setInterval(updateCountdownTimer, 1000);
-}
+  // Fetch today's puzzle file
+  fetch(todaysPuzzleFile)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+      // Store all data in our global variable
+      puzzleData = data;
+      
+      // Update headers using the cached data
+      updateHeaders(puzzleData);
 
-// Function to calculate and display time until next puzzle
-function updateCountdownTimer() {
-  // Get current date and time
-  const now = new Date();
-  
-  // Calculate the next day at midnight
-  const tomorrow = new Date(now);
-  tomorrow.setDate(tomorrow.getDate() + 1);
-  tomorrow.setHours(0, 0, 0, 0);
-  
-  // Calculate time difference in milliseconds
-  const timeDiff = tomorrow - now;
-  
-  // Convert to hours, minutes, seconds
-  const hours = Math.floor(timeDiff / (1000 * 60 * 60));
-  const minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
-  const seconds = Math.floor((timeDiff % (1000 * 60)) / 1000);
-  
-  // Format the time string with leading zeros
-  const timeString = `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
-  
-  // Update the countdown display
-  const countdownElement = document.getElementById('countdown-timer');
-  if (countdownElement) {
-    countdownElement.textContent = `${timeString}`;
-  }
-  
-  // If we've reached the next day, reload the page to get the new puzzle
-  if (timeDiff <= 0) {
-    clearInterval(countdownInterval);
-    location.reload();
-  }
-}
-
-// Update checkGameStatus to start the timer when win modal is shown
-function checkGameStatus() {
-    console.log('Checking game status');
-    const correctCount = correctSquares.filter(Boolean).length;
-    
-    console.log(`Correct count: ${correctCount}, Lives remaining: ${livesRemaining}`);
-    
-    // Game is won if all squares are correct
-    if (correctCount === 9) {
-        console.log('Game won, showing win modal');
+      // Load game state after data is available
+      loadGameState();
         
-        // Show win modal
-        const winModal = document.getElementById('win-modal');
-        if (winModal) {
-            winModal.style.display = 'flex';
-            // Start the countdown timer when showing the win modal
-            startCountdownTimer();
-        }
+      // Initialize the grid with the loaded state
+      initializeGrid();
+  
+      createSecondGrid();
+      updateSecondGridContent();
+    })
+    .catch(error => {
+      console.error('Error loading daily puzzle JSON:', error);
         
-        // Reveal the second grid
-        setTimeout(() => {
-            revealSecondGrid();
-        }, 500);
-    }
-    // Game is lost if no lives remain and not all squares are correct
-    else if (livesRemaining <= 0 && !window.unlimitedMode) {
-        console.log('Game lost, showing game over modal');
-        
-        // Show game over modal
-        const gameOverModal = document.getElementById('game-over-modal');
-        if (gameOverModal) {
-            gameOverModal.style.display = 'flex';
-        }
-    } else {
-        console.log('Game still in progress');
-    }
-}
-
-// Update the event listener for the win modal to stop the timer when closed
-window.addEventListener('DOMContentLoaded', function() {
-    // Existing code...
-    
-    // Win Modal
-    const continueWinBtn = document.getElementById('continue-win-btn');
-    const winModal = document.getElementById('win-modal');
-    
-    if (continueWinBtn) {
-        continueWinBtn.addEventListener('click', function() {
-            // Hide the modal
-            if (winModal) {
-                winModal.style.display = 'none';
-                
-                // Stop the timer when closing the modal
-                if (countdownInterval) {
-                    clearInterval(countdownInterval);
-                }
-            }
+      // Fallback to default puzzle_data.json if everything else fails
+      fetch('puzzle_data.json')
+        .then(response => response.json())
+        .then(data => {
+          puzzleData = data;
+          updateHeaders(puzzleData);
+          loadGameState();
+          initializeGrid();
+          createSecondGrid();
+          updateSecondGridContent();
+        })
+        .catch(fallbackError => {
+          console.error('Fallback to default puzzle file also failed:', fallbackError);
         });
-    }
-})
+    });
+  
+  console.log('Ran LoadData');
+}
 
-//load a random puzzle file 
+
+
+
+
+//load a random puzzle file
+
 /*
 function loadData(numPuzzles = 100) {
   resetGame(); // DELETE FOR LOCAL STORAGE MEMORY

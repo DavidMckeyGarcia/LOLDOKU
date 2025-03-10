@@ -556,40 +556,91 @@ function loadGameState() {
 
 
 // Update checkGameStatus to show modals instead of alerts
+// Update checkGameStatus to show modals and initialize timer if needed
 function checkGameStatus() {
-    console.log('Checking game status');
-    const correctCount = correctSquares.filter(Boolean).length;
-    
-    console.log(`Correct count: ${correctCount}, Lives remaining: ${livesRemaining}`);
-    
-    // Game is won if all squares are correct
-    if (correctCount === 9) {
-        console.log('Game won, showing win modal');
-        
-        // Show win modal
-        const winModal = document.getElementById('win-modal');
-        if (winModal) {
-            winModal.style.display = 'flex';
-        }
-        
-        // Reveal the second grid
-        setTimeout(() => {
-            revealSecondGrid();
-        }, 500);
-    }
-    // Game is lost if no lives remain and not all squares are correct
-    else if (livesRemaining <= 0 && !window.unlimitedMode) {
-        console.log('Game lost, showing game over modal');
-        
-        // Show game over modal
-        const gameOverModal = document.getElementById('game-over-modal');
-        if (gameOverModal) {
-            gameOverModal.style.display = 'flex';
-        }
-    } else {
-        console.log('Game still in progress');
-    }
+  console.log('Checking game status');
+  const correctCount = correctSquares.filter(Boolean).length;
+  
+  console.log(`Correct count: ${correctCount}, Lives remaining: ${livesRemaining}`);
+  
+  // Game is won if all squares are correct
+  if (correctCount === 9) {
+      console.log('Game won, showing win modal');
+      
+      // Show win modal
+      const winModal = document.getElementById('win-modal');
+      if (winModal) {
+          winModal.style.display = 'flex';
+          
+          // Initialize the countdown timer in the win modal
+          initializeCountdownTimer();
+      }
+      
+      // Reveal the second grid
+      setTimeout(() => {
+          revealSecondGrid();
+      }, 500);
+  }
+  // Game is lost if no lives remain and not all squares are correct
+  else if (livesRemaining <= 0 && !window.unlimitedMode) {
+      console.log('Game lost, showing game over modal');
+      
+      // Show game over modal
+      const gameOverModal = document.getElementById('game-over-modal');
+      if (gameOverModal) {
+          gameOverModal.style.display = 'flex';
+      }
+  } else {
+      console.log('Game still in progress');
+  }
 }
+
+// Simple function to initialize the countdown timer
+function initializeCountdownTimer() {
+  // Get the countdown element
+  const countdownElement = document.getElementById('countdown-timer');
+  if (!countdownElement) return;
+  
+  // Function to update the timer
+  function updateTimer() {
+      // Get current time
+      const now = new Date();
+      
+      // Set target time (next midnight)
+      const tomorrow = new Date();
+      tomorrow.setDate(tomorrow.getDate() + 1);
+      tomorrow.setHours(0, 0, 0, 0);
+      
+      // Calculate remaining time
+      const diff = tomorrow - now;
+      
+      // Calculate hours, minutes, seconds
+      const hours = Math.floor(diff / (1000 * 60 * 60));
+      const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+      
+      // Display time with leading zeros
+      countdownElement.textContent = 
+          `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+      
+      // If we've reached the next day, reload the page
+      if (diff <= 0) {
+          clearInterval(timerId);
+          location.reload();
+      }
+  }
+  
+  // Update immediately then set interval
+  updateTimer();
+  const timerId = setInterval(updateTimer, 1000);
+  
+  // Store the timer ID on the modal element so we can clear it when closed
+  const winModal = document.getElementById('win-modal');
+  if (winModal) {
+      winModal.timerId = timerId;
+  }
+}
+
 
 
 // Reset game function - update to reset lives instead of guesses
@@ -709,4 +760,23 @@ window.addEventListener('DOMContentLoaded', function() {
             }
         });
     }
+});
+
+// Update the win modal button click handler to clear the timer
+window.addEventListener('DOMContentLoaded', function() {
+  // Win Modal
+  const continueWinBtn = document.getElementById('continue-win-btn');
+  const winModal = document.getElementById('win-modal');
+  
+  if (continueWinBtn && winModal) {
+      continueWinBtn.addEventListener('click', function() {
+          // Clear the interval when closing the modal
+          if (winModal.timerId) {
+              clearInterval(winModal.timerId);
+          }
+          
+          // Hide the modal
+          winModal.style.display = 'none';
+      });
+  }
 });

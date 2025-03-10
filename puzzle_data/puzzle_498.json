@@ -1,75 +1,90 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "before s7",
-        "global ult"
+        "Jungle",
+        "arcade",
+        "life steal"
     ],
     "cols": [
-        "Demacia",
-        "silence",
-        "0 games"
+        "stun",
+        "Bilgewater",
+        "arcane"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
-        ],
-        [
-            "Fiora",
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Lucian",
-            "Lux",
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
             "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
             "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sona",
-            "Vayne",
-            "Xin Zhao"
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Graves",
+            "Nautilus"
+        ],
+        [
+            "Ekko",
+            "Vi",
+            "Warwick"
         ],
         [
             "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Miss Fortune"
+        ],
+        [
+            "Caitlyn"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
             "Illaoi",
-            "Master yi"
+            "Nilah"
         ],
         [
-            "Galio",
-            "Lux"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Briar",
-            "Mel",
-            "Vex"
+            "Ambessa",
+            "Warwick"
         ]
     ]
 }

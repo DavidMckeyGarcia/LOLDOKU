@@ -1,90 +1,137 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "Season 7+",
-        "global ult"
+        "Support",
+        "pool party",
+        "Season 7+"
     ],
     "cols": [
-        "Zaun",
-        "knock-up",
-        "yordle"
+        "slow",
+        "Targon",
+        "arcane"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Gnar",
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
             "Heimerdinger",
-            "Kennen",
-            "Kled",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Pantheon",
             "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
+            "Pyke",
+            "Rakan",
             "Renata glasc",
-            "Zeri"
+            "Senna",
+            "Seraphine",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
+            "Zyra"
         ],
         [
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Mel"
+        ],
+        [
+            "Braum",
+            "Caitlyn",
+            "Dr. Mundo",
+            "Draven",
+            "Fiora",
+            "Gangplank",
+            "Graves",
+            "Heimerdinger",
+            "Jarvan IV",
+            "Lee sin",
+            "Leona",
+            "Lulu",
+            "Miss Fortune",
+            "Orianna",
+            "Reksai",
+            "Sett",
+            "Singed",
+            "Syndra",
+            "Taliyah",
+            "Zac",
+            "Ziggs",
+            "Zoe"
+        ],
+        [
+            "Leona",
+            "Taric",
+            "Zoe"
+        ],
+        [
+            "Caitlyn",
+            "Heimerdinger",
+            "Orianna",
+            "Singed"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
             "Belveth",
             "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
             "Ksante",
+            "Kaisa",
             "Kayn",
-            "Neeko",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
             "Ornn",
+            "Pyke",
             "Rakan",
-            "Rell",
+            "Renata glasc",
             "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
             "Sylas",
-            "Yone"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
-        ],
-        [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
-        ],
-        [
-            "Kled",
             "Vex",
-            "Ziggs"
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
+        ],
+        [
+            "Aphelios",
+            "Zoe"
+        ],
+        [
+            "Ambessa",
+            "Mel"
         ]
     ]
 }

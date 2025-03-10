@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "pool party",
-        "OG40"
+        "global ult",
+        "cosmic"
     ],
     "cols": [
         "stun",
         "Ionia",
-        "100+ games"
+        "yordle"
     ],
     "solutions": [
         [
@@ -19,11 +19,9 @@
             "Brand",
             "Cassiopeia",
             "Ekko",
-            "Elise",
             "Gragas",
             "Heimerdinger",
             "Irelia",
-            "Kennen",
             "Lissandra",
             "Malzahar",
             "Neeko",
@@ -48,83 +46,62 @@
             "Hwei",
             "Irelia",
             "Karma",
-            "Kennen",
             "Syndra",
             "Yasuo",
             "Yone",
             "Zed"
         ],
         [
-            "Azir",
-            "Elise",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
-        ],
-        [
-            "Braum",
-            "Fiora",
+            "Corki",
+            "Fizz",
             "Heimerdinger",
-            "Leona",
-            "Orianna",
-            "Renekton",
-            "Sett",
-            "Syndra",
-            "Taliyah",
-            "Taric",
-            "Zac"
-        ],
-        [
-            "Lee sin",
-            "Sett",
-            "Syndra"
-        ],
-        [
-            "Braum",
-            "Caitlyn",
-            "Graves",
-            "Jarvan IV",
-            "Lee sin",
-            "Leona",
-            "Lulu",
-            "Orianna",
-            "Renekton",
-            "Syndra"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
+            "Tristana",
             "Veigar",
-            "Warwick",
-            "Zilean"
+            "Vex",
+            "Ziggs"
         ],
         [
-            "Master yi"
-        ],
-        [
-            "Alistar",
             "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Sion",
+            "Skarner",
+            "Xin Zhao"
+        ],
+        [
+            "Jhin",
+            "Master yi",
+            "Rakan",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Lulu"
         ]
     ]
 }

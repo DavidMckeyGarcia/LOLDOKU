@@ -1,115 +1,81 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
+        "Adc",
         "OG40",
-        "life steal"
+        "ult execute"
     ],
     "cols": [
-        "Zaun",
-        "fear",
-        "never played"
+        "stun",
+        "Demacia",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Lucian",
+            "Vayne"
         ],
         [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
-            "Kayn",
-            "Kennen",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Yorick"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
             "Twitch",
-            "Warwick"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Vayne",
+            "Xayah"
         ],
         [
             "Alistar",
             "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
             "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
             "Heimerdinger",
-            "Janna",
-            "Malphite",
+            "Jax",
             "Morgana",
             "Nunu",
             "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Warwick"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Aatrox",
-            "Briar",
-            "Warwick"
+            "Ryze",
+            "Tristana",
+            "Twitch"
         ],
         [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
-            "Kayn",
-            "Morgana",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Warwick"
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Garen"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Jinx"
         ]
     ]
 }

@@ -1,82 +1,112 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "elderwood",
-        "true damage"
+        "Mid",
+        "shield",
+        "before s7"
     ],
     "cols": [
-        "Freljord",
         "root",
-        "shred"
+        "Shurima",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Ahri",
+            "Aurora",
+            "Neeko"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
             "Ivern",
+            "Ksante",
+            "Karma",
             "Lee sin",
-            "Maokai",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Ksante",
+            "Naafiri",
+            "Sivir"
+        ],
+        [
+            "Neeko",
+            "Rakan"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
             "Morgana",
             "Nautilus",
             "Nunu",
-            "Qiyana",
             "Rengar",
+            "Ryze",
             "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
             "Nasus",
-            "Olaf",
-            "Rell",
+            "Rammus",
+            "Renekton",
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Ahri",
+            "Nami",
             "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
             "Wukong"
-        ],
-        [
-            "Gnar"
-        ],
-        [
-            "LeBlanc",
-            "Xayah"
-        ],
-        [
-            "Karthus",
-            "Wukong"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
         ]
     ]
 }

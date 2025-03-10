@@ -1,91 +1,82 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "prestige",
-        "ult execute"
+        "Jungle",
+        "before s7",
+        "blink"
     ],
     "cols": [
-        "knock-up",
-        "Bandle City",
-        "riot records"
+        "silence",
+        "Freljord",
+        "ascended"
     ],
     "solutions": [
         [
-            "Alistar",
+            "Fiddlesticks"
+        ],
+        [
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
             "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Brand",
             "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
-        ],
-        [
-            "Senna",
-            "Sona"
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Lissandra",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
             "Aatrox",
+            "Azir",
             "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
+            "Leona",
+            "Nasus",
+            "Pantheon",
+            "Renekton",
+            "Taric",
+            "Varus",
+            "Xerath"
         ],
         [
-            "Fizz",
-            "Lulu",
-            "Teemo",
-            "Yuumi"
+            "Kassadin"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Evelynn",
-            "Ezreal",
-            "Ksante",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Qiyana",
-            "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo"
+            "Lissandra"
         ],
         [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Veigar"
-        ],
-        [
-            "Akali",
-            "Evelynn",
-            "Viego"
+            "Pantheon"
         ]
     ]
 }

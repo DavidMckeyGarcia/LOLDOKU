@@ -1,43 +1,68 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "OG40",
-        "worlds skin"
+        "Top",
+        "hextech",
+        "OG40"
     ],
     "cols": [
+        "Zaun",
         "root",
-        "Bandle City",
-        "riot records"
+        "manaless"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Ksante",
             "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
+            "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
             "Mordekaiser",
-            "Olaf",
-            "Qiyana",
+            "Renekton",
+            "Rumble",
             "Sett",
-            "Viego"
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Janna",
+            "Singed",
+            "Ziggs"
+        ],
+        [
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Renekton"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
         ],
         [
             "Morgana",
@@ -48,46 +73,9 @@
             "Soraka"
         ],
         [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Corki",
-            "Yuumi"
-        ],
-        [
-            "Akali",
-            "Aphelios",
-            "Ekko",
-            "Ezreal",
-            "Kaisa",
-            "Karthus",
-            "Viego"
+            "Dr. Mundo",
+            "Katarina",
+            "Tryndamere"
         ]
     ]
 }

@@ -1,65 +1,69 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "OG40",
-        "invis"
+        "Adc",
+        "coven",
+        "ult execute"
     ],
     "cols": [
-        "Bilgewater",
-        "root",
-        "30+ wins"
+        "Ionia",
+        "stun",
+        "riot records"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Syndra"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
             "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Nami",
+            "Syndra"
         ],
         [
-            "Taliyah"
+            "Ahri",
+            "Akali",
+            "Evelynn"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Akali",
+            "Jhin",
+            "Syndra"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
         ],
         [
-            "Corki",
-            "Ryze"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "LeBlanc"
+            "Akali",
+            "Evelynn",
+            "Viego"
         ]
     ]
 }

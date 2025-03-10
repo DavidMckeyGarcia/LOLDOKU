@@ -1,65 +1,75 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "true damage",
+        "Jungle",
+        "empyrean",
         "OG40"
     ],
     "cols": [
-        "Ionia",
-        "silence",
-        "yordle"
+        "Zaun",
+        "fear",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Karma",
-            "Rakan"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ivern",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Syndra",
-            "Yone"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Amumu",
-            "Corki"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
+            "Briar",
             "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Zac"
+        ],
+        [
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Jax",
+            "Jhin",
+            "Varus"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

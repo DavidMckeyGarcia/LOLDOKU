@@ -1,73 +1,145 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
         "Top",
         "cosmic",
-        "ult execute"
+        "dash"
     ],
     "cols": [
-        "Bandle City",
-        "fear",
-        "100% AP Ratio"
+        "Freljord",
+        "stun",
+        "tether"
     ],
     "solutions": [
         [
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
             "Heimerdinger",
-            "Rumble",
-            "Teemo"
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
         ],
         [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
+            "Anivia",
+            "Lissandra",
+            "Nunu"
         ],
         [
-            "Lulu"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Belveth",
+            "Anivia",
             "Hecarim",
-            "Jhin",
-            "Lux",
-            "Master yi",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
             "Nunu",
+            "Sion",
             "Skarner",
-            "Varus",
-            "Vladimir",
             "Xin Zhao"
         ],
         [
-            "Veigar"
+            "Illaoi"
         ],
         [
-            "Darius",
-            "Urgot"
+            "Aurora",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Ornn",
+            "Sejuani",
+            "Tryndamere",
+            "Volibear"
         ],
         [
-            "Chogath",
-            "Evelynn",
-            "Jhin",
-            "Jinx",
-            "Veigar",
-            "Viego"
+            "Alistar",
+            "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Nocturne",
+            "Sylas",
+            "Yuumi",
+            "Zac"
         ]
     ]
 }

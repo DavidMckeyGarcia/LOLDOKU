@@ -1,136 +1,76 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "dark star",
-        "shield"
+        "Adc",
+        "dash",
+        "OG40"
     ],
     "cols": [
+        "The Void",
         "root",
-        "Zaun",
-        "never played"
+        "0 games"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
-            "Kayn",
-            "Kennen",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Yorick"
-        ],
-        [
-            "Jhin",
-            "Karma",
-            "Lissandra",
-            "Lux",
-            "Shaco",
-            "Varus"
-        ],
-        [
-            "Orianna"
-        ],
-        [
-            "Chogath",
-            "Jarvan IV",
-            "Jhin",
-            "Malphite",
-            "Mordekaiser",
-            "Shaco",
-            "Thresh"
+            "Kaisa",
+            "Kogmaw"
         ],
         [
             "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
             "Senna",
-            "Seraphine"
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Blitzcrank",
-            "Ekko",
-            "Janna",
-            "Orianna",
-            "Renata glasc",
-            "Urgot",
-            "Vi",
-            "Viktor"
+            "Mel",
+            "Samira"
         ],
         [
-            "Akshan",
-            "Aphelios",
-            "Blitzcrank",
-            "Braum",
-            "Garen",
+            "Belveth",
+            "Kaisa",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Caitlyn",
             "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kled",
-            "Malphite",
-            "Milio",
-            "Mordekaiser",
-            "Morgana",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Illaoi",
             "Naafiri",
-            "Nilah",
+            "Samira",
+            "Vex"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Morgana",
             "Nunu",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Senna",
-            "Shen",
-            "Sivir",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Thresh",
-            "Udyr",
-            "Vi",
-            "Volibear",
-            "Yuumi"
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Master yi"
         ]
     ]
 }

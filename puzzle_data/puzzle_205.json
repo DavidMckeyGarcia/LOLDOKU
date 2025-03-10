@@ -1,48 +1,33 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
+        "Jungle",
         "before s7",
-        "invis"
+        "dash"
     ],
     "cols": [
-        "Zaun",
         "fear",
-        "ult reset"
+        "Shurima",
+        "darkin"
     ],
     "solutions": [
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
         ],
         [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Ekko",
-            "Janna",
-            "Jinx",
-            "Orianna",
-            "Singed",
-            "Twitch",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Warwick",
-            "Zac",
-            "Ziggs"
+            "Kayn"
         ],
         [
             "Aatrox",
@@ -56,25 +41,46 @@
         ],
         [
             "Aatrox",
-            "Ahri",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Singed",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Renekton",
             "Sivir",
-            "Swain",
-            "Vayne",
-            "Viktor"
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Twitch"
+            "Aatrox",
+            "Varus"
         ],
         [
-            "Shaco"
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
         ],
         [
-            "Vayne",
-            "Viego"
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Ksante",
+            "Naafiri",
+            "Rammus",
+            "Renekton",
+            "Taliyah"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

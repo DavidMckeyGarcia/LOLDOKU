@@ -1,63 +1,74 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
         "Support",
-        "OG40",
-        "true damage"
+        "blink",
+        "OG40"
     ],
     "cols": [
-        "Piltover",
-        "silence",
-        "100+ games"
+        "knock-up",
+        "Shadow Isles",
+        "tether"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Seraphine"
-        ],
-        [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
-        ],
-        [
             "Alistar",
-            "Ashe",
+            "Blitzcrank",
             "Braum",
+            "Galio",
             "Janna",
-            "Leona",
             "Lulu",
-            "Maokai",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
             "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Maokai",
+            "Senna",
             "Thresh"
         ],
         [
-            "Heimerdinger"
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Viego"
+        ],
+        [
+            "LeBlanc"
         ],
         [
             "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Camille"
-        ],
-        [
+            "Anivia",
+            "Blitzcrank",
             "Chogath",
-            "Garen"
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Syndra"
+            "Karthus"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

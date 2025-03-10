@@ -1,53 +1,111 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "global ult",
-        "arcade"
+        "Top",
+        "before s7",
+        "global ult"
     ],
     "cols": [
-        "Shadow Isles",
-        "silence",
-        "30+ wins"
+        "Freljord",
+        "root",
+        "tether"
     ],
     "solutions": [
         [
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Ksante",
             "Maokai",
-            "Senna",
-            "Thresh"
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
         ],
         [
-            "Galio"
+            "Anivia",
+            "Ashe",
+            "Brand",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Lissandra",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Karthus",
-            "Maokai",
-            "Senna",
-            "Vex"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Galio",
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
             "Ryze",
-            "Taliyah"
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Hecarim"
+            "Aatrox",
+            "Fiddlesticks",
+            "Illaoi",
+            "Kalista",
+            "Karma",
+            "Kled",
+            "LeBlanc",
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
         ],
         [
-            "Blitzcrank",
-            "Malzahar"
+            "Ashe",
+            "Ornn"
         ],
         [
-            "Ahri",
-            "Corki"
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Kled",
+            "Nocturne"
         ]
     ]
 }

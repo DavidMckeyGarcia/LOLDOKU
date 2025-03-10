@@ -1,14 +1,14 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
         "Jungle",
-        "Season 7+",
-        "Space Groove"
+        "hextech",
+        "Season 7+"
     ],
     "cols": [
         "root",
-        "Targon",
-        "100+ games"
+        "Zaun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
@@ -25,20 +25,48 @@
             "Zyra"
         ],
         [
-            "Diana",
-            "Pantheon"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
             "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
+        ],
+        [
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Janna",
+            "Singed",
+            "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Nocturne",
+            "Rammus",
+            "Tristana"
         ],
         [
             "Aphelios",
@@ -52,26 +80,19 @@
             "Xayah"
         ],
         [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
             "Aphelios",
-            "Zoe"
-        ],
-        [
+            "Belveth",
+            "Briar",
             "Kaisa",
-            "Rakan",
-            "Xayah"
-        ],
-        [
-            "Lissandra",
-            "Lux",
-            "Nunu"
-        ],
-        [
-            "Taric"
-        ],
-        [
-            "Gragas",
-            "Lulu",
-            "Rumble"
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
         ]
     ]
 }

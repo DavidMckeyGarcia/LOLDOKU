@@ -1,74 +1,90 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "OG40",
-        "shield"
+        "Support",
+        "global ult",
+        "pool party"
     ],
     "cols": [
-        "Bandle City",
-        "fear",
-        "arcane"
+        "silence",
+        "Ionia",
+        "never played"
     ],
     "solutions": [
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "Jayce",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
-        ],
-        [
+            "Blitzcrank",
             "Lulu",
-            "Rumble",
-            "Yuumi"
+            "Soraka"
         ],
         [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Ambessa",
-            "Ekko",
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
             "Janna",
-            "Mel",
-            "Orianna",
-            "Vi",
-            "Viktor"
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Ashe",
+            "Bard",
+            "Briar",
+            "Draven",
+            "Jinx",
+            "Kled",
+            "Lillia",
+            "Maokai",
+            "Senna",
+            "Shen",
+            "Soraka"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Lee sin",
+            "Sett",
+            "Syndra"
+        ],
+        [
+            "Braum",
+            "Dr. Mundo",
+            "Draven",
+            "Fiora",
+            "Graves",
+            "Heimerdinger",
+            "Jarvan IV",
+            "Leona",
+            "Miss Fortune",
+            "Reksai"
         ]
     ]
 }

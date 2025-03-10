@@ -1,143 +1,93 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "blink",
-        "empyrean"
+        "Adc",
+        "Space Groove",
+        "before s7"
     ],
     "cols": [
-        "The Void",
-        "slow",
-        "never played"
+        "Bilgewater",
+        "root",
+        "tether"
     ],
     "solutions": [
         [
-            "Chogath"
+            "Miss Fortune",
+            "Nilah"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Kalista"
+        ],
+        [
+            "Nami",
+            "Twisted fate"
+        ],
+        [
+            "Lissandra",
+            "Lux",
+            "Nunu"
+        ],
+        [
+            "Taric"
+        ],
+        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
             "Aatrox",
-            "Akali",
-            "Camille",
-            "Chogath",
-            "Darius",
-            "Dr. Mundo",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
-            "Heimerdinger",
+            "Fiddlesticks",
             "Illaoi",
-            "Irelia",
-            "Jarvan IV",
-            "Jayce",
-            "Ksante",
-            "Kayle",
-            "Kayn",
+            "Kalista",
+            "Karma",
             "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
-            "Sion",
-            "Skarner",
-            "Swain",
-            "Sylas",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
-            "Zac"
-        ],
-        [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
-            "Kayn",
-            "Kennen",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Yorick"
-        ],
-        [
-            "Kassadin",
-            "Reksai"
-        ],
-        [
-            "Ekko",
-            "Kassadin",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Reksai",
-            "Ryze",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Zed"
-        ],
-        [
-            "Pyke",
-            "Reksai",
-            "Shen",
-            "Tahm kench",
-            "Viego"
-        ],
-        [
-            "Malzahar"
-        ],
-        [
-            "Akali",
-            "Brand",
-            "Jhin",
-            "Ksante",
-            "Kayle",
-            "Lux",
+            "LeBlanc",
+            "Morgana",
             "Nocturne",
-            "Pyke",
-            "Varus",
-            "Vex",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Brand",
-            "Jhin",
-            "Pyke"
+            "Taric",
+            "Zac"
         ]
     ]
 }

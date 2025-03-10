@@ -1,75 +1,145 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "empyrean",
-        "global ult"
+        "Support",
+        "elderwood",
+        "shield"
     ],
     "cols": [
-        "stun",
-        "Demacia",
-        "pentakill"
+        "knock-up",
+        "Bandle City",
+        "never played"
     ],
     "solutions": [
         [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Yuumi"
+        ],
+        [
+            "Alistar",
             "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
         ],
         [
-            "Lucian",
-            "Vayne"
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Tristana",
-            "Twitch",
-            "Vayne",
+            "Veigar"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Rakan",
+            "Reksai",
+            "Wukong",
             "Xayah"
         ],
         [
-            "Brand",
-            "Jax",
-            "Ksante",
-            "Malzahar",
-            "Pyke",
-            "Zac"
-        ],
-        [
-            "Kayle",
-            "Lux"
-        ],
-        [
-            "Akali"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
             "Galio",
-            "Lux"
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Ryze"
+            "Lulu",
+            "Rumble",
+            "Yuumi"
+        ],
+        [
+            "Akshan",
+            "Aphelios",
+            "Blitzcrank",
+            "Braum",
+            "Garen",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kled",
+            "Malphite",
+            "Milio",
+            "Mordekaiser",
+            "Morgana",
+            "Naafiri",
+            "Nilah",
+            "Nunu",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Shen",
+            "Sivir",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Thresh",
+            "Udyr",
+            "Vi",
+            "Volibear",
+            "Yuumi"
         ]
     ]
 }

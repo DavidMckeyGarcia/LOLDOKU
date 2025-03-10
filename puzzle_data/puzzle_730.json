@@ -1,65 +1,53 @@
 {
     "difficulty": "silver",
     "rows": [
-        "Mid",
+        "Support",
         "OG40",
-        "pool party"
+        "global ult"
     ],
     "cols": [
         "stun",
-        "Freljord",
-        "30+ wins"
+        "Shurima",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
+            "Alistar",
             "Annie",
-            "Aurelion Sol",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
             "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
+            "Braum",
             "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Orianna",
             "Pantheon",
-            "Qiyana",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
             "Velkoz",
-            "Viktor",
             "Xerath",
-            "Yone",
             "Zilean"
         ],
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
         ],
         [
             "Alistar",
@@ -81,34 +69,42 @@
             "Zilean"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
         ],
         [
+            "Amumu",
             "Corki",
-            "Ryze"
-        ],
-        [
-            "Braum",
-            "Fiora",
             "Heimerdinger",
-            "Leona",
-            "Orianna",
-            "Renekton",
-            "Sett",
-            "Syndra",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
             "Taliyah",
-            "Taric",
-            "Zac"
+            "Twisted fate",
+            "Xerath"
         ],
         [
-            "Braum"
+            "Taliyah",
+            "Xerath"
         ],
         [
-            "Orianna",
-            "Taliyah"
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

@@ -1,16 +1,21 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
         "Support",
-        "Season 7+",
-        "arcade"
+        "Space Groove",
+        "true damage"
     ],
     "cols": [
+        "Bandle City",
         "root",
-        "Ionia",
-        "riot records"
+        "0 games"
     ],
     "solutions": [
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Yuumi"
+        ],
         [
             "Karma",
             "Leona",
@@ -28,58 +33,35 @@
             "Zyra"
         ],
         [
-            "Karma",
-            "Rakan"
-        ],
-        [
-            "Senna",
-            "Sona"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
             "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Milio"
         ],
         [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
+            "Lulu",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Aphelios",
+            "Lissandra",
+            "Lux",
+            "Nunu"
+        ],
+        [
+            "Samira"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Ivern",
             "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Senna",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Nunu",
+            "Renata glasc"
         ],
         [
-            "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Ahri",
-            "Yasuo"
-        ],
-        [
-            "Ahri",
-            "Ezreal",
-            "Kaisa",
-            "Qiyana",
-            "Sona",
-            "Yasuo"
+            "Akshan",
+            "Master yi",
+            "Samira"
         ]
     ]
 }

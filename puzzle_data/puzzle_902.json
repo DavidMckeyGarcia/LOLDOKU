@@ -1,58 +1,74 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
+        "Adc",
         "global ult",
         "Season 7+"
     ],
     "cols": [
-        "fear",
-        "The Void",
-        "arcane"
+        "stun",
+        "Piltover",
+        "ascended"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Chogath"
-        ],
-        [
-            "Ambessa",
-            "Heimerdinger",
-            "Jayce",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Kaisa"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
             "Caitlyn",
-            "Ekko",
-            "Jinx",
-            "Mel"
+            "Ezreal",
+            "Seraphine"
         ],
         [
+            "Varus"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
             "Briar",
-            "Hwei",
-            "Vex"
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
         ],
         [
-            "Belveth",
-            "Kaisa"
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Pantheon",
+            "Xerath"
         ],
         [
             "Ambessa",
-            "Mel"
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Camille",
+            "Seraphine"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

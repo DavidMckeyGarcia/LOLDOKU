@@ -1,146 +1,103 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "shield"
+        "Jungle",
+        "true damage",
+        "PROJECT"
     ],
     "cols": [
-        "Bandle City",
+        "Shadow Isles",
         "stun",
-        "riot records"
+        "tether"
     ],
     "solutions": [
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
         ],
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
+            "Amumu",
             "Brand",
-            "Cassiopeia",
+            "Briar",
+            "Camille",
             "Ekko",
             "Elise",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Qiyana",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Yuumi"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Senna",
-            "Sett",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Lulu",
-            "Rumble",
-            "Yuumi"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
+            "Hecarim",
             "Ivern",
-            "Ksante",
-            "Milio",
+            "Jax",
             "Morgana",
             "Nautilus",
-            "Neeko",
             "Nunu",
-            "Orianna",
+            "Pantheon",
             "Poppy",
+            "Qiyana",
+            "Rammus",
             "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
+            "Sejuani",
             "Sett",
-            "Sion",
             "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
+            "Sylas",
+            "Taliyah",
             "Udyr",
-            "Urgot",
             "Vi",
-            "Viktor",
+            "Viego",
             "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Gwen"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
             "Yone"
         ],
         [
-            "Aphelios",
+            "Renata glasc"
+        ],
+        [
+            "Senna"
+        ],
+        [
+            "Ashe",
             "Ekko",
-            "Ksante",
-            "Kaisa",
-            "Mordekaiser",
-            "Olaf",
-            "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo",
-            "Yone"
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Sylas"
         ]
     ]
 }

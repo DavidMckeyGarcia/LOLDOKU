@@ -1,42 +1,37 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Mid",
+        "Adc",
         "OG40",
-        "invis"
+        "Fright Night"
     ],
     "cols": [
         "root",
-        "Bandle City",
-        "pentakill"
+        "Noxus",
+        "yordle"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
+            "Senna",
             "Seraphine",
-            "Swain"
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
             "Corki",
-            "Fizz",
-            "Heimerdinger",
             "Tristana",
-            "Veigar"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Ziggs"
         ],
         [
             "Morgana",
@@ -47,6 +42,13 @@
             "Soraka"
         ],
         [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Amumu",
             "Corki",
             "Heimerdinger",
             "Teemo",
@@ -54,26 +56,17 @@
             "Veigar"
         ],
         [
-            "Ryze",
-            "Tristana",
-            "Twitch"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
+            "Nautilus",
+            "Nunu",
+            "Renata glasc",
             "Shaco"
         ],
         [
-            "Teemo"
+            "Annie",
+            "Draven"
         ],
         [
-            "Akali",
-            "Kaisa",
-            "Twitch",
-            "Vayne"
+            "Veigar"
         ]
     ]
 }

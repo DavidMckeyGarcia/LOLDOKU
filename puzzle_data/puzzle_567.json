@@ -1,24 +1,54 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "before s7",
-        "cosmic"
+        "global ult",
+        "pool party"
     ],
     "cols": [
-        "silence",
-        "Shadow Isles",
+        "stun",
+        "Noxus",
         "shred"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
             "Garen",
@@ -34,49 +64,50 @@
             "Wukong"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Karthus",
-            "Thresh",
-            "Yorick"
-        ],
-        [
-            "Corki",
-            "Evelynn",
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
-            "Karthus",
-            "Kogmaw",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rengar",
-            "Rumble",
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
             "Sion",
-            "Trundle",
-            "Vi",
-            "Wukong"
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
         ],
         [
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
+            "Briar",
+            "Draven",
+            "Kled",
+            "Mel",
             "Sion"
+        ],
+        [
+            "Briar",
+            "Karthus",
+            "Sion"
+        ],
+        [
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Draven"
+        ],
+        [
+            "Jarvan IV",
+            "Renekton",
+            "Zoe"
         ]
     ]
 }

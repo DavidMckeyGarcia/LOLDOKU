@@ -1,104 +1,89 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "OG40",
-        "coven"
+        "Top",
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
-        "Freljord",
+        "Targon",
         "knock-up",
-        "never played"
+        "0 games"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Pantheon"
         ],
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
+            "Aatrox",
             "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
             "Gragas",
-            "Neeko",
-            "Orianna",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
             "Sylas",
-            "Taliyah",
-            "Velkoz",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
             "Yasuo",
             "Yone",
-            "Ziggs"
+            "Zac"
+        ],
+        [
+            "Ambessa",
+            "Illaoi"
+        ],
+        [
+            "Aphelios"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Illaoi",
+            "Samira"
+        ],
+        [
+            "Aphelios",
+            "Zoe"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
             "Akshan",
-            "Brand",
-            "Chogath",
-            "Elise",
-            "Heimerdinger",
-            "Kennen",
-            "Naafiri"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Ashe",
-            "Lissandra"
-        ],
-        [
-            "Nami",
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Elise",
-            "Evelynn",
-            "Morgana",
-            "Nami",
-            "Nilah",
-            "Zyra"
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

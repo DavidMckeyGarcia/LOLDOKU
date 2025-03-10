@@ -1,152 +1,72 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "pool party",
-        "Season 7+"
+        "Jungle",
+        "Season 7+",
+        "ult execute"
     ],
     "cols": [
-        "Zaun",
-        "slow",
-        "100% AP Ratio"
+        "Ionia",
+        "fear",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
-        [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
-            "Karma",
-            "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Dr. Mundo",
-            "Orianna",
-            "Singed",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Braum",
-            "Caitlyn",
-            "Dr. Mundo",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Graves",
-            "Heimerdinger",
-            "Jarvan IV",
+            "Ivern",
+            "Kayn",
             "Lee sin",
-            "Leona",
-            "Lulu",
-            "Miss Fortune",
-            "Orianna",
-            "Reksai",
+            "Lillia",
+            "Master yi",
             "Sett",
-            "Singed",
-            "Syndra",
-            "Taliyah",
-            "Zac",
-            "Ziggs",
-            "Zoe"
+            "Shen",
+            "Wukong"
         ],
         [
-            "Fiora",
-            "Gangplank"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Aphelios",
-            "Aurora",
-            "Belveth",
             "Briar",
-            "Camille",
-            "Gwen",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
+        ],
+        [
             "Hwei",
-            "Ksante",
-            "Kaisa",
             "Kayn",
             "Lillia",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Ornn",
-            "Pyke",
             "Rakan",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Seraphine",
             "Sett",
-            "Smolder",
-            "Sylas",
-            "Vex",
-            "Viego",
-            "Yuumi",
-            "Zeri",
-            "Zoe"
+            "Xayah",
+            "Yone"
         ],
         [
-            "Aphelios",
-            "Belveth",
             "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Jhin",
+            "Syndra"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Darius",
+            "Viego"
         ]
     ]
 }

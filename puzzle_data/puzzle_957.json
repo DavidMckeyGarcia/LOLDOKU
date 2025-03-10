@@ -1,70 +1,102 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "before s7",
-        "Space Groove"
+        "Adc",
+        "PROJECT",
+        "before s7"
     ],
     "cols": [
-        "Zaun",
-        "silence",
-        "vastayan"
+        "Shurima",
+        "root",
+        "arcane"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Sivir"
         ],
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Wukong"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Ekko",
-            "Janna",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
             "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Jax",
+            "Renekton"
+        ],
+        [
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Senna",
+            "Varus"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Renekton",
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Heimerdinger",
+            "Janna",
+            "Jayce",
+            "Jinx",
+            "LeBlanc",
             "Orianna",
             "Singed",
-            "Twitch",
-            "Urgot",
             "Vi",
             "Viktor",
-            "Warwick",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Ahri",
-            "Nami",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Blitzcrank"
-        ],
-        [
-            "Blitzcrank",
-            "Lulu"
-        ],
-        [
-            "Nami"
+            "Warwick"
         ]
     ]
 }

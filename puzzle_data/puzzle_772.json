@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "arcade",
-        "shield"
+        "shield",
+        "cosmic"
     ],
     "cols": [
         "slow",
-        "The Void",
-        "riot records"
+        "Bandle City",
+        "shred"
     ],
     "solutions": [
         [
@@ -24,7 +24,6 @@
             "Corki",
             "Diana",
             "Ekko",
-            "Elise",
             "Fizz",
             "Galio",
             "Gragas",
@@ -63,47 +62,17 @@
             "Zoe"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Qiyana",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Brand",
-            "Caitlyn",
             "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Miss Fortune",
-            "Qiyana",
-            "Sona",
-            "Ziggs"
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Belveth",
-            "Kaisa",
-            "Malzahar"
-        ],
-        [
-            "Ahri",
-            "Ezreal",
-            "Kaisa",
-            "Qiyana",
-            "Sona",
-            "Yasuo"
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
         ],
         [
             "Aphelios",
@@ -160,21 +129,45 @@
             "Yuumi"
         ],
         [
-            "Kaisa",
-            "Kassadin"
+            "Lulu",
+            "Rumble",
+            "Yuumi"
         ],
         [
-            "Aphelios",
-            "Ekko",
-            "Ksante",
-            "Kaisa",
+            "Garen",
+            "Jarvan IV",
             "Mordekaiser",
             "Olaf",
-            "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo",
-            "Yone"
+            "Rell",
+            "Rumble",
+            "Sion",
+            "Vi"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Hecarim",
+            "Illaoi",
+            "Jhin",
+            "Kassadin",
+            "Lissandra",
+            "Lulu",
+            "Lux",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Skarner",
+            "Varus",
+            "Vladimir",
+            "Xin Zhao"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Sion"
         ]
     ]
 }

@@ -1,63 +1,66 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Top",
-        "arcade",
+        "Mid",
+        "shield",
         "OG40"
     ],
     "cols": [
         "Piltover",
-        "root",
-        "ult reset"
+        "silence",
+        "0 games"
     ],
     "solutions": [
         [
-            "Camille",
+            "Ezreal",
             "Heimerdinger",
-            "Jayce"
+            "Jayce",
+            "Orianna",
+            "Seraphine"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Naafiri",
+            "Vex"
         ],
         [
-            "Caitlyn",
-            "Ezreal"
+            "Camille",
+            "Orianna",
+            "Seraphine"
         ],
         [
-            "Caitlyn",
-            "Qiyana"
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
         ],
         [
-            "Ahri",
-            "Belveth"
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Vex"
         ],
         [
             "Heimerdinger"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
             "Soraka"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Master yi"
         ]
     ]
 }

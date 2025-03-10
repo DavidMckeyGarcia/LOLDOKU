@@ -1,16 +1,20 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "Season 7+",
-        "shield"
+        "cosmic",
+        "before s7"
     ],
     "cols": [
+        "Bilgewater",
         "stun",
-        "Shurima",
-        "yordle"
+        "0 games"
     ],
     "solutions": [
+        [
+            "Fizz",
+            "Twisted fate"
+        ],
         [
             "Ambessa",
             "Anivia",
@@ -19,11 +23,9 @@
             "Brand",
             "Cassiopeia",
             "Ekko",
-            "Elise",
             "Gragas",
             "Heimerdinger",
             "Irelia",
-            "Kennen",
             "Lissandra",
             "Malzahar",
             "Neeko",
@@ -44,94 +46,104 @@
         ],
         [
             "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
             "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
-        ],
-        [
+            "Mel",
+            "Naafiri",
             "Vex"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
+            "Illaoi",
+            "Nami",
+            "Nautilus"
+        ],
+        [
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
+            "Nami",
             "Nautilus",
-            "Neeko",
+            "Nunu",
+            "Sion",
+            "Skarner",
+            "Xin Zhao"
+        ],
+        [
+            "Illaoi",
+            "Master yi"
+        ],
+        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Nunu",
             "Orianna",
+            "Pantheon",
             "Poppy",
-            "Rell",
-            "Renata glasc",
+            "Rammus",
+            "Renekton",
             "Riven",
-            "Seraphine",
-            "Sett",
+            "Sejuani",
             "Sion",
             "Skarner",
             "Sona",
+            "Syndra",
             "Tahm kench",
+            "Taliyah",
             "Taric",
             "Thresh",
+            "Twisted fate",
             "Udyr",
             "Urgot",
+            "Vayne",
+            "Veigar",
+            "Velkoz",
             "Vi",
             "Viktor",
             "Volibear",
-            "Yone"
+            "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
+            "Zilean"
         ],
         [
-            "Akshan",
-            "Azir",
-            "Ksante",
-            "Naafiri",
-            "Sivir"
-        ],
-        [
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Vex"
+            "Illaoi",
+            "Master yi"
         ]
     ]
 }

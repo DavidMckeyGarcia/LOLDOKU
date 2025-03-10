@@ -1,106 +1,75 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
         "Mid",
-        "dark star",
-        "Season 7+"
+        "ult execute",
+        "pool party"
     ],
     "cols": [
-        "knock-up",
-        "Shurima",
-        "100% AP Ratio"
+        "root",
+        "Zaun",
+        "arcane"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
             "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Ekko",
             "Orianna",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
+            "Viktor",
             "Ziggs"
         ],
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Aurelion Sol",
-            "Chogath",
-            "Corki",
+            "Ambessa",
             "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
+            "Heimerdinger",
+            "Jayce",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
         ],
         [
-            "Chogath",
-            "Jarvan IV",
-            "Malphite",
-            "Orianna"
-        ],
-        [
-            "Xerath"
-        ],
-        [
-            "Chogath",
             "Jhin",
-            "Karma",
-            "Lux",
-            "Thresh",
-            "Varus",
-            "Xerath"
+            "Jinx"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Jinx",
+            "Urgot"
         ],
         [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
+            "Jinx"
         ],
         [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Caitlyn",
+            "Lee sin",
+            "Leona",
+            "Singed",
+            "Zac"
+        ],
+        [
+            "Dr. Mundo",
+            "Orianna",
+            "Singed",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Heimerdinger",
+            "Orianna",
+            "Singed"
         ]
     ]
 }

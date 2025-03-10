@@ -1,116 +1,75 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "OG40",
-        "shield"
+        "Support",
+        "ult execute",
+        "before s7"
     ],
     "cols": [
         "silence",
-        "Demacia",
-        "never played"
+        "Shurima",
+        "arcane"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Elise",
-            "Heimerdinger",
-            "Kennen",
-            "Naafiri"
-        ],
-        [
             "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
+            "Lulu",
             "Soraka"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
             "Heimerdinger",
             "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
+            "Mel"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Jinx"
         ],
         [
             "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
             "Garen",
             "Kassadin",
-            "Lulu"
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Blitzcrank",
-            "Braum",
-            "Garen",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kled",
-            "Malphite",
-            "Milio",
-            "Mordekaiser",
-            "Morgana",
-            "Naafiri",
-            "Nilah",
-            "Nunu",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Senna",
-            "Shen",
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Renekton",
             "Sivir",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Thresh",
-            "Udyr",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Heimerdinger",
+            "Janna",
+            "Jayce",
+            "Jinx",
+            "LeBlanc",
+            "Orianna",
+            "Singed",
             "Vi",
-            "Volibear",
-            "Yuumi"
+            "Viktor",
+            "Warwick"
         ]
     ]
 }

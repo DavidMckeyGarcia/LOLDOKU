@@ -1,69 +1,82 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "elderwood",
-        "OG40"
+        "Top",
+        "ult execute",
+        "empyrean"
     ],
     "cols": [
-        "Freljord",
-        "stun",
-        "30+ wins"
+        "Demacia",
+        "knock-up",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ashe"
-        ],
-        [
-            "Ashe",
-            "Seraphine",
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
             "Vayne"
         ],
         [
-            "Corki"
-        ],
-        [
-            "Gnar"
-        ],
-        [
-            "Bard",
-            "Gnar",
-            "Hecarim",
-            "Veigar"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "LeBlanc"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
             "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Corki",
-            "Ryze"
+            "Aatrox",
+            "Gnar",
+            "Gragas",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Maokai",
+            "Renekton",
+            "Rumble",
+            "Shen"
+        ],
+        [
+            "Garen"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Jhin",
+            "Syndra"
+        ],
+        [
+            "Kayle",
+            "Lux"
+        ],
+        [
+            "Ksante",
+            "Zac"
+        ],
+        [
+            "Jax",
+            "Jhin",
+            "Varus"
         ]
     ]
 }

@@ -1,41 +1,49 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
+        "Top",
         "Season 7+",
-        "ult execute"
+        "invis"
     ],
     "cols": [
         "Noxus",
-        "fear",
-        "arcane"
+        "knock-up",
+        "0 games"
     ],
     "solutions": [
         [
             "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
             "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "Jayce",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
+            "Illaoi"
         ],
         [
             "Ambessa",
@@ -47,25 +55,39 @@
             "Smolder"
         ],
         [
+            "Belveth",
             "Briar",
-            "Hwei",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
             "Vex"
         ],
         [
-            "Ambessa",
-            "Mel"
+            "LeBlanc",
+            "Talon"
         ],
         [
-            "Darius",
-            "Draven",
-            "Riven"
+            "Neeko",
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Jinx"
+            "Akshan"
         ]
     ]
 }

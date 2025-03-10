@@ -1,71 +1,91 @@
 {
     "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "coven",
+        "Top",
+        "hextech",
         "Season 7+"
     ],
     "cols": [
-        "knock-up",
         "Noxus",
-        "100+ games"
+        "knock-up",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Aatrox",
             "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
             "Gragas",
-            "Neeko",
-            "Orianna",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
             "Sylas",
-            "Taliyah",
-            "Velkoz",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
             "Yasuo",
             "Yone",
+            "Zac"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
             "Ziggs"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Azir",
-            "Elise",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
+            "Alistar",
+            "Nocturne",
+            "Rammus",
             "Tristana"
         ],
         [
-            "Nami",
-            "Zyra"
-        ],
-        [
-            "Cassiopeia",
-            "Elise",
-            "LeBlanc"
-        ],
-        [
-            "Ashe",
-            "Elise",
-            "Syndra"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
             "Belveth",
@@ -81,18 +101,15 @@
             "Yone"
         ],
         [
-            "Ambessa",
+            "Aphelios",
+            "Belveth",
             "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
-        ],
-        [
             "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
         ]
     ]
 }

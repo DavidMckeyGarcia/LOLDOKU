@@ -1,91 +1,74 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
         "Adc",
-        "life steal",
-        "Season 7+"
+        "prestige",
+        "true damage"
     ],
     "cols": [
-        "Noxus",
         "knock-up",
-        "riot records"
+        "Shurima",
+        "tether"
     ],
     "solutions": [
-        [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
         [
             "Kalista",
             "Samira",
             "Ziggs"
         ],
         [
-            "Aphelios",
-            "Ezreal",
-            "Kaisa",
-            "Senna"
+            "Sivir"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
+            "Kalista"
         ],
         [
             "Aatrox",
-            "Belveth",
-            "Briar",
+            "Diana",
+            "Fizz",
             "Ksante",
             "Kayn",
             "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
         ],
         [
-            "Aphelios",
+            "Aatrox",
+            "Jax",
             "Ksante",
-            "Kayn",
-            "Olaf",
-            "Senna",
-            "Viego"
+            "Sivir"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
+            "Aatrox",
+            "LeBlanc",
+            "Morgana",
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ],
         [
             "Belveth",
-            "Briar",
+            "Chogath",
+            "Ivern",
             "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
+            "Nunu",
             "Samira",
-            "Sylas",
+            "Velkoz",
             "Yone"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Senna",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Renata glasc"
         ]
     ]
 }

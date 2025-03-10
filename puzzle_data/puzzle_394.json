@@ -1,116 +1,54 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "before s7",
-        "dash"
+        "Mid",
+        "dash",
+        "Season 7+"
     ],
     "cols": [
-        "Zaun",
+        "Bilgewater",
         "knock-up",
-        "0 games"
+        "yordle"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Fizz",
+            "Twisted fate"
         ],
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Ambessa",
-            "Illaoi"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Ekko",
-            "Janna",
-            "Jinx",
-            "Orianna",
-            "Singed",
-            "Twitch",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Warwick",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
             "Anivia",
             "Aurelion Sol",
             "Azir",
-            "Blitzcrank",
-            "Braum",
             "Chogath",
             "Diana",
             "Fizz",
             "Galio",
             "Gragas",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nami",
-            "Nautilus",
-            "Nunu",
+            "Neeko",
             "Orianna",
-            "Poppy",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Tahm kench",
+            "Sylas",
             "Taliyah",
-            "Trundle",
             "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
             "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Illaoi",
-            "Master yi"
-        ],
-        [
-            "Ekko",
-            "Urgot",
-            "Vi",
-            "Warwick",
-            "Zac",
-            "Zeri",
+            "Yone",
             "Ziggs"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Fizz",
+            "Graves",
+            "Illaoi",
+            "Nautilus",
+            "Nilah",
+            "Pyke"
         ],
         [
             "Aatrox",
@@ -150,11 +88,34 @@
             "Ziggs"
         ],
         [
-            "Ambessa",
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Kled",
+            "Poppy",
+            "Tristana",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Belveth",
             "Briar",
-            "Illaoi",
-            "Naafiri",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
             "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
             "Vex"
         ]
     ]

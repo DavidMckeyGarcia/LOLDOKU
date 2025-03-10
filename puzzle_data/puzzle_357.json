@@ -1,64 +1,53 @@
 {
     "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "OG40",
-        "pool party"
+        "Support",
+        "hextech",
+        "ult execute"
     ],
     "cols": [
-        "Noxus",
+        "Zaun",
         "silence",
-        "yordle"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
-        ],
-        [
-            "Fiddlesticks"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
         ],
         [
             "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
+            "Lulu",
             "Soraka"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Swain"
         ],
         [
-            "Draven"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
+            "Janna",
+            "Singed",
             "Ziggs"
+        ],
+        [
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Jinx",
+            "Urgot"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Darius",
+            "Viego"
         ]
     ]
 }

@@ -1,82 +1,51 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "dark star",
+        "Top",
+        "true damage",
         "OG40"
     ],
     "cols": [
         "root",
-        "Ionia",
-        "100% AP Ratio"
+        "Shadow Isles",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
+            "Ksante",
             "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Gwen",
+            "Maokai",
+            "Yorick"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
+            "Gragas",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Maokai",
+            "Renekton",
+            "Rumble",
+            "Shen"
         ],
         [
             "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
+            "Ksante",
             "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
+            "Renata glasc"
         ],
         [
-            "Jhin",
-            "Karma",
-            "Lissandra",
-            "Lux",
-            "Shaco",
-            "Varus"
+            "Gwen"
         ],
         [
-            "Jhin",
-            "Karma",
-            "Varus"
-        ],
-        [
-            "Chogath",
-            "Jhin",
-            "Karma",
-            "Lux",
-            "Thresh",
-            "Varus",
-            "Xerath"
+            "Syndra"
         ],
         [
             "Morgana",
@@ -87,26 +56,15 @@
             "Soraka"
         ],
         [
-            "Master yi"
+            "Karthus"
         ],
         [
             "Alistar",
             "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
+            "Janna",
             "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

@@ -1,55 +1,58 @@
 {
     "difficulty": "challenger",
     "rows": [
-        "Support",
-        "OG40",
-        "true damage"
+        "Jungle",
+        "ult execute",
+        "Season 7+"
     ],
     "cols": [
-        "Targon",
-        "silence",
-        "30+ wins"
+        "fear",
+        "Bandle City",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Galio"
-        ],
-        [
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
+            "Briar",
             "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Corki",
-            "Ryze"
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Zoe"
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Ahri",
-            "Corki"
+            "Veigar"
+        ],
+        [
+            "Darius",
+            "Viego"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Yuumi"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
         ]
     ]
 }

@@ -1,94 +1,146 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
+        "Adc",
         "OG40",
-        "prestige"
+        "global ult"
     ],
     "cols": [
-        "Targon",
-        "root",
-        "yordle"
+        "Freljord",
+        "slow",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
+            "Ashe"
         ],
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
             "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
             "Senna",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Morgana",
+            "Anivia",
+            "Ashe",
             "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
             "Ryze",
             "Shaco",
             "Singed",
-            "Soraka"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
+            "Sion",
+            "Sivir",
+            "Soraka",
             "Teemo",
             "Tristana",
-            "Veigar"
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Diana",
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Zoe"
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ],
         [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
             "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
             "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
             "Lux",
-            "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
+            "Maokai",
+            "Mel",
+            "Nocturne",
+            "Ornn",
+            "Pantheon",
+            "Ryze",
             "Senna",
-            "Shaco",
+            "Shen",
+            "Sion",
             "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
         ],
         [
-            "Fizz",
-            "Lulu",
-            "Teemo"
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

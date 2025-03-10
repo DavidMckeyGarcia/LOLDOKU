@@ -1,50 +1,84 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "before s7",
-        "global ult"
+        "Top",
+        "ult execute",
+        "before s7"
     ],
     "cols": [
+        "Ionia",
         "knock-up",
-        "The Void",
-        "yordle"
+        "pentakill"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
+            "Akali",
+            "Irelia",
             "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
+            "Kennen",
+            "Sett",
+            "Shen",
             "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Amumu",
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
             "Poppy",
-            "Rumble",
-            "Teemo"
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Akali",
+            "Jhin",
+            "Syndra"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Jinx"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Jhin",
+            "Karma",
+            "Kennen",
+            "Lee sin",
+            "Master yi",
+            "Shen",
+            "Syndra",
+            "Varus",
+            "Wukong",
+            "Yasuo",
+            "Zed"
         ],
         [
             "Aatrox",
@@ -88,45 +122,18 @@
             "Zyra"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Khazix",
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kalista",
             "Kogmaw",
-            "Reksai",
-            "Velkoz"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Teemo",
+            "Lucian",
+            "Ryze",
             "Tristana",
-            "Veigar",
-            "Ziggs"
-        ],
-        [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Kled",
-            "Vex",
-            "Ziggs"
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

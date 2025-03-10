@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
         "Top",
-        "shield",
-        "OG40"
+        "blink",
+        "before s7"
     ],
     "cols": [
         "stun",
-        "Demacia",
-        "tether"
+        "Shadow Isles",
+        "pentakill"
     ],
     "solutions": [
         [
@@ -41,73 +41,33 @@
             "Zac"
         ],
         [
+            "Gwen",
+            "Maokai",
+            "Yorick"
+        ],
+        [
+            "Akali",
+            "Darius",
             "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
             "Vayne"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
-        ],
-        [
             "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
             "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
             "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
+            "Twisted fate",
+            "Viego",
             "Yone"
         ],
         [
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Viego"
         ],
         [
-            "Karma",
-            "Kled",
-            "Morgana",
-            "Nocturne",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Ezreal",
+            "Ryze"
         ],
         [
             "Alistar",
@@ -115,27 +75,79 @@
             "Anivia",
             "Annie",
             "Ashe",
+            "Aurelion Sol",
+            "Bard",
             "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
             "Heimerdinger",
+            "Irelia",
+            "Ivern",
             "Jax",
+            "Kennen",
+            "Leona",
+            "Lissandra",
             "Morgana",
+            "Nami",
+            "Nautilus",
             "Nunu",
+            "Orianna",
+            "Pantheon",
+            "Poppy",
             "Rammus",
+            "Renekton",
+            "Riven",
+            "Sejuani",
             "Sion",
+            "Skarner",
+            "Sona",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
             "Taric",
+            "Thresh",
             "Twisted fate",
+            "Udyr",
+            "Urgot",
+            "Vayne",
             "Veigar",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
             "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
             "Zilean"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Hecarim",
+            "Kalista",
+            "Karthus",
+            "Thresh",
+            "Yorick"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Ryze",
+            "Tristana",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

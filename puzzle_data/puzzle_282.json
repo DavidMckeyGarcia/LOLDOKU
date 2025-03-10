@@ -1,85 +1,63 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "arcade",
+        "Mid",
+        "coven",
         "before s7"
     ],
     "cols": [
-        "Freljord",
         "knock-up",
-        "arcane"
+        "Piltover",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Belveth",
-            "Briar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
             "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
+            "Neeko",
+            "Orianna",
             "Sylas",
             "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Riven",
+            "Velkoz",
             "Yasuo",
+            "Yone",
             "Ziggs"
         ],
         [
-            "Caitlyn"
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna",
+            "Seraphine"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Brand",
-            "Braum",
-            "Gnar",
+            "Azir",
+            "Ezreal",
             "Gragas",
-            "Kindred",
-            "Lissandra",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Jayce",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
+        ],
+        [
+            "Nami",
+            "Zyra"
+        ],
+        [
+            "Camille"
+        ],
+        [
+            "Ashe",
+            "Elise",
+            "Syndra"
         ],
         [
             "Aatrox",
@@ -124,17 +102,42 @@
         ],
         [
             "Caitlyn",
-            "Ekko",
+            "Ezreal",
             "Heimerdinger",
-            "Janna",
             "Jayce",
-            "Jinx",
-            "LeBlanc",
+            "Orianna"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Ashe",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Janna",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Jhin",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Lulu",
             "Orianna",
-            "Singed",
-            "Vi",
-            "Viktor",
-            "Warwick"
+            "Renekton",
+            "Rumble",
+            "Ryze",
+            "Sejuani",
+            "Shen",
+            "Syndra",
+            "Thresh",
+            "Tristana",
+            "Varus"
         ]
     ]
 }

@@ -1,106 +1,144 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "true damage",
-        "Season 7+"
+        "Mid",
+        "pool party",
+        "dash"
     ],
     "cols": [
+        "Targon",
         "stun",
-        "The Void",
         "yordle"
     ],
     "solutions": [
         [
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
+        ],
+        [
             "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
             "Gragas",
             "Heimerdinger",
             "Irelia",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Leona",
+            "Taric",
+            "Zoe"
+        ],
+        [
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Ziggs"
+        ],
+        [
+            "Aurelion Sol",
+            "Diana",
+            "Leona",
+            "Pantheon"
+        ],
+        [
+            "Alistar",
+            "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
             "Jax",
             "Ksante",
-            "Kennen",
+            "Leona",
+            "Nautilus",
             "Ornn",
             "Pantheon",
             "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
             "Renekton",
             "Riven",
+            "Sejuani",
             "Sett",
-            "Sion",
-            "Skarner",
             "Sylas",
-            "Tahm kench",
-            "Udyr",
+            "Taliyah",
+            "Thresh",
             "Urgot",
             "Vayne",
+            "Vi",
+            "Viego",
             "Volibear",
             "Warwick",
+            "Xin Zhao",
             "Yone",
             "Zac"
         ],
         [
-            "Chogath"
-        ],
-        [
+            "Amumu",
+            "Corki",
+            "Fizz",
             "Gnar",
-            "Heimerdinger",
-            "Kennen",
             "Kled",
             "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
-        ],
-        [
-            "Amumu",
-            "Corki"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Kaisa"
-        ],
-        [
-            "Vex"
+            "Tristana",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

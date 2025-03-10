@@ -1,80 +1,113 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "prestige",
-        "Season 7+"
+        "Adc",
+        "Season 7+",
+        "evolves"
     ],
     "cols": [
-        "fear",
-        "Zaun",
-        "100+ games"
+        "slow",
+        "Noxus",
+        "ascended"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Jinx",
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Aatrox",
+            "Aphelios",
+            "Ashe",
             "Caitlyn",
-            "Ezreal",
-            "Jax",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
             "Kaisa",
-            "Lee sin",
-            "Leona",
-            "Lucian",
-            "Lulu",
-            "Rakan",
-            "Thresh",
-            "Xayah"
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
             "Briar",
+            "Camille",
+            "Gwen",
             "Hwei",
-            "Vex"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
+            "Ksante",
             "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
             "Rakan",
-            "Xayah"
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Bard",
+            "Belveth",
+            "Gangplank",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Khazix",
+            "Smolder",
+            "Syndra",
+            "Viktor"
+        ],
+        [
+            "Kayn",
+            "Smolder"
+        ],
+        [
+            "Kayn"
         ]
     ]
 }

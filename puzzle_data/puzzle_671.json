@@ -1,84 +1,63 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
         "Support",
-        "life steal",
-        "arcade"
+        "ult execute",
+        "OG40"
     ],
     "cols": [
-        "root",
-        "Zaun",
-        "100% AP Ratio"
+        "Noxus",
+        "silence",
+        "shred"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
+            "Alistar",
+            "Annie",
             "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Rell",
+            "Swain"
         ],
         [
             "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Rell"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Evelynn",
+            "Garen"
         ],
         [
             "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Warwick"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Viego",
-            "Vladimir",
-            "Warwick"
-        ],
-        [
-            "Caitlyn",
-            "Qiyana"
+            "Annie",
+            "Katarina",
+            "Sion"
         ],
         [
             "Blitzcrank",
-            "Ziggs"
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Belveth",
-            "Blitzcrank",
             "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Veigar"
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ]
     ]
 }

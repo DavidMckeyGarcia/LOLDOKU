@@ -1,16 +1,26 @@
 {
-    "difficulty": "silver",
+    "difficulty": "iron",
     "rows": [
         "Top",
-        "life steal",
-        "worlds skin"
+        "PROJECT",
+        "before s7"
     ],
     "cols": [
+        "Noxus",
         "stun",
-        "Targon",
-        "riot records"
+        "ascended"
     ],
     "solutions": [
+        [
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
+        ],
         [
             "Ambessa",
             "Camille",
@@ -41,80 +51,123 @@
             "Zac"
         ],
         [
-            "Pantheon"
-        ],
-        [
-            "Akali",
-            "Ksante",
-            "Kayle",
+            "Aatrox",
             "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
-            "Yasuo",
-            "Yone",
-            "Yorick"
+            "Nasus",
+            "Pantheon",
+            "Renekton"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
+            "Katarina",
+            "Mordekaiser"
+        ],
+        [
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
             "Warwick"
         ],
         [
-            "Aphelios"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Kayn",
-            "Olaf",
-            "Senna",
-            "Viego"
+            "Leona",
+            "Renekton",
+            "Varus"
         ],
         [
             "Alistar",
+            "Annie",
+            "Cassiopeia",
+            "Darius",
+            "Draven",
+            "Elise",
+            "Katarina",
+            "Kled",
+            "LeBlanc",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
+            "Aurelion Sol",
             "Bard",
-            "Camille",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Cassiopeia",
             "Ekko",
             "Elise",
             "Fiora",
             "Gnar",
             "Gragas",
+            "Hecarim",
+            "Heimerdinger",
             "Irelia",
+            "Ivern",
             "Jax",
             "Kennen",
             "Leona",
+            "Lissandra",
+            "Morgana",
             "Nami",
+            "Nautilus",
             "Nunu",
             "Orianna",
+            "Pantheon",
+            "Poppy",
+            "Rammus",
             "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Skarner",
+            "Sona",
             "Syndra",
+            "Tahm kench",
             "Taliyah",
+            "Taric",
             "Thresh",
             "Twisted fate",
+            "Udyr",
+            "Urgot",
             "Vayne",
-            "Viego",
-            "Zac"
+            "Veigar",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
+            "Zilean"
         ],
         [
-            "Aphelios",
+            "Aatrox",
+            "Azir",
+            "Diana",
             "Leona",
-            "Zoe"
-        ],
-        [
-            "Akali",
-            "Aphelios",
-            "Ekko",
-            "Ezreal",
-            "Kaisa",
-            "Karthus",
-            "Viego"
+            "Nasus",
+            "Pantheon",
+            "Renekton",
+            "Taric",
+            "Varus",
+            "Xerath"
         ]
     ]
 }

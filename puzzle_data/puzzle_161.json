@@ -1,148 +1,96 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "true damage",
-        "Season 7+"
+        "Adc",
+        "Season 7+",
+        "shield"
     ],
     "cols": [
-        "slow",
-        "Zaun",
-        "riot records"
+        "knock-up",
+        "Piltover",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
-            "Karma",
-            "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
-        ],
-        [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
-        [
-            "Senna",
-            "Sona"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Belveth",
-            "Camille",
-            "Chogath",
-            "Corki",
-            "Darius",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Ksante",
-            "Kogmaw",
-            "Lillia",
-            "Nunu",
-            "Olaf",
-            "Pyke",
-            "Renata glasc",
+            "Kalista",
             "Samira",
-            "Sett",
-            "Syndra",
-            "Twitch",
-            "Urgot",
-            "Velkoz",
-            "Zoe"
+            "Ziggs"
         ],
         [
-            "Renata glasc",
-            "Twitch",
-            "Urgot"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ksante",
-            "Olaf",
-            "Sett",
-            "Yone"
+            "Caitlyn",
+            "Ezreal",
+            "Seraphine"
         ],
         [
             "Aphelios",
-            "Aurora",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
+        ],
+        [
             "Belveth",
             "Briar",
-            "Camille",
-            "Gwen",
-            "Hwei",
             "Ksante",
-            "Kaisa",
             "Kayn",
-            "Lillia",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Nilah",
+            "Neeko",
             "Ornn",
-            "Pyke",
             "Rakan",
-            "Renata glasc",
+            "Rell",
             "Samira",
-            "Senna",
-            "Seraphine",
-            "Sett",
-            "Smolder",
             "Sylas",
-            "Vex",
-            "Viego",
-            "Yuumi",
-            "Zeri",
-            "Zoe"
+            "Yone"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Camille",
+            "Seraphine"
         ],
         [
             "Aphelios",
-            "Ksante",
             "Kaisa",
-            "Kayn",
-            "Senna",
-            "Sett",
-            "Viego",
+            "Xayah"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
             "Yone"
+        ],
+        [
+            "Camille",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Aphelios",
+            "Kaisa"
         ]
     ]
 }

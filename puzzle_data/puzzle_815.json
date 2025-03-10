@@ -1,90 +1,143 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "OG40",
-        "worlds skin"
+        "Support",
+        "shield",
+        "before s7"
     ],
     "cols": [
+        "The Void",
         "knock-up",
-        "Zaun",
         "yordle"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Tristana",
-            "Ziggs"
+            "Velkoz"
         ],
         [
             "Alistar",
-            "Anivia",
             "Blitzcrank",
-            "Chogath",
+            "Braum",
+            "Galio",
             "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Amumu",
-            "Corki",
             "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Kaisa",
+            "Kassadin"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
         ],
         [
             "Aatrox",
             "Alistar",
+            "Anivia",
+            "Aurelion Sol",
             "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
+            "Ivern",
             "Janna",
             "Jarvan IV",
             "Kalista",
             "Lee sin",
+            "Lulu",
             "Malphite",
             "Nami",
+            "Nautilus",
             "Nunu",
             "Orianna",
-            "Rakan",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
             "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
             "Zac",
+            "Ziggs",
             "Zyra"
         ],
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Janna",
-            "Jinx",
-            "Orianna",
-            "Singed",
-            "Twitch",
-            "Zac"
-        ],
-        [
+            "Amumu",
             "Corki",
+            "Fizz",
             "Gnar",
-            "Kennen"
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

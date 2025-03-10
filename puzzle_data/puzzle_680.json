@@ -1,71 +1,150 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "OG40",
-        "blink"
+        "Support",
+        "arcade",
+        "shield"
     ],
     "cols": [
-        "knock-up",
-        "Bilgewater",
-        "pentakill"
+        "slow",
+        "Freljord",
+        "arcane"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
+            "Zyra"
+        ],
+        [
+            "Ashe",
+            "Brand",
+            "Braum"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Mel"
+        ],
+        [
+            "Ahri",
+            "Belveth",
+            "Brand",
+            "Caitlyn",
+            "Corki",
+            "Hecarim",
+            "Kaisa",
+            "Miss Fortune",
+            "Qiyana",
+            "Sona",
             "Ziggs"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
+            "Brand"
+        ],
+        [
+            "Caitlyn"
         ],
         [
             "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Tristana",
-            "Twitch",
-            "Vayne",
-            "Xayah"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
+            "Azir",
+            "Braum",
+            "Camille",
+            "Diana",
+            "Ekko",
+            "Galio",
+            "Garen",
+            "Hwei",
+            "Ivern",
             "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Kaisa",
+            "Karma",
+            "Kassadin",
+            "Kled",
+            "Lee sin",
+            "Lulu",
+            "Lux",
             "Malphite",
+            "Mel",
+            "Milio",
+            "Mordekaiser",
+            "Morgana",
+            "Naafiri",
+            "Nautilus",
+            "Nilah",
+            "Nocturne",
             "Nunu",
-            "Sion"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Ryze",
-            "Tristana",
-            "Twitch"
-        ],
-        [
-            "Reksai",
+            "Olaf",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Renata glasc",
+            "Rumble",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Shen",
+            "Sion",
+            "Sivir",
+            "Skarner",
+            "Sona",
             "Tahm kench",
-            "Yasuo",
-            "Yone"
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vex",
+            "Viktor",
+            "Volibear",
+            "Yuumi"
         ],
         [
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate"
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Ezreal",
-            "Ryze"
+            "Ambessa",
+            "Ekko",
+            "Janna",
+            "Mel",
+            "Orianna",
+            "Vi",
+            "Viktor"
         ]
     ]
 }

@@ -1,82 +1,92 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "Season 7+",
-        "true damage"
+        "Adc",
+        "pool party",
+        "global ult"
     ],
     "cols": [
-        "fear",
-        "Freljord",
-        "manaless"
+        "Ionia",
+        "stun",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Lee sin",
             "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
+            "Syndra"
+        ],
+        [
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
+            "Taric",
             "Zac"
         ],
         [
+            "Braum",
+            "Caitlyn",
+            "Graves",
+            "Jarvan IV",
+            "Lee sin",
+            "Leona",
+            "Lulu",
+            "Orianna",
+            "Renekton",
+            "Syndra"
+        ],
+        [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
             "Briar",
-            "Hwei",
-            "Vex"
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
         ],
         [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Sett",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
-            "Akali",
-            "Belveth",
-            "Garen",
-            "Sett",
-            "Yone"
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

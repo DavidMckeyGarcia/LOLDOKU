@@ -1,93 +1,111 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Mid",
-        "prestige",
-        "life steal"
+        "Jungle",
+        "dark star",
+        "true damage"
     ],
     "cols": [
-        "Zaun",
-        "knock-up",
-        "tether"
+        "stun",
+        "Demacia",
+        "manaless"
     ],
     "solutions": [
         [
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
             "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
+            "Elise",
             "Gragas",
-            "Neeko",
-            "Orianna",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
             "Sylas",
             "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
-        ],
-        [
-            "Jinx",
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "LeBlanc",
+            "Jarvan IV",
             "Morgana",
-            "Renata glasc",
+            "Poppy",
+            "Shyvana",
             "Sylas",
-            "Yuumi"
+            "Xin Zhao"
         ],
         [
-            "Warwick"
-        ],
-        [
-            "Aatrox",
             "Belveth",
             "Briar",
-            "Ksante",
-            "Kayn",
+            "Dr. Mundo",
             "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Morgana"
+            "Lissandra",
+            "Orianna",
+            "Thresh",
+            "Xerath"
+        ],
+        [
+            "Jarvan IV",
+            "Lux"
+        ],
+        [
+            "Mordekaiser"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Akali",
+            "Belveth",
+            "Garen",
+            "Sett",
+            "Yone"
         ]
     ]
 }

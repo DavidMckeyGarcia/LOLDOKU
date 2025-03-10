@@ -1,53 +1,87 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "global ult",
-        "OG40"
+        "Mid",
+        "OG40",
+        "true damage"
     ],
     "cols": [
-        "Targon",
-        "silence",
-        "0 games"
+        "Shadow Isles",
+        "knock-up",
+        "riot records"
     ],
     "solutions": [
         [
-            "Diana",
-            "Pantheon"
-        ],
-        [
-            "Fiddlesticks"
-        ],
-        [
-            "Briar",
-            "Master yi"
-        ],
-        [
-            "Aurelion Sol",
-            "Pantheon",
-            "Soraka"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Briar",
-            "Mel",
+            "Karthus",
             "Vex"
         ],
         [
-            "Soraka",
-            "Taric"
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Alistar",
+            "Anivia",
             "Blitzcrank",
             "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Master yi"
+            "Evelynn",
+            "Karthus",
+            "Kayle"
+        ],
+        [
+            "Gwen"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ksante",
+            "Olaf",
+            "Sett",
+            "Yone"
         ]
     ]
 }

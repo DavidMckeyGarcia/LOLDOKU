@@ -1,103 +1,76 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "global ult",
-        "Season 7+"
+        "Adc",
+        "OG40",
+        "pool party"
     ],
     "cols": [
-        "Ionia",
+        "Freljord",
         "stun",
         "ult reset"
     ],
     "solutions": [
         [
-            "Karma",
-            "Rakan"
+            "Ashe"
+        ],
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
             "Alistar",
+            "Amumu",
+            "Anivia",
             "Annie",
             "Ashe",
-            "Bard",
             "Blitzcrank",
-            "Brand",
-            "Braum",
             "Heimerdinger",
-            "Leona",
-            "Milio",
+            "Jax",
             "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
+            "Nunu",
+            "Rammus",
+            "Sion",
             "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
             "Zilean"
         ],
         [
-            "Swain"
+            "Master yi",
+            "Singed",
+            "Sivir"
         ],
         [
-            "Lillia",
-            "Shen"
+            "Braum"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
             "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Taric",
+            "Zac"
         ],
         [
-            "Vex"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
+            "Singed"
         ]
     ]
 }

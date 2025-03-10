@@ -1,60 +1,152 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
+        "Adc",
         "OG40",
-        "arcade"
+        "worlds skin"
     ],
     "cols": [
+        "stun",
         "Piltover",
-        "silence",
-        "yordle"
+        "never played"
     ],
     "solutions": [
         [
-            "Heimerdinger",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
             "Seraphine"
         ],
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
         ],
         [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
             "Heimerdinger",
-            "Lulu",
-            "Poppy"
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
             "Heimerdinger"
         ],
         [
+            "Alistar",
+            "Amumu",
+            "Ashe",
             "Blitzcrank",
             "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
             "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Irelia",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Nami",
+            "Nunu",
+            "Orianna",
+            "Renekton",
+            "Syndra",
+            "Taliyah",
+            "Thresh",
+            "Twisted fate",
+            "Vayne",
+            "Viego",
+            "Zac"
         ],
         [
             "Caitlyn",
-            "Ezreal"
+            "Camille",
+            "Ezreal",
+            "Jayce",
+            "Orianna"
         ],
         [
-            "Blitzcrank",
-            "Malzahar"
-        ],
-        [
-            "Corki",
-            "Veigar",
-            "Ziggs"
+            "Alistar",
+            "Aphelios",
+            "Ashe",
+            "Bard",
+            "Dr. Mundo",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Graves",
+            "Janna",
+            "Jarvan IV",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kennen",
+            "Kindred",
+            "Leona",
+            "Malphite",
+            "Maokai",
+            "Nami",
+            "Nunu",
+            "Rakan",
+            "Rengar",
+            "Shen",
+            "Thresh",
+            "Twitch",
+            "Vayne",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zyra"
         ]
     ]
 }

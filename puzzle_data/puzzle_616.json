@@ -1,76 +1,85 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
         "Jungle",
-        "blink",
-        "empyrean"
+        "before s7",
+        "shield"
     ],
     "cols": [
-        "Bilgewater",
-        "knock-up",
-        "tether"
+        "fear",
+        "The Void",
+        "yordle"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
             "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Amumu",
             "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Rumble",
+            "Teemo"
         ],
         [
+            "Aatrox",
+            "Darius",
             "Fiddlesticks",
-            "Morgana",
+            "Hecarim",
             "Nocturne",
-            "Sylas",
-            "Zac"
+            "Shaco",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
             "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
+            "Velkoz"
         ],
         [
-            "LeBlanc"
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
         ],
         [
-            "Pyke"
-        ],
-        [
-            "Ksante",
-            "Zac"
-        ],
-        [
-            "Malzahar",
+            "Hwei",
             "Nocturne",
-            "Zac"
+            "Urgot",
+            "Vex"
+        ],
+        [
+            "Kaisa",
+            "Kassadin"
+        ],
+        [
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ]
     ]
 }

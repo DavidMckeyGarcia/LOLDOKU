@@ -1,53 +1,126 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "true damage",
-        "Space Groove"
+        "Mid",
+        "Season 7+",
+        "true damage"
     ],
     "cols": [
-        "Demacia",
+        "The Void",
         "slow",
-        "shred"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Anivia",
+            "Aurelion Sol",
+            "Aurora",
+            "Azir",
+            "Brand",
+            "Cassiopeia",
+            "Chogath",
+            "Corki",
+            "Diana",
+            "Ekko",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Heimerdinger",
+            "Hwei",
+            "Irelia",
+            "Jayce",
+            "Karma",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Naafiri",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Talon",
+            "Tristana",
+            "Twisted fate",
+            "Velkoz",
+            "Vex",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Belveth",
+            "Kaisa"
         ],
         [
             "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
             "Kaisa",
-            "Kalista",
-            "Kogmaw",
+            "Kayn",
+            "Lillia",
             "Mel",
-            "Miss Fortune",
+            "Milio",
+            "Naafiri",
             "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
             "Samira",
             "Senna",
             "Seraphine",
-            "Sivir",
+            "Sett",
             "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
             "Zeri",
-            "Ziggs"
+            "Zoe"
         ],
         [
-            "Corki",
-            "Kogmaw"
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Vayne"
+            "Belveth",
+            "Chogath",
+            "Kogmaw",
+            "Velkoz"
         ],
         [
             "Ahri",
@@ -79,31 +152,12 @@
             "Zoe"
         ],
         [
-            "Corki",
-            "Garen",
-            "Kogmaw",
+            "Ahri",
+            "Belveth",
+            "Darius",
+            "Master yi",
             "Olaf",
-            "Zoe"
-        ],
-        [
-            "Lux"
-        ],
-        [
-            "Gragas",
-            "Lissandra",
-            "Lulu",
-            "Lux",
-            "Nami",
-            "Nasus",
-            "Nunu",
-            "Rumble",
-            "Samira",
-            "Teemo",
-            "Twisted fate"
-        ],
-        [
-            "Nasus",
-            "Rumble"
+            "Vayne"
         ]
     ]
 }

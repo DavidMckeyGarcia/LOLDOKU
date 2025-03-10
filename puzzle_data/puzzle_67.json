@@ -1,65 +1,66 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
         "Adc",
         "Fright Night",
-        "Season 7+"
+        "global ult"
     ],
     "cols": [
-        "Zaun",
-        "knock-up",
-        "shred"
+        "stun",
+        "Freljord",
+        "yordle"
     ],
     "solutions": [
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Ashe"
         ],
         [
             "Corki",
-            "Kogmaw"
+            "Tristana",
+            "Ziggs"
         ],
         [
+            "Annie",
+            "Nautilus",
+            "Nunu",
+            "Pyke",
             "Renata glasc",
             "Urgot",
-            "Zeri"
+            "Veigar"
         ],
         [
-            "Nautilus",
             "Nunu",
             "Trundle"
         ],
         [
-            "Trundle"
+            "Veigar"
         ],
         [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Belveth",
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
             "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
+            "Ekko",
             "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
         ],
         [
-            "Briar",
-            "Rell",
-            "Zoe"
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

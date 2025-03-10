@@ -1,52 +1,87 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "arcade"
+        "Adc",
+        "global ult",
+        "prestige"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "vastayan"
+        "stun",
+        "Zaun",
+        "tether"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Fizz",
-            "Twisted fate"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Ahri",
-            "Aurora",
-            "Neeko"
+            "Kalista"
         ],
         [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
             "Briar",
-            "Hwei",
-            "Vex"
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Ekko",
+            "Jinx",
+            "Ziggs"
         ],
         [
-            "Aurora",
+            "Kled",
+            "Nocturne"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
             "Neeko",
-            "Rakan",
-            "Xayah"
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
         ],
         [
-            "Hecarim"
+            "Jinx",
+            "Renata glasc",
+            "Zeri"
         ],
         [
-            "Miss Fortune"
-        ],
-        [
-            "Ahri"
+            "Aatrox",
+            "LeBlanc",
+            "Morgana",
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ]
     ]
 }

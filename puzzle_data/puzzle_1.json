@@ -1,75 +1,109 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "hextech",
-        "shield"
+        "Mid",
+        "PROJECT",
+        "Season 7+"
     ],
     "cols": [
-        "The Void",
-        "silence",
-        "manaless"
+        "Demacia",
+        "stun",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Chogath"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Aatrox",
-            "Akali",
             "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
             "Yone",
-            "Zac"
+            "Zilean"
         ],
         [
-            "Kassadin",
-            "Kogmaw",
-            "Malzahar"
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "Kassadin",
-            "Malzahar"
+            "Fiora",
+            "Lucian",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Renekton"
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Kaisa",
-            "Kassadin"
+            "Master yi",
+            "Vayne"
         ],
         [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
+            "Sylas"
         ],
         [
             "Ambessa",
-            "Garen",
-            "Kled",
-            "Lee sin",
-            "Mordekaiser",
-            "Rumble",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
             "Sett",
-            "Shen",
-            "Yasuo",
+            "Sylas",
+            "Viego",
             "Yone"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
         ]
     ]
 }

@@ -1,118 +1,110 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "invis",
-        "Space Groove"
+        "life steal",
+        "OG40"
     ],
     "cols": [
-        "slow",
-        "Bilgewater",
-        "vastayan"
+        "The Void",
+        "stun",
+        "shred"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Akali",
+            "Chogath"
+        ],
+        [
+            "Ambessa",
             "Camille",
-            "Chogath",
-            "Darius",
-            "Dr. Mundo",
             "Fiora",
-            "Gangplank",
-            "Garen",
             "Gnar",
             "Gragas",
-            "Gwen",
             "Heimerdinger",
-            "Illaoi",
             "Irelia",
-            "Jarvan IV",
-            "Jayce",
+            "Jax",
             "Ksante",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
+            "Kennen",
             "Ornn",
             "Pantheon",
             "Poppy",
-            "Quinn",
-            "Rumble",
+            "Renekton",
+            "Riven",
             "Sett",
-            "Shen",
-            "Singed",
             "Sion",
             "Skarner",
-            "Swain",
             "Sylas",
             "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
             "Udyr",
             "Urgot",
+            "Vayne",
             "Volibear",
             "Warwick",
-            "Yorick",
+            "Yone",
             "Zac"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
-        ],
-        [
-            "Wukong"
-        ],
-        [
-            "Akali",
-            "Aurora",
-            "Kaisa",
-            "Khazix",
-            "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Gragas",
-            "Lissandra",
-            "Lulu",
-            "Lux",
-            "Nami",
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Mordekaiser",
             "Nasus",
-            "Nunu",
+            "Olaf",
+            "Renekton",
             "Rumble",
-            "Samira",
-            "Teemo",
-            "Twisted fate"
+            "Sion",
+            "Trundle",
+            "Wukong"
         ],
         [
-            "Nami",
-            "Twisted fate"
+            "Belveth"
         ],
         [
-            "Nami"
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Briar",
+            "Nasus",
+            "Olaf",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ]
     ]
 }

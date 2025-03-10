@@ -589,7 +589,7 @@ function checkGameStatus() {
       if (gameOverModal) {
           gameOverModal.style.display = 'flex';
 
-          // Initialize the countdown timer in the win modal
+          // Initialize the countdown timer in the game over modal
           initializeCountdownTimer("game-over-countdown-timer");
       }
   } else {
@@ -597,10 +597,10 @@ function checkGameStatus() {
   }
 }
 
-// Simple function to initialize the countdown timer
-function initializeCountdownTimer() {
+// function to initialize the countdown timer
+function initializeCountdownTimer(elementId) {
   // Get the countdown element
-  const countdownElement = document.getElementById(timerId);
+  const countdownElement = document.getElementById(elementId);
   if (!countdownElement) return;
   
   // Function to update the timer
@@ -636,13 +636,20 @@ function initializeCountdownTimer() {
   updateTimer();
   const timerId = setInterval(updateTimer, 1000);
   
-  // Store the timer ID on the modal element so we can clear it when closed
-  const winModal = document.getElementById('win-modal');
-  if (winModal) {
-      winModal.timerId = timerId;
+  // Store the timer ID on the appropriate modal element
+  let modalElement;
+  if (elementId === "win-countdown-timer") {
+      modalElement = document.getElementById('win-modal');
+  } else if (elementId === "game-over-countdown-timer") {
+      modalElement = document.getElementById('game-over-modal');
   }
+  
+  if (modalElement) {
+      modalElement.timerId = timerId;
+  }
+  
+  return timerId;
 }
-
 
 
 // Reset game function - update to reset lives instead of guesses

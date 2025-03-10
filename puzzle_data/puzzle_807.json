@@ -1,50 +1,63 @@
 {
     "difficulty": "silver",
     "rows": [
-        "Mid",
-        "before s7",
-        "invis"
+        "Adc",
+        "life steal",
+        "before s7"
     ],
     "cols": [
-        "Bilgewater",
+        "Shurima",
         "root",
-        "pentakill"
+        "arcane"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
+            "Sivir"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
+            "Senna",
             "Seraphine",
-            "Swain"
+            "Varus",
+            "Xayah"
         ],
         [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Caitlyn",
+            "Jinx",
+            "Mel"
         ],
         [
-            "Fizz",
-            "Gangplank",
-            "Graves",
-            "Illaoi",
-            "Miss Fortune",
-            "Nami",
-            "Nautilus",
-            "Tahm kench",
-            "Twisted fate"
+            "Aatrox",
+            "Ksante",
+            "Nasus"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Ambessa",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Renekton",
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
             "Caitlyn",
@@ -71,35 +84,18 @@
             "Zyra"
         ],
         [
-            "Akali",
-            "Darius",
-            "Ezreal",
-            "Fiora",
+            "Caitlyn",
+            "Ekko",
+            "Heimerdinger",
+            "Janna",
+            "Jayce",
             "Jinx",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Ryze",
-            "Tristana",
-            "Twitch",
-            "Vayne"
-        ],
-        [
-            "Pyke"
-        ],
-        [
             "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Akali",
-            "Kaisa",
-            "Twitch",
-            "Vayne"
+            "Orianna",
+            "Singed",
+            "Vi",
+            "Viktor",
+            "Warwick"
         ]
     ]
 }

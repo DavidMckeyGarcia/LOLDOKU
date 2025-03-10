@@ -1,90 +1,106 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "before s7",
-        "coven"
+        "Jungle",
+        "Season 7+",
+        "dash"
     ],
     "cols": [
         "root",
-        "Ixtal",
-        "arcane"
+        "Shurima",
+        "shred"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Malphite",
-            "Skarner"
-        ],
-        [
-            "Ambessa",
-            "Heimerdinger",
-            "Jayce",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Caitlyn",
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
             "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
+            "Maokai",
             "Morgana",
             "Nautilus",
             "Nunu",
+            "Qiyana",
             "Rengar",
-            "Ryze",
             "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Malphite",
-            "Nidalee",
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
+        ],
+        [
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
             "Rengar",
-            "Skarner",
-            "Zyra"
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
+            "Briar",
+            "Rell",
+            "Zoe"
         ],
         [
             "Caitlyn",
-            "Ekko",
-            "Heimerdinger",
-            "Janna",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Ksante",
+            "Naafiri",
+            "Rammus",
+            "Renekton",
+            "Taliyah"
+        ],
+        [
+            "Briar",
+            "Corki",
+            "Jarvan IV",
             "Jayce",
-            "Jinx",
-            "LeBlanc",
-            "Orianna",
-            "Singed",
+            "Rell",
+            "Renekton",
+            "Rengar",
             "Vi",
-            "Viktor",
-            "Warwick"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Morgana",
-            "Zyra"
-        ],
-        [
-            "Zyra"
-        ],
-        [
-            "LeBlanc"
+            "Wukong"
         ]
     ]
 }

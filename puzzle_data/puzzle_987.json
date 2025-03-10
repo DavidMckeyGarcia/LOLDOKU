@@ -1,117 +1,81 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
         "Support",
-        "ult execute",
+        "true damage",
         "Season 7+"
     ],
     "cols": [
-        "Bandle City",
-        "root",
-        "never played"
+        "Shurima",
+        "knock-up",
+        "yordle"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
-        ],
-        [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Xerath",
+            "Zilean"
         ],
         [
             "Alistar",
-            "Ashe",
-            "Bard",
             "Blitzcrank",
-            "Brand",
             "Braum",
-            "Heimerdinger",
+            "Galio",
             "Janna",
-            "Leona",
-            "Maokai",
-            "Milio",
-            "Morgana",
+            "Lulu",
             "Nami",
-            "Pyke",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
             "Rakan",
             "Rell",
-            "Renata glasc",
-            "Senna",
-            "Sona",
-            "Soraka",
             "Tahm kench",
-            "Thresh",
-            "Yuumi",
+            "Velkoz",
             "Zyra"
         ],
         [
-            "Veigar"
-        ],
-        [
-            "Jhin",
-            "Jinx"
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
         ],
         [
             "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Belveth",
             "Chogath",
-            "Draven",
-            "Evelynn",
-            "Garen",
-            "Jhin",
-            "Jinx",
-            "Pyke",
-            "Reksai",
-            "Viego"
-        ],
-        [
-            "Yuumi"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
+            "Ivern",
             "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Amumu",
+            "Corki"
         ],
         [
             "Akshan",
-            "Aphelios",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
             "Belveth",
             "Briar",
-            "Gwen",
+            "Ksante",
             "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
+            "Neeko",
+            "Ornn",
             "Rakan",
             "Rell",
-            "Renata glasc",
             "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

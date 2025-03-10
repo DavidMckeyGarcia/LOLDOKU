@@ -1,100 +1,102 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "ult execute",
-        "Season 7+"
+        "Adc",
+        "OG40",
+        "empyrean"
     ],
     "cols": [
-        "The Void",
         "root",
+        "Zaun",
         "never played"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Elise",
-            "Heimerdinger",
-            "Kennen",
-            "Naafiri"
-        ],
-        [
-            "Chogath",
-            "Reksai"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Akshan",
-            "Chogath",
-            "Draven",
-            "Evelynn",
-            "Garen",
+            "Aphelios",
+            "Caitlyn",
             "Jhin",
             "Jinx",
-            "Pyke",
-            "Reksai",
-            "Viego"
-        ],
-        [
-            "Belveth",
-            "Kaisa"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
             "Mel",
-            "Neeko",
-            "Renata glasc",
             "Senna",
             "Seraphine",
+            "Varus",
             "Xayah"
         ],
         [
-            "Akshan",
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
             "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
             "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
             "Samira",
             "Senna",
-            "Viego",
+            "Sivir",
+            "Twitch",
+            "Vayne",
             "Xayah",
-            "Yuumi",
             "Zeri"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Jhin",
+            "Ksante",
+            "Lux",
+            "Varus",
+            "Zac"
+        ],
+        [
+            "Zac"
+        ],
+        [
+            "Brand",
+            "Jhin",
+            "Pyke"
         ]
     ]
 }

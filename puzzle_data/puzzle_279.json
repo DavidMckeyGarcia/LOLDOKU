@@ -1,34 +1,55 @@
 {
-    "difficulty": "gold",
+    "difficulty": "iron",
     "rows": [
         "Support",
-        "dark star",
-        "global ult"
+        "true damage",
+        "arcade"
     ],
     "cols": [
-        "root",
-        "The Void",
+        "slow",
+        "Ionia",
         "never played"
     ],
     "solutions": [
         [
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
             "Karma",
             "Leona",
+            "Lulu",
             "Lux",
             "Maokai",
             "Mel",
+            "Milio",
             "Morgana",
+            "Nami",
             "Nautilus",
-            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
             "Renata glasc",
             "Senna",
             "Seraphine",
+            "Sona",
             "Soraka",
             "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
             "Zyra"
         ],
         [
-            "Velkoz"
+            "Karma",
+            "Rakan"
         ],
         [
             "Alistar",
@@ -57,51 +78,86 @@
             "Zyra"
         ],
         [
-            "Jhin",
-            "Karma",
-            "Lissandra",
-            "Lux",
-            "Shaco",
-            "Varus"
-        ],
-        [
+            "Ahri",
+            "Akali",
+            "Belveth",
+            "Camille",
             "Chogath",
-            "Khazix"
-        ],
-        [
-            "Chogath",
-            "Jarvan IV",
-            "Jhin",
-            "Malphite",
-            "Mordekaiser",
-            "Shaco",
-            "Thresh"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Ashe",
-            "Bard",
-            "Briar",
+            "Corki",
+            "Darius",
             "Draven",
-            "Jinx",
-            "Kled",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Ksante",
+            "Kogmaw",
             "Lillia",
-            "Maokai",
-            "Senna",
-            "Shen",
-            "Soraka"
+            "Nunu",
+            "Olaf",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Sett",
+            "Syndra",
+            "Twitch",
+            "Urgot",
+            "Velkoz",
+            "Zoe"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Syndra",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Ahri",
+            "Belveth",
+            "Brand",
+            "Caitlyn",
+            "Corki",
+            "Hecarim",
+            "Kaisa",
+            "Miss Fortune",
+            "Qiyana",
+            "Sona",
+            "Ziggs"
+        ],
+        [
+            "Ahri",
+            "Yasuo"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Miss Fortune",
+            "Sona"
         ]
     ]
 }

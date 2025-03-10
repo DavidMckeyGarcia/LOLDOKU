@@ -1,85 +1,111 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
         "Jungle",
-        "before s7",
+        "invis",
         "prestige"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "yordle"
+        "stun",
+        "Ixtal",
+        "vastayan"
     ],
     "solutions": [
         [
+            "Amumu",
+            "Brand",
             "Briar",
-            "Fiddlesticks",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
             "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Fizz",
-            "Gangplank",
-            "Graves",
-            "Illaoi",
-            "Miss Fortune",
-            "Nami",
+            "Ivern",
+            "Jax",
+            "Morgana",
             "Nautilus",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
+            "Nunu",
+            "Pantheon",
             "Poppy",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar",
-            "Ziggs"
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Shaco"
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
         ],
         [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
+            "Rengar",
+            "Wukong"
         ],
         [
-            "Fizz",
-            "Lulu",
-            "Teemo"
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Neeko",
+            "Qiyana",
+            "Rengar"
+        ],
+        [
+            "Aurora",
+            "Neeko",
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Malphite",
+            "Neeko",
+            "Qiyana",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Neeko",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

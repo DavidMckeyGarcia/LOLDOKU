@@ -1,78 +1,84 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "worlds skin",
-        "true damage"
+        "Top",
+        "prestige",
+        "ult execute"
     ],
     "cols": [
-        "root",
-        "Targon",
-        "30+ wins"
+        "fear",
+        "Noxus",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
+            "Gragas",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
             "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Renekton",
+            "Rumble",
+            "Shen"
         ],
         [
-            "Diana",
-            "Pantheon"
+            "Aatrox",
+            "Darius",
+            "Shaco"
         ],
         [
-            "Taliyah"
+            "Cassiopeia",
+            "Darius",
+            "Katarina",
+            "Kayn",
+            "LeBlanc",
+            "Riven",
+            "Swain"
         ],
         [
-            "Aphelios",
+            "Aatrox",
             "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
+            "Ezreal",
+            "Jax",
+            "Kaisa",
             "Lee sin",
             "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
+            "Lucian",
+            "Lulu",
+            "Rakan",
+            "Thresh",
+            "Xayah"
         ],
         [
-            "Aphelios",
-            "Leona",
-            "Zoe"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Azir",
-            "Corki",
-            "LeBlanc",
-            "Orianna",
-            "Ryze",
-            "Taliyah"
+            "Darius",
+            "Draven",
+            "Riven"
         ],
         [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Zoe"
-        ],
-        [
-            "Ahri",
-            "Corki"
+            "Jhin",
+            "Syndra"
         ]
     ]
 }

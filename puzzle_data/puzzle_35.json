@@ -1,68 +1,80 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "Season 7+",
-        "Space Groove"
+        "Jungle",
+        "before s7",
+        "hextech"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "0 games"
+        "silence",
+        "Shurima",
+        "tether"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
+            "Fiddlesticks"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
             "Zac"
         ],
         [
-            "Gangplank",
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Renekton",
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Aatrox",
+            "Fiddlesticks",
             "Illaoi",
-            "Tahm kench"
+            "Kalista",
+            "Karma",
+            "Kled",
+            "LeBlanc",
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
         ],
         [
-            "Ambessa",
-            "Illaoi"
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Amumu",
+            "Rammus",
+            "Renekton"
         ],
         [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
-        ],
-        [
-            "Lissandra",
-            "Lux",
-            "Nunu"
-        ],
-        [
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Samira"
+            "Malzahar",
+            "Nocturne"
         ]
     ]
 }

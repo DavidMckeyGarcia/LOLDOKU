@@ -1,67 +1,103 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "OG40",
-        "global ult"
+        "Adc",
+        "shield",
+        "OG40"
     ],
     "cols": [
-        "Zaun",
-        "silence",
-        "shred"
+        "Bilgewater",
+        "knock-up",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
+            "Miss Fortune",
+            "Nilah"
+        ],
+        [
+            "Kalista",
+            "Samira",
             "Ziggs"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Corki",
-            "Jayce",
-            "Karthus",
-            "Zoe"
+            "Nautilus",
+            "Nilah",
+            "Tahm kench"
         ],
         [
+            "Azir",
             "Blitzcrank",
-            "Dr. Mundo",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
             "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
         ],
         [
+            "Azir",
+            "Braum",
+            "Janna",
+            "Jarvan IV",
+            "Kaisa",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Rakan",
+            "Rumble",
+            "Shen",
+            "Thresh"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Anivia",
             "Blitzcrank",
             "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
+            "Janna",
+            "Malphite",
+            "Nunu",
             "Sion"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Briar",
-            "Karthus",
-            "Sion"
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

@@ -1,75 +1,77 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "invis"
+        "Top",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "knock-up",
-        "The Void",
-        "pentakill"
+        "Bilgewater",
+        "fear",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
         ],
         [
-            "Kaisa",
-            "Kogmaw"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Tristana",
-            "Twitch",
-            "Vayne",
-            "Xayah"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Kaisa"
-        ],
-        [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
-        ],
-        [
-            "Neeko",
-            "Reksai",
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
             "Wukong"
         ],
         [
-            "Kaisa",
-            "Khazix",
-            "Reksai"
+            "Gangplank",
+            "Pyke"
         ],
         [
-            "Akali",
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Corki",
+            "Fiora",
+            "Gangplank",
+            "Master yi",
+            "Nunu"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
             "Kaisa",
-            "Twitch",
-            "Vayne"
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
         ]
     ]
 }

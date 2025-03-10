@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "dash",
-        "elderwood"
+        "elderwood",
+        "Season 7+"
     ],
     "cols": [
         "knock-up",
-        "Shurima",
-        "riot records"
+        "The Void",
+        "yordle"
     ],
     "solutions": [
         [
@@ -36,84 +36,15 @@
             "Zyra"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
-        ],
-        [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
-            "Viego"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
             "Belveth",
-            "Braum",
-            "Briar",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Malphite",
-            "Nautilus",
-            "Ornn",
-            "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Yone",
-            "Zac",
-            "Ziggs"
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Aatrox",
             "Amumu",
-            "Azir",
-            "Jax",
-            "Ksante",
-            "Naafiri",
-            "Rammus",
-            "Renekton",
-            "Taliyah"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Ezreal",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Qiyana",
-            "Sett",
-            "Viego",
-            "Yasuo",
-            "Yone"
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
             "Azir",
@@ -122,11 +53,31 @@
             "Wukong"
         ],
         [
-            "Azir"
+            "Reksai"
         ],
         [
-            "Ahri",
-            "Karthus"
+            "Gnar",
+            "Veigar"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Belveth",
+            "Kaisa"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

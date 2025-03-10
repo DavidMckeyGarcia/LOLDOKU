@@ -1,67 +1,101 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "prestige",
-        "true damage"
+        "Support",
+        "blink",
+        "empyrean"
     ],
     "cols": [
-        "silence",
-        "Freljord",
-        "30+ wins"
+        "slow",
+        "The Void",
+        "ascended"
     ],
     "solutions": [
         [
-            "Chogath",
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
+            "Zyra"
+        ],
+        [
+            "Velkoz"
+        ],
+        [
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
+        ],
+        [
+            "Ekko",
             "Kassadin",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Reksai",
+            "Ryze",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Zed"
+        ],
+        [
+            "Kassadin",
+            "Reksai"
+        ],
+        [
+            "Pantheon"
+        ],
+        [
+            "Akali",
+            "Brand",
+            "Jhin",
+            "Ksante",
+            "Kayle",
+            "Lux",
+            "Nocturne",
+            "Pyke",
+            "Varus",
+            "Vex",
+            "Zac",
+            "Zed"
+        ],
+        [
             "Malzahar"
         ],
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
-        ],
-        [
-            "Garen",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Brand",
-            "Kindred",
-            "Lissandra",
-            "Volibear"
-        ],
-        [
-            "Ahri",
-            "LeBlanc",
-            "Lissandra"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
-            "Ahri",
-            "Corki"
+            "Varus"
         ]
     ]
 }

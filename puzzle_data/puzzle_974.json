@@ -1,124 +1,122 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
+        "Adc",
         "before s7",
-        "life steal"
+        "true damage"
     ],
     "cols": [
-        "knock-up",
-        "The Void",
-        "riot records"
+        "stun",
+        "Piltover",
+        "vastayan"
     ],
     "solutions": [
         [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Seraphine"
+        ],
+        [
+            "Xayah"
+        ],
+        [
             "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Velkoz"
-        ],
-        [
-            "Senna",
-            "Sona"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
+            "Amumu",
             "Anivia",
+            "Annie",
+            "Ashe",
             "Aurelion Sol",
-            "Azir",
+            "Bard",
             "Blitzcrank",
+            "Brand",
             "Braum",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
             "Gragas",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
             "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Lissandra",
+            "Morgana",
             "Nami",
             "Nautilus",
             "Nunu",
             "Orianna",
+            "Pantheon",
             "Poppy",
-            "Reksai",
+            "Rammus",
+            "Renekton",
             "Riven",
             "Sejuani",
             "Sion",
+            "Skarner",
+            "Sona",
+            "Syndra",
             "Tahm kench",
             "Taliyah",
-            "Trundle",
+            "Taric",
+            "Thresh",
+            "Twisted fate",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Veigar",
             "Velkoz",
             "Vi",
-            "Wukong",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
             "Xin Zhao",
-            "Yasuo",
             "Zac",
-            "Ziggs",
-            "Zyra"
+            "Zilean"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Khazix",
-            "Kogmaw",
-            "Reksai",
-            "Velkoz"
+            "Caitlyn",
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna"
         ],
         [
             "Ahri",
-            "Akali",
-            "Ekko",
-            "Evelynn",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Mordekaiser",
-            "Olaf",
-            "Sona",
-            "Yasuo",
-            "Yorick"
+            "Nami",
+            "Rengar",
+            "Wukong"
         ],
         [
-            "Aatrox",
-            "Belveth",
-            "Briar",
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
             "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Belveth"
+            "Camille"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Kayn",
-            "Olaf",
-            "Senna",
-            "Viego"
+            "Ahri"
         ]
     ]
 }

@@ -1,65 +1,72 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Top",
-        "OG40",
-        "ult execute"
+        "Mid",
+        "prestige",
+        "global ult"
     ],
     "cols": [
-        "fear",
-        "Zaun",
-        "pentakill"
+        "silence",
+        "Ionia",
+        "ascended"
     ],
     "solutions": [
         [
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Garen",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Kayn",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yasuo",
+            "Zed"
+        ],
+        [
             "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ],
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Soraka"
         ],
         [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
+            "Lillia",
+            "Shen"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Ryze",
-            "Tristana",
-            "Twitch"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Jinx",
-            "Urgot"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Jinx"
+            "Pantheon",
+            "Xerath"
         ]
     ]
 }

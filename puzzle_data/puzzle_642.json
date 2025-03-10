@@ -1,43 +1,50 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "iron",
     "rows": [
         "Jungle",
-        "ult execute",
-        "Season 7+"
+        "Season 7+",
+        "worlds skin"
     ],
     "cols": [
-        "Bilgewater",
-        "knock-up",
+        "stun",
+        "Piltover",
         "never played"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Belveth",
+            "Amumu",
+            "Brand",
             "Briar",
-            "Diana",
+            "Camille",
+            "Ekko",
+            "Elise",
             "Gragas",
+            "Hecarim",
             "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
+            "Jax",
+            "Morgana",
             "Nautilus",
             "Nunu",
+            "Pantheon",
             "Poppy",
-            "Reksai",
+            "Qiyana",
+            "Rammus",
             "Rell",
             "Sejuani",
+            "Sett",
+            "Skarner",
             "Sylas",
             "Taliyah",
-            "Trundle",
+            "Udyr",
             "Vi",
-            "Wukong",
+            "Viego",
+            "Volibear",
+            "Warwick",
             "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Zac"
+        ],
+        [
+            "Camille"
         ],
         [
             "Amumu",
@@ -80,41 +87,25 @@
             "Zyra"
         ],
         [
-            "Pyke"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Akshan",
-            "Chogath",
-            "Draven",
-            "Evelynn",
-            "Garen",
-            "Jhin",
-            "Jinx",
-            "Pyke",
-            "Reksai",
-            "Viego"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Belveth",
+            "Ambessa",
             "Briar",
+            "Camille",
             "Ksante",
-            "Kayn",
+            "Milio",
             "Neeko",
             "Ornn",
-            "Rakan",
+            "Pyke",
             "Rell",
-            "Samira",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
             "Sylas",
+            "Viego",
             "Yone"
+        ],
+        [
+            "Camille",
+            "Seraphine"
         ],
         [
             "Akshan",
@@ -137,6 +128,72 @@
             "Xayah",
             "Yuumi",
             "Zeri"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Irelia",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Nami",
+            "Nunu",
+            "Orianna",
+            "Renekton",
+            "Syndra",
+            "Taliyah",
+            "Thresh",
+            "Twisted fate",
+            "Vayne",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Caitlyn",
+            "Camille",
+            "Ezreal",
+            "Jayce",
+            "Orianna"
+        ],
+        [
+            "Alistar",
+            "Aphelios",
+            "Ashe",
+            "Bard",
+            "Dr. Mundo",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Graves",
+            "Janna",
+            "Jarvan IV",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kennen",
+            "Kindred",
+            "Leona",
+            "Malphite",
+            "Maokai",
+            "Nami",
+            "Nunu",
+            "Rakan",
+            "Rengar",
+            "Shen",
+            "Thresh",
+            "Twitch",
+            "Vayne",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zyra"
         ]
     ]
 }

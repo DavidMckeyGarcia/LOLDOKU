@@ -1,95 +1,85 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "evolves"
+        "Jungle",
+        "ult execute",
+        "Season 7+"
     ],
     "cols": [
-        "Demacia",
-        "stun",
-        "never played"
+        "Bilgewater",
+        "knock-up",
+        "0 games"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
-        ],
-        [
-            "Sylas"
-        ],
-        [
-            "Ambessa",
+            "Belveth",
             "Briar",
-            "Camille",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Briar",
+            "Master yi"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Belveth",
+            "Briar",
             "Ksante",
-            "Milio",
+            "Kayn",
             "Neeko",
             "Ornn",
-            "Pyke",
+            "Rakan",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
+            "Samira",
             "Sylas",
-            "Viego",
             "Yone"
         ],
         [
             "Akshan",
-            "Aphelios",
-            "Belveth",
+            "Ambessa",
             "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
+            "Mel",
             "Milio",
             "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
             "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
-        ],
-        [
-            "Kayle"
-        ],
-        [
-            "Bard",
-            "Viktor"
-        ],
-        [
-            "Bard",
-            "Belveth",
-            "Kayn"
+            "Vex"
         ]
     ]
 }

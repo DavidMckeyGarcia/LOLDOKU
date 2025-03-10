@@ -1,79 +1,66 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "OG40",
-        "dash"
+        "Support",
+        "shield",
+        "cosmic"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "yordle"
+        "silence",
+        "Demacia",
+        "shred"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Kled",
+            "Galio",
+            "Lux",
+            "Morgana",
             "Poppy",
-            "Tristana",
-            "Vex",
-            "Ziggs"
+            "Sona"
+        ],
+        [
+            "Rell"
+        ],
+        [
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Garen",
+            "Jarvan IV",
+            "Mordekaiser",
+            "Olaf",
+            "Rell",
+            "Rumble",
+            "Sion",
+            "Vi"
+        ],
+        [
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Lux",
+            "Xin Zhao"
+        ],
+        [
+            "Sion"
         ]
     ]
 }

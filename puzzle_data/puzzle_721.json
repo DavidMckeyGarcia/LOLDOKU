@@ -1,142 +1,111 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "coven",
-        "dash"
+        "Jungle",
+        "Fright Night",
+        "OG40"
     ],
     "cols": [
-        "stun",
         "Freljord",
-        "ult reset"
+        "stun",
+        "tether"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Anivia",
-            "Aurora",
             "Brand",
             "Gragas",
-            "Lissandra"
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
-        ],
-        [
-            "Ashe",
-            "Lissandra"
-        ],
-        [
-            "Ahri"
-        ],
-        [
-            "Alistar",
-            "Ambessa",
             "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
+            "Brand",
             "Briar",
             "Camille",
             "Ekko",
             "Elise",
-            "Fiora",
-            "Gnar",
             "Gragas",
             "Hecarim",
-            "Irelia",
             "Ivern",
             "Jax",
-            "Ksante",
-            "Leona",
+            "Morgana",
             "Nautilus",
-            "Ornn",
+            "Nunu",
             "Pantheon",
             "Poppy",
-            "Pyke",
             "Qiyana",
             "Rammus",
             "Rell",
-            "Renekton",
-            "Riven",
             "Sejuani",
             "Sett",
+            "Skarner",
             "Sylas",
             "Taliyah",
-            "Thresh",
-            "Urgot",
-            "Vayne",
+            "Udyr",
             "Vi",
             "Viego",
             "Volibear",
             "Warwick",
             "Xin Zhao",
-            "Yone",
             "Zac"
         ],
         [
-            "Aurora",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Ornn",
-            "Sejuani",
-            "Tryndamere",
-            "Volibear"
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Belveth",
-            "Naafiri",
-            "Vayne",
-            "Vex",
-            "Viego"
+            "Nunu",
+            "Trundle"
+        ],
+        [
+            "Annie",
+            "Nautilus",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Urgot",
+            "Veigar"
+        ],
+        [
+            "Renata glasc"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

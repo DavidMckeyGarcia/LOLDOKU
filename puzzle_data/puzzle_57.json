@@ -1,80 +1,90 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "OG40",
+        "prestige",
         "true damage"
     ],
     "cols": [
-        "Shurima",
-        "knock-up",
-        "30+ wins"
+        "Demacia",
+        "silence",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
             "Xerath",
             "Zilean"
         ],
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
+            "Fiora",
+            "Garen",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Sona",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Garen",
             "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Soraka"
         ],
         [
-            "Galio"
-        ],
-        [
-            "Amumu",
+            "Evelynn",
+            "Fiora",
+            "Fizz",
             "Jax",
-            "Nasus",
-            "Rammus",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Neeko",
+            "Pantheon",
             "Sivir",
-            "Zilean"
+            "Thresh",
+            "Volibear",
+            "Zeri"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
             "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Corki",
-            "Ryze"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Ksante"
+            "Garen"
         ],
         [
             "Belveth",
             "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Ahri",
-            "Corki"
+            "Corki",
+            "Fiora",
+            "Gangplank",
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

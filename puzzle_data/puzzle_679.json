@@ -1,57 +1,38 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "dark star",
-        "before s7"
+        "Jungle",
+        "before s7",
+        "shield"
     ],
     "cols": [
         "root",
-        "Shadow Isles",
-        "100+ games"
+        "Bilgewater",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ksante",
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Jhin",
-            "Karma",
-            "Lissandra",
-            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
             "Shaco",
-            "Varus"
+            "Zac",
+            "Zyra"
         ],
         [
-            "Thresh"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Jarvan IV",
-            "Jhin",
-            "Orianna",
-            "Thresh",
-            "Varus"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
             "Caitlyn",
@@ -78,43 +59,60 @@
             "Zyra"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Karthus",
-            "Thresh",
-            "Yorick"
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
         ],
         [
-            "Aatrox",
-            "Alistar",
-            "Ashe",
-            "Azir",
-            "Braum",
-            "Caitlyn",
-            "Elise",
-            "Ezreal",
+            "Amumu",
+            "Corki",
+            "Fizz",
             "Gnar",
-            "Gragas",
-            "Graves",
-            "Janna",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Jhin",
-            "Lee sin",
-            "Leona",
-            "Lucian",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
             "Lulu",
-            "Orianna",
-            "Renekton",
+            "Poppy",
             "Rumble",
-            "Ryze",
-            "Sejuani",
-            "Shen",
-            "Syndra",
-            "Thresh",
+            "Teemo",
             "Tristana",
-            "Varus"
+            "Veigar",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Nautilus",
+            "Nilah",
+            "Tahm kench"
+        ],
+        [
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ]
     ]
 }

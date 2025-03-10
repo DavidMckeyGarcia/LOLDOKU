@@ -1,80 +1,91 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
+        "Jungle",
         "OG40",
         "true damage"
     ],
     "cols": [
+        "The Void",
         "slow",
-        "Targon",
         "100+ games"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Akali",
+            "Belveth",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Belveth",
+            "Brand",
+            "Briar",
             "Camille",
-            "Chogath",
-            "Darius",
+            "Diana",
             "Dr. Mundo",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gnar",
+            "Ekko",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
             "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
+            "Graves",
+            "Hecarim",
+            "Ivern",
             "Jarvan IV",
-            "Jayce",
-            "Ksante",
-            "Kayle",
+            "Karthus",
             "Kayn",
-            "Kled",
-            "Malphite",
+            "Khazix",
+            "Kindred",
+            "Lee sin",
+            "Lillia",
             "Maokai",
             "Mordekaiser",
+            "Morgana",
             "Nasus",
+            "Nautilus",
+            "Nocturne",
+            "Nunu",
             "Olaf",
-            "Ornn",
             "Pantheon",
             "Poppy",
-            "Quinn",
+            "Qiyana",
+            "Rammus",
+            "Reksai",
+            "Rengar",
             "Rumble",
+            "Sejuani",
             "Sett",
+            "Shaco",
             "Shen",
-            "Singed",
-            "Sion",
             "Skarner",
-            "Swain",
             "Sylas",
-            "Tahm kench",
+            "Taliyah",
+            "Talon",
             "Teemo",
             "Trundle",
-            "Tryndamere",
             "Udyr",
-            "Urgot",
+            "Viego",
             "Volibear",
             "Warwick",
-            "Yorick",
-            "Zac"
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Pantheon"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
+            "Elise",
             "Gragas",
+            "Graves",
             "Jarvan IV",
             "Jax",
-            "Jayce",
+            "Lee sin",
             "Maokai",
-            "Renekton",
             "Rumble",
+            "Sejuani",
             "Shen"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
         ],
         [
             "Anivia",
@@ -110,16 +121,18 @@
             "Zilean"
         ],
         [
-            "Soraka",
-            "Taric"
-        ],
-        [
             "Alistar",
             "Ashe",
             "Janna",
             "Jax",
             "Ryze",
             "Tristana"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Kogmaw",
+            "Velkoz"
         ],
         [
             "Ahri",
@@ -148,9 +161,6 @@
             "Twitch",
             "Urgot",
             "Velkoz",
-            "Zoe"
-        ],
-        [
             "Zoe"
         ],
         [

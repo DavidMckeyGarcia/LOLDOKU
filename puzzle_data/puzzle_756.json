@@ -1,106 +1,80 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "shield",
+        "Support",
+        "coven",
         "OG40"
     ],
     "cols": [
+        "Piltover",
         "stun",
-        "Bilgewater",
-        "tether"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Heimerdinger",
+            "Seraphine"
         ],
         [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Ambessa",
+            "Alistar",
             "Annie",
+            "Ashe",
+            "Bard",
             "Blitzcrank",
+            "Brand",
             "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
+            "Heimerdinger",
+            "Leona",
             "Milio",
             "Morgana",
+            "Nami",
             "Nautilus",
             "Neeko",
-            "Nunu",
-            "Orianna",
+            "Pantheon",
             "Poppy",
+            "Pyke",
             "Rell",
             "Renata glasc",
-            "Riven",
             "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
             "Sona",
             "Tahm kench",
             "Taric",
             "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
+            "Alistar",
+            "Ashe",
+            "Braum",
+            "Janna",
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
         ],
         [
-            "Karma",
-            "Kled",
+            "Camille"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
             "Morgana",
-            "Nocturne",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Ashe",
+            "Elise",
+            "Syndra"
+        ],
+        [
+            "Heimerdinger"
         ],
         [
             "Alistar",
@@ -122,13 +96,12 @@
             "Zilean"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

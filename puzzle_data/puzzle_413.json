@@ -1,119 +1,72 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 7+",
-        "life steal"
+        "Support",
+        "invis",
+        "OG40"
     ],
     "cols": [
         "Bilgewater",
         "root",
-        "never played"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
+            "Nami",
+            "Nautilus",
+            "Pyke",
             "Tahm kench"
         ],
         [
-            "Ksante",
+            "Karma",
+            "Leona",
+            "Lux",
             "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
-            "Kayn",
-            "Kennen",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Yorick"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
             "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
             "Renata glasc",
             "Senna",
             "Seraphine",
-            "Xayah"
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
+            "Swain"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
             "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Shaco"
         ],
         [
-            "Illaoi",
-            "Nilah"
+            "Vayne",
+            "Viego"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
             "Morgana",
-            "Senna"
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
-            "Kayn",
-            "Morgana",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Warwick"
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

@@ -1,77 +1,67 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "shield",
-        "OG40"
+        "Mid",
+        "ult execute",
+        "pool party"
     ],
     "cols": [
         "root",
-        "Shadow Isles",
-        "ascended"
+        "Demacia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
             "Swain",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Garen"
+        ],
+        [
+            "Darius",
+            "Viego"
+        ],
+        [
+            "Caitlyn",
+            "Lee sin",
+            "Leona",
+            "Singed",
             "Zac"
         ],
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Fiora",
+            "Jarvan IV"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
-        ],
-        [
-            "Senna",
-            "Thresh",
-            "Vex"
-        ],
-        [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Taric"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Karthus"
-        ],
-        [
-            "Nasus",
-            "Taric"
+            "Singed"
         ]
     ]
 }

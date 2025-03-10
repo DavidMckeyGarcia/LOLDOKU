@@ -1,37 +1,36 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
+        "Top",
         "OG40",
-        "arcade"
+        "pool party"
     ],
     "cols": [
-        "Ixtal",
         "silence",
-        "yordle"
+        "Demacia",
+        "arcane"
     ],
     "solutions": [
         [
-            "Neeko",
-            "Qiyana"
-        ],
-        [
             "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Garen"
         ],
         [
-            "Corki",
-            "Fizz",
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Ambessa",
             "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Malphite"
+            "Jayce",
+            "Singed",
+            "Warwick"
         ],
         [
             "Blitzcrank",
@@ -41,24 +40,27 @@
             "Soraka"
         ],
         [
-            "Amumu",
-            "Corki",
+            "Kayle",
+            "Morgana"
+        ],
+        [
             "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Janna",
+            "Singed",
+            "Warwick"
         ],
         [
-            "Qiyana"
+            "Lulu"
         ],
         [
-            "Blitzcrank",
-            "Malzahar"
+            "Fiora",
+            "Jarvan IV"
         ],
         [
-            "Corki",
-            "Veigar",
-            "Ziggs"
+            "Caitlyn",
+            "Heimerdinger",
+            "Orianna",
+            "Singed"
         ]
     ]
 }

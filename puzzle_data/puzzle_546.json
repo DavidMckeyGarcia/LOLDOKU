@@ -1,76 +1,79 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "prestige",
-        "ult execute"
+        "Jungle",
+        "Season 7+",
+        "hextech"
     ],
     "cols": [
         "root",
-        "The Void",
-        "ult reset"
+        "Noxus",
+        "arcane"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Chogath"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
+            "Ivern",
             "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
+            "Maokai",
             "Morgana",
-            "Neeko",
+            "Nautilus",
+            "Nunu",
             "Qiyana",
-            "Renata glasc",
-            "Senna",
+            "Rengar",
             "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
+            "Zac",
             "Zyra"
         ],
         [
-            "Kaisa"
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Sivir",
-            "Swain",
-            "Vayne"
+            "Ekko",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Jhin",
-            "Jinx"
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Chogath",
-            "Reksai"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Darius",
-            "Viego"
+            "Ambessa",
+            "Mel"
+        ],
+        [
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Janna",
+            "Singed"
         ]
     ]
 }

@@ -1,122 +1,82 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "evolves",
-        "arcade"
+        "Support",
+        "Space Groove",
+        "before s7"
     ],
     "cols": [
-        "slow",
-        "Noxus",
-        "ult reset"
+        "silence",
+        "Demacia",
+        "tether"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Akali",
-            "Camille",
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Blitzcrank",
+            "Lulu"
+        ],
+        [
+            "Lux"
+        ],
+        [
+            "Taric"
+        ],
+        [
+            "Blitzcrank",
             "Chogath",
-            "Darius",
-            "Dr. Mundo",
-            "Fiora",
-            "Gangplank",
+            "Fiddlesticks",
             "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Garen",
             "Jarvan IV",
-            "Jayce",
-            "Ksante",
             "Kayle",
-            "Kayn",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Ornn",
-            "Pantheon",
+            "Lucian",
+            "Lux",
+            "Morgana",
             "Poppy",
             "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
-            "Sion",
-            "Skarner",
-            "Swain",
-            "Sylas",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
-            "Zac"
-        ],
-        [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Bard",
-            "Belveth",
-            "Gangplank",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Khazix",
-            "Smolder",
-            "Viktor"
-        ],
-        [
-            "Kayn",
-            "Smolder"
-        ],
-        [
-            "Belveth",
-            "Viktor"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Brand",
-            "Caitlyn",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Miss Fortune",
-            "Qiyana",
-            "Sona",
-            "Ziggs"
-        ],
-        [
-            "Riven"
-        ],
-        [
-            "Ahri",
-            "Belveth"
+            "Fiddlesticks",
+            "Illaoi",
+            "Kalista",
+            "Karma",
+            "Kled",
+            "LeBlanc",
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
         ]
     ]
 }

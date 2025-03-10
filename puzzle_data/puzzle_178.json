@@ -1,63 +1,46 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "pool party",
-        "before s7"
+        "Mid",
+        "before s7",
+        "global ult"
     ],
     "cols": [
+        "Shadow Isles",
         "root",
-        "Ionia",
-        "100% AP Ratio"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
+            "Karthus",
+            "Vex"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
             "Swain",
-            "Zac"
+            "Vex",
+            "Viktor"
         ],
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
-        ],
-        [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
-        ],
-        [
-            "Lee sin",
-            "Sett",
-            "Syndra"
-        ],
-        [
-            "Fiora",
-            "Gangplank"
+            "Hecarim",
+            "Kalista",
+            "Karthus",
+            "Thresh",
+            "Yorick"
         ],
         [
             "Caitlyn",
@@ -84,65 +67,35 @@
             "Zyra"
         ],
         [
+            "Aatrox",
             "Ahri",
-            "Akali",
-            "Irelia",
-            "Ivern",
-            "Jhin",
-            "Karma",
-            "Kennen",
-            "Lee sin",
+            "Darius",
             "Master yi",
-            "Shen",
-            "Syndra",
-            "Varus",
-            "Wukong",
-            "Yasuo",
-            "Zed"
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Aurelion Sol",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Gangplank",
-            "Gnar",
-            "Hecarim",
-            "Jax",
-            "Jhin",
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Caitlyn",
             "Jinx",
-            "Karma",
             "Lux",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Sivir",
-            "Skarner",
-            "Tahm kench",
-            "Thresh",
-            "Tristana",
-            "Twisted fate",
-            "Varus",
-            "Veigar",
-            "Vi",
-            "Viktor",
-            "Vladimir",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xerath",
-            "Xin Zhao",
-            "Zilean"
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

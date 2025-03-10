@@ -1,49 +1,67 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "blink",
+        "Mid",
+        "global ult",
         "before s7"
     ],
     "cols": [
         "knock-up",
         "Targon",
-        "pentakill"
+        "yordle"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
             "Ziggs"
         ],
         [
-            "Aphelios"
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
         ],
         [
-            "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
             "Tristana",
-            "Twitch",
-            "Vayne",
-            "Xayah"
+            "Veigar",
+            "Vex",
+            "Ziggs"
         ],
         [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
         ],
         [
-            "Pantheon"
+            "Aurelion Sol",
+            "Pantheon",
+            "Soraka"
         ],
         [
-            "Ezreal",
-            "Ryze"
+            "Kled",
+            "Vex",
+            "Ziggs"
         ],
         [
             "Aatrox",
@@ -95,18 +113,20 @@
             "Taric"
         ],
         [
-            "Akali",
-            "Darius",
-            "Ezreal",
-            "Fiora",
-            "Jinx",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Ryze",
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
             "Tristana",
-            "Twitch",
-            "Vayne"
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

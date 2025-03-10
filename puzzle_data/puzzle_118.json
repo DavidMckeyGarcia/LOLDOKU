@@ -1,63 +1,95 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "shield",
-        "before s7"
+        "Top",
+        "evolves",
+        "Season 7+"
     ],
     "cols": [
-        "Ixtal",
-        "silence",
-        "darkin"
+        "Demacia",
+        "knock-up",
+        "riot records"
     ],
     "solutions": [
         [
-            "Nidalee",
-            "Qiyana",
-            "Rengar",
-            "Skarner",
-            "Zyra"
-        ],
-        [
-            "Fiddlesticks"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Malphite",
-            "Milio",
-            "Neeko",
-            "Skarner"
-        ],
-        [
-            "Blitzcrank",
+            "Fiora",
             "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Naafiri"
-        ],
-        [
-            "Malphite",
-            "Nidalee",
-            "Rengar",
-            "Skarner",
-            "Zyra"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
             "Aatrox",
-            "Varus"
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
+            "Yasuo",
+            "Yone",
+            "Yorick"
+        ],
+        [
+            "Kayle"
+        ],
+        [
+            "Belveth",
+            "Kayn"
+        ],
+        [
+            "Kaisa",
+            "Kayle",
+            "Kayn"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
         ]
     ]
 }

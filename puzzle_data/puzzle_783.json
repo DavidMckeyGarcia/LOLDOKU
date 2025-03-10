@@ -1,72 +1,81 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "Space Groove",
-        "invis"
+        "Adc",
+        "invis",
+        "OG40"
     ],
     "cols": [
-        "Bilgewater",
-        "root",
-        "100+ games"
+        "stun",
+        "Shadow Isles",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Kalista",
+            "Senna"
         ],
         [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
         ],
         [
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Lissandra",
-            "Lux",
-            "Nunu"
-        ],
-        [
-            "Gragas",
-            "Lulu",
-            "Rumble"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "LeBlanc",
             "Neeko",
+            "Pyke",
             "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Vayne",
+            "Viego"
         ],
         [
-            "Kaisa"
+            "Senna",
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Ryze",
+            "Tristana",
+            "Twitch"
         ]
     ]
 }

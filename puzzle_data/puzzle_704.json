@@ -1,86 +1,81 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "true damage",
-        "prestige"
+        "Top",
+        "arcade",
+        "before s7"
     ],
     "cols": [
-        "silence",
         "Bandle City",
-        "100% AP Ratio"
+        "silence",
+        "yordle"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
+            "Heimerdinger",
             "Rumble",
             "Teemo"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
         ],
         [
             "Chogath",
             "Garen"
         ],
         [
-            "Corki"
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Belveth",
-            "Chogath",
             "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
-            "Nunu"
+            "Veigar"
         ],
         [
+            "Blitzcrank",
+            "Malzahar"
+        ],
+        [
+            "Corki",
+            "Veigar",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Lulu",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
             "Garen",
+            "Kassadin",
             "Lulu",
             "Soraka"
         ],
         [
+            "Amumu",
+            "Corki",
             "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
             "Lulu",
+            "Poppy",
+            "Rumble",
             "Teemo",
-            "Yuumi"
-        ],
-        [
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Jax",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Sivir",
-            "Thresh",
-            "Volibear",
-            "Zeri"
+            "Tristana",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

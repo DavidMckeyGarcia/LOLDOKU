@@ -1,14 +1,14 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
         "Jungle",
-        "cosmic",
-        "OG40"
+        "arcade",
+        "shield"
     ],
     "cols": [
         "stun",
-        "Demacia",
-        "ult reset"
+        "Shadow Isles",
+        "shred"
     ],
     "solutions": [
         [
@@ -44,65 +44,90 @@
             "Zac"
         ],
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
+            "Hecarim",
+            "Karthus",
+            "Maokai",
             "Viego"
         ],
         [
-            "Anivia",
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
+        ],
+        [
+            "Blitzcrank",
+            "Brand",
             "Hecarim",
-            "Lissandra",
-            "Nami",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
             "Nautilus",
+            "Neeko",
             "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
             "Sion",
             "Skarner",
-            "Xin Zhao"
-        ],
-        [
-            "Lux",
-            "Xin Zhao"
-        ],
-        [
-            "Belveth",
-            "Master yi"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
+            "Sona",
+            "Tahm kench",
             "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Senna",
+            "Thresh",
+            "Vex"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Garen",
+            "Jarvan IV",
+            "Mordekaiser",
+            "Olaf",
+            "Rell",
+            "Rumble",
+            "Sion",
+            "Vi"
         ]
     ]
 }

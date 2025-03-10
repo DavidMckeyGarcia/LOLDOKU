@@ -1,44 +1,53 @@
 {
-    "difficulty": "iron",
+    "difficulty": "silver",
     "rows": [
-        "Support",
+        "Mid",
         "before s7",
-        "dash"
+        "PROJECT"
     ],
     "cols": [
+        "Targon",
         "root",
-        "Demacia",
-        "ascended"
+        "riot records"
     ],
     "solutions": [
         [
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
+        ],
+        [
+            "Hwei",
             "Karma",
-            "Leona",
+            "LeBlanc",
+            "Lissandra",
             "Lux",
-            "Maokai",
             "Mel",
-            "Morgana",
-            "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Swain"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
         ],
         [
+            "Aurelion Sol",
+            "Diana",
             "Leona",
             "Pantheon",
-            "Taric",
-            "Xerath"
+            "Soraka",
+            "Taric"
         ],
         [
             "Caitlyn",
@@ -65,67 +74,35 @@
             "Zyra"
         ],
         [
-            "Fiora",
-            "Galio",
-            "Garen",
-            "Jarvan IV",
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Evelynn",
+            "Ezreal",
+            "Karthus",
             "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
+            "Mordekaiser",
+            "Olaf",
             "Sona",
-            "Vayne",
-            "Xin Zhao"
+            "Yasuo",
+            "Yorick"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Diana",
+            "Leona"
+        ],
+        [
+            "Jhin",
+            "Jinx",
             "Leona",
-            "Nasus",
-            "Pantheon",
-            "Renekton",
-            "Taric",
-            "Varus",
-            "Xerath"
+            "Senna",
+            "Varus"
         ],
         [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Fiora",
-            "Galio",
-            "Jarvan IV",
-            "Lucian",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sylas",
-            "Vayne",
-            "Xin Zhao"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Naafiri",
-            "Pantheon",
-            "Renekton"
+            "Akali",
+            "Ekko",
+            "Mordekaiser",
+            "Senna",
+            "Yasuo"
         ]
     ]
 }

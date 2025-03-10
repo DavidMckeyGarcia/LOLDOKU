@@ -1,80 +1,57 @@
 {
-    "difficulty": "iron",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "shield",
+        "Top",
+        "life steal",
         "before s7"
     ],
     "cols": [
         "root",
-        "Shadow Isles",
-        "riot records"
+        "Shurima",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
+            "Ksante",
             "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
         ],
         [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
-            "Viego"
+            "Aatrox",
+            "Gnar",
+            "Gragas",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Maokai",
+            "Renekton",
+            "Rumble",
+            "Shen"
         ],
         [
             "Aphelios",
-            "Hwei",
-            "Ivern",
             "Ksante",
-            "Karma",
             "Lee sin",
-            "Lux",
-            "Mel",
             "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Senna"
         ],
         [
-            "Senna",
-            "Thresh",
-            "Vex"
-        ],
-        [
-            "Aphelios",
-            "Ekko",
+            "Aatrox",
             "Ksante",
-            "Kaisa",
-            "Mordekaiser",
-            "Olaf",
-            "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo",
-            "Yone"
+            "Nasus"
+        ],
+        [
+            "Aatrox",
+            "Lee sin"
         ],
         [
             "Caitlyn",
@@ -101,25 +78,49 @@
             "Zyra"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Karthus",
-            "Thresh",
-            "Yorick"
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Renekton",
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Evelynn",
+            "Aatrox",
+            "Alistar",
+            "Ashe",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
             "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Mordekaiser",
-            "Olaf",
-            "Sona",
-            "Yasuo",
-            "Yorick"
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Janna",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Jhin",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Lulu",
+            "Orianna",
+            "Renekton",
+            "Rumble",
+            "Ryze",
+            "Sejuani",
+            "Shen",
+            "Syndra",
+            "Thresh",
+            "Tristana",
+            "Varus"
         ]
     ]
 }

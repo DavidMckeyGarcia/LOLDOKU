@@ -1,102 +1,88 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "prestige",
-        "Season 7+"
+        "Support",
+        "Season 7+",
+        "shield"
     ],
     "cols": [
-        "Targon",
-        "knock-up",
-        "100% AP Ratio"
+        "root",
+        "Piltover",
+        "ascended"
     ],
     "solutions": [
         [
-            "Aphelios"
-        ],
-        [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Diana",
+            "Karma",
             "Leona",
-            "Pantheon",
-            "Soraka",
-            "Zoe"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
         ],
         [
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Jax",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Neeko",
+            "Heimerdinger",
+            "Seraphine"
+        ],
+        [
+            "Leona",
             "Pantheon",
-            "Sivir",
-            "Thresh",
-            "Volibear",
-            "Zeri"
+            "Taric",
+            "Xerath"
         ],
         [
             "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Belveth",
-            "Briar",
+            "Hwei",
             "Ksante",
-            "Kayn",
+            "Mel",
             "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Camille",
+            "Seraphine"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ],
         [
             "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Camille",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Taric"
         ]
     ]
 }

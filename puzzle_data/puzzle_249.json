@@ -1,20 +1,16 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "elderwood",
-        "before s7"
+        "before s7",
+        "pool party"
     ],
     "cols": [
-        "Shadow Isles",
         "knock-up",
-        "100% AP Ratio"
+        "Targon",
+        "pentakill"
     ],
     "solutions": [
-        [
-            "Karthus",
-            "Vex"
-        ],
         [
             "Anivia",
             "Aurelion Sol",
@@ -35,44 +31,16 @@
         ],
         [
             "Aurelion Sol",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
+            "Diana",
             "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
+            "Zoe"
         ],
         [
-            "Hecarim",
-            "Karthus"
-        ],
-        [
-            "Azir",
-            "Rakan",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "Gnar",
-            "Hecarim",
-            "Veigar",
-            "Wukong"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Karthus",
-            "Thresh",
-            "Yorick"
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
         ],
         [
             "Aatrox",
@@ -116,48 +84,45 @@
             "Zyra"
         ],
         [
-            "Alistar",
-            "Ashe",
             "Aurelion Sol",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Gangplank",
-            "Gnar",
-            "Hecarim",
-            "Jax",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "Lux",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
+            "Diana",
+            "Leona",
             "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Sivir",
-            "Skarner",
-            "Tahm kench",
-            "Thresh",
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Ryze",
             "Tristana",
-            "Twisted fate",
-            "Varus",
-            "Veigar",
-            "Vi",
-            "Viktor",
-            "Vladimir",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xerath",
-            "Xin Zhao",
-            "Zilean"
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Braum",
+            "Jarvan IV",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Reksai",
+            "Taliyah",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Leona",
+            "Taric",
+            "Zoe"
+        ],
+        [
+            "Fiora"
         ]
     ]
 }

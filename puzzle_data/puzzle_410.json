@@ -1,78 +1,75 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
         "Adc",
-        "empyrean",
-        "true damage"
+        "OG40",
+        "coven"
     ],
     "cols": [
-        "Freljord",
-        "root",
-        "100% AP Ratio"
+        "Bilgewater",
+        "stun",
+        "shred"
     ],
     "solutions": [
         [
-            "Ashe"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
             "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
             "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
+            "Kogmaw"
         ],
         [
-            "Brand"
-        ],
-        [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
-        ],
-        [
-            "Jax",
-            "Jhin",
-            "Lux",
-            "Nocturne",
-            "Varus"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Corki",
-            "Fiora",
             "Gangplank",
-            "Master yi",
-            "Nunu"
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
+        ],
+        [
+            "Nami",
+            "Nilah"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Evelynn"
         ]
     ]
 }

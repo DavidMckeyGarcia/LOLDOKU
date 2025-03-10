@@ -1,61 +1,84 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "worlds skin",
-        "invis"
+        "Adc",
+        "Season 7+",
+        "true damage"
     ],
     "cols": [
-        "fear",
-        "Noxus",
-        "yordle"
+        "Demacia",
+        "stun",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Lucian",
+            "Vayne"
         ],
         [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Ambessa",
             "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
             "Rell",
-            "Talon"
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Kaisa",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
         ],
         [
             "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Aatrox"
-        ],
-        [
-            "Alistar",
-            "Elise",
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Corki",
-            "Gnar",
-            "Kennen"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Teemo"
+            "Syndra"
         ]
     ]
 }

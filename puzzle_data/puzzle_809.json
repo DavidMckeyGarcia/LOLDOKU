@@ -1,69 +1,63 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "global ult",
-        "OG40"
+        "Mid",
+        "prestige",
+        "Season 7+"
     ],
     "cols": [
-        "Shurima",
         "fear",
-        "arcane"
+        "The Void",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Taliyah",
-            "Xerath"
-        ],
-        [
-            "Briar",
-            "Nocturne",
+            "Hwei",
             "Vex"
         ],
         [
-            "Caitlyn",
-            "Ekko",
-            "Jinx",
-            "Mel"
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Shaco"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Darius",
             "Sivir",
-            "Zilean"
+            "Swain",
+            "Vayne"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Briar",
+            "Hwei",
+            "Vex"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
+            "Belveth",
+            "Kaisa"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
         ]
     ]
 }

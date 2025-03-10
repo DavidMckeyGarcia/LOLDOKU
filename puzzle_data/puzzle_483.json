@@ -1,65 +1,50 @@
 {
     "difficulty": "silver",
     "rows": [
-        "Support",
-        "Fright Night",
-        "OG40"
+        "Mid",
+        "OG40",
+        "shield"
     ],
     "cols": [
         "knock-up",
-        "Freljord",
-        "100% AP Ratio"
+        "Shurima",
+        "yordle"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
             "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
+            "Gragas",
             "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
             "Velkoz",
-            "Zyra"
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
             "Xerath",
             "Zilean"
         ],
         [
-            "Nautilus",
-            "Nunu",
-            "Trundle"
-        ],
-        [
-            "Nunu",
-            "Trundle"
-        ],
-        [
-            "Nunu",
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
             "Veigar",
-            "Zeri"
+            "Vex",
+            "Ziggs"
         ],
         [
             "Alistar",
@@ -72,29 +57,61 @@
             "Sion"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
+            "Amumu",
             "Jax",
-            "Master yi",
-            "Nunu",
+            "Nasus",
             "Rammus",
             "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
             "Zilean"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Ksante",
+            "Naafiri",
+            "Sivir"
+        ],
+        [
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ]
     ]
 }

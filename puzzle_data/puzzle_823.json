@@ -1,104 +1,64 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "coven",
-        "Season 7+"
+        "Top",
+        "ult execute",
+        "pool party"
     ],
     "cols": [
         "Ionia",
-        "root",
-        "100% AP Ratio"
+        "silence",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ahri",
             "Akali",
-            "Hwei",
             "Irelia",
-            "Karma",
-            "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Aurelion Sol",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Syndra"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Morgana",
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Evelynn"
-        ],
-        [
-            "Hwei",
             "Kayn",
-            "Lillia",
-            "Rakan",
+            "Kennen",
             "Sett",
-            "Xayah",
+            "Shen",
+            "Wukong",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Akali",
+            "Jhin",
+            "Syndra"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Veigar"
+        ],
+        [
+            "Lee sin",
+            "Sett",
+            "Syndra"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Ziggs"
         ]
     ]
 }

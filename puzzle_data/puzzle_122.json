@@ -1,19 +1,16 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
         "shield",
-        "prestige"
+        "Season 7+"
     ],
     "cols": [
-        "Piltover",
         "knock-up",
-        "tether"
+        "Bandle City",
+        "manaless"
     ],
     "solutions": [
-        [
-            "Camille"
-        ],
         [
             "Belveth",
             "Briar",
@@ -39,16 +36,23 @@
             "Zyra"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Camille",
-            "Orianna",
-            "Seraphine"
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
         ],
         [
             "Azir",
@@ -78,42 +82,45 @@
             "Yone"
         ],
         [
-            "Karma",
-            "Kled",
-            "Morgana",
-            "Nocturne",
-            "Renata glasc",
-            "Taric",
+            "Lulu",
+            "Rumble",
             "Yuumi"
         ],
         [
-            "Caitlyn",
-            "Camille",
-            "Ezreal"
+            "Ambessa",
+            "Garen",
+            "Kled",
+            "Lee sin",
+            "Mordekaiser",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Aatrox",
-            "Diana",
-            "Fizz",
+            "Belveth",
+            "Briar",
             "Ksante",
             "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
             "Neeko",
+            "Ornn",
             "Rakan",
-            "Riven",
+            "Rell",
+            "Samira",
             "Sylas",
-            "Yasuo",
-            "Zyra"
+            "Yone"
         ],
         [
-            "Aatrox",
-            "LeBlanc",
-            "Morgana",
-            "Renata glasc",
-            "Sylas",
             "Yuumi"
+        ],
+        [
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
         ]
     ]
 }

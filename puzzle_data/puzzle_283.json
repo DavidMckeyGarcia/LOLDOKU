@@ -1,94 +1,74 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "worlds skin",
-        "global ult"
+        "Mid",
+        "OG40",
+        "ult execute"
     ],
     "cols": [
-        "Bilgewater",
+        "Demacia",
         "root",
-        "riot records"
+        "manaless"
     ],
     "solutions": [
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Karma",
-            "Leona",
+            "Galio",
+            "Kayle",
+            "Lucian",
             "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Sylas"
         ],
         [
-            "Senna",
-            "Sona"
-        ],
-        [
-            "Gangplank",
-            "Graves",
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Hwei",
+            "Karma",
             "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
             "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
+            "Seraphine",
+            "Swain"
         ],
         [
             "Akali",
-            "Aphelios",
-            "Ekko",
-            "Ezreal",
-            "Kaisa",
-            "Karthus",
-            "Viego"
+            "Ambessa",
+            "Katarina",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
+            "Morgana",
+            "Nunu",
             "Ryze",
-            "Senna",
+            "Shaco",
+            "Singed",
             "Soraka"
         ],
         [
-            "Ekko",
-            "Ezreal",
-            "Kaisa",
-            "Karthus",
-            "Senna"
+            "Dr. Mundo",
+            "Katarina",
+            "Tryndamere"
+        ],
+        [
+            "Garen"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Akali",
+            "Garen",
+            "Reksai",
+            "Viego"
         ]
     ]
 }

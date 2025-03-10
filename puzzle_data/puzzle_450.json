@@ -2,103 +2,104 @@
     "difficulty": "bronze",
     "rows": [
         "Adc",
-        "Season 7+",
-        "global ult"
+        "ult execute",
+        "worlds skin"
     ],
     "cols": [
-        "root",
-        "Ionia",
-        "100% AP Ratio"
+        "Zaun",
+        "stun",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
             "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
             "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
+            "Ezreal",
             "Jinx",
             "Kaisa",
-            "Sivir",
-            "Smolder",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
             "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
+            "Twitch",
+            "Vayne",
             "Xayah"
         ],
         [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
-        ],
-        [
-            "Caitlyn",
             "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
+            "Urgot"
         ],
         [
-            "Lillia",
-            "Shen"
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Briar",
+            "Akali",
+            "Darius",
+            "Jinx"
+        ],
+        [
+            "Dr. Mundo",
             "Ekko",
-            "Gangplank",
+            "Janna",
+            "Jinx",
+            "Orianna",
+            "Singed",
+            "Twitch",
+            "Zac"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Irelia",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Nami",
+            "Nunu",
+            "Orianna",
+            "Renekton",
+            "Syndra",
+            "Taliyah",
+            "Thresh",
+            "Twisted fate",
+            "Vayne",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Aphelios",
+            "Ezreal",
+            "Fiora",
             "Jinx",
             "Kaisa",
-            "Lux",
-            "Nocturne",
-            "Pantheon",
-            "Shen",
-            "Twisted fate",
-            "Xerath"
+            "Kalista",
+            "Ryze",
+            "Twitch",
+            "Vayne",
+            "Xayah"
         ]
     ]
 }

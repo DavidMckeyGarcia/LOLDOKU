@@ -1,78 +1,67 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Adc",
-        "elderwood",
-        "true damage"
+        "Jungle",
+        "OG40",
+        "global ult"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "100% AP Ratio"
+        "Piltover",
+        "silence",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
+            "Camille"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Fiddlesticks"
         ],
         [
-            "Aphelios",
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Heimerdinger"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Alistar",
             "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
             "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "LeBlanc"
-        ],
-        [
-            "Azir",
-            "Rakan",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "Gnar",
-            "Hecarim",
-            "Veigar",
-            "Wukong"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
-            "Nunu"
+            "Maokai",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

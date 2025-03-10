@@ -50,9 +50,8 @@
     max-height: 90%;
   }
 
-  .grid-header-logo{
-    max-width: 90%;
-    max-height: 90%;
+  .grid-header-logo img{
+    object-fit: contain;
   }
 
   .column-image,

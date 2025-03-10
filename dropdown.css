@@ -118,7 +118,7 @@ body {
 .rank-image,
 .column-image,
 .row-image,
-.grid-header-logo-image {
+.grid-header-logo img{
   max-width: 80%;
   max-height: 80%;
   object-fit: contain;
@@ -127,7 +127,7 @@ body {
 .rank-image:hover,
 .column-image:hover,
 .row-image:hover,
-.grid-header-logo-image {
+.grid-header-logo img {
   transform: scale(1.1);
 }
 

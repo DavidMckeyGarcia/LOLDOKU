@@ -1,93 +1,76 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "elderwood",
-        "shield"
+        "Top",
+        "prestige",
+        "ult execute"
     ],
     "cols": [
-        "Shadow Isles",
         "root",
-        "shred"
+        "The Void",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Hecarim",
-            "Karthus",
+            "Ksante",
             "Maokai",
-            "Viego"
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Ivern",
+            "Chogath"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
             "Lee sin",
-            "Maokai",
+            "Leona",
+            "Lissandra",
+            "Lux",
             "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Neeko",
             "Qiyana",
-            "Rengar",
+            "Renata glasc",
+            "Senna",
             "Shaco",
-            "Zac",
+            "Soraka",
+            "Swain",
+            "Xayah",
             "Zyra"
         ],
         [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
+            "Kaisa"
         ],
         [
-            "Hecarim",
-            "Karthus"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Sivir",
+            "Swain",
+            "Vayne"
         ],
         [
-            "LeBlanc",
-            "Xayah"
+            "Jhin",
+            "Jinx"
         ],
         [
-            "Karthus",
-            "Wukong"
+            "Chogath",
+            "Reksai"
         ],
         [
-            "Senna",
-            "Thresh",
-            "Vex"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
-        ],
-        [
-            "Garen",
-            "Jarvan IV",
-            "Mordekaiser",
-            "Olaf",
-            "Rell",
-            "Rumble",
-            "Sion",
-            "Vi"
+            "Darius",
+            "Viego"
         ]
     ]
 }

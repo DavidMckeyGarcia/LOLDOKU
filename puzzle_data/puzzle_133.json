@@ -1,54 +1,111 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "arcade",
-        "ult execute"
+        "Mid",
+        "Season 7+",
+        "hextech"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "yordle"
+        "stun",
+        "Shurima",
+        "arcane"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Heimerdinger",
+            "Jayce",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
+        ],
+        [
+            "Ambessa",
             "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
+            "Ambessa",
+            "Mel"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
         ],
         [
             "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Rammus",
+            "Renekton"
         ],
         [
-            "Miss Fortune"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Corki",
-            "Veigar",
-            "Ziggs"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Veigar"
+            "Janna",
+            "Singed"
         ]
     ]
 }

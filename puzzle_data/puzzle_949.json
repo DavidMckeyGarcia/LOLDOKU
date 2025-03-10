@@ -1,74 +1,115 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "prestige",
-        "evolves"
+        "Jungle",
+        "blink",
+        "before s7"
     ],
     "cols": [
-        "Bilgewater",
         "knock-up",
-        "darkin"
+        "The Void",
+        "0 games"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
+            "Belveth",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Briar",
+            "Master yi"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Kassadin",
+            "Reksai"
+        ],
+        [
+            "Ambessa",
+            "Master yi"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
             "Anivia",
             "Aurelion Sol",
             "Azir",
+            "Blitzcrank",
+            "Braum",
             "Chogath",
             "Diana",
             "Fizz",
             "Galio",
             "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Naafiri"
-        ],
-        [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
             "Lee sin",
             "Lulu",
             "Malphite",
-            "Neeko",
-            "Rakan",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Reksai",
             "Riven",
-            "Sylas",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
             "Yasuo",
+            "Zac",
+            "Ziggs",
             "Zyra"
         ],
         [
-            "Aatrox",
-            "Kayn"
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
         ],
         [
-            "Gangplank"
-        ],
-        [
-            "Belveth",
-            "Kayn"
-        ],
-        [
-            "Kayn"
+            "Illaoi",
+            "Master yi"
         ]
     ]
 }

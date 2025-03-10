@@ -1,119 +1,130 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "arcade",
-        "life steal"
+        "life steal",
+        "coven"
     ],
     "cols": [
-        "knock-up",
-        "Zaun",
-        "never played"
+        "Bilgewater",
+        "slow",
+        "arcane"
     ],
     "solutions": [
         [
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
+        ],
+        [
             "Aatrox",
+            "Akali",
+            "Camille",
             "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Chogath",
+            "Darius",
             "Dr. Mundo",
             "Fiora",
+            "Gangplank",
             "Garen",
             "Gnar",
+            "Gragas",
             "Gwen",
             "Heimerdinger",
             "Illaoi",
+            "Irelia",
             "Jarvan IV",
+            "Jayce",
+            "Ksante",
+            "Kayle",
             "Kayn",
-            "Kennen",
             "Kled",
             "Malphite",
             "Maokai",
             "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Quinn",
+            "Rumble",
+            "Sett",
             "Shen",
+            "Singed",
+            "Sion",
             "Skarner",
+            "Swain",
+            "Sylas",
             "Tahm kench",
             "Teemo",
             "Trundle",
+            "Tryndamere",
             "Udyr",
-            "Vayne",
+            "Urgot",
             "Volibear",
             "Warwick",
-            "Wukong",
-            "Yorick"
+            "Yorick",
+            "Zac"
         ],
         [
-            "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
-        ],
-        [
-            "Blitzcrank",
-            "Ziggs"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Miss Fortune",
-            "Sona"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
-        ],
-        [
+            "Ambessa",
+            "Heimerdinger",
+            "Jayce",
+            "Singed",
             "Warwick"
         ],
         [
+            "Illaoi",
+            "Nilah"
+        ],
+        [
+            "Aatrox",
             "Aphelios",
             "Belveth",
             "Briar",
             "Gwen",
             "Illaoi",
+            "Ksante",
             "Kayn",
+            "Lee sin",
             "Morgana",
+            "Nasus",
             "Nilah",
+            "Olaf",
             "Samira",
             "Senna",
+            "Sion",
             "Trundle",
             "Udyr",
             "Viego",
+            "Vladimir",
             "Warwick"
+        ],
+        [
+            "Ambessa",
+            "Warwick"
+        ],
+        [
+            "Nami",
+            "Nilah"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Evelynn",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nilah",
+            "Syndra",
+            "Zyra"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

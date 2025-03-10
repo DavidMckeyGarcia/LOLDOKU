@@ -1,74 +1,94 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "pool party",
-        "ult execute"
+        "invis",
+        "Season 7+"
     ],
     "cols": [
-        "root",
-        "Zaun",
-        "yordle"
+        "Noxus",
+        "knock-up",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
             "LeBlanc",
-            "Lissandra",
-            "Lux",
             "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Corki",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
             "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
-        ],
-        [
-            "Dr. Mundo",
+            "Galio",
+            "Gragas",
+            "Neeko",
             "Orianna",
-            "Singed",
-            "Zac",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
             "Ziggs"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Ziggs"
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
         ],
         [
-            "Jhin",
-            "Jinx"
+            "LeBlanc",
+            "Talon"
         ],
         [
-            "Jinx",
-            "Urgot"
+            "Neeko",
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Veigar"
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
         ]
     ]
 }

@@ -1,63 +1,71 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "cosmic",
-        "global ult"
+        "Jungle",
+        "Season 7+",
+        "life steal"
     ],
     "cols": [
         "Ionia",
-        "silence",
-        "tether"
+        "fear",
+        "ascended"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
-        ],
-        [
-            "Jhin",
-            "Master yi",
-            "Rakan",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Illaoi"
-        ],
-        [
+            "Ivern",
+            "Kayn",
+            "Lee sin",
             "Lillia",
-            "Shen"
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
         ],
         [
-            "Soraka"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Kled",
-            "Nocturne"
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Kayn",
+            "Lee sin"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus"
         ]
     ]
 }

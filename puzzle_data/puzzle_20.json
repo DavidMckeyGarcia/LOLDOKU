@@ -1,70 +1,95 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
         "Adc",
-        "OG40",
-        "blink"
+        "Season 7+",
+        "evolves"
     ],
     "cols": [
-        "The Void",
-        "knock-up",
-        "pentakill"
+        "Demacia",
+        "stun",
+        "never played"
     ],
     "solutions": [
         [
-            "Kaisa",
-            "Kogmaw"
+            "Lucian",
+            "Vayne"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
             "Aphelios",
-            "Ezreal",
+            "Ashe",
+            "Draven",
+            "Jhin",
             "Jinx",
-            "Kaisa",
             "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Tristana",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
             "Twitch",
             "Vayne",
-            "Xayah"
+            "Xayah",
+            "Zeri"
         ],
         [
-            "Chogath",
-            "Kassadin"
+            "Sylas"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Ryze",
-            "Tristana",
-            "Twitch"
-        ],
-        [
-            "Kassadin",
-            "Reksai"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
             "Yone"
         ],
         [
-            "Ezreal",
-            "Ryze"
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
+        ],
+        [
+            "Kayle"
+        ],
+        [
+            "Bard",
+            "Viktor"
+        ],
+        [
+            "Bard",
+            "Belveth",
+            "Kayn"
         ]
     ]
 }

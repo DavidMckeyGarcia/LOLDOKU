@@ -1,154 +1,85 @@
 {
-    "difficulty": "iron",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "dash"
+        "Jungle",
+        "coven",
+        "OG40"
     ],
     "cols": [
-        "Shurima",
         "root",
-        "never played"
+        "Ionia",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Elise",
-            "Heimerdinger",
-            "Kennen",
-            "Naafiri"
-        ],
-        [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
-        ],
-        [
-            "Aatrox",
-            "Amumu",
-            "Azir",
-            "Jax",
-            "Ksante",
-            "Naafiri",
-            "Rammus",
-            "Renekton",
-            "Taliyah"
-        ],
-        [
-            "Caitlyn",
             "Ivern",
-            "Ksante",
             "Lee sin",
-            "Leona",
             "Maokai",
+            "Morgana",
             "Nautilus",
+            "Nunu",
             "Qiyana",
             "Rengar",
             "Shaco",
-            "Zac"
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
+        ],
+        [
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Morgana",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Syndra"
+        ],
+        [
+            "Ashe",
+            "Elise",
+            "Syndra"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Master yi"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Bard",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Graves",
-            "Gwen",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Kindred",
-            "Kled",
-            "Leona",
-            "Lillia",
-            "Malphite",
-            "Maokai",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rammus",
-            "Reksai",
-            "Rell",
-            "Rengar",
-            "Samira",
-            "Sejuani",
-            "Shaco",
-            "Shen",
-            "Shyvana",
-            "Thresh",
-            "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Yuumi",
-            "Zeri"
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

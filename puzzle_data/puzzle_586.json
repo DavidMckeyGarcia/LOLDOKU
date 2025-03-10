@@ -1,105 +1,100 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "OG40",
-        "blink"
+        "Mid",
+        "prestige",
+        "before s7"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "tether"
+        "silence",
+        "Ionia",
+        "ascended"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
             "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
+            "Xerath"
+        ],
+        [
+            "Garen",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Kayn",
+            "Lee sin",
+            "Rakan",
             "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Xayah",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Graves",
-            "Nautilus"
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
             "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
+            "Chogath",
             "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Lissandra",
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Jhin",
+            "Karma",
+            "Kennen",
+            "Lee sin",
+            "Master yi",
+            "Shen",
+            "Syndra",
+            "Varus",
+            "Wukong",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Leona",
+            "Nasus",
             "Pantheon",
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
-            "LeBlanc"
+            "Renekton",
+            "Taric",
+            "Varus",
+            "Xerath"
         ]
     ]
 }

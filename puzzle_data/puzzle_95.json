@@ -1,64 +1,63 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "blink"
+        "Mid",
+        "OG40",
+        "global ult"
     ],
     "cols": [
-        "root",
-        "Piltover",
-        "ascended"
+        "Zaun",
+        "fear",
+        "tether"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Caitlyn",
-            "Ezreal",
-            "Seraphine"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Aphelios",
             "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Vex"
         ],
         [
-            "Camille",
-            "Seraphine"
-        ],
-        [
-            "Kayn",
-            "Naafiri"
-        ],
-        [
+            "Karma",
             "LeBlanc",
-            "Lissandra",
-            "Ryze"
+            "Malzahar",
+            "Sylas"
         ],
         [
-            "Ezreal"
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
         ],
         [
-            "Pantheon"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Kled",
+            "Nocturne"
         ]
     ]
 }

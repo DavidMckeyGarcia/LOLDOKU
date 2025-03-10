@@ -1,63 +1,82 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "OG40",
-        "arcade"
+        "Jungle",
+        "before s7",
+        "true damage"
     ],
     "cols": [
-        "silence",
-        "Shadow Isles",
-        "yordle"
+        "fear",
+        "Freljord",
+        "0 games"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
+            "Briar",
             "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Karthus"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Briar",
+            "Master yi"
         ],
         [
-            "Blitzcrank",
-            "Malzahar"
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Hecarim"
+            "Anivia",
+            "Ashe",
+            "Brand",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Lissandra",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Corki",
-            "Veigar",
-            "Ziggs"
+            "Illaoi",
+            "Master yi"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Nunu",
+            "Olaf"
+        ],
+        [
+            "Akshan",
+            "Master yi",
+            "Samira"
         ]
     ]
 }

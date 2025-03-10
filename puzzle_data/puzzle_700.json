@@ -1,119 +1,91 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
+        "Support",
         "prestige",
-        "Season 7+"
+        "ult execute"
     ],
     "cols": [
-        "Piltover",
-        "root",
-        "100% AP Ratio"
+        "knock-up",
+        "Bandle City",
+        "riot records"
     ],
     "solutions": [
         [
-            "Camille"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
             "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
-        ],
-        [
-            "Caitlyn",
-            "Camille",
-            "Ezreal"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
             "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
             "Zyra"
         ],
         [
-            "Evelynn",
-            "Fiora",
+            "Heimerdinger",
+            "Lulu",
+            "Yuumi"
+        ],
+        [
+            "Senna",
+            "Sona"
+        ],
+        [
+            "Aatrox",
+            "Diana",
             "Fizz",
-            "Jax",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Sivir",
-            "Thresh",
-            "Volibear",
-            "Zeri"
-        ],
-        [
-            "Camille",
-            "Seraphine"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
             "Ksante",
-            "Mel",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
         ],
         [
-            "Aphelios",
-            "Belveth",
-            "Briar",
+            "Fizz",
+            "Lulu",
+            "Teemo",
+            "Yuumi"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Evelynn",
+            "Ezreal",
+            "Ksante",
             "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Kayle",
+            "Kayn",
+            "Qiyana",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Veigar"
+        ],
+        [
+            "Akali",
+            "Evelynn",
+            "Viego"
         ]
     ]
 }

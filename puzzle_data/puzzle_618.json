@@ -1,97 +1,113 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "Fright Night",
-        "true damage"
+        "Adc",
+        "before s7",
+        "global ult"
     ],
     "cols": [
         "knock-up",
-        "Noxus",
-        "100% AP Ratio"
+        "Freljord",
+        "ascended"
     ],
     "solutions": [
         [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Ashe"
+        ],
+        [
+            "Varus"
+        ],
+        [
             "Aatrox",
+            "Alistar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
             "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
+            "Ivern",
+            "Janna",
             "Jarvan IV",
-            "Ksante",
-            "Kayn",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
             "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
-        ],
-        [
+            "Nami",
             "Nautilus",
             "Nunu",
-            "Trundle"
-        ],
-        [
-            "Annie",
-            "Draven"
-        ],
-        [
-            "Nunu",
-            "Veigar",
-            "Zeri"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
+            "Orianna",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
             "Velkoz",
-            "Yone"
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Darius",
-            "Draven",
-            "Samira"
+            "Anivia",
+            "Ashe",
+            "Brand",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Lissandra",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
-            "Nunu"
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Leona",
+            "Nasus",
+            "Pantheon",
+            "Renekton",
+            "Taric",
+            "Varus",
+            "Xerath"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Pantheon",
+            "Xerath"
         ]
     ]
 }

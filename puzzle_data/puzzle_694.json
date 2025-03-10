@@ -1,91 +1,89 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "shield",
-        "arcade"
+        "Top",
+        "true damage",
+        "coven"
     ],
     "cols": [
-        "Ionia",
         "root",
-        "pentakill"
+        "Ionia",
+        "manaless"
     ],
     "solutions": [
         [
-            "Ahri",
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
             "Akali",
-            "Hwei",
             "Irelia",
-            "Karma",
+            "Kayn",
             "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Hwei",
-            "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
             "Sett",
             "Shen",
+            "Wukong",
             "Yasuo",
             "Yone"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Aphelios",
-            "Kaisa"
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
         ],
         [
             "Ahri",
-            "Yasuo"
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Syndra",
+            "Yone"
         ],
         [
-            "Caitlyn",
-            "Qiyana"
+            "Akali",
+            "Belveth",
+            "Garen",
+            "Sett",
+            "Yone"
         ],
         [
-            "Ezreal",
-            "Kaisa"
+            "LeBlanc",
+            "Lissandra",
+            "Morgana",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Syndra"
+        ],
+        [
+            "Akali"
         ]
     ]
 }

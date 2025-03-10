@@ -1,98 +1,102 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "OG40",
-        "arcade"
+        "Adc",
+        "before s7",
+        "ult execute"
     ],
     "cols": [
-        "stun",
-        "Ionia",
-        "arcane"
+        "The Void",
+        "knock-up",
+        "ult reset"
     ],
     "solutions": [
         [
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
+        ],
+        [
+            "Aatrox",
             "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
             "Blitzcrank",
-            "Brand",
             "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
             "Nami",
             "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Karma",
-            "Rakan"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
             "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Malzahar",
-            "Qiyana",
+            "Orianna",
+            "Poppy",
+            "Reksai",
             "Riven",
-            "Sona",
-            "Veigar"
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
+            "Aatrox",
             "Ahri",
-            "Yasuo"
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ],
         [
-            "Caitlyn"
+            "Chogath",
+            "Reksai"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Darius",
+            "Viego"
         ]
     ]
 }

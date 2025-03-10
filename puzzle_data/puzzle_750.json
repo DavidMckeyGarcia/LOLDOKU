@@ -1,20 +1,16 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "before s7",
-        "empyrean"
+        "blink",
+        "before s7"
     ],
     "cols": [
-        "silence",
         "Ionia",
-        "100+ games"
+        "stun",
+        "tether"
     ],
     "solutions": [
-        [
-            "Chogath",
-            "Garen"
-        ],
         [
             "Akali",
             "Irelia",
@@ -27,25 +23,61 @@
             "Yone"
         ],
         [
-            "Aatrox",
+            "Ambessa",
+            "Camille",
+            "Fiora",
             "Gnar",
             "Gragas",
-            "Jarvan IV",
+            "Heimerdinger",
+            "Irelia",
             "Jax",
-            "Jayce",
-            "Maokai",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
             "Renekton",
-            "Rumble",
-            "Shen"
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Master yi",
+            "Shen",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "LeBlanc"
         ],
         [
             "Ahri",
@@ -65,50 +97,76 @@
             "Zed"
         ],
         [
-            "Aatrox",
             "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
-            "Azir",
+            "Aurelion Sol",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
             "Braum",
-            "Caitlyn",
+            "Cassiopeia",
+            "Ekko",
             "Elise",
-            "Ezreal",
+            "Fiora",
             "Gnar",
             "Gragas",
-            "Graves",
-            "Janna",
-            "Jarvan IV",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
+            "Ivern",
             "Jax",
-            "Jayce",
-            "Jhin",
-            "Lee sin",
+            "Kennen",
             "Leona",
-            "Lucian",
-            "Lulu",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
             "Orianna",
+            "Pantheon",
+            "Poppy",
+            "Rammus",
             "Renekton",
-            "Rumble",
-            "Ryze",
+            "Riven",
             "Sejuani",
-            "Shen",
+            "Sion",
+            "Skarner",
+            "Sona",
             "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Taric",
             "Thresh",
-            "Tristana",
-            "Varus"
+            "Twisted fate",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Veigar",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
+            "Zilean"
         ],
         [
-            "Malzahar"
-        ],
-        [
-            "Akali",
-            "Jhin",
-            "Varus",
-            "Zed"
-        ],
-        [
-            "Jax",
-            "Jhin",
-            "Varus"
+            "Aatrox",
+            "Fiddlesticks",
+            "Illaoi",
+            "Kalista",
+            "Karma",
+            "Kled",
+            "LeBlanc",
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
         ]
     ]
 }

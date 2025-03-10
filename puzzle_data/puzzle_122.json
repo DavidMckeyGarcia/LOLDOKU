@@ -1,96 +1,119 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
+        "Jungle",
         "shield",
-        "Season 7+"
+        "prestige"
     ],
     "cols": [
-        "Bandle City",
-        "stun",
-        "vastayan"
+        "Piltover",
+        "knock-up",
+        "tether"
     ],
     "solutions": [
         [
-            "Corki",
-            "Tristana"
+            "Camille"
         ],
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Xayah"
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
         ],
         [
-            "Lulu",
-            "Rumble",
-            "Yuumi"
+            "Camille",
+            "Orianna",
+            "Seraphine"
         ],
         [
-            "Ambessa",
-            "Annie",
+            "Azir",
             "Blitzcrank",
             "Braum",
-            "Camille",
-            "Ekko",
+            "Diana",
+            "Galio",
             "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Ksante",
-            "Milio",
-            "Morgana",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
             "Nautilus",
             "Neeko",
             "Nunu",
             "Orianna",
             "Poppy",
+            "Rakan",
             "Rell",
-            "Renata glasc",
             "Riven",
-            "Seraphine",
-            "Sett",
             "Sion",
-            "Skarner",
-            "Sona",
             "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
             "Vi",
-            "Viktor",
-            "Volibear",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Neeko",
-            "Rakan"
-        ],
-        [
+            "Karma",
+            "Kled",
+            "Morgana",
+            "Nocturne",
+            "Renata glasc",
+            "Taric",
             "Yuumi"
         ],
         [
-            "Ambessa",
-            "Briar",
+            "Caitlyn",
             "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Ezreal"
         ],
         [
-            "Aurora",
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
             "Neeko",
             "Rakan",
-            "Xayah"
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "LeBlanc",
+            "Morgana",
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ]
     ]
 }

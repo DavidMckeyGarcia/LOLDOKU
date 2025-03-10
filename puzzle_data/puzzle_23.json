@@ -1,98 +1,112 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "prestige",
-        "true damage"
+        "Support",
+        "Season 7+",
+        "prestige"
     ],
     "cols": [
-        "The Void",
-        "knock-up",
-        "shred"
+        "root",
+        "Demacia",
+        "riot records"
     ],
     "solutions": [
         [
-            "Chogath"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
         ],
         [
-            "Evelynn",
-            "Garen",
-            "Zoe"
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
+            "Senna",
+            "Sona"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Ivern",
+            "Aphelios",
+            "Hwei",
             "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
             "Yone"
         ],
         [
-            "Corki",
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Fiora",
             "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Sona",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Evelynn",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Qiyana",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo"
         ]
     ]
 }

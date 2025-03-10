@@ -1,72 +1,66 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "Space Groove",
+        "Adc",
+        "hextech",
         "Season 7+"
     ],
     "cols": [
-        "Zaun",
         "stun",
-        "0 games"
+        "The Void",
+        "never played"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
         ],
         [
             "Alistar",
+            "Amumu",
+            "Anivia",
             "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
+            "Malzahar",
             "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
         ],
         [
-            "Mel",
-            "Milio"
+            "Kassadin",
+            "Kogmaw",
+            "Malzahar"
         ],
         [
-            "Blitzcrank"
-        ],
-        [
-            "Blitzcrank",
-            "Gragas",
-            "Lissandra",
-            "Nami",
-            "Nunu",
-            "Taric",
-            "Twisted fate"
-        ],
-        [
-            "Samira"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
+            "Alistar",
+            "Amumu",
+            "Janna",
+            "Jarvan IV",
+            "Rammus",
+            "Sejuani"
         ],
         [
             "Ambessa",
@@ -86,14 +80,30 @@
             "Yone"
         ],
         [
+            "Belveth",
+            "Kaisa"
+        ],
+        [
             "Akshan",
-            "Ambessa",
+            "Aphelios",
+            "Belveth",
             "Briar",
-            "Mel",
+            "Gwen",
+            "Kayn",
+            "Lillia",
             "Milio",
             "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
             "Samira",
-            "Vex"
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ]
     ]
 }

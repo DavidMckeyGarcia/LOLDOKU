@@ -1,16 +1,20 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "pool party",
-        "invis"
+        "shield",
+        "Season 7+"
     ],
     "cols": [
+        "fear",
         "Freljord",
-        "root",
-        "shred"
+        "manaless"
     ],
     "solutions": [
+        [
+            "Hwei",
+            "Vex"
+        ],
         [
             "Anivia",
             "Aurora",
@@ -19,53 +23,56 @@
             "Lissandra"
         ],
         [
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Kennen",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
             "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Nocturne",
+            "Urgot",
+            "Vex"
         ],
         [
-            "Corki",
-            "Jayce",
-            "Karthus",
-            "Zoe"
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Braum"
-        ],
-        [
-            "Caitlyn",
+            "Ambessa",
+            "Garen",
+            "Kled",
             "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
+            "Mordekaiser",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Jarvan IV",
-            "Renekton",
-            "Zoe"
+            "Briar",
+            "Hwei",
+            "Vex"
         ],
         [
-            "Aurora"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Rengar",
-            "Wukong"
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
         ]
     ]
 }

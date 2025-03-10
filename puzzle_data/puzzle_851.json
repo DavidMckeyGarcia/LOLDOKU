@@ -1,140 +1,100 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "invis",
-        "OG40"
+        "Adc",
+        "arcade",
+        "ult execute"
     ],
     "cols": [
-        "slow",
         "Bilgewater",
-        "30+ wins"
+        "slow",
+        "pentakill"
     ],
     "solutions": [
         [
+            "Miss Fortune",
+            "Nilah"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
+        ],
+        [
+            "Miss Fortune"
+        ],
+        [
+            "Ahri",
             "Belveth",
             "Brand",
-            "Briar",
-            "Camille",
-            "Diana",
-            "Dr. Mundo",
-            "Ekko",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gragas",
-            "Graves",
+            "Caitlyn",
+            "Corki",
             "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Karthus",
-            "Kayn",
-            "Khazix",
-            "Kindred",
-            "Lee sin",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nasus",
-            "Nautilus",
-            "Nocturne",
-            "Nunu",
-            "Olaf",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sejuani",
-            "Sett",
-            "Shaco",
-            "Shen",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Talon",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Taliyah"
-        ],
-        [
-            "Akali",
-            "Aurora",
             "Kaisa",
-            "Khazix",
-            "Pyke",
+            "Miss Fortune",
             "Qiyana",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
+            "Sona",
+            "Ziggs"
+        ],
+        [
+            "Ezreal",
+            "Kaisa"
         ],
         [
             "Pyke"
         ],
         [
-            "LeBlanc"
-        ],
-        [
-            "Anivia",
-            "Ashe",
+            "Akali",
             "Chogath",
-            "Corki",
-            "Dr. Mundo",
+            "Darius",
+            "Draven",
             "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Syndra",
+            "Urgot",
+            "Viego"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Corki",
-            "Ryze"
+            "Akali",
+            "Darius",
+            "Jinx"
         ]
     ]
 }

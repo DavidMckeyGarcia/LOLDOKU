@@ -1,86 +1,73 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "hextech",
-        "blink"
+        "Adc",
+        "evolves",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
         "Zaun",
+        "knock-up",
         "100+ games"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Alistar",
             "Ashe",
-            "Braum",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Viktor"
+        ],
+        [
+            "Belveth",
+            "Kayn"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
             "Janna",
-            "Leona",
-            "Lulu",
-            "Maokai",
-            "Rakan",
-            "Thresh"
+            "Singed",
+            "Twitch",
+            "Warwick"
         ],
         [
             "Alistar",
             "Anivia",
-            "Galio",
+            "Blitzcrank",
+            "Chogath",
             "Janna",
-            "Jarvan IV",
-            "Poppy",
-            "Sejuani",
-            "Sion",
-            "Ziggs"
-        ],
-        [
-            "Janna",
-            "Singed",
-            "Ziggs"
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
             "Alistar",
+            "Ashe",
             "Janna",
-            "Jarvan IV",
-            "Renekton",
-            "Sejuani",
-            "Tristana"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Ekko"
-        ],
-        [
-            "Ezreal",
+            "Jax",
             "Ryze",
-            "Shen"
+            "Tristana"
         ]
     ]
 }

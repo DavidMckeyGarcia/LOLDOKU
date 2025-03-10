@@ -2,87 +2,92 @@
     "difficulty": "platinum",
     "rows": [
         "Adc",
-        "ult execute",
-        "worlds skin"
+        "arcade",
+        "ult execute"
     ],
     "cols": [
-        "stun",
-        "Noxus",
-        "shred"
+        "slow",
+        "Zaun",
+        "arcane"
     ],
     "solutions": [
         [
+            "Aphelios",
             "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
+            "Caitlyn",
             "Corki",
-            "Kogmaw"
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Ahri",
+            "Belveth",
+            "Brand",
+            "Caitlyn",
+            "Corki",
+            "Hecarim",
+            "Kaisa",
+            "Miss Fortune",
+            "Qiyana",
+            "Sona",
+            "Ziggs"
+        ],
+        [
+            "Blitzcrank",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn"
+        ],
+        [
+            "Akali",
+            "Chogath",
+            "Darius",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
             "Pyke",
-            "Riven",
+            "Reksai",
             "Syndra",
             "Urgot",
-            "Veigar",
             "Viego"
         ],
         [
-            "Darius",
-            "Draven",
-            "Riven"
+            "Jinx",
+            "Urgot"
         ],
         [
-            "Evelynn",
-            "Garen"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Bard",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Irelia",
-            "Jax",
-            "Kennen",
-            "Leona",
-            "Nami",
-            "Nunu",
-            "Orianna",
-            "Renekton",
-            "Syndra",
-            "Taliyah",
-            "Thresh",
-            "Twisted fate",
-            "Vayne",
-            "Viego",
-            "Zac"
-        ],
-        [
-            "Alistar",
-            "Elise",
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Corki",
-            "Jarvan IV",
-            "Jayce",
-            "Karthus",
-            "Renekton",
-            "Rengar",
-            "Zoe"
+            "Jinx"
         ]
     ]
 }

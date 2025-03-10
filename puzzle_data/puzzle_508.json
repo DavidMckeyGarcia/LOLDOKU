@@ -1,65 +1,76 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "invis",
-        "before s7"
+        "Top",
+        "empyrean",
+        "life steal"
     ],
     "cols": [
-        "Ixtal",
         "fear",
-        "vastayan"
+        "Zaun",
+        "manaless"
     ],
     "solutions": [
         [
-            "Neeko",
-            "Qiyana"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Ahri",
-            "Aurora",
-            "Neeko"
-        ],
-        [
-            "Neeko",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Malphite",
-            "Nidalee",
-            "Rengar",
-            "Skarner",
-            "Zyra"
-        ],
-        [
             "Aatrox",
             "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
             "Urgot",
             "Warwick"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar",
-            "Wukong"
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Zac",
+            "Zed"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Warwick"
+        ],
+        [
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Lee sin",
+            "Viego",
+            "Vladimir"
         ]
     ]
 }

@@ -1,34 +1,66 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "dash",
-        "OG40"
+        "Support",
+        "elderwood",
+        "dash"
     ],
     "cols": [
-        "root",
         "Bandle City",
-        "ult reset"
+        "root",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Heimerdinger",
+            "Lulu",
+            "Yuumi"
+        ],
+        [
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
             "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
             "Senna",
             "Seraphine",
-            "Varus",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Braum",
+            "Janna",
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
+        ],
+        [
+            "Veigar"
+        ],
+        [
+            "LeBlanc",
+            "Xayah"
+        ],
+        [
+            "Azir",
+            "Gnar",
+            "Rakan",
             "Xayah"
         ],
         [
             "Corki",
-            "Tristana"
-        ],
-        [
-            "Sivir",
-            "Vayne"
+            "Fizz",
+            "Tristana",
+            "Yuumi"
         ],
         [
             "Caitlyn",
@@ -44,39 +76,30 @@
             "Zac"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Tristana",
-            "Yuumi"
-        ],
-        [
             "Aatrox",
-            "Ahri",
-            "Belveth",
-            "Naafiri",
-            "Vayne",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Alistar",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Maokai",
+            "Rakan",
+            "Renekton",
+            "Sejuani",
+            "Shen",
+            "Thresh",
+            "Tristana"
         ]
     ]
 }

@@ -1,80 +1,122 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "shield",
-        "OG40"
+        "Top",
+        "evolves",
+        "arcade"
     ],
     "cols": [
-        "Shurima",
-        "fear",
-        "manaless"
+        "slow",
+        "Noxus",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
+            "Aatrox",
             "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Akshan",
-            "Azir",
-            "Ksante",
-            "Naafiri",
-            "Sivir"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Ambessa",
+            "Camille",
+            "Chogath",
+            "Darius",
+            "Dr. Mundo",
+            "Fiora",
+            "Gangplank",
             "Garen",
+            "Gnar",
+            "Gragas",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Irelia",
+            "Jarvan IV",
+            "Jayce",
+            "Ksante",
+            "Kayle",
+            "Kayn",
             "Kled",
-            "Lee sin",
+            "Malphite",
+            "Maokai",
             "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Quinn",
             "Rumble",
             "Sett",
             "Shen",
-            "Yasuo",
-            "Yone"
+            "Singed",
+            "Sion",
+            "Skarner",
+            "Swain",
+            "Sylas",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Urgot",
+            "Volibear",
+            "Warwick",
+            "Yorick",
+            "Zac"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
         ],
         [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
+            "Bard",
+            "Belveth",
+            "Gangplank",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Khazix",
+            "Smolder",
+            "Viktor"
+        ],
+        [
+            "Kayn",
+            "Smolder"
+        ],
+        [
+            "Belveth",
+            "Viktor"
+        ],
+        [
+            "Ahri",
+            "Belveth",
+            "Brand",
+            "Caitlyn",
+            "Corki",
+            "Hecarim",
+            "Kaisa",
+            "Miss Fortune",
+            "Qiyana",
+            "Sona",
+            "Ziggs"
+        ],
+        [
+            "Riven"
+        ],
+        [
+            "Ahri",
+            "Belveth"
         ]
     ]
 }

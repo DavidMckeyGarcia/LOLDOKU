@@ -1,50 +1,86 @@
 {
     "difficulty": "silver",
     "rows": [
-        "Adc",
+        "Jungle",
         "Season 7+",
-        "blink"
+        "elderwood"
     ],
     "cols": [
+        "Shadow Isles",
         "slow",
-        "Noxus",
-        "ult reset"
+        "vastayan"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
+        ],
+        [
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Diana",
+            "Dr. Mundo",
+            "Ekko",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gragas",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Karthus",
+            "Kayn",
+            "Khazix",
+            "Kindred",
+            "Lee sin",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nasus",
+            "Nautilus",
+            "Nocturne",
+            "Nunu",
+            "Olaf",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sejuani",
+            "Sett",
+            "Shaco",
+            "Shen",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Talon",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Gwen",
             "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Sivir",
-            "Vayne"
+            "Vex",
+            "Viego"
         ],
         [
             "Aphelios",
@@ -79,42 +115,30 @@
             "Zoe"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
+            "Aurora",
+            "Neeko",
+            "Rakan",
+            "Xayah"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
+            "Hecarim",
+            "Karthus"
         ],
         [
-            "Ekko",
-            "Kassadin",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Reksai",
-            "Ryze",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Zed"
+            "Ahri",
+            "Azir",
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Karthus",
+            "Rakan",
+            "Reksai"
         ],
         [
-            "Ambessa",
-            "Katarina",
-            "LeBlanc"
-        ],
-        [
-            "Master yi",
-            "Viego"
+            "Ahri",
+            "Rakan",
+            "Wukong",
+            "Xayah"
         ]
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Support",
         "life steal",
-        "prestige"
+        "empyrean"
     ],
     "cols": [
         "slow",
-        "Noxus",
-        "tether"
+        "Bilgewater",
+        "ascended"
     ],
     "solutions": [
         [
@@ -48,18 +48,16 @@
             "Zyra"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
         ],
         [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
+            "Leona",
+            "Pantheon",
             "Taric",
-            "Yuumi"
+            "Xerath"
         ],
         [
             "Aatrox",
@@ -85,84 +83,33 @@
             "Warwick"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Aatrox",
             "Illaoi",
-            "Morgana"
+            "Nilah"
         ],
         [
             "Aatrox",
-            "Ahri",
+            "Kayn",
+            "Nasus"
+        ],
+        [
             "Akali",
             "Brand",
-            "Caitlyn",
-            "Camille",
-            "Cassiopeia",
-            "Darius",
-            "Diana",
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Garen",
-            "Jinx",
+            "Jhin",
             "Ksante",
-            "Kaisa",
             "Kayle",
-            "Kayn",
-            "Kindred",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lulu",
             "Lux",
-            "Malphite",
-            "Miss Fortune",
-            "Morgana",
-            "Pantheon",
+            "Nocturne",
             "Pyke",
-            "Qiyana",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
-            "Sett",
-            "Shaco",
-            "Sivir",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Sylas",
-            "Teemo",
-            "Thresh",
-            "Volibear",
-            "Yuumi",
-            "Zed",
-            "Zeri",
-            "Zoe",
-            "Zyra"
+            "Varus",
+            "Vex",
+            "Zac",
+            "Zed"
         ],
         [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
+            "Pyke"
         ],
         [
-            "Aatrox",
-            "LeBlanc",
-            "Morgana",
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Varus"
         ]
     ]
 }

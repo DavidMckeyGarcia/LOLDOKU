@@ -1,36 +1,38 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
         "Support",
         "OG40",
-        "PROJECT"
+        "arcade"
     ],
     "cols": [
-        "Targon",
-        "root",
+        "Demacia",
+        "knock-up",
         "tether"
     ],
     "solutions": [
         [
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
             "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
             "Zyra"
         ],
         [
@@ -41,16 +43,18 @@
             "Yuumi"
         ],
         [
-            "Soraka",
-            "Taric"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Morgana",
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
             "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Sion"
         ],
         [
             "Fiddlesticks",
@@ -58,17 +62,17 @@
             "Taric"
         ],
         [
-            "Leona"
+            "Sona"
         ],
         [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
         ],
         [
-            "Sylas"
+            "Malzahar"
         ]
     ]
 }

@@ -1,103 +1,71 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "Season 7+",
-        "true damage"
+        "Support",
+        "arcade",
+        "global ult"
     ],
     "cols": [
         "root",
-        "Ionia",
-        "100% AP Ratio"
+        "The Void",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ksante",
+            "Karma",
+            "Leona",
+            "Lux",
             "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
             "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
             "Renata glasc",
             "Senna",
             "Seraphine",
-            "Xayah"
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
+            "Velkoz"
         ],
         [
-            "Aphelios",
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
             "Belveth",
-            "Briar",
             "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Malzahar"
         ],
         [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ivern",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Syndra",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Chogath",
             "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
-            "Nunu"
+            "Veigar",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

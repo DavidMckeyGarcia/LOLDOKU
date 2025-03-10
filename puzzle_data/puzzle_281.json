@@ -1,66 +1,67 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "invis",
-        "PROJECT"
+        "Mid",
+        "prestige",
+        "true damage"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "0 games"
+        "silence",
+        "Freljord",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Ambessa",
-            "Illaoi"
-        ],
-        [
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
             "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ],
         [
-            "Vayne"
+            "Garen",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Akshan"
+            "Brand",
+            "Kindred",
+            "Lissandra",
+            "Volibear"
         ],
         [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
+            "Ahri",
+            "LeBlanc",
+            "Lissandra"
         ],
         [
-            "Fiora",
-            "Lucian",
-            "Sylas",
-            "Vayne"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Master yi"
+            "Nunu",
+            "Olaf"
+        ],
+        [
+            "Ahri",
+            "Corki"
         ]
     ]
 }

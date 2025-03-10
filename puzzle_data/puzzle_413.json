@@ -2,26 +2,26 @@
     "difficulty": "bronze",
     "rows": [
         "Top",
-        "OG40",
-        "prestige"
+        "Season 7+",
+        "life steal"
     ],
     "cols": [
+        "Bilgewater",
         "root",
-        "Bandle City",
         "never played"
     ],
     "solutions": [
+        [
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
+        ],
         [
             "Ksante",
             "Maokai",
             "Singed",
             "Swain",
             "Zac"
-        ],
-        [
-            "Heimerdinger",
-            "Rumble",
-            "Teemo"
         ],
         [
             "Chogath",
@@ -52,96 +52,68 @@
             "Yorick"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Nilah",
+            "Pyke"
         ],
         [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
+            "Aphelios",
+            "Hwei",
             "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
+            "Mel",
             "Neeko",
-            "Qiyana",
             "Renata glasc",
             "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Fizz",
-            "Lulu",
-            "Teemo",
-            "Yuumi"
-        ],
-        [
-            "Brand",
-            "Evelynn",
-            "Fiora",
-            "Garen",
-            "Jinx",
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
             "Kayn",
-            "Kindred",
-            "Leona",
-            "Malphite",
-            "Miss Fortune",
-            "Morgana",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
             "Pyke",
             "Rakan",
+            "Rell",
             "Renata glasc",
+            "Samira",
             "Senna",
-            "Shaco",
-            "Sivir",
-            "Sona",
-            "Soraka",
-            "Teemo",
-            "Thresh",
-            "Vayne",
-            "Volibear",
+            "Viego",
             "Xayah",
             "Yuumi",
-            "Zeri",
-            "Zyra"
+            "Zeri"
+        ],
+        [
+            "Illaoi",
+            "Nilah"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Kayn",
+            "Morgana",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ]
     ]
 }

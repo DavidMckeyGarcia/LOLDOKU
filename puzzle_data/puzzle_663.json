@@ -1,102 +1,84 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "coven",
-        "evolves"
+        "true damage",
+        "cosmic"
     ],
     "cols": [
-        "Ionia",
-        "stun",
-        "100% AP Ratio"
+        "knock-up",
+        "Bandle City",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Aatrox",
+            "Chogath",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
+            "Jarvan IV",
             "Ksante",
-            "Kennen",
+            "Kayn",
+            "Malphite",
             "Ornn",
-            "Pantheon",
             "Poppy",
-            "Renekton",
             "Riven",
-            "Sett",
             "Sion",
-            "Skarner",
             "Sylas",
             "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
             "Yone",
             "Zac"
         ],
         [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
+            "Heimerdinger",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Ahri",
             "Akali",
-            "Syndra"
-        ],
-        [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
-        ],
-        [
-            "Ashe",
-            "Evelynn"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Bard",
-            "Viktor"
+            "Darius",
+            "Fiora",
+            "Vayne"
         ],
         [
             "Belveth",
-            "Gangplank",
-            "Kaisa",
-            "Smolder",
-            "Viktor"
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Kogmaw",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Xin Zhao"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Xayah"
         ]
     ]
 }

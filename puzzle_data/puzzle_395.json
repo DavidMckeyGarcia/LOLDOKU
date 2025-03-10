@@ -1,92 +1,132 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "true damage",
-        "before s7"
+        "dash",
+        "elderwood"
     ],
     "cols": [
-        "fear",
-        "Demacia",
-        "yordle"
+        "knock-up",
+        "Shurima",
+        "riot records"
     ],
     "solutions": [
         [
+            "Belveth",
             "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
+            "Diana",
+            "Gragas",
+            "Ivern",
             "Jarvan IV",
-            "Morgana",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
             "Poppy",
-            "Shyvana",
+            "Reksai",
+            "Rell",
+            "Sejuani",
             "Sylas",
-            "Xin Zhao"
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
             "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
         ],
         [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Vayne"
-        ],
-        [
-            "Amumu",
-            "Corki"
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
+            "Sett",
+            "Viego"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Fiora",
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sona",
-            "Vayne",
-            "Xin Zhao"
-        ],
-        [
-            "Amumu",
-            "Corki",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
             "Fizz",
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
             "Poppy",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
             "Ziggs"
+        ],
+        [
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Ksante",
+            "Naafiri",
+            "Rammus",
+            "Renekton",
+            "Taliyah"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Qiyana",
+            "Sett",
+            "Viego",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Azir"
+        ],
+        [
+            "Ahri",
+            "Karthus"
         ]
     ]
 }

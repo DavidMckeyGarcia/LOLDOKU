@@ -1,137 +1,77 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "OG40",
-        "empyrean"
+        "Support",
+        "life steal",
+        "OG40"
     ],
     "cols": [
-        "slow",
-        "Shadow Isles",
-        "pentakill"
+        "Demacia",
+        "root",
+        "shred"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Akali",
-            "Camille",
-            "Chogath",
-            "Darius",
-            "Dr. Mundo",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
-            "Jarvan IV",
-            "Jayce",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Malphite",
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Karma",
+            "Leona",
+            "Lux",
             "Maokai",
-            "Mordekaiser",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Rell"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Briar",
             "Nasus",
             "Olaf",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
             "Sion",
-            "Skarner",
-            "Swain",
-            "Sylas",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
-            "Zac"
+            "Trundle"
         ],
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
             "Kayle",
-            "Malphite",
+            "Morgana"
+        ],
+        [
             "Morgana",
-            "Nasus",
             "Nunu",
-            "Rammus",
             "Ryze",
             "Shaco",
             "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
+            "Soraka"
         ],
         [
-            "Karthus"
-        ],
-        [
-            "Ryze",
-            "Tristana",
-            "Twitch"
-        ],
-        [
-            "Akali",
-            "Brand",
-            "Jhin",
-            "Ksante",
-            "Kayle",
-            "Lux",
-            "Nocturne",
-            "Pyke",
-            "Varus",
-            "Vex",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Akali"
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ]
     ]
 }

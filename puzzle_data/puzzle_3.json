@@ -1,63 +1,57 @@
 {
     "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "arcade",
-        "shield"
+        "Top",
+        "blink",
+        "hextech"
     ],
     "cols": [
-        "fear",
-        "Demacia",
-        "vastayan"
+        "silence",
+        "Zaun",
+        "arcane"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Ambessa",
+            "Heimerdinger",
+            "Jayce",
+            "Singed",
             "Warwick"
         ],
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
+            "Kassadin"
         ],
         [
-            "Rengar",
-            "Wukong"
+            "Ekko"
         ],
         [
-            "Hecarim"
+            "Ambessa",
+            "Ekko",
+            "LeBlanc"
         ],
         [
-            "Sona"
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Ahri"
+            "Janna",
+            "Singed",
+            "Ziggs"
         ],
         [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Neeko",
-            "Rakan"
+            "Janna",
+            "Singed"
         ]
     ]
 }

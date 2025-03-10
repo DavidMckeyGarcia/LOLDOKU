@@ -1,116 +1,60 @@
 {
-    "difficulty": "silver",
+    "difficulty": "challenger",
     "rows": [
         "Mid",
-        "blink",
-        "elderwood"
+        "Season 7+",
+        "hextech"
     ],
     "cols": [
-        "Noxus",
-        "stun",
-        "100% AP Ratio"
+        "Demacia",
+        "fear",
+        "arcane"
     ],
     "solutions": [
         [
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Hwei",
+            "Vex"
+        ],
+        [
             "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
+            "Ekko",
+            "Heimerdinger",
+            "Jayce",
             "LeBlanc",
             "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
             "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Viktor"
         ],
         [
-            "Aurelion Sol",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
+            "Sylas"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
         ],
         [
             "Ambessa",
-            "Katarina",
-            "LeBlanc"
+            "Mel"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Yone"
+            "Galio",
+            "Jarvan IV",
+            "Poppy"
         ],
         [
-            "Ekko",
-            "Master yi",
-            "Pantheon",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego"
+            "Nocturne"
         ],
         [
-            "LeBlanc"
-        ],
-        [
-            "Bard",
-            "Gnar",
-            "Hecarim",
-            "Veigar"
-        ],
-        [
-            "Gnar",
-            "Hecarim",
-            "Veigar",
-            "Wukong"
+            "Janna",
+            "Singed"
         ]
     ]
 }

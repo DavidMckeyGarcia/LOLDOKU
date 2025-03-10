@@ -1,50 +1,37 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
         "Support",
-        "before s7",
-        "invis"
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
+        "Bandle City",
+        "knock-up",
         "vastayan"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
             "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
+            "Lulu",
+            "Yuumi"
+        ],
+        [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
             "Nami",
             "Nautilus",
             "Neeko",
-            "Pantheon",
             "Poppy",
-            "Pyke",
+            "Rakan",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
             "Tahm kench",
-            "Taric",
-            "Thresh",
             "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
+            "Zyra"
         ],
         [
             "Nami",
@@ -52,96 +39,42 @@
             "Rakan"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Heimerdinger",
-            "Irelia",
+            "Corki"
+        ],
+        [
+            "Belveth",
+            "Chogath",
             "Ivern",
-            "Jax",
-            "Kennen",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Nautilus",
+            "Ksante",
             "Nunu",
-            "Orianna",
-            "Pantheon",
-            "Poppy",
-            "Rammus",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Taric",
-            "Thresh",
-            "Twisted fate",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Veigar",
+            "Samira",
             "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Warwick",
-            "Xerath",
-            "Xin Zhao",
-            "Zac",
-            "Zilean"
+            "Yone"
         ],
         [
-            "Fizz",
-            "Gangplank",
-            "Graves",
-            "Illaoi",
-            "Miss Fortune",
-            "Nami",
-            "Nautilus",
-            "Tahm kench",
-            "Twisted fate"
+            "Ahri"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar",
-            "Wukong"
+            "Yuumi"
         ],
         [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
             "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Pyke"
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
             "Aurora",
             "Neeko",
-            "Rengar",
-            "Wukong"
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

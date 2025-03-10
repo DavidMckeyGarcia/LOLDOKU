@@ -1,59 +1,64 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "OG40",
-        "PROJECT"
+        "Mid",
+        "shield",
+        "hextech"
     ],
     "cols": [
         "fear",
-        "Targon",
-        "arcane"
+        "Demacia",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Hwei",
             "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Urgot",
+            "Vex"
         ],
         [
-            "Diana",
-            "Pantheon"
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
-            "Ekko",
-            "Vi",
-            "Warwick"
+            "Aphelios",
+            "Kaisa"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Nocturne"
         ],
         [
-            "Soraka",
-            "Taric"
+            "Galio",
+            "Jarvan IV",
+            "Poppy"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Warwick"
-        ],
-        [
-            "Leona"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
+            "Kogmaw",
+            "Tristana"
         ]
     ]
 }

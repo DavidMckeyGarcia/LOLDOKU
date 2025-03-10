@@ -1,72 +1,150 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Adc",
-        "dark star",
-        "evolves"
+        "ult execute",
+        "OG40"
     ],
     "cols": [
-        "stun",
-        "The Void",
-        "100% AP Ratio"
+        "slow",
+        "Bilgewater",
+        "never played"
     ],
     "solutions": [
         [
+            "Aphelios",
             "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
             "Seraphine",
-            "Vayne"
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Kaisa",
-            "Kogmaw"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
             "Aphelios",
             "Ashe",
-            "Corki",
+            "Draven",
             "Jhin",
             "Jinx",
-            "Kaisa",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
             "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
+            "Twitch",
+            "Vayne",
+            "Xayah",
             "Zeri"
         ],
         [
-            "Lissandra",
-            "Orianna",
-            "Thresh",
-            "Xerath"
-        ],
-        [
+            "Akali",
             "Chogath",
-            "Khazix"
-        ],
-        [
-            "Chogath",
+            "Darius",
+            "Draven",
+            "Evelynn",
+            "Garen",
             "Jhin",
-            "Karma",
-            "Lux",
-            "Thresh",
-            "Varus",
-            "Xerath"
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Syndra",
+            "Urgot",
+            "Viego"
         ],
         [
-            "Bard",
-            "Viktor"
+            "Pyke"
         ],
         [
-            "Belveth",
-            "Kaisa",
-            "Khazix"
+            "Akshan",
+            "Chogath",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Viego"
         ],
         [
-            "Belveth",
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
             "Gangplank",
-            "Kaisa",
-            "Smolder",
-            "Viktor"
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ]
     ]
 }

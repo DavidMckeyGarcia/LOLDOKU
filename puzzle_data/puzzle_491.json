@@ -1,133 +1,66 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "coven",
-        "evolves"
+        "Jungle",
+        "dark star",
+        "global ult"
     ],
     "cols": [
-        "Ionia",
-        "slow",
+        "Shurima",
+        "fear",
         "riot records"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Anivia",
-            "Aurelion Sol",
-            "Aurora",
-            "Azir",
-            "Brand",
-            "Cassiopeia",
-            "Chogath",
-            "Corki",
-            "Diana",
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
             "Ekko",
-            "Elise",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Heimerdinger",
-            "Hwei",
-            "Irelia",
-            "Jayce",
-            "Karma",
+            "Evelynn",
             "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Naafiri",
-            "Orianna",
-            "Pantheon",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
             "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Talon",
-            "Tristana",
-            "Twisted fate",
-            "Velkoz",
-            "Vex",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zed",
-            "Ziggs",
-            "Zilean",
-            "Zoe"
+            "Sett",
+            "Viego"
         ],
         [
-            "Ahri",
-            "Akali",
+            "Xerath"
+        ],
+        [
+            "Shaco"
+        ],
+        [
+            "Mordekaiser"
+        ],
+        [
+            "Taliyah",
+            "Xerath"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
             "Ekko",
             "Ezreal",
+            "Kaisa",
             "Karthus",
-            "Kayle",
-            "Qiyana",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Syndra"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Evelynn",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Nilah",
-            "Syndra",
-            "Zyra"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Evelynn"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Bard",
-            "Belveth",
-            "Gangplank",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Khazix",
-            "Smolder",
-            "Viktor"
-        ],
-        [
-            "Kaisa",
-            "Kayle",
-            "Kayn"
+            "Senna"
         ]
     ]
 }

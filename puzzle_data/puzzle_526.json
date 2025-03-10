@@ -1,66 +1,102 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "cosmic",
-        "OG40"
+        "Top",
+        "PROJECT",
+        "ult execute"
     ],
     "cols": [
-        "Ionia",
-        "fear",
-        "ult reset"
+        "stun",
+        "Zaun",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
             "Sett",
-            "Shen",
-            "Wukong"
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
             "Warwick"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Akali",
+            "Fiora",
+            "Jinx",
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
             "Viego"
         ],
         [
-            "Jhin",
-            "Master yi",
-            "Rakan",
-            "Varus",
-            "Xayah"
+            "Jinx",
+            "Urgot"
         ],
         [
-            "Hecarim"
-        ],
-        [
-            "Belveth",
-            "Master yi"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Akali",
+            "Darius",
+            "Jinx"
         ]
     ]
 }

@@ -1,99 +1,64 @@
 {
-    "difficulty": "iron",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "invis"
+        "Adc",
+        "arcade",
+        "Season 7+"
     ],
     "cols": [
-        "Shadow Isles",
+        "Noxus",
         "stun",
-        "never played"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Amumu",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Riven"
+        ],
+        [
+            "Blitzcrank",
             "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
             "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
+            "Malzahar",
             "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Riven",
+            "Sona",
+            "Veigar"
         ],
         [
-            "Amumu",
-            "Belveth",
-            "Brand",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa"
+        ],
+        [
+            "Ambessa",
             "Briar",
-            "Dr. Mundo",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
             "Kayn",
-            "Kindred",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Reksai",
+            "Mel",
             "Rell",
-            "Rengar",
-            "Sejuani",
-            "Shaco",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Zyra"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
+            "Samira",
+            "Smolder"
         ],
         [
             "Ambessa",
@@ -113,50 +78,9 @@
             "Yone"
         ],
         [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
+            "Kaisa",
             "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
-        ],
-        [
-            "Senna",
-            "Viego"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Akshan",
-            "Pyke",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Teemo",
-            "Twitch",
-            "Vayne",
-            "Viego",
-            "Wukong"
+            "Xayah"
         ]
     ]
 }

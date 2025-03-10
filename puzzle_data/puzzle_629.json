@@ -1,44 +1,52 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "before s7",
-        "shield"
+        "Top",
+        "true damage",
+        "before s7"
     ],
     "cols": [
-        "Ionia",
         "silence",
-        "30+ wins"
+        "Demacia",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Karma",
-            "Rakan"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Galio"
-        ],
-        [
-            "Ahri",
             "Akali",
-            "Irelia",
-            "Ivern",
-            "Jhin",
-            "Karma",
-            "Kennen",
-            "Lee sin",
-            "Master yi",
-            "Shen",
-            "Syndra",
-            "Varus",
-            "Wukong",
-            "Yasuo",
-            "Zed"
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Kogmaw",
+            "Twitch",
+            "Vayne"
         ],
         [
             "Blitzcrank",
@@ -50,39 +58,34 @@
             "Soraka"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Corki",
+            "Fiora",
             "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
-        ],
-        [
-            "Hwei",
-            "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Blitzcrank",
             "Garen",
-            "Kassadin",
-            "Lulu"
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
-            "Azir",
-            "Galio",
-            "Orianna",
-            "Viktor"
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Ryze",
+            "Tristana",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

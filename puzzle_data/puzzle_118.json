@@ -1,109 +1,63 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "challenger",
     "rows": [
         "Jungle",
-        "life steal",
+        "shield",
         "before s7"
     ],
     "cols": [
-        "Zaun",
-        "root",
-        "ult reset"
+        "Ixtal",
+        "silence",
+        "darkin"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Nidalee",
             "Qiyana",
             "Rengar",
-            "Shaco",
-            "Zac",
+            "Skarner",
             "Zyra"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
+            "Fiddlesticks"
         ],
         [
-            "Warwick"
+            "Kayn"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Olaf",
-            "Viego"
+            "Malphite",
+            "Milio",
+            "Neeko",
+            "Skarner"
         ],
         [
             "Blitzcrank",
-            "Dr. Mundo",
-            "Ekko",
-            "Janna",
-            "Jinx",
-            "Orianna",
-            "Singed",
-            "Twitch",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Warwick",
-            "Zac",
-            "Ziggs"
+            "Garen",
+            "Kassadin",
+            "Lulu"
         ],
         [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Naafiri"
+        ],
+        [
+            "Malphite",
+            "Nidalee",
             "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
+            "Skarner",
             "Zyra"
         ],
         [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
+        ],
+        [
             "Aatrox",
-            "Ahri",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Singed",
-            "Sivir",
-            "Swain",
-            "Vayne",
-            "Viktor"
+            "Varus"
         ]
     ]
 }

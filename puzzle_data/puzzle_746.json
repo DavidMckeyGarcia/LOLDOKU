@@ -1,16 +1,20 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "Season 7+",
-        "life steal"
+        "pool party",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
         "Bilgewater",
-        "pentakill"
+        "knock-up",
+        "ascended"
     ],
     "solutions": [
+        [
+            "Fizz",
+            "Twisted fate"
+        ],
         [
             "Anivia",
             "Aurelion Sol",
@@ -21,6 +25,7 @@
             "Galio",
             "Gragas",
             "Neeko",
+            "Orianna",
             "Sylas",
             "Taliyah",
             "Velkoz",
@@ -29,55 +34,50 @@
             "Ziggs"
         ],
         [
-            "Fizz",
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Gangplank",
+            "Graves",
+            "Miss Fortune"
+        ],
+        [
+            "Braum",
+            "Jarvan IV",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Reksai",
+            "Taliyah",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Leona",
+            "Renekton",
+            "Taric"
+        ],
+        [
+            "Gangplank",
             "Twisted fate"
         ],
         [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
-        ],
-        [
-            "Illaoi",
-            "Nilah"
-        ],
-        [
-            "Aphelios"
+            "Nasus",
+            "Taric"
         ]
     ]
 }

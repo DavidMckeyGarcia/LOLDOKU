@@ -1,136 +1,99 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
         "Support",
-        "life steal",
-        "OG40"
+        "OG40",
+        "cosmic"
     ],
     "cols": [
-        "Freljord",
-        "slow",
-        "0 games"
+        "Bilgewater",
+        "stun",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Brand",
-            "Braum"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
         ],
         [
+            "Alistar",
+            "Annie",
             "Ashe",
             "Bard",
+            "Blitzcrank",
             "Brand",
             "Braum",
-            "Galio",
             "Heimerdinger",
-            "Janna",
-            "Karma",
             "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
             "Milio",
             "Morgana",
             "Nami",
             "Nautilus",
+            "Neeko",
             "Pantheon",
             "Poppy",
             "Pyke",
-            "Rakan",
+            "Rell",
             "Renata glasc",
-            "Senna",
             "Seraphine",
             "Sona",
-            "Soraka",
-            "Swain",
             "Tahm kench",
+            "Taric",
             "Thresh",
             "Velkoz",
             "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
+            "Zilean"
         ],
         [
-            "Mel",
-            "Milio"
+            "Galio"
         ],
         [
-            "Olaf",
-            "Trundle",
-            "Udyr"
-        ],
-        [
-            "Aatrox",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Morgana",
-            "Nasus",
-            "Nilah",
-            "Olaf",
-            "Samira",
-            "Senna",
-            "Sion",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Vladimir",
-            "Warwick"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Illaoi",
-            "Samira"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
             "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
             "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
+            "Jax",
             "Morgana",
-            "Nasus",
             "Nunu",
             "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
             "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
+            "Taric",
             "Twisted fate",
-            "Twitch",
+            "Veigar",
             "Warwick",
             "Zilean"
         ],
         [
-            "Master yi"
+            "Corki",
+            "Ryze"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus"
+        ],
+        [
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Sion",
+            "Skarner",
+            "Xin Zhao"
+        ],
+        [
+            "Lissandra"
         ]
     ]
 }

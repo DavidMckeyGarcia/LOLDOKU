@@ -1,110 +1,120 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "shield",
-        "OG40"
+        "Top",
+        "true damage",
+        "cosmic"
     ],
     "cols": [
-        "Shurima",
-        "fear",
+        "Bilgewater",
+        "stun",
         "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
         ],
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Aurelion Sol",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Akshan",
-            "Azir",
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
             "Ksante",
-            "Naafiri",
-            "Sivir"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
             "Urgot",
-            "Vex"
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
-            "Aphelios",
-            "Blitzcrank",
-            "Ekko",
-            "Kaisa",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Nocturne",
-            "Nunu",
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
             "Shen",
-            "Sivir",
             "Skarner",
             "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Viktor",
-            "Volibear"
+            "Volibear",
+            "Warwick",
+            "Wukong"
+        ],
+        [
+            "Gangplank",
+            "Pyke"
         ],
         [
             "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
+            "Belveth",
             "Chogath",
             "Corki",
-            "Evelynn",
+            "Fiora",
             "Gangplank",
-            "Jax",
+            "Master yi",
+            "Nunu"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus"
+        ],
+        [
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Sion",
+            "Skarner",
+            "Xin Zhao"
+        ],
+        [
+            "Belveth",
+            "Hecarim",
+            "Jhin",
+            "Lux",
             "Master yi",
             "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Skarner",
+            "Varus",
+            "Vladimir",
+            "Xin Zhao"
         ]
     ]
 }

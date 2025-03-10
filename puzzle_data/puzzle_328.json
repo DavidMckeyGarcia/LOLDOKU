@@ -1,53 +1,36 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "ult execute",
-        "OG40"
+        "Mid",
+        "OG40",
+        "prestige"
     ],
     "cols": [
+        "Piltover",
         "silence",
-        "Shurima",
-        "manaless"
+        "tether"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
-            "Zac"
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna",
+            "Seraphine"
         ],
         [
             "Chogath",
-            "Garen"
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Akshan"
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
         ],
         [
-            "Akali",
-            "Garen",
-            "Reksai",
-            "Viego"
+            "Heimerdinger"
         ],
         [
             "Blitzcrank",
@@ -57,17 +40,27 @@
             "Soraka"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ],
         [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
+            "Caitlyn",
+            "Camille",
+            "Ezreal"
+        ],
+        [
+            "Garen",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Aatrox",
+            "LeBlanc",
+            "Morgana",
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ]
     ]
 }

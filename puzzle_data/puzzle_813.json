@@ -1,48 +1,80 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "arcade",
+        "Jungle",
+        "OG40",
         "shield"
     ],
     "cols": [
-        "The Void",
+        "Noxus",
         "root",
-        "tether"
+        "manaless"
     ],
     "solutions": [
         [
-            "Chogath"
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
         ],
         [
-            "Ksante",
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
             "Belveth",
-            "Kaisa",
-            "Malzahar"
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
         ],
         [
-            "Caitlyn",
-            "Qiyana"
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
         ],
         [
-            "Malzahar"
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Kaisa",
-            "Kassadin"
+            "Dr. Mundo",
+            "Katarina",
+            "Tryndamere"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Kled",
+            "Mel",
+            "Mordekaiser",
+            "Rell",
+            "Riven",
+            "Sion"
         ],
         [
             "Aphelios",
@@ -62,13 +94,16 @@
             "Seraphine"
         ],
         [
-            "Karma",
+            "Ambessa",
+            "Garen",
             "Kled",
-            "Morgana",
-            "Nocturne",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Lee sin",
+            "Mordekaiser",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

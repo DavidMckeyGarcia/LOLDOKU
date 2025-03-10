@@ -1,73 +1,131 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
         "Adc",
-        "life steal",
-        "OG40"
+        "before s7",
+        "hextech"
     ],
     "cols": [
-        "root",
-        "Freljord",
-        "shred"
+        "stun",
+        "The Void",
+        "arcane"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
+            "Ashe",
             "Seraphine",
-            "Varus",
-            "Xayah"
+            "Vayne"
         ],
         [
-            "Ashe"
-        ],
-        [
-            "Corki",
+            "Kaisa",
             "Kogmaw"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
+            "Caitlyn",
+            "Jinx",
+            "Mel"
         ],
         [
-            "Olaf",
-            "Trundle",
-            "Udyr"
-        ],
-        [
-            "Briar",
-            "Nasus",
-            "Olaf",
-            "Sion",
-            "Trundle"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
+            "Alistar",
+            "Amumu",
             "Anivia",
+            "Annie",
             "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Nunu",
-            "Tryndamere"
+            "Orianna",
+            "Pantheon",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Taric",
+            "Thresh",
+            "Twisted fate",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Veigar",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
+            "Zilean"
         ],
         [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Heimerdinger",
+            "Janna",
+            "Jayce",
+            "Jinx",
+            "LeBlanc",
+            "Orianna",
+            "Singed",
+            "Vi",
+            "Viktor",
+            "Warwick"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
             "Sion"
+        ],
+        [
+            "Kassadin",
+            "Kogmaw",
+            "Malzahar"
+        ],
+        [
+            "Janna",
+            "Singed"
         ]
     ]
 }

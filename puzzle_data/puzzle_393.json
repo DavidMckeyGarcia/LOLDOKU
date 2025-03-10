@@ -1,87 +1,65 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Mid",
-        "invis",
-        "hextech"
+        "OG40",
+        "prestige"
     ],
     "cols": [
-        "knock-up",
-        "Noxus",
-        "pentakill"
+        "fear",
+        "Piltover",
+        "arcane"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna",
+            "Seraphine"
         ],
         [
             "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
+            "Ekko",
+            "Heimerdinger",
+            "Jayce",
             "LeBlanc",
             "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Orianna",
+            "Viktor"
         ],
         [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Neeko",
-            "Reksai",
-            "Wukong"
+            "Heimerdinger"
         ],
         [
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Akali",
-            "Kaisa",
-            "Twitch",
-            "Vayne"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Galio",
+            "Heimerdinger",
             "Janna",
-            "Jarvan IV",
-            "Poppy",
-            "Sejuani",
-            "Sion",
-            "Ziggs"
+            "Singed",
+            "Warwick"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Sion",
-            "Swain"
+            "Aatrox",
+            "Darius",
+            "Shaco"
         ],
         [
-            "Kogmaw",
-            "Tristana"
+            "Caitlyn",
+            "Camille",
+            "Ezreal"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "LeBlanc"
         ]
     ]
 }

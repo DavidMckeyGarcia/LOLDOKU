@@ -1,59 +1,89 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "prestige",
-        "invis"
+        "ult execute",
+        "Season 7+"
     ],
     "cols": [
-        "Shurima",
-        "fear",
-        "shred"
+        "The Void",
+        "knock-up",
+        "manaless"
     ],
     "solutions": [
         [
-            "Akshan",
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
+        ],
+        [
+            "Anivia",
+            "Aurelion Sol",
             "Azir",
-            "Naafiri",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
             "Taliyah",
-            "Xerath",
-            "Zilean"
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Kennen",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Corki",
-            "Jayce",
-            "Karthus",
-            "Zoe"
+            "Chogath",
+            "Reksai"
         ],
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Sivir"
+            "Chogath",
+            "Reksai",
+            "Riven"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Evelynn",
+            "Akali",
             "Garen",
-            "Zoe"
+            "Reksai",
+            "Viego"
         ],
         [
-            "Akshan"
+            "Belveth",
+            "Kaisa"
         ],
         [
-            "Shaco"
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Rengar",
-            "Wukong"
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
         ]
     ]
 }

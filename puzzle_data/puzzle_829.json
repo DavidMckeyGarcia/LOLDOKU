@@ -2,15 +2,20 @@
     "difficulty": "bronze",
     "rows": [
         "Support",
-        "invis",
-        "before s7"
+        "before s7",
+        "shield"
     ],
     "cols": [
-        "slow",
         "Shadow Isles",
-        "riot records"
+        "slow",
+        "0 games"
     ],
     "solutions": [
+        [
+            "Maokai",
+            "Senna",
+            "Thresh"
+        ],
         [
             "Ashe",
             "Bard",
@@ -48,40 +53,15 @@
             "Zyra"
         ],
         [
-            "Maokai",
-            "Senna",
-            "Thresh"
+            "Mel",
+            "Milio"
         ],
         [
-            "Senna",
-            "Sona"
-        ],
-        [
-            "Akali",
-            "Aurora",
-            "Kaisa",
-            "Khazix",
-            "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
-        ],
-        [
-            "Senna",
-            "Viego"
-        ],
-        [
-            "Akali",
-            "Kaisa",
-            "Qiyana",
-            "Senna",
-            "Viego"
+            "Hecarim",
+            "Kalista",
+            "Karthus",
+            "Thresh",
+            "Yorick"
         ],
         [
             "Aatrox",
@@ -196,25 +176,75 @@
             "Zyra"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Karthus",
-            "Thresh",
-            "Yorick"
+            "Illaoi",
+            "Master yi"
         ],
         [
-            "Ahri",
-            "Akali",
+            "Senna",
+            "Thresh",
+            "Vex"
+        ],
+        [
+            "Aphelios",
+            "Azir",
+            "Braum",
+            "Camille",
+            "Diana",
             "Ekko",
-            "Evelynn",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
+            "Galio",
+            "Garen",
+            "Hwei",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Kaisa",
+            "Karma",
+            "Kassadin",
+            "Kled",
+            "Lee sin",
+            "Lulu",
+            "Lux",
+            "Malphite",
+            "Mel",
+            "Milio",
             "Mordekaiser",
+            "Morgana",
+            "Naafiri",
+            "Nautilus",
+            "Nilah",
+            "Nocturne",
+            "Nunu",
             "Olaf",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Renata glasc",
+            "Rumble",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Shen",
+            "Sion",
+            "Sivir",
+            "Skarner",
             "Sona",
-            "Yasuo",
-            "Yorick"
+            "Tahm kench",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vex",
+            "Viktor",
+            "Volibear",
+            "Yuumi"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Vex"
         ]
     ]
 }

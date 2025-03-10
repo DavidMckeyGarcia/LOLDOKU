@@ -1,114 +1,69 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "prestige",
-        "Season 7+"
+        "before s7",
+        "shield"
     ],
     "cols": [
-        "stun",
+        "fear",
         "Targon",
-        "arcane"
+        "0 games"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
+            "Aatrox",
+            "Darius",
             "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Warwick"
         ],
         [
             "Pantheon"
         ],
         [
             "Ambessa",
-            "Heimerdinger",
-            "Jayce",
-            "Singed",
+            "Illaoi"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
             "Warwick"
         ],
         [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
-        ],
-        [
+            "Aurelion Sol",
             "Diana",
             "Leona",
             "Pantheon",
             "Soraka",
-            "Zoe"
+            "Taric"
         ],
         [
-            "Caitlyn",
-            "Jinx",
-            "LeBlanc"
+            "Illaoi",
+            "Master yi"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
         ],
         [
             "Aphelios",
-            "Zoe"
+            "Diana",
+            "Taric"
         ],
         [
+            "Akshan",
             "Ambessa",
-            "Mel"
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Vex"
         ]
     ]
 }

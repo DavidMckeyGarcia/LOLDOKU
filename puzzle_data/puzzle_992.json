@@ -1,24 +1,16 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "prestige",
-        "OG40"
+        "invis",
+        "cosmic"
     ],
     "cols": [
-        "fear",
         "Demacia",
-        "riot records"
+        "stun",
+        "vastayan"
     ],
     "solutions": [
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
         [
             "Jarvan IV",
             "Morgana",
@@ -28,60 +20,76 @@
             "Xin Zhao"
         ],
         [
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
             "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
-            "Viego"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Kayle",
-            "Lucian",
-            "Lux",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
             "Morgana",
-            "Sona",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
             "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Rengar",
+            "Wukong"
+        ],
+        [
             "Vayne"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Evelynn",
-            "Ezreal",
-            "Ksante",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
+            "Neeko",
+            "Pyke",
             "Qiyana",
-            "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo"
+            "Vayne",
+            "Viego"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Aurora",
+            "Neeko",
+            "Rengar",
+            "Wukong"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Lux",
+            "Xin Zhao"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Sion",
+            "Skarner",
+            "Xin Zhao"
+        ],
+        [
+            "Nami",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

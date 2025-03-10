@@ -1,79 +1,56 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "OG40",
-        "empyrean"
+        "Mid",
+        "cosmic",
+        "invis"
     ],
     "cols": [
+        "fear",
         "The Void",
-        "knock-up",
-        "yordle"
+        "pentakill"
     ],
     "solutions": [
         [
-            "Chogath"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Hwei",
+            "Vex"
         ],
         [
             "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Belveth",
             "Kassadin"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Xayah"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Shaco"
         ],
         [
-            "Malzahar"
+            "Kaisa",
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Ksante",
-            "Zac"
-        ],
-        [
-            "Vex"
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

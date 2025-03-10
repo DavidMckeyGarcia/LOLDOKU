@@ -1,80 +1,106 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "ult execute"
+        "Mid",
+        "empyrean",
+        "Season 7+"
     ],
     "cols": [
         "slow",
-        "Bandle City",
-        "ult reset"
+        "Freljord",
+        "riot records"
     ],
     "solutions": [
         [
-            "Belveth",
+            "Ahri",
+            "Akali",
+            "Anivia",
+            "Aurelion Sol",
+            "Aurora",
+            "Azir",
             "Brand",
-            "Briar",
-            "Camille",
+            "Cassiopeia",
+            "Chogath",
+            "Corki",
             "Diana",
-            "Dr. Mundo",
             "Ekko",
             "Elise",
-            "Evelynn",
-            "Fiddlesticks",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
+            "Heimerdinger",
+            "Hwei",
+            "Irelia",
+            "Jayce",
+            "Karma",
             "Karthus",
-            "Kayn",
-            "Khazix",
-            "Kindred",
-            "Lee sin",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nasus",
-            "Nautilus",
-            "Nocturne",
-            "Nunu",
-            "Olaf",
+            "Kassadin",
+            "Kayle",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Naafiri",
+            "Orianna",
             "Pantheon",
-            "Poppy",
             "Qiyana",
-            "Rammus",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sejuani",
-            "Sett",
-            "Shaco",
-            "Shen",
-            "Skarner",
+            "Ryze",
+            "Seraphine",
+            "Swain",
             "Sylas",
+            "Syndra",
             "Taliyah",
             "Talon",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
+            "Tristana",
+            "Twisted fate",
+            "Velkoz",
+            "Vex",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
+        ],
+        [
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Akali",
+            "Brand",
+            "Jhin",
+            "Ksante",
+            "Kayle",
+            "Lux",
+            "Nocturne",
+            "Pyke",
+            "Varus",
+            "Vex",
             "Zac",
-            "Zyra"
+            "Zed"
         ],
         [
-            "Rumble",
-            "Teemo"
+            "Brand"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
+            "Akali",
+            "Ksante",
+            "Kayle"
         ],
         [
             "Aphelios",
@@ -109,35 +135,18 @@
             "Zoe"
         ],
         [
-            "Yuumi"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Akali",
-            "Chogath",
-            "Darius",
-            "Draven",
-            "Evelynn",
-            "Garen",
-            "Jhin",
-            "Jinx",
-            "Pyke",
-            "Reksai",
-            "Syndra",
-            "Urgot",
-            "Viego"
-        ],
-        [
-            "Veigar"
-        ],
-        [
-            "Darius",
-            "Viego"
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
         ]
     ]
 }

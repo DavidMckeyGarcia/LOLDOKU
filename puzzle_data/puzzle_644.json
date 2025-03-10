@@ -1,16 +1,29 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "Fright Night",
-        "OG40"
+        "OG40",
+        "worlds skin"
     ],
     "cols": [
+        "root",
         "Bandle City",
-        "knock-up",
-        "shred"
+        "100+ games"
     ],
     "solutions": [
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
         [
             "Corki",
             "Fizz",
@@ -19,38 +32,24 @@
             "Veigar"
         ],
         [
-            "Anivia",
-            "Aurelion Sol",
             "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
+            "Elise",
+            "Ezreal",
             "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Corki",
             "Jayce",
-            "Karthus",
-            "Zoe"
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
         ],
         [
-            "Veigar"
-        ],
-        [
-            "Nautilus",
+            "Morgana",
             "Nunu",
-            "Trundle"
-        ],
-        [
-            "Trundle"
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
             "Corki",
@@ -61,20 +60,61 @@
         ],
         [
             "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
+            "Ashe",
             "Janna",
-            "Malphite",
+            "Jax",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Maokai",
             "Nunu",
-            "Sion"
+            "Rengar",
+            "Ryze",
+            "Singed",
+            "Xayah",
+            "Zac",
+            "Zyra"
         ],
         [
             "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
+            "Yuumi"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Ashe",
+            "Azir",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Janna",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Jhin",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Orianna",
+            "Rakan",
+            "Renekton",
+            "Ryze",
+            "Shen",
+            "Syndra",
+            "Thresh",
+            "Xayah"
         ]
     ]
 }

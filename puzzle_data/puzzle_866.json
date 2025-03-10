@@ -1,171 +1,66 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
         "Mid",
-        "life steal",
-        "prestige"
+        "Season 7+",
+        "cosmic"
     ],
     "cols": [
-        "Bilgewater",
-        "slow",
-        "tether"
+        "Noxus",
+        "fear",
+        "shred"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Anivia",
-            "Aurelion Sol",
-            "Aurora",
-            "Azir",
-            "Brand",
-            "Cassiopeia",
-            "Chogath",
-            "Corki",
-            "Diana",
-            "Ekko",
-            "Elise",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Heimerdinger",
             "Hwei",
-            "Irelia",
+            "Vex"
+        ],
+        [
+            "Corki",
             "Jayce",
-            "Karma",
             "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Naafiri",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Talon",
-            "Tristana",
-            "Twisted fate",
-            "Velkoz",
-            "Vex",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zed",
-            "Ziggs",
-            "Zilean",
             "Zoe"
         ],
         [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
-        ],
-        [
-            "Illaoi",
-            "Nilah"
-        ],
-        [
-            "Aatrox",
-            "Aphelios",
-            "Belveth",
+            "Ambessa",
             "Briar",
-            "Gwen",
-            "Illaoi",
-            "Ksante",
             "Kayn",
-            "Lee sin",
-            "Morgana",
-            "Nasus",
-            "Nilah",
-            "Olaf",
+            "Mel",
+            "Rell",
             "Samira",
-            "Senna",
+            "Smolder"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Briar",
+            "Rell",
+            "Zoe"
+        ],
+        [
             "Sion",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Vladimir",
-            "Warwick"
+            "Vladimir"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Morgana"
+            "Hecarim"
         ],
         [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Akali",
-            "Brand",
-            "Caitlyn",
-            "Camille",
-            "Cassiopeia",
-            "Darius",
-            "Diana",
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Garen",
-            "Jinx",
-            "Ksante",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Kindred",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lulu",
-            "Lux",
-            "Malphite",
-            "Miss Fortune",
-            "Morgana",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
-            "Sett",
-            "Shaco",
-            "Sivir",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Sylas",
-            "Teemo",
-            "Thresh",
-            "Volibear",
-            "Yuumi",
-            "Zed",
-            "Zeri",
-            "Zoe",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "LeBlanc",
-            "Morgana",
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Sion"
         ]
     ]
 }

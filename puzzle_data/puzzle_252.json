@@ -1,91 +1,97 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
         "Adc",
-        "shield",
-        "elderwood"
+        "life steal",
+        "cosmic"
     ],
     "cols": [
-        "Freljord",
-        "root",
-        "100+ games"
+        "Demacia",
+        "stun",
+        "never played"
     ],
     "solutions": [
         [
-            "Ashe"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Lucian",
+            "Vayne"
         ],
         [
             "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
+            "Seraphine",
+            "Vayne"
         ],
         [
             "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
             "Senna",
-            "Seraphine"
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
         ],
         [
-            "Azir",
-            "Braum",
-            "Janna",
-            "Jarvan IV",
-            "Kaisa",
-            "Lee sin",
-            "Lulu",
-            "Orianna",
+            "Morgana"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Kayn",
+            "Morgana",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Lux",
+            "Xin Zhao"
+        ],
+        [
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Sion",
+            "Skarner",
+            "Xin Zhao"
+        ],
+        [
+            "Belveth",
+            "Hecarim",
+            "Illaoi",
+            "Jhin",
+            "Nami",
+            "Nunu",
             "Rakan",
-            "Rumble",
-            "Shen",
-            "Thresh"
-        ],
-        [
-            "Gnar"
-        ],
-        [
-            "LeBlanc",
-            "Xayah"
-        ],
-        [
-            "Azir",
-            "Gnar",
-            "Rakan",
-            "Xayah"
+            "Skarner",
+            "Xayah",
+            "Xin Zhao"
         ]
     ]
 }

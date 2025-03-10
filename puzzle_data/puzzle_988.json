@@ -1,129 +1,98 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "before s7",
-        "true damage"
+        "Top",
+        "arcade",
+        "shield"
     ],
     "cols": [
-        "knock-up",
-        "Piltover",
-        "yordle"
+        "Demacia",
+        "root",
+        "riot records"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
             "Sylas",
-            "Taliyah",
-            "Velkoz",
+            "Vayne"
+        ],
+        [
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
             "Yasuo",
             "Yone",
-            "Ziggs"
+            "Yorick"
         ],
         [
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Tahm kench",
-            "Taliyah",
-            "Trundle",
-            "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Sona"
         ],
         [
             "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Ahri",
             "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna"
+            "Kaisa",
+            "Qiyana",
+            "Sona",
+            "Yasuo"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
             "Poppy",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar",
-            "Ziggs"
+            "Sona"
         ],
         [
-            "Belveth",
-            "Chogath",
+            "Aphelios",
+            "Hwei",
             "Ivern",
             "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
             "Nunu",
-            "Samira",
-            "Velkoz",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Aphelios",
+            "Ekko",
+            "Ksante",
+            "Kaisa",
+            "Mordekaiser",
+            "Olaf",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo",
             "Yone"
-        ],
-        [
-            "Camille"
-        ],
-        [
-            "Amumu",
-            "Corki"
         ]
     ]
 }

@@ -1,26 +1,29 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "OG40",
-        "shield"
+        "shield",
+        "Space Groove"
     ],
     "cols": [
-        "Shadow Isles",
-        "fear",
+        "silence",
+        "Noxus",
         "manaless"
     ],
     "solutions": [
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Aatrox",
+            "Ambessa",
             "Darius",
-            "Urgot",
-            "Warwick"
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
             "Aatrox",
@@ -42,28 +45,20 @@
             "Zac"
         ],
         [
-            "Karthus"
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
-        ],
-        [
-            "Senna",
-            "Thresh",
-            "Vex"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
+            "Ambessa",
+            "Annie",
+            "Kled",
+            "Mel",
+            "Mordekaiser",
+            "Rell",
+            "Riven",
+            "Sion"
         ],
         [
             "Ambessa",
@@ -76,6 +71,16 @@
             "Shen",
             "Yasuo",
             "Yone"
+        ],
+        [
+            "Blitzcrank",
+            "Lulu"
+        ],
+        [
+            "Samira"
+        ],
+        [
+            "Rumble"
         ]
     ]
 }

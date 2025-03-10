@@ -1,171 +1,68 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "shield",
-        "arcade"
+        "Top",
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "Freljord",
-        "slow",
-        "30+ wins"
+        "root",
+        "Piltover",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Belveth",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Diana",
-            "Dr. Mundo",
-            "Ekko",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gragas",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Karthus",
-            "Kayn",
-            "Khazix",
-            "Kindred",
-            "Lee sin",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nasus",
-            "Nautilus",
-            "Nocturne",
-            "Nunu",
-            "Olaf",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sejuani",
-            "Sett",
-            "Shaco",
-            "Shen",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Talon",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Taliyah"
-        ],
-        [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Aphelios",
-            "Azir",
-            "Braum",
-            "Camille",
-            "Diana",
-            "Ekko",
-            "Galio",
-            "Garen",
-            "Hwei",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
             "Ksante",
-            "Kaisa",
-            "Karma",
-            "Kassadin",
-            "Kled",
-            "Lee sin",
-            "Lulu",
-            "Lux",
-            "Malphite",
-            "Mel",
-            "Milio",
-            "Mordekaiser",
-            "Morgana",
-            "Naafiri",
-            "Nautilus",
-            "Nilah",
-            "Nocturne",
-            "Nunu",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Camille",
+            "Heimerdinger",
+            "Jayce"
+        ],
+        [
+            "Aatrox",
+            "Darius",
             "Olaf",
-            "Orianna",
-            "Poppy",
-            "Rakan",
-            "Renata glasc",
-            "Rumble",
-            "Senna",
-            "Seraphine",
-            "Sett",
-            "Shen",
-            "Sion",
-            "Sivir",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vex",
-            "Viktor",
-            "Volibear",
-            "Yuumi"
+            "Singed",
+            "Swain",
+            "Vayne"
         ],
         [
-            "Azir",
-            "Galio",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Brand",
             "Caitlyn",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Miss Fortune",
-            "Qiyana",
-            "Sona",
-            "Ziggs"
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Ahri",
-            "Corki"
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Heimerdinger"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

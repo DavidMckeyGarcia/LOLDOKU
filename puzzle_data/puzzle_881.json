@@ -1,93 +1,87 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "worlds skin",
-        "shield"
+        "Support",
+        "life steal",
+        "empyrean"
     ],
     "cols": [
-        "Demacia",
-        "root",
-        "ascended"
+        "Shurima",
+        "stun",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Fiora",
-            "Jarvan IV",
-            "Vayne"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
             "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Swain"
         ],
         [
             "Aatrox",
-            "Azir",
-            "Leona",
-            "Renekton"
-        ],
-        [
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
             "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Nasus"
         ],
         [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Taric"
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Olaf",
+            "Viego"
+        ],
+        [
+            "Jax",
+            "Ksante"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
+            "Zac"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

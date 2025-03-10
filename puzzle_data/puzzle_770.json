@@ -1,22 +1,19 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
-        "PROJECT",
-        "OG40"
+        "shield",
+        "Season 7+"
     ],
     "cols": [
-        "Zaun",
+        "Bandle City",
         "knock-up",
-        "shred"
+        "ascended"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Rumble",
+            "Teemo"
         ],
         [
             "Belveth",
@@ -43,61 +40,68 @@
             "Zyra"
         ],
         [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
+            "Diana",
+            "Kayn",
             "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
+            "Pantheon"
+        ],
+        [
+            "Lulu",
             "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
+            "Yuumi"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Mordekaiser",
-            "Renekton",
-            "Vi"
-        ],
-        [
+            "Azir",
             "Blitzcrank",
-            "Dr. Mundo",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
             "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
             "Malphite",
+            "Nautilus",
+            "Neeko",
             "Nunu",
-            "Sion"
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Taric"
+        ],
+        [
+            "Yuumi"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

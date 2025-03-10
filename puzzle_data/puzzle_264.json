@@ -1,94 +1,93 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Top",
-        "true damage",
-        "OG40"
+        "Mid",
+        "prestige",
+        "life steal"
     ],
     "cols": [
+        "Zaun",
         "knock-up",
-        "Freljord",
-        "pentakill"
+        "tether"
     ],
     "solutions": [
         [
-            "Aatrox",
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
+        ],
+        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
             "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
+            "Neeko",
+            "Orianna",
             "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
+            "Taliyah",
+            "Velkoz",
             "Yasuo",
             "Yone",
-            "Zac"
+            "Ziggs"
         ],
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
         ],
         [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
+            "Jinx",
+            "Renata glasc",
+            "Zeri"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Ivern",
+            "Aatrox",
+            "Diana",
+            "Fizz",
             "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Kogmaw",
-            "Twitch",
-            "Vayne"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
             "Malphite",
-            "Nunu",
-            "Sion"
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
+            "Aatrox",
+            "LeBlanc",
+            "Morgana",
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ],
         [
-            "Ryze",
-            "Tristana",
-            "Twitch"
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Morgana"
         ]
     ]
 }

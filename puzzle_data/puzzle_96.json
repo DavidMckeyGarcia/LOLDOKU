@@ -1,76 +1,72 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "dash",
-        "hextech"
+        "Mid",
+        "true damage",
+        "OG40"
     ],
     "cols": [
         "Shurima",
-        "fear",
-        "arcane"
+        "silence",
+        "30+ wins"
     ],
     "solutions": [
+        [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Ahri",
+            "Corki"
+        ],
         [
             "Amumu",
             "Jax",
             "Nasus",
             "Rammus",
-            "Taliyah"
+            "Sivir",
+            "Zilean"
         ],
         [
-            "Briar",
+            "Blitzcrank",
+            "Chogath",
             "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Amumu",
-            "Azir",
-            "Jax",
-            "Ksante",
-            "Naafiri",
-            "Rammus",
-            "Renekton",
-            "Taliyah"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Ambessa",
-            "Caitlyn",
-            "Ekko",
-            "Jayce",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Amumu",
-            "Rammus",
-            "Renekton"
-        ],
-        [
-            "Nocturne"
-        ],
-        [
-            "Janna",
-            "Singed"
+            "Corki",
+            "Ryze"
         ]
     ]
 }

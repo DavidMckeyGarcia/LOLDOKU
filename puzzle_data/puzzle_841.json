@@ -1,78 +1,64 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "dash",
-        "prestige"
+        "Top",
+        "arcade",
+        "life steal"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "ascended"
+        "Shadow Isles",
+        "root",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
+            "Gwen",
+            "Maokai",
+            "Yorick"
         ],
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
-        ],
-        [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Naafiri",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
             "Aatrox",
             "Darius",
-            "Shaco"
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Ahri",
+            "Belveth"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Viego"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
         ],
         [
             "Aatrox",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Pantheon"
+            "Belveth",
+            "Olaf",
+            "Viego"
         ]
     ]
 }

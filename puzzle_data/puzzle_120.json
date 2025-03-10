@@ -1,74 +1,80 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "prestige",
-        "OG40"
+        "Jungle",
+        "arcade",
+        "before s7"
     ],
     "cols": [
         "Demacia",
-        "fear",
-        "yordle"
+        "silence",
+        "arcane"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Fiddlesticks"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Kennen",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
+            "Ekko",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Sona"
+        ],
+        [
+            "Blitzcrank",
+            "Malzahar"
+        ],
+        [
+            "Caitlyn"
         ],
         [
             "Fiora",
+            "Galio",
             "Garen",
+            "Jarvan IV",
             "Kayle",
             "Lucian",
             "Lux",
             "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
             "Sona",
-            "Sylas",
-            "Vayne"
+            "Vayne",
+            "Xin Zhao"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Fizz",
-            "Lulu",
-            "Teemo"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
+            "Blitzcrank",
+            "Chogath",
             "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Amumu",
-            "Corki",
+            "Caitlyn",
+            "Ekko",
             "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Janna",
+            "Jayce",
+            "Jinx",
+            "LeBlanc",
+            "Orianna",
+            "Singed",
+            "Vi",
+            "Viktor",
+            "Warwick"
         ]
     ]
 }

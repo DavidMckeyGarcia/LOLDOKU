@@ -1,16 +1,21 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Adc",
-        "Season 7+",
-        "cosmic"
+        "dash",
+        "worlds skin"
     ],
     "cols": [
+        "Ionia",
         "root",
-        "Shadow Isles",
-        "never played"
+        "ascended"
     ],
     "solutions": [
+        [
+            "Jhin",
+            "Varus",
+            "Xayah"
+        ],
         [
             "Aphelios",
             "Caitlyn",
@@ -23,88 +28,80 @@
             "Xayah"
         ],
         [
-            "Kalista",
-            "Senna"
+            "Varus"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Naafiri",
+            "Pantheon",
+            "Renekton"
+        ],
+        [
+            "Akali",
+            "Irelia",
+            "Jhin",
+            "Kennen",
+            "Lee sin",
+            "Rakan",
+            "Shen",
+            "Syndra",
+            "Xayah",
+            "Zed"
         ],
         [
             "Aphelios",
-            "Ashe",
-            "Draven",
+            "Caitlyn",
             "Jhin",
             "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
-        ],
-        [
-            "Jhin",
-            "Lissandra",
-            "Lux",
-            "Nautilus",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Maokai",
             "Nunu",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Belveth",
-            "Hecarim",
-            "Illaoi",
-            "Jhin",
-            "Nami",
-            "Nunu",
-            "Rakan",
-            "Skarner",
+            "Rengar",
+            "Ryze",
+            "Singed",
             "Xayah",
-            "Xin Zhao"
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Leona",
+            "Renekton"
         ]
     ]
 }

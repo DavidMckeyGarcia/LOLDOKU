@@ -1,66 +1,138 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "true damage",
-        "Season 7+"
+        "evolves",
+        "OG40"
     ],
     "cols": [
-        "Shurima",
-        "fear",
-        "pentakill"
+        "slow",
+        "The Void",
+        "ult reset"
     ],
     "solutions": [
         [
             "Aatrox",
-            "Jax",
+            "Akali",
+            "Camille",
+            "Chogath",
+            "Darius",
+            "Dr. Mundo",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gnar",
+            "Gragas",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Irelia",
+            "Jarvan IV",
+            "Jayce",
             "Ksante",
+            "Kayle",
+            "Kayn",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
             "Nasus",
-            "Renekton"
+            "Olaf",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Quinn",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Singed",
+            "Sion",
+            "Skarner",
+            "Swain",
+            "Sylas",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Urgot",
+            "Volibear",
+            "Warwick",
+            "Yorick",
+            "Zac"
+        ],
+        [
+            "Chogath"
         ],
         [
             "Aatrox",
             "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
+            "Olaf",
+            "Singed",
+            "Swain",
             "Vayne"
         ],
         [
-            "Akshan",
-            "Amumu",
-            "Ksante"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Kogmaw",
-            "Twitch",
-            "Vayne"
-        ],
-        [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Aphelios",
+            "Bard",
+            "Belveth",
+            "Gangplank",
             "Kaisa",
-            "Xayah"
+            "Kayle",
+            "Kayn",
+            "Khazix",
+            "Smolder",
+            "Viktor"
+        ],
+        [
+            "Belveth",
+            "Kaisa",
+            "Khazix"
+        ],
+        [
+            "Belveth",
+            "Viktor"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

@@ -1,55 +1,48 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Support",
-        "blink",
-        "arcade"
+        "shield",
+        "worlds skin"
     ],
     "cols": [
-        "Piltover",
-        "slow",
+        "stun",
+        "Shurima",
         "tether"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Seraphine"
-        ],
-        [
+            "Alistar",
+            "Annie",
             "Ashe",
             "Bard",
+            "Blitzcrank",
             "Brand",
             "Braum",
-            "Galio",
             "Heimerdinger",
-            "Janna",
-            "Karma",
             "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
             "Milio",
             "Morgana",
             "Nami",
             "Nautilus",
+            "Neeko",
             "Pantheon",
             "Poppy",
             "Pyke",
-            "Rakan",
+            "Rell",
             "Renata glasc",
-            "Senna",
             "Seraphine",
             "Sona",
-            "Soraka",
-            "Swain",
             "Tahm kench",
+            "Taric",
             "Thresh",
             "Velkoz",
             "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
+            "Zilean"
+        ],
+        [
+            "Xerath",
+            "Zilean"
         ],
         [
             "Karma",
@@ -59,44 +52,94 @@
             "Yuumi"
         ],
         [
-            "Ezreal"
-        ],
-        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
             "Ekko",
-            "Kassadin",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Reksai",
-            "Ryze",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Zed"
-        ],
-        [
-            "LeBlanc"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Brand",
-            "Caitlyn",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Miss Fortune",
-            "Qiyana",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
             "Sona",
-            "Ziggs"
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Malzahar"
+            "Akshan",
+            "Azir",
+            "Ksante",
+            "Naafiri",
+            "Sivir"
+        ],
+        [
+            "Karma",
+            "Kled",
+            "Morgana",
+            "Nocturne",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Irelia",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Nami",
+            "Nunu",
+            "Orianna",
+            "Renekton",
+            "Syndra",
+            "Taliyah",
+            "Thresh",
+            "Twisted fate",
+            "Vayne",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Jax",
+            "Renekton",
+            "Taliyah"
+        ],
+        [
+            "Aatrox",
+            "Kalista",
+            "LeBlanc",
+            "Yuumi",
+            "Zac"
         ]
     ]
 }

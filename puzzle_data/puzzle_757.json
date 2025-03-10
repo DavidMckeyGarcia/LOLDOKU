@@ -1,81 +1,132 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
         "Jungle",
-        "cosmic",
-        "before s7"
+        "before s7",
+        "global ult"
     ],
     "cols": [
-        "fear",
-        "Freljord",
-        "0 games"
+        "knock-up",
+        "The Void",
+        "yordle"
     ],
     "solutions": [
         [
+            "Belveth",
             "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Brand",
+            "Diana",
             "Gragas",
-            "Kindred",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
             "Nunu",
-            "Olaf",
+            "Poppy",
+            "Reksai",
+            "Rell",
             "Sejuani",
+            "Sylas",
+            "Taliyah",
             "Trundle",
-            "Udyr",
-            "Volibear"
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Briar",
-            "Master yi"
+            "Belveth",
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Hecarim"
-        ],
-        [
-            "Anivia",
-            "Lissandra",
-            "Nunu"
-        ],
-        [
-            "Illaoi",
-            "Master yi"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
-        ],
-        [
+            "Alistar",
             "Anivia",
-            "Ashe",
-            "Brand",
+            "Aurelion Sol",
+            "Azir",
+            "Blitzcrank",
             "Braum",
-            "Gnar",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Kindred",
-            "Lissandra",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
             "Nunu",
-            "Olaf",
+            "Orianna",
+            "Poppy",
+            "Reksai",
+            "Riven",
             "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
             "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Illaoi",
-            "Master yi"
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

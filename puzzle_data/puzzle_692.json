@@ -1,57 +1,84 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "OG40",
-        "ult execute"
+        "Jungle",
+        "PROJECT",
+        "OG40"
     ],
     "cols": [
-        "Bilgewater",
         "stun",
-        "ult reset"
+        "Noxus",
+        "tether"
     ],
     "solutions": [
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
+            "Amumu",
             "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
             "Morgana",
-            "Nami",
             "Nautilus",
-            "Neeko",
+            "Nunu",
             "Pantheon",
             "Poppy",
-            "Pyke",
+            "Qiyana",
+            "Rammus",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Swain"
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Katarina",
+            "Mordekaiser"
+        ],
+        [
+            "Sylas"
         ],
         [
             "Alistar",
@@ -73,24 +100,15 @@
             "Zilean"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
         ],
         [
-            "Pyke"
-        ],
-        [
-            "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
-        ],
-        [
-            "Darius",
-            "Viego"
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

@@ -1,73 +1,86 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "OG40",
-        "blink"
+        "Mid",
+        "dash",
+        "before s7"
     ],
     "cols": [
-        "root",
-        "Ionia",
-        "30+ wins"
+        "Demacia",
+        "fear",
+        "celestial"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Aurelion Sol"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Jarvan IV",
+            "Lucian",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sylas",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
             "Shaco",
-            "Zac",
-            "Zyra"
+            "Urgot",
+            "Vex",
+            "Warwick"
         ],
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
+            "Aurelion Sol",
+            "Bard"
         ],
         [
-            "Taliyah"
-        ],
-        [
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
             "Morgana",
-            "Nunu",
-            "Ryze",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
             "Shaco",
-            "Singed",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
             "Soraka"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Corki",
-            "Ryze"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Master yi",
-            "Shen",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
         ]
     ]
 }

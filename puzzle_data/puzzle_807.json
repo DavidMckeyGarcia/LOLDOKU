@@ -1,14 +1,14 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "invis",
-        "coven"
+        "before s7",
+        "invis"
     ],
     "cols": [
         "Bilgewater",
-        "knock-up",
-        "ult reset"
+        "root",
+        "pentakill"
     ],
     "solutions": [
         [
@@ -16,51 +16,90 @@
             "Twisted fate"
         ],
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
             "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Ahri",
-            "Naafiri",
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
             "Swain",
-            "Vex",
-            "Viktor"
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Ryze",
+            "Tristana",
+            "Twitch",
+            "Vayne"
         ],
         [
             "Pyke"
         ],
         [
+            "LeBlanc",
             "Neeko",
-            "Reksai",
-            "Wukong"
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
         ],
         [
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Nami",
-            "Nilah"
-        ],
-        [
-            "Nami",
-            "Zyra"
-        ],
-        [
-            "Ahri"
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

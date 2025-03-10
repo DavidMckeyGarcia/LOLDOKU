@@ -1,135 +1,88 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "shield",
-        "OG40"
+        "Adc",
+        "worlds skin",
+        "Season 7+"
     ],
     "cols": [
+        "Demacia",
         "stun",
-        "Bandle City",
-        "tether"
+        "yordle"
     ],
     "solutions": [
         [
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Corki",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Fiora",
+            "Jarvan IV",
+            "Vayne"
+        ],
+        [
             "Alistar",
-            "Annie",
             "Ashe",
             "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Irelia",
+            "Jax",
+            "Kennen",
             "Leona",
-            "Milio",
-            "Morgana",
             "Nami",
-            "Nautilus",
+            "Nunu",
+            "Orianna",
+            "Renekton",
+            "Syndra",
+            "Taliyah",
+            "Thresh",
+            "Twisted fate",
+            "Vayne",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Corki",
+            "Gnar",
+            "Kennen"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
             "Neeko",
-            "Pantheon",
-            "Poppy",
+            "Ornn",
             "Pyke",
             "Rell",
             "Renata glasc",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
             "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
+            "Sylas",
+            "Viego",
             "Yone"
         ],
         [
-            "Lulu",
-            "Rumble",
-            "Yuumi"
-        ],
-        [
-            "Karma",
-            "Kled",
-            "Morgana",
-            "Nocturne",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Vex"
         ]
     ]
 }

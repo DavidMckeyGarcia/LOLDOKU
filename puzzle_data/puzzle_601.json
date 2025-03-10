@@ -1,95 +1,103 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Adc",
-        "OG40",
-        "life steal"
+        "Top",
+        "empyrean",
+        "dash"
     ],
     "cols": [
-        "Freljord",
-        "knock-up",
+        "fear",
+        "Zaun",
         "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ashe"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
-            "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
             "Warwick",
-            "Zilean"
+            "Zac"
         ],
         [
-            "Olaf",
-            "Trundle",
-            "Udyr"
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
+        ],
+        [
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Zac"
+        ],
+        [
+            "Jax",
+            "Jhin",
+            "Lux",
+            "Nocturne",
+            "Varus"
         ],
         [
             "Aatrox",
-            "Belveth",
             "Briar",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
         ],
         [
-            "Aphelios",
+            "Ekko",
+            "Urgot",
+            "Vi",
+            "Warwick",
+            "Zac",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Aurelion Sol",
             "Belveth",
             "Briar",
+            "Corki",
+            "Ekko",
+            "Fiora",
+            "Fizz",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Kaisa",
+            "Nocturne",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Thresh",
+            "Tristana",
+            "Vi",
             "Viego",
-            "Vladimir",
-            "Warwick"
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zeri"
         ]
     ]
 }

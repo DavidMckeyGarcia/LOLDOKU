@@ -1,158 +1,89 @@
 {
-    "difficulty": "iron",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "before s7",
-        "Fright Night"
+        "Jungle",
+        "global ult",
+        "dark star"
     ],
     "cols": [
-        "Noxus",
+        "Shadow Isles",
         "root",
-        "100% AP Ratio"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Aurelion Sol",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Cassiopeia",
-            "Darius",
-            "Draven",
-            "Elise",
-            "Katarina",
-            "Kled",
-            "LeBlanc",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Caitlyn",
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
             "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
+            "Maokai",
             "Morgana",
             "Nautilus",
             "Nunu",
+            "Qiyana",
             "Rengar",
-            "Ryze",
             "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Aurelion Sol",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Gangplank",
-            "Gnar",
-            "Hecarim",
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
             "Jax",
-            "Jhin",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Caitlyn",
             "Jinx",
-            "Karma",
             "Lux",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Sivir",
-            "Skarner",
-            "Tahm kench",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
+        ],
+        [
+            "Thresh"
+        ],
+        [
+            "Jhin",
+            "Karma",
+            "Lissandra",
+            "Lux",
+            "Shaco",
+            "Varus"
+        ],
+        [
+            "Jarvan IV",
+            "Jhin",
+            "Orianna",
             "Thresh",
-            "Tristana",
-            "Twisted fate",
-            "Varus",
-            "Veigar",
-            "Vi",
-            "Viktor",
-            "Vladimir",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xerath",
-            "Xin Zhao",
-            "Zilean"
-        ],
-        [
-            "Annie",
-            "Draven"
-        ],
-        [
-            "Nautilus",
-            "Nunu",
-            "Renata glasc",
-            "Shaco"
-        ],
-        [
-            "Nunu",
-            "Veigar",
-            "Zeri"
+            "Varus"
         ]
     ]
 }

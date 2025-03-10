@@ -1,64 +1,94 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "OG40",
-        "arcade"
+        "Jungle",
+        "cosmic",
+        "before s7"
     ],
     "cols": [
-        "Demacia",
-        "silence",
-        "arcane"
+        "Ixtal",
+        "root",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
+            "Nidalee",
+            "Qiyana",
+            "Rengar",
+            "Skarner",
+            "Zyra"
+        ],
+        [
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Nidalee",
+            "Skarner"
+        ],
+        [
+            "Jhin",
+            "Lissandra",
             "Lux",
-            "Sylas"
+            "Nautilus",
+            "Nunu",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Nami",
+            "Rakan",
+            "Xayah"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "Jayce",
+            "Malphite",
+            "Nidalee",
+            "Rengar",
+            "Skarner",
+            "Zyra"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
             "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
             "Singed",
-            "Warwick"
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Sona"
-        ],
-        [
-            "Blitzcrank",
-            "Malzahar"
-        ],
-        [
-            "Caitlyn"
+            "Ahri",
+            "Nami",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

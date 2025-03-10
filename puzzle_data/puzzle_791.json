@@ -1,83 +1,102 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "dash",
-        "PROJECT"
+        "Top",
+        "prestige",
+        "life steal"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "shred"
+        "knock-up",
+        "Freljord",
+        "ascended"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Briar",
-            "Evelynn",
+            "Aatrox",
+            "Chogath",
+            "Gragas",
             "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
             "Trundle",
-            "Vi",
-            "Wukong"
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
             "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
+            "Kayn",
+            "Nasus",
+            "Pantheon",
+            "Renekton"
         ],
         [
+            "Aatrox",
+            "Diana",
             "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
         ],
         [
+            "Brand",
+            "Kindred",
+            "Lissandra",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
             "Briar",
-            "Corki",
-            "Jarvan IV",
-            "Jayce",
-            "Rell",
-            "Renekton",
-            "Rengar",
-            "Vi",
-            "Wukong"
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
         ],
         [
-            "Warwick"
+            "Olaf",
+            "Trundle",
+            "Udyr"
         ],
         [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Mordekaiser",
-            "Renekton",
-            "Vi"
+            "Aatrox",
+            "Kayn",
+            "Nasus"
         ]
     ]
 }

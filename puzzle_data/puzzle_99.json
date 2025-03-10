@@ -1,16 +1,20 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
         "Adc",
-        "invis",
-        "PROJECT"
+        "true damage",
+        "Space Groove"
     ],
     "cols": [
+        "Demacia",
         "slow",
-        "Noxus",
-        "100+ games"
+        "shred"
     ],
     "solutions": [
+        [
+            "Lucian",
+            "Vayne"
+        ],
         [
             "Aphelios",
             "Ashe",
@@ -37,77 +41,69 @@
             "Ziggs"
         ],
         [
+            "Corki",
+            "Kogmaw"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Belveth",
+            "Camille",
+            "Chogath",
+            "Corki",
+            "Darius",
             "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Akali",
-            "Aurora",
-            "Kaisa",
-            "Khazix",
-            "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
-        ],
-        [
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Akali",
-            "Ashe",
-            "Ekko",
             "Fiora",
             "Gangplank",
-            "Irelia",
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Mordekaiser",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Ksante",
+            "Kogmaw",
+            "Lillia",
+            "Nunu",
+            "Olaf",
             "Pyke",
-            "Sejuani",
-            "Senna",
-            "Sylas",
-            "Varus",
-            "Warwick",
-            "Zed"
+            "Renata glasc",
+            "Samira",
+            "Sett",
+            "Syndra",
+            "Twitch",
+            "Urgot",
+            "Velkoz",
+            "Zoe"
         ],
         [
-            "Katarina",
-            "Mordekaiser"
+            "Corki",
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
         ],
         [
-            "Ashe",
-            "Jax",
-            "Jhin",
-            "Leona",
-            "Lucian",
-            "Renekton",
-            "Sejuani",
-            "Varus"
+            "Lux"
+        ],
+        [
+            "Gragas",
+            "Lissandra",
+            "Lulu",
+            "Lux",
+            "Nami",
+            "Nasus",
+            "Nunu",
+            "Rumble",
+            "Samira",
+            "Teemo",
+            "Twisted fate"
+        ],
+        [
+            "Nasus",
+            "Rumble"
         ]
     ]
 }

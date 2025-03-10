@@ -1,58 +1,45 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "global ult",
-        "before s7"
+        "Jungle",
+        "before s7",
+        "dash"
     ],
     "cols": [
-        "Shadow Isles",
+        "Piltover",
         "fear",
-        "yordle"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Karthus",
-            "Maokai",
-            "Senna",
-            "Vex"
+            "Camille"
         ],
         [
             "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Kled",
-            "Vex",
-            "Ziggs"
-        ],
-        [
+            "Fiddlesticks",
             "Hecarim",
-            "Kalista",
-            "Karthus",
-            "Thresh",
-            "Yorick"
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna"
         ],
         [
             "Aatrox",
@@ -65,20 +52,78 @@
             "Warwick"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Fizz",
+            "Aatrox",
+            "Alistar",
+            "Ashe",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
             "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
+            "Gragas",
+            "Graves",
+            "Janna",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Jhin",
+            "Lee sin",
+            "Leona",
+            "Lucian",
             "Lulu",
-            "Poppy",
+            "Orianna",
+            "Renekton",
             "Rumble",
-            "Teemo",
+            "Ryze",
+            "Sejuani",
+            "Shen",
+            "Syndra",
+            "Thresh",
             "Tristana",
-            "Veigar",
-            "Ziggs"
+            "Varus"
+        ],
+        [
+            "Caitlyn",
+            "Camille",
+            "Ezreal",
+            "Jayce"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Maokai",
+            "Rakan",
+            "Renekton",
+            "Sejuani",
+            "Shen",
+            "Thresh",
+            "Tristana"
         ]
     ]
 }

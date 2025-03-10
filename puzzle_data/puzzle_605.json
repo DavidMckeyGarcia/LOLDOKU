@@ -1,75 +1,103 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Support",
         "pool party",
-        "before s7"
+        "Season 7+"
     ],
     "cols": [
-        "Freljord",
-        "silence",
-        "ult reset"
+        "stun",
+        "Demacia",
+        "ascended"
     ],
     "solutions": [
         [
+            "Alistar",
+            "Annie",
             "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
+            "Bard",
             "Blitzcrank",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Swain"
-        ],
-        [
-            "Braum"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Singed"
-        ],
-        [
-            "Anivia",
-            "Ashe",
             "Brand",
             "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Lissandra",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Singed",
-            "Sivir",
-            "Swain",
-            "Vayne",
-            "Viktor"
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
+        ],
+        [
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Fiora",
+            "Jarvan IV"
+        ],
+        [
+            "Leona",
+            "Renekton",
+            "Taric"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

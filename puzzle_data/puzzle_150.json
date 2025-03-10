@@ -1,119 +1,67 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "before s7",
-        "life steal"
+        "true damage",
+        "before s7"
     ],
     "cols": [
-        "root",
-        "Ionia",
-        "riot records"
+        "Bilgewater",
+        "fear",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
         ],
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
-            "Yasuo",
-            "Yone",
-            "Yorick"
+            "Wukong"
         ],
         [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Ahri"
+        ],
+        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
             "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
             "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Urgot",
+            "Warwick"
         ],
         [
             "Ahri",
-            "Akali",
-            "Irelia",
-            "Ivern",
-            "Jhin",
-            "Karma",
-            "Kennen",
-            "Lee sin",
-            "Master yi",
-            "Shen",
-            "Syndra",
-            "Varus",
-            "Wukong",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Evelynn",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Mordekaiser",
-            "Olaf",
-            "Sona",
-            "Yasuo",
-            "Yorick"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Kayn",
-            "Lee sin"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Kayn",
-            "Olaf",
-            "Senna",
-            "Viego"
+            "Nami",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

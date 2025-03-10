@@ -1,72 +1,71 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
         "Mid",
         "Season 7+",
-        "blink"
+        "ult execute"
     ],
     "cols": [
-        "Freljord",
-        "root",
-        "ascended"
+        "Noxus",
+        "fear",
+        "arcane"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Hwei",
-            "Karma",
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
             "LeBlanc",
-            "Lissandra",
-            "Lux",
             "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Aphelios",
             "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Vex"
         ],
         [
+            "Ambessa",
+            "Ekko",
+            "Heimerdinger",
+            "Jayce",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
+        ],
+        [
+            "Ambessa",
+            "Briar",
             "Kayn",
-            "Naafiri"
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Lissandra"
+            "Briar",
+            "Hwei",
+            "Vex"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
+            "Ambessa",
+            "Mel"
         ],
         [
-            "Pantheon"
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Jinx"
         ]
     ]
 }

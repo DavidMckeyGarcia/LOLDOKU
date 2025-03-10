@@ -1,80 +1,62 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
         "Top",
-        "OG40",
-        "global ult"
+        "dark star",
+        "OG40"
     ],
     "cols": [
-        "The Void",
-        "knock-up",
-        "tether"
+        "Demacia",
+        "silence",
+        "ascended"
     ],
     "solutions": [
+        [
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus",
+            "Pantheon",
+            "Renekton"
+        ],
+        [
+            "Jarvan IV",
+            "Lux"
+        ],
         [
             "Chogath"
         ],
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Varus",
+            "Xerath"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Alistar",
-            "Anivia",
             "Blitzcrank",
             "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
             "Fiddlesticks",
-            "Morgana",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Nasus",
             "Taric"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
-        ],
-        [
-            "Kled",
-            "Nocturne"
         ]
     ]
 }

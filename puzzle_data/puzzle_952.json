@@ -1,23 +1,22 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "invis",
+        "shield",
         "OG40"
     ],
     "cols": [
-        "Noxus",
+        "Zaun",
         "slow",
-        "0 games"
+        "yordle"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
             "Belveth",
@@ -75,37 +74,89 @@
             "Zyra"
         ],
         [
-            "Briar",
-            "Master yi"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "LeBlanc",
-            "Talon"
+            "Blitzcrank",
+            "Ekko",
+            "Janna",
+            "Orianna",
+            "Renata glasc",
+            "Urgot",
+            "Vi",
+            "Viktor"
         ],
         [
-            "Akali",
-            "Aurora",
+            "Aphelios",
+            "Azir",
+            "Braum",
+            "Camille",
+            "Diana",
+            "Ekko",
+            "Galio",
+            "Garen",
+            "Hwei",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
             "Kaisa",
-            "Khazix",
-            "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
+            "Karma",
+            "Kassadin",
+            "Kled",
+            "Lee sin",
+            "Lulu",
+            "Lux",
+            "Malphite",
+            "Mel",
+            "Milio",
+            "Mordekaiser",
+            "Morgana",
+            "Naafiri",
+            "Nautilus",
+            "Nilah",
+            "Nocturne",
+            "Nunu",
+            "Olaf",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Renata glasc",
+            "Rumble",
             "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
+            "Seraphine",
+            "Sett",
+            "Shen",
+            "Sion",
+            "Sivir",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vex",
+            "Viktor",
+            "Volibear",
+            "Yuumi"
+        ],
+        [
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
             "Twitch",
-            "Viego"
-        ],
-        [
-            "Akshan"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
+            "Warwick"
         ],
         [
             "Anivia",
@@ -141,7 +192,12 @@
             "Zilean"
         ],
         [
-            "Master yi"
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

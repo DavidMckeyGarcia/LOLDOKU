@@ -1,122 +1,80 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "platinum",
     "rows": [
         "Jungle",
         "true damage",
-        "Season 7+"
+        "arcade"
     ],
     "cols": [
-        "Shadow Isles",
-        "stun",
-        "shred"
+        "root",
+        "Ionia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
-        ],
-        [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
             "Ivern",
-            "Jax",
+            "Lee sin",
+            "Maokai",
             "Morgana",
             "Nautilus",
             "Nunu",
-            "Pantheon",
-            "Poppy",
             "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
             "Wukong"
         ],
         [
-            "Gwen"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Corki",
-            "Garen",
-            "Kogmaw",
+            "Belveth",
+            "Master yi",
             "Olaf",
-            "Zoe"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
             "Viego"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
+            "Ivern",
             "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
             "Sett",
-            "Sylas",
-            "Viego",
+            "Syndra",
             "Yone"
         ],
         [
-            "Briar",
-            "Rell",
-            "Zoe"
+            "Ahri",
+            "Belveth",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Vayne"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Ahri",
+            "Yasuo"
+        ],
+        [
+            "Ahri",
+            "Belveth"
         ]
     ]
 }

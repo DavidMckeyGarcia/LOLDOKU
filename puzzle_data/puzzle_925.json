@@ -1,76 +1,81 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Top",
-        "Space Groove",
-        "global ult"
+        "Jungle",
+        "coven",
+        "invis"
     ],
     "cols": [
         "root",
-        "Bilgewater",
+        "Ionia",
         "100+ games"
     ],
     "solutions": [
         [
-            "Ksante",
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
         ],
         [
-            "Aatrox",
-            "Gnar",
+            "Elise",
             "Gragas",
+            "Graves",
             "Jarvan IV",
             "Jax",
-            "Jayce",
+            "Lee sin",
             "Maokai",
-            "Renekton",
             "Rumble",
+            "Sejuani",
             "Shen"
         ],
         [
+            "LeBlanc",
             "Lissandra",
-            "Lux",
-            "Nunu"
+            "Morgana",
+            "Zyra"
         ],
         [
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Gragas",
-            "Lulu",
-            "Rumble"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
+            "Ahri",
+            "Akali",
+            "Syndra"
         ],
         [
             "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
-            "Ryze",
-            "Shen"
+            "Elise",
+            "Syndra"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Akali",
+            "Wukong"
+        ],
+        [
+            "Kaisa"
         ]
     ]
 }

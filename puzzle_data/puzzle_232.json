@@ -1,67 +1,75 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "hextech",
-        "global ult"
+        "Top",
+        "dash",
+        "Season 7+"
     ],
     "cols": [
-        "Zaun",
-        "root",
-        "ult reset"
+        "fear",
+        "Shadow Isles",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Gwen",
+            "Maokai",
+            "Yorick"
         ],
         [
-            "Sivir",
+            "Akali",
+            "Darius",
+            "Fiora",
             "Vayne"
         ],
         [
-            "Janna",
-            "Singed",
-            "Ziggs"
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
         ],
         [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
+            "Gwen",
+            "Hecarim",
             "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
+            "Thresh",
+            "Vex",
+            "Viego"
         ],
         [
+            "Akali",
+            "Ezreal",
+            "Fiora",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Vayne"
+        ],
+        [
+            "Briar",
+            "Hwei",
             "Vex"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
         ]
     ]
 }

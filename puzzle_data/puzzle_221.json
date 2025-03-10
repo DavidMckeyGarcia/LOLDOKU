@@ -1,65 +1,94 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "global ult",
-        "Season 7+"
+        "Top",
+        "before s7",
+        "true damage"
     ],
     "cols": [
-        "Zaun",
         "fear",
-        "tether"
+        "Demacia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Briar",
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Aatrox",
+            "Darius",
             "Fiddlesticks",
             "Hecarim",
             "Nocturne",
             "Shaco",
+            "Urgot",
             "Warwick"
         ],
         [
-            "Fiddlesticks",
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
             "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ],
         [
-            "Briar",
-            "Nocturne",
-            "Vex"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Kled",
-            "Nocturne"
+            "Fiora",
+            "Garen",
+            "Vayne"
         ],
         [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Ahri",
+            "Belveth",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Vayne"
         ]
     ]
 }

@@ -1,81 +1,85 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "Season 7+",
-        "Fright Night"
+        "Mid",
+        "OG40",
+        "prestige"
     ],
     "cols": [
-        "knock-up",
-        "Bilgewater",
-        "tether"
+        "fear",
+        "Shurima",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Azir",
+            "Elise",
+            "Ezreal",
             "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Jayce",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ],
         [
             "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Darius",
+            "Shaco"
         ],
         [
-            "Belveth",
-            "Briar",
+            "Aatrox",
+            "Jax",
             "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
+            "Sivir"
+        ],
+        [
+            "Aatrox",
+            "Caitlyn",
+            "Ezreal",
+            "Jax",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Lulu",
             "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
-        ],
-        [
-            "Nautilus",
-            "Nunu",
-            "Trundle"
-        ],
-        [
-            "Nautilus",
-            "Pyke"
-        ],
-        [
-            "Renata glasc"
+            "Thresh",
+            "Xayah"
         ]
     ]
 }

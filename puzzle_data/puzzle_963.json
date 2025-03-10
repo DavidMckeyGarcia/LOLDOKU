@@ -1,117 +1,64 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "dash",
-        "OG40"
+        "Top",
+        "OG40",
+        "global ult"
     ],
     "cols": [
-        "stun",
-        "Piltover",
-        "arcane"
+        "Demacia",
+        "silence",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
             "Vayne"
         ],
         [
-            "Caitlyn",
-            "Ezreal",
-            "Seraphine"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Caitlyn",
-            "Jinx",
-            "Mel"
-        ],
-        [
-            "Alistar",
-            "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
+            "Akali",
+            "Darius",
             "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
-            "Ivern",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Nautilus",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sett",
-            "Sylas",
-            "Taliyah",
-            "Thresh",
-            "Urgot",
-            "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
-            "Zac"
+            "Vayne"
         ],
         [
-            "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Ambessa",
-            "Caitlyn",
-            "Ekko",
-            "Jayce",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
             "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Heimerdinger"
+            "Ryze",
+            "Tristana",
+            "Twitch"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
+            "Galio",
+            "Lux"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Ryze"
         ]
     ]
 }

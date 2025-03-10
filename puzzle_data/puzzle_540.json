@@ -1,56 +1,27 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
+        "Adc",
         "true damage",
-        "Space Groove"
+        "OG40"
     ],
     "cols": [
-        "Targon",
         "stun",
-        "30+ wins"
+        "Freljord",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Alistar",
-            "Annie",
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Galio"
+            "Ashe"
         ],
         [
-            "Zoe"
+            "Sivir",
+            "Vayne"
         ],
         [
             "Amumu",
@@ -69,23 +40,46 @@
             "Yone"
         ],
         [
-            "Ahri",
-            "Corki"
-        ],
-        [
-            "Taric"
-        ],
-        [
-            "Blitzcrank",
-            "Gragas",
-            "Lissandra",
-            "Nami",
             "Nunu",
-            "Taric",
-            "Twisted fate"
+            "Olaf"
         ],
         [
-            "Lissandra"
+            "Ahri",
+            "Belveth",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Vayne"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

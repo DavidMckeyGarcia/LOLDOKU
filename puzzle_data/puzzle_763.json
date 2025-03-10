@@ -1,75 +1,59 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "prestige",
-        "evolves"
+        "Adc",
+        "OG40",
+        "coven"
     ],
     "cols": [
+        "Ionia",
         "knock-up",
-        "Zaun",
-        "celestial"
+        "30+ wins"
     ],
     "solutions": [
         [
+            "Jhin",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Alistar",
             "Anivia",
-            "Aurelion Sol",
-            "Azir",
+            "Blitzcrank",
             "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Aurelion Sol"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
+            "Janna",
             "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Corki",
+            "Ryze"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Syndra"
+        ],
+        [
+            "Nami",
             "Zyra"
         ],
         [
-            "Jinx",
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Belveth",
-            "Kayn"
-        ],
-        [
-            "Viktor"
-        ],
-        [
-            "Bard"
+            "Ahri",
+            "LeBlanc",
+            "Lissandra"
         ]
     ]
 }

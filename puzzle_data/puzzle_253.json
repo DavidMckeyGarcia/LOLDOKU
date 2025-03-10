@@ -1,73 +1,47 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "shield",
-        "OG40"
+        "Jungle",
+        "OG40",
+        "invis"
     ],
     "cols": [
         "root",
-        "Ixtal",
-        "arcane"
+        "Bilgewater",
+        "manaless"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Milio",
-            "Neeko",
-            "Zyra"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
             "Ivern",
-            "Ksante",
-            "Karma",
             "Lee sin",
-            "Lux",
-            "Mel",
+            "Maokai",
             "Morgana",
             "Nautilus",
-            "Neeko",
             "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Malphite",
-            "Milio",
-            "Neeko",
-            "Skarner"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Janna",
-            "Mel",
-            "Orianna",
-            "Vi",
-            "Viktor"
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
         ],
         [
             "Morgana",
@@ -78,13 +52,30 @@
             "Soraka"
         ],
         [
-            "Malphite"
+            "Gangplank",
+            "Twisted fate"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
+            "Dr. Mundo",
+            "Katarina",
+            "Tryndamere"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Akali",
+            "Reksai",
+            "Rengar",
+            "Viego"
         ]
     ]
 }

@@ -1,16 +1,23 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "true damage",
-        "prestige"
+        "dash",
+        "before s7"
     ],
     "cols": [
+        "Bandle City",
         "root",
-        "Noxus",
         "vastayan"
     ],
     "solutions": [
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
+        ],
         [
             "Hwei",
             "Karma",
@@ -25,70 +32,75 @@
             "Swain"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
             "Ahri",
             "Aurora",
             "Neeko"
         ],
         [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Ahri"
+            "Corki",
+            "Fizz",
+            "Tristana",
+            "Yuumi"
         ],
         [
             "Caitlyn",
-            "Jinx",
+            "Ivern",
             "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Ahri",
+            "Aurora",
+            "Rakan",
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Lulu",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
             "LeBlanc",
             "Lee sin",
             "Leona",
             "Lissandra",
             "Lux",
             "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
             "Shaco",
+            "Singed",
             "Soraka",
             "Swain",
-            "Xayah",
+            "Varus",
+            "Zac",
             "Zyra"
         ],
         [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
-        ],
-        [
             "Ahri",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Nami",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

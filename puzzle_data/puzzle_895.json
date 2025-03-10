@@ -1,97 +1,104 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "global ult",
-        "before s7"
+        "Season 7+",
+        "dash"
     ],
     "cols": [
-        "fear",
-        "Ionia",
-        "arcane"
+        "root",
+        "Piltover",
+        "riot records"
     ],
     "solutions": [
         [
             "Hwei",
-            "Vex"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
             "Karma",
-            "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "Jayce",
             "LeBlanc",
+            "Lissandra",
+            "Lux",
             "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
             "Orianna",
-            "Viktor"
-        ],
-        [
-            "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Lillia",
-            "Shen"
-        ],
-        [
-            "Caitlyn",
-            "Ekko",
-            "Jinx",
-            "Mel"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
+            "Seraphine"
         ],
         [
             "Ahri",
             "Akali",
-            "Irelia",
-            "Ivern",
-            "Jhin",
-            "Karma",
-            "Kennen",
-            "Lee sin",
-            "Master yi",
-            "Shen",
-            "Syndra",
-            "Varus",
-            "Wukong",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
             "Yasuo",
-            "Zed"
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Camille",
+            "Seraphine"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
         ],
         [
             "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Caitlyn",
+            "Camille",
+            "Ezreal",
+            "Jayce"
+        ],
+        [
+            "Ahri",
+            "Akali",
             "Ekko",
-            "Heimerdinger",
-            "Janna",
-            "Jayce",
-            "Jinx",
-            "LeBlanc",
-            "Orianna",
-            "Singed",
-            "Vi",
-            "Viktor",
-            "Warwick"
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Qiyana",
+            "Sett",
+            "Viego",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

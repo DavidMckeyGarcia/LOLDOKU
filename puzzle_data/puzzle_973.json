@@ -1,14 +1,14 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Mid",
-        "prestige",
-        "life steal"
+        "invis",
+        "Season 7+"
     ],
     "cols": [
         "Demacia",
-        "root",
-        "ult reset"
+        "fear",
+        "never played"
     ],
     "solutions": [
         [
@@ -20,78 +20,65 @@
         ],
         [
             "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Vex"
         ],
         [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Elise",
+            "Heimerdinger",
+            "Kennen",
+            "Naafiri"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Sona",
-            "Sylas",
             "Vayne"
         ],
         [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
+            "Shaco"
+        ],
+        [
+            "Akshan",
+            "Pyke",
+            "Reksai",
+            "Rengar",
             "Senna",
             "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
+            "Teemo",
+            "Twitch",
+            "Vayne",
+            "Viego",
+            "Wukong"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Sivir",
-            "Swain",
-            "Vayne"
+            "Sylas"
         ],
         [
-            "Morgana"
+            "Briar",
+            "Hwei",
+            "Vex"
         ],
         [
+            "Akshan",
             "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Aatrox",
             "Belveth",
-            "Olaf",
-            "Viego"
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ]
     ]
 }

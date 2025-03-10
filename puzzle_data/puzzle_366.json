@@ -1,24 +1,23 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
         "Adc",
-        "true damage",
-        "before s7"
+        "invis",
+        "cosmic"
     ],
     "cols": [
-        "The Void",
         "knock-up",
+        "Freljord",
         "100+ games"
     ],
     "solutions": [
         [
-            "Kaisa",
-            "Kogmaw"
-        ],
-        [
             "Kalista",
             "Samira",
             "Ziggs"
+        ],
+        [
+            "Ashe"
         ],
         [
             "Ashe",
@@ -32,103 +31,38 @@
             "Xayah"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Syndra"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Khazix",
-            "Kogmaw",
+            "Neeko",
             "Reksai",
-            "Velkoz"
+            "Wukong"
         ],
         [
-            "Aatrox",
-            "Alistar",
+            "Aurora"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
             "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
+            "Belveth",
             "Lulu",
-            "Malphite",
             "Nami",
             "Nautilus",
             "Nunu",
-            "Poppy",
-            "Reksai",
-            "Riven",
-            "Sejuani",
+            "Rakan",
             "Sion",
-            "Tahm kench",
-            "Taliyah",
-            "Trundle",
-            "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Xin Zhao"
         ],
         [
-            "Aatrox",
-            "Alistar",
-            "Ashe",
-            "Azir",
-            "Braum",
-            "Caitlyn",
-            "Elise",
-            "Ezreal",
-            "Gnar",
-            "Gragas",
-            "Graves",
-            "Janna",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
+            "Anivia",
+            "Lissandra",
+            "Nunu"
+        ],
+        [
             "Jhin",
-            "Lee sin",
-            "Leona",
-            "Lucian",
             "Lulu",
-            "Orianna",
-            "Renekton",
-            "Rumble",
-            "Ryze",
-            "Sejuani",
-            "Shen",
-            "Syndra",
-            "Thresh",
-            "Tristana",
-            "Varus"
+            "Rakan",
+            "Varus",
+            "Xayah"
         ]
     ]
 }

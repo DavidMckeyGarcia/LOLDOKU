@@ -1,16 +1,20 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
         "Support",
-        "arcade",
+        "shield",
         "OG40"
     ],
     "cols": [
+        "Piltover",
         "stun",
-        "Noxus",
-        "tether"
+        "riot records"
     ],
     "solutions": [
+        [
+            "Heimerdinger",
+            "Seraphine"
+        ],
         [
             "Alistar",
             "Annie",
@@ -41,34 +45,63 @@
             "Zilean"
         ],
         [
-            "Alistar",
+            "Senna",
+            "Sona"
+        ],
+        [
+            "Camille",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Ambessa",
             "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
             "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Malzahar",
-            "Qiyana",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
             "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
             "Sona",
-            "Veigar"
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Riven"
+            "Aphelios",
+            "Ekko",
+            "Ksante",
+            "Kaisa",
+            "Mordekaiser",
+            "Olaf",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Malzahar"
+            "Heimerdinger"
         ],
         [
             "Alistar",
@@ -90,15 +123,9 @@
             "Zilean"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Evelynn",
+            "Karthus",
+            "Kayle"
         ]
     ]
 }

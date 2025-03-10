@@ -1,83 +1,126 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
+        "Support",
         "Season 7+",
-        "true damage"
+        "global ult"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "ult reset"
+        "Freljord",
+        "root",
+        "never played"
     ],
     "solutions": [
         [
             "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Brand",
+            "Braum"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
-        ],
-        [
-            "Sivir",
-            "Vayne"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
-            "Ornn",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
             "Pyke",
+            "Rakan",
             "Rell",
             "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
+            "Aphelios",
+            "Hwei",
             "Ksante",
-            "Nunu",
-            "Pyke",
+            "Mel",
+            "Neeko",
             "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Ahri",
+            "Akshan",
+            "Aphelios",
             "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Vayne"
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Bard",
+            "Briar",
+            "Draven",
+            "Jinx",
+            "Kled",
+            "Lillia",
+            "Maokai",
+            "Senna",
+            "Shen",
+            "Soraka"
         ]
     ]
 }

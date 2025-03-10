@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "iron",
     "rows": [
         "Top",
-        "ult execute",
+        "blink",
         "before s7"
     ],
     "cols": [
         "root",
-        "Zaun",
-        "100+ games"
+        "Noxus",
+        "manaless"
     ],
     "solutions": [
         [
@@ -19,35 +19,53 @@
             "Zac"
         ],
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
             "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
             "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
             "Renekton",
             "Rumble",
-            "Shen"
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Jhin",
-            "Jinx"
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
         ],
         [
-            "Jinx",
-            "Urgot"
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
         ],
         [
-            "Jhin",
-            "Syndra"
+            "Ambessa",
+            "Katarina",
+            "Reksai",
+            "Shen",
+            "Viego",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
             "Caitlyn",
@@ -74,52 +92,44 @@
             "Zyra"
         ],
         [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Ekko",
-            "Janna",
-            "Jinx",
-            "Orianna",
-            "Singed",
-            "Twitch",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Warwick",
-            "Zac",
-            "Ziggs"
+            "Alistar",
+            "Annie",
+            "Cassiopeia",
+            "Darius",
+            "Draven",
+            "Elise",
+            "Katarina",
+            "Kled",
+            "LeBlanc",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
             "Aatrox",
-            "Alistar",
-            "Ashe",
-            "Azir",
-            "Braum",
-            "Caitlyn",
-            "Elise",
-            "Ezreal",
+            "Akali",
+            "Dr. Mundo",
+            "Garen",
             "Gnar",
-            "Gragas",
-            "Graves",
-            "Janna",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Jhin",
+            "Katarina",
+            "Kennen",
+            "Kled",
             "Lee sin",
-            "Leona",
-            "Lucian",
-            "Lulu",
-            "Orianna",
+            "Mordekaiser",
+            "Reksai",
             "Renekton",
+            "Rengar",
             "Rumble",
-            "Ryze",
-            "Sejuani",
             "Shen",
-            "Syndra",
-            "Thresh",
-            "Tristana",
-            "Varus"
+            "Shyvana",
+            "Tryndamere",
+            "Vladimir",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ]
     ]
 }

@@ -1,129 +1,112 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "invis"
+        "Jungle",
+        "coven",
+        "evolves"
     ],
     "cols": [
+        "Ionia",
         "stun",
-        "The Void",
-        "never played"
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
+        ],
+        [
+            "Amumu",
             "Brand",
-            "Cassiopeia",
+            "Briar",
+            "Camille",
             "Ekko",
             "Elise",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
             "Pantheon",
+            "Poppy",
             "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
-        [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Elise",
-            "Heimerdinger",
-            "Kennen",
-            "Naafiri"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
+            "Rammus",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
+            "Sejuani",
             "Sett",
+            "Skarner",
             "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
             "Viego",
-            "Yone"
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Belveth",
-            "Kaisa"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
             "Belveth",
             "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
             "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
         ],
         [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
+            "Ahri",
+            "Akali",
+            "Syndra"
         ],
         [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Ashe",
+            "Evelynn"
+        ],
+        [
+            "Kayn"
+        ],
+        [
+            "Bard",
+            "Viktor"
+        ],
+        [
+            "Belveth",
+            "Gangplank",
             "Kaisa",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Akshan",
-            "Pyke",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Teemo",
-            "Twitch",
-            "Vayne",
-            "Viego",
-            "Wukong"
+            "Smolder",
+            "Viktor"
         ]
     ]
 }

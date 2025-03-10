@@ -1,98 +1,117 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "before s7",
-        "prestige"
+        "Support",
+        "dash",
+        "empyrean"
     ],
     "cols": [
-        "Ionia",
-        "silence",
+        "knock-up",
+        "Demacia",
         "tether"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
-            "Fiddlesticks"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Irelia",
-            "Ivern",
-            "Jhin",
-            "Karma",
-            "Kennen",
-            "Lee sin",
-            "Master yi",
-            "Shen",
-            "Syndra",
-            "Varus",
-            "Wukong",
-            "Yasuo",
-            "Zed"
-        ],
-        [
+            "Alistar",
             "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
+            "Braum",
+            "Galio",
+            "Janna",
             "Lulu",
-            "Soraka"
-        ],
-        [
-            "Aatrox",
-            "Fiddlesticks",
-            "Illaoi",
-            "Kalista",
-            "Karma",
-            "Kled",
-            "LeBlanc",
-            "Morgana",
-            "Nocturne",
-            "Taric",
-            "Zac"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Kayn",
-            "Lee sin",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
             "Rakan",
-            "Sett",
-            "Xayah",
-            "Yasuo",
-            "Zed"
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Garen",
-            "Lulu",
-            "Soraka"
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
-            "Aatrox",
-            "LeBlanc",
+            "Karma",
             "Morgana",
             "Renata glasc",
-            "Sylas",
+            "Taric",
             "Yuumi"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Jarvan IV",
+            "Lucian",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sylas",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Nocturne",
+            "Sylas",
+            "Yuumi",
+            "Zac"
+        ],
+        [
+            "Ksante",
+            "Zac"
+        ],
+        [
+            "Kayle",
+            "Lux"
+        ],
+        [
+            "Malzahar",
+            "Nocturne",
+            "Zac"
         ]
     ]
 }

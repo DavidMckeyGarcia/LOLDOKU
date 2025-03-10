@@ -1,116 +1,94 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "Season 7+",
-        "hextech"
+        "Jungle",
+        "invis",
+        "Space Groove"
     ],
     "cols": [
-        "stun",
-        "Noxus",
-        "yordle"
+        "root",
+        "Freljord",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Brand",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
             "Udyr",
-            "Urgot",
-            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
             "Volibear",
             "Warwick",
-            "Yone",
-            "Zac"
+            "Wukong",
+            "Xin Zhao"
         ],
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
+            "LeBlanc",
             "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Kaisa",
+            "Neeko",
             "Viego",
-            "Yone"
+            "Wukong"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
+            "Lissandra",
+            "Lux",
+            "Nunu"
         ],
         [
-            "Vex"
+            "Gragas",
+            "Lissandra",
+            "Nunu"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Malzahar",
-            "Poppy",
-            "Rammus",
-            "Renekton",
-            "Sejuani",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Tristana",
-            "Ziggs"
+            "Blitzcrank",
+            "Lux",
+            "Nunu",
+            "Twisted fate"
         ]
     ]
 }

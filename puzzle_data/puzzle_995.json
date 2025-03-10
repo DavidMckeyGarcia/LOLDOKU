@@ -1,82 +1,121 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "empyrean",
-        "invis"
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
-        "Shadow Isles",
-        "root",
-        "manaless"
+        "knock-up",
+        "Shurima",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
-        ],
-        [
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
             "Ivern",
+            "Jarvan IV",
+            "Kayn",
             "Lee sin",
-            "Maokai",
-            "Morgana",
             "Nautilus",
             "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
             "Zac",
             "Zyra"
         ],
         [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
+        ],
+        [
             "Belveth",
             "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
             "Shen",
             "Shyvana",
+            "Skarner",
+            "Vi",
             "Viego",
-            "Zac"
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
         ],
         [
-            "Vex"
-        ],
-        [
-            "Jhin",
+            "Aatrox",
+            "Belveth",
+            "Briar",
             "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
         ],
         [
-            "Akali",
-            "Zac",
-            "Zed"
+            "Aatrox",
+            "Ksante",
+            "Nasus"
         ],
         [
-            "Senna",
-            "Viego"
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Viego",
+            "Vladimir",
+            "Warwick"
         ],
         [
-            "LeBlanc",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
             "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Akali",
-            "Reksai",
-            "Rengar",
-            "Viego"
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Kaisa",
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
         ]
     ]
 }

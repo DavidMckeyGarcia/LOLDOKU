@@ -2,76 +2,85 @@
     "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "elderwood",
-        "true damage"
+        "true damage",
+        "prestige"
     ],
     "cols": [
-        "Ionia",
-        "root",
-        "vastayan"
+        "silence",
+        "Bandle City",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
+            "Fiddlesticks"
+        ],
+        [
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
             "Master yi",
-            "Sett",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
             "Shen",
-            "Wukong"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Ahri",
-            "Rakan",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
             "Wukong",
-            "Xayah"
+            "Xin Zhao"
         ],
         [
-            "LeBlanc",
-            "Xayah"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Ahri",
-            "Rakan",
-            "Wukong",
-            "Xayah"
+            "Corki"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ivern",
-            "Lillia",
+            "Belveth",
+            "Chogath",
+            "Corki",
+            "Fiora",
+            "Gangplank",
             "Master yi",
-            "Sett",
-            "Syndra",
-            "Yone"
+            "Nunu"
         ],
         [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
+            "Garen",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Ahri"
+            "Fizz",
+            "Lulu",
+            "Teemo",
+            "Yuumi"
+        ],
+        [
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Jax",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Sivir",
+            "Thresh",
+            "Volibear",
+            "Zeri"
         ]
     ]
 }

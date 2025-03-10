@@ -1,129 +1,97 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
         "Adc",
-        "true damage",
-        "Season 7+"
+        "hextech",
+        "shield"
     ],
     "cols": [
-        "Bandle City",
-        "slow",
-        "ult reset"
+        "knock-up",
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Corki",
-            "Tristana"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
             "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
             "Twitch",
-            "Varus",
             "Zeri",
             "Ziggs"
         ],
         [
-            "Sivir",
-            "Vayne"
-        ],
-        [
-            "Corki"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Belveth",
-            "Camille",
-            "Chogath",
             "Corki",
-            "Darius",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gwen",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
+            "Ziggs"
+        ],
+        [
+            "Janna",
+            "Singed",
+            "Ziggs"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
             "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Ksante",
-            "Kogmaw",
-            "Lillia",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
             "Nunu",
-            "Olaf",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Sett",
-            "Syndra",
-            "Twitch",
-            "Urgot",
-            "Velkoz",
-            "Zoe"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Vayne"
-        ],
-        [
-            "Yuumi"
-        ],
-        [
-            "Aphelios",
-            "Aurora",
-            "Belveth",
-            "Briar",
-            "Camille",
-            "Gwen",
-            "Hwei",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Lillia",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Ornn",
-            "Pyke",
+            "Orianna",
+            "Poppy",
             "Rakan",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sett",
-            "Smolder",
-            "Sylas",
-            "Vex",
-            "Viego",
-            "Yuumi",
-            "Zeri",
-            "Zoe"
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
+            "Blitzcrank",
+            "Ekko",
+            "Janna",
+            "Orianna",
+            "Renata glasc",
+            "Urgot",
+            "Vi",
+            "Viktor"
+        ],
+        [
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ]
     ]
 }

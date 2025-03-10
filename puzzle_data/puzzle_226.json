@@ -1,123 +1,64 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "dash",
-        "OG40"
+        "Support",
+        "dark star",
+        "blink"
     ],
     "cols": [
-        "stun",
         "Noxus",
-        "0 games"
+        "silence",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Mel",
-            "Samira"
-        ],
-        [
             "Alistar",
-            "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
-            "Ivern",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Nautilus",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sett",
-            "Sylas",
-            "Taliyah",
-            "Thresh",
-            "Urgot",
-            "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Alistar",
-            "Ambessa",
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Kled",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Talon"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Illaoi",
-            "Naafiri",
-            "Samira",
-            "Vex"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
             "Annie",
-            "Ashe",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
             "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Lulu",
+            "Soraka"
         ],
         [
             "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
+            "Ashe",
+            "Braum",
+            "Janna",
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
         ],
         [
-            "Master yi"
+            "Mordekaiser"
+        ],
+        [
+            "Chogath"
+        ],
+        [
+            "Jarvan IV",
+            "Jhin",
+            "Orianna",
+            "Thresh",
+            "Varus"
+        ],
+        [
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
+        ],
+        [
+            "Kassadin"
+        ],
+        [
+            "Ezreal",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

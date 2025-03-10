@@ -1,76 +1,64 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Top",
-        "blink",
-        "arcade"
+        "Jungle",
+        "cosmic",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Zaun",
-        "pentakill"
+        "Noxus",
+        "fear",
+        "tether"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
+            "Briar",
+            "Elise",
             "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
+        ],
+        [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
             "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
             "Zac"
         ],
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Sion",
+            "Vladimir"
         ],
         [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
+            "Hecarim"
         ],
         [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
+            "Illaoi"
         ],
         [
-            "Ekko"
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
         ],
         [
-            "Ezreal",
-            "Ryze"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
-        ],
-        [
-            "Blitzcrank",
-            "Ziggs"
-        ],
-        [
-            "Ezreal",
-            "Kaisa"
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

@@ -1,69 +1,83 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
+        "Mid",
         "OG40",
-        "Fright Night"
+        "empyrean"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "yordle"
+        "knock-up",
+        "Ionia",
+        "pentakill"
     ],
     "solutions": [
         [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Kennen",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Ryze",
+            "Tristana",
+            "Twitch"
+        ],
+        [
             "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
             "Zac"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Akali",
+            "Jhin",
+            "Varus",
+            "Zed"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Nautilus",
-            "Nunu",
-            "Renata glasc",
-            "Shaco"
-        ],
-        [
-            "Nautilus",
-            "Pyke"
-        ],
-        [
-            "Veigar"
+            "Akali"
         ]
     ]
 }

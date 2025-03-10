@@ -1,100 +1,58 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "cosmic",
-        "global ult"
+        "Adc",
+        "invis",
+        "cosmic"
     ],
     "cols": [
-        "Freljord",
-        "stun",
-        "ult reset"
+        "Demacia",
+        "knock-up",
+        "shred"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Lucian",
+            "Vayne"
         ],
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Kogmaw"
+        ],
+        [
+            "Vayne"
+        ],
+        [
             "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
+            "Rengar",
+            "Wukong"
         ],
         [
-            "Anivia",
-            "Lissandra",
-            "Nunu"
-        ],
-        [
-            "Anivia",
-            "Hecarim",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Sion",
-            "Skarner",
+            "Lux",
             "Xin Zhao"
         ],
         [
+            "Anivia",
             "Belveth",
-            "Master yi"
-        ],
-        [
-            "Ashe",
-            "Ornn"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
             "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Xin Zhao"
         ],
         [
-            "Vex"
+            "Sion"
         ]
     ]
 }

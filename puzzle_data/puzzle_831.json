@@ -1,76 +1,62 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
+        "Support",
         "prestige",
         "OG40"
     ],
     "cols": [
-        "Ionia",
+        "Ixtal",
         "stun",
-        "pentakill"
+        "tether"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Kennen",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Milio",
+            "Neeko",
+            "Zyra"
         ],
         [
-            "Ambessa",
-            "Anivia",
+            "Alistar",
             "Annie",
-            "Aurelion Sol",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
             "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Gragas",
+            "Braum",
             "Heimerdinger",
-            "Irelia",
-            "Kennen",
-            "Lissandra",
-            "Malzahar",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Orianna",
             "Pantheon",
-            "Qiyana",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
             "Velkoz",
-            "Viktor",
             "Xerath",
-            "Yone",
             "Zilean"
         ],
         [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Kayn",
-            "Lee sin",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yasuo",
-            "Zed"
+            "Malphite",
+            "Neeko",
+            "Qiyana",
+            "Zyra"
         ],
         [
             "Brand",
@@ -96,18 +82,15 @@
             "Volibear"
         ],
         [
-            "Akali",
-            "Darius",
-            "Ezreal",
-            "Fiora",
-            "Jinx",
-            "Kaisa",
-            "Lucian",
-            "Vayne",
-            "Xayah"
+            "Aatrox",
+            "LeBlanc",
+            "Morgana",
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ],
         [
-            "Master yi"
+            "Malphite"
         ],
         [
             "Alistar",
@@ -129,9 +112,9 @@
             "Zilean"
         ],
         [
-            "Ryze",
-            "Tristana",
-            "Twitch"
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

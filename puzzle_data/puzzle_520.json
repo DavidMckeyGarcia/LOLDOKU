@@ -1,73 +1,64 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
-        "Adc",
-        "OG40",
-        "true damage"
+        "Jungle",
+        "arcade",
+        "OG40"
     ],
     "cols": [
-        "Shurima",
-        "knock-up",
-        "yordle"
+        "silence",
+        "Piltover",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Sivir"
+            "Fiddlesticks"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Camille"
         ],
         [
-            "Corki",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Amumu",
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
             "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Blitzcrank",
+            "Malzahar"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Heimerdinger"
         ],
         [
             "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
+            "Ashe",
             "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Ksante"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Amumu",
-            "Corki"
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

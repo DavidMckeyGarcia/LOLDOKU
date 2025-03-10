@@ -1,136 +1,113 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "arcade",
-        "before s7"
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Noxus",
-        "pentakill"
+        "Bilgewater",
+        "stun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
+        ],
+        [
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
             "Gragas",
-            "Jarvan IV",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
             "Ksante",
-            "Kayn",
-            "Malphite",
+            "Kennen",
             "Ornn",
+            "Pantheon",
             "Poppy",
+            "Renekton",
             "Riven",
+            "Sett",
             "Sion",
+            "Skarner",
             "Sylas",
             "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
             "Yone",
             "Zac"
         ],
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
             "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
-        ],
-        [
-            "Riven"
-        ],
-        [
-            "Ezreal",
-            "Kaisa"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nami",
-            "Nautilus",
-            "Nunu",
             "Poppy",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Tahm kench",
-            "Taliyah",
-            "Trundle",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
             "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Yone"
+        ],
+        [
+            "Amumu",
+            "Corki"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
         ],
         [
             "Alistar",
+            "Amumu",
+            "Anivia",
             "Annie",
-            "Cassiopeia",
-            "Darius",
-            "Draven",
-            "Elise",
-            "Katarina",
-            "Kled",
-            "LeBlanc",
-            "Mordekaiser",
-            "Riven",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
             "Sion",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Akali",
-            "Darius",
-            "Ezreal",
-            "Fiora",
-            "Jinx",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Ryze",
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
             "Tristana",
-            "Twitch",
-            "Vayne"
+            "Veigar"
         ]
     ]
 }

@@ -1,73 +1,91 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "OG40",
-        "blink"
+        "Adc",
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
-        "silence",
-        "Ionia",
-        "100+ games"
+        "Noxus",
+        "knock-up",
+        "riot records"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Ivern",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Samira",
+            "Sion",
+            "Vladimir"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
             "Kayn",
             "Lee sin",
-            "Lillia",
-            "Master yi",
+            "Samira",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kayn",
+            "Olaf",
+            "Senna",
+            "Viego"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
             "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Kassadin"
-        ],
-        [
-            "Master yi",
-            "Shen",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Ezreal",
-            "Ryze",
-            "Shen"
+            "Viego",
+            "Yone"
         ]
     ]
 }

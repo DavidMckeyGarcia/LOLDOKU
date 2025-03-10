@@ -1,87 +1,110 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "ult execute",
-        "before s7"
+        "Adc",
+        "before s7",
+        "global ult"
     ],
     "cols": [
-        "Bilgewater",
-        "silence",
-        "shred"
+        "Demacia",
+        "root",
+        "yordle"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
+            "Lucian",
+            "Vayne"
         ],
         [
-            "Fiddlesticks"
-        ],
-        [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Evelynn",
-            "Garen"
-        ],
-        [
-            "Fizz",
-            "Gangplank",
-            "Graves",
-            "Illaoi",
-            "Miss Fortune",
-            "Nami",
-            "Nautilus",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
             "Corki",
-            "Evelynn",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Fiora",
+            "Galio",
             "Garen",
             "Jarvan IV",
-            "Jayce",
-            "Karthus",
-            "Kogmaw",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
             "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
             "Rumble",
-            "Sion",
-            "Trundle",
-            "Vi",
-            "Wukong"
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
+        ],
+        [
+            "Galio",
+            "Lux"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

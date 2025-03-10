@@ -1,99 +1,76 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "true damage",
-        "dark star"
+        "Mid",
+        "OG40",
+        "blink"
     ],
     "cols": [
-        "Ionia",
+        "Piltover",
         "knock-up",
-        "never played"
+        "tether"
     ],
     "solutions": [
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna",
+            "Seraphine"
         ],
         [
-            "Kalista",
-            "Samira",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
             "Ziggs"
         ],
         [
-            "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ivern",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Syndra",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Belveth",
-            "Chogath",
-            "Draven",
-            "Fiora",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Lillia",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Twitch",
-            "Vayne"
-        ],
-        [
-            "Jhin",
             "Karma",
-            "Varus"
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
         ],
         [
-            "Chogath",
-            "Jarvan IV",
-            "Malphite"
+            "Heimerdinger"
         ],
         [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
             "Chogath",
-            "Jarvan IV",
-            "Jhin",
+            "Janna",
             "Malphite",
-            "Mordekaiser",
-            "Shaco",
-            "Thresh"
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
+        ],
+        [
+            "Ezreal"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

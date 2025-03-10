@@ -1,45 +1,80 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
         "before s7",
-        "Space Groove"
+        "dash"
     ],
     "cols": [
-        "silence",
-        "Bandle City",
+        "root",
+        "Demacia",
         "vastayan"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Rumble",
-            "Teemo"
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
             "Rengar",
             "Wukong"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Lulu",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
             "Ahri",
@@ -48,16 +83,36 @@
             "Wukong"
         ],
         [
-            "Blitzcrank",
-            "Lulu"
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
         ],
         [
-            "Lulu",
-            "Rumble",
-            "Teemo"
+            "Fiora",
+            "Galio",
+            "Jarvan IV",
+            "Lucian",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sylas",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
-            "Nami"
+            "Ahri",
+            "Aurora",
+            "Rakan",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

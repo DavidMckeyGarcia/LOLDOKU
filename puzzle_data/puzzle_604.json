@@ -1,113 +1,62 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "prestige",
-        "shield"
+        "Top",
+        "elderwood",
+        "invis"
     ],
     "cols": [
         "root",
-        "Noxus",
-        "ascended"
+        "Shurima",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
-        ],
-        [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
             "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
+            "Maokai",
+            "Singed",
             "Swain",
-            "Xayah",
-            "Zyra"
-        ],
-        [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
+            "Zac"
         ],
         [
             "Aatrox",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Pantheon"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
+            "Jax",
             "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
+            "Nasus",
+            "Renekton"
+        ],
+        [
+            "Wukong"
+        ],
+        [
+            "LeBlanc",
+            "Xayah"
+        ],
+        [
+            "Azir"
+        ],
+        [
+            "Ahri",
+            "Rakan",
+            "Wukong",
+            "Xayah"
+        ],
+        [
+            "LeBlanc",
             "Neeko",
-            "Nunu",
-            "Renata glasc",
+            "Qiyana",
+            "Rengar",
             "Senna",
-            "Seraphine"
+            "Shaco"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Kled",
-            "Mel",
-            "Mordekaiser",
-            "Rell",
-            "Riven",
-            "Sion"
+            "Akshan"
         ],
         [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Taric"
+            "Aurora",
+            "Neeko",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

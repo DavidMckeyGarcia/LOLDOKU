@@ -1,67 +1,118 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "arcade",
-        "global ult"
+        "Mid",
+        "evolves",
+        "prestige"
     ],
     "cols": [
-        "silence",
-        "Freljord",
-        "manaless"
+        "Zaun",
+        "stun",
+        "riot records"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
+        ],
+        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Kennen",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Viktor"
+        ],
+        [
+            "Bard",
+            "Viktor"
+        ],
+        [
+            "Kaisa",
+            "Kayle",
+            "Kayn"
+        ],
+        [
+            "Jinx",
+            "Renata glasc",
+            "Zeri"
         ],
         [
             "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
             "Volibear"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
+            "Ahri",
+            "Akali",
+            "Evelynn",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Qiyana",
+            "Senna",
             "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
-            "Zac"
-        ],
-        [
-            "Blitzcrank",
-            "Malzahar"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Belveth",
+            "Sona",
             "Yasuo"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Ashe",
-            "Ornn"
-        ],
-        [
-            "Briar",
-            "Kled",
-            "Shen"
         ]
     ]
 }

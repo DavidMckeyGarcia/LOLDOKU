@@ -1,67 +1,95 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "hextech",
-        "global ult"
+        "Jungle",
+        "Season 7+",
+        "shield"
     ],
     "cols": [
-        "Shurima",
+        "Demacia",
         "root",
-        "tether"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
             "Sylas",
-            "Zac"
+            "Xin Zhao"
         ],
         [
-            "Amumu",
-            "Rammus",
-            "Renekton"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Malzahar",
-            "Nocturne"
-        ],
-        [
-            "Taliyah",
-            "Xerath"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Kled",
-            "Nocturne"
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Naafiri",
+            "Olaf",
+            "Sivir",
+            "Vex",
+            "Viktor"
         ]
     ]
 }

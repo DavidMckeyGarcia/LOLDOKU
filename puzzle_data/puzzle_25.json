@@ -1,99 +1,68 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "global ult",
+        "Mid",
+        "ult execute",
         "OG40"
     ],
     "cols": [
-        "Piltover",
-        "fear",
-        "100% AP Ratio"
+        "root",
+        "Bilgewater",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Camille"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Briar",
-            "Ekko",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
             "Lux",
-            "Nocturne",
-            "Pantheon",
-            "Shen",
-            "Twisted fate",
-            "Xerath"
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Heimerdinger"
+            "Fizz",
+            "Twisted fate"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
-            "Jax",
-            "Master yi",
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Jinx"
+        ],
+        [
+            "Morgana",
             "Nunu",
-            "Rammus",
-            "Sivir",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Ryze",
             "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Twitch"
         ]
     ]
 }

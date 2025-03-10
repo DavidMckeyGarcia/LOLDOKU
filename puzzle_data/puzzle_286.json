@@ -1,45 +1,133 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "iron",
     "rows": [
-        "Mid",
-        "OG40",
-        "hextech"
+        "Jungle",
+        "shield",
+        "OG40"
     ],
     "cols": [
-        "The Void",
+        "Bandle City",
         "root",
-        "pentakill"
+        "never played"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
+            "Rumble",
+            "Teemo"
         ],
         [
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Amumu",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Dr. Mundo",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Kindred",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Reksai",
+            "Rell",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zyra"
+        ],
+        [
+            "Lulu",
+            "Rumble",
+            "Yuumi"
+        ],
+        [
+            "Aphelios",
             "Hwei",
+            "Ivern",
+            "Ksante",
             "Karma",
-            "LeBlanc",
-            "Lissandra",
+            "Lee sin",
             "Lux",
             "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
         ],
         [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Akshan",
+            "Aphelios",
+            "Blitzcrank",
+            "Braum",
+            "Garen",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kled",
+            "Malphite",
+            "Milio",
+            "Mordekaiser",
+            "Morgana",
+            "Naafiri",
+            "Nilah",
+            "Nunu",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Shen",
+            "Sivir",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Thresh",
+            "Udyr",
+            "Vi",
+            "Volibear",
+            "Yuumi"
         ],
         [
-            "Chogath",
-            "Kassadin"
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
             "Morgana",
@@ -50,22 +138,26 @@
             "Soraka"
         ],
         [
-            "Ryze",
-            "Tristana",
-            "Twitch"
-        ],
-        [
-            "Kassadin",
-            "Kogmaw",
-            "Malzahar"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Kogmaw",
-            "Tristana"
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ]
     ]
 }

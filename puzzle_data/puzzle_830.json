@@ -1,21 +1,16 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
         "Support",
-        "shield",
-        "Season 7+"
+        "Fright Night",
+        "true damage"
     ],
     "cols": [
-        "Shadow Isles",
         "root",
-        "vastayan"
+        "Freljord",
+        "100% AP Ratio"
     ],
     "solutions": [
-        [
-            "Maokai",
-            "Senna",
-            "Thresh"
-        ],
         [
             "Karma",
             "Leona",
@@ -33,58 +28,57 @@
             "Zyra"
         ],
         [
-            "Nami",
-            "Neeko",
-            "Rakan"
+            "Ashe",
+            "Brand",
+            "Braum"
         ],
         [
-            "Senna",
-            "Thresh",
-            "Vex"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
             "Karma",
-            "Lee sin",
             "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
+            "Milio",
             "Neeko",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Nautilus",
             "Nunu",
             "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Shaco"
         ],
         [
-            "Neeko",
-            "Rakan"
+            "Nunu",
+            "Trundle"
         ],
         [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
+            "Nunu",
+            "Veigar",
+            "Zeri"
         ],
         [
-            "Aphelios",
-            "Hwei",
+            "Ivern",
             "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Nunu",
+            "Renata glasc"
         ],
         [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Nunu",
+            "Olaf"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Corki",
+            "Fiora",
+            "Gangplank",
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

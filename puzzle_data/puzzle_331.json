@@ -1,71 +1,92 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "worlds skin",
-        "OG40"
+        "Adc",
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "fear",
         "Ionia",
-        "30+ wins"
+        "stun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Ivern",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Hwei",
             "Kayn",
-            "Lee sin",
             "Lillia",
-            "Master yi",
+            "Rakan",
             "Sett",
-            "Shen",
-            "Wukong"
+            "Xayah",
+            "Yone"
         ],
         [
-            "Taliyah"
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Aatrox"
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Kaisa",
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
         ],
         [
             "Akali",
-            "Irelia",
-            "Jhin",
-            "Kennen",
-            "Lee sin",
-            "Rakan",
-            "Shen",
-            "Syndra",
-            "Xayah",
-            "Zed"
+            "Wukong"
         ],
         [
-            "Azir",
-            "Corki",
-            "LeBlanc",
-            "Orianna",
-            "Ryze",
-            "Taliyah"
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Corki",
-            "Ryze"
+            "Kaisa",
+            "Neeko",
+            "Viego",
+            "Wukong"
         ]
     ]
 }

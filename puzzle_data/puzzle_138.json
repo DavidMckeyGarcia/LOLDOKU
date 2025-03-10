@@ -1,62 +1,78 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "global ult",
-        "OG40"
+        "Adc",
+        "elderwood",
+        "true damage"
     ],
     "cols": [
-        "silence",
-        "Freljord",
-        "arcane"
+        "Noxus",
+        "knock-up",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
             "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Ashe",
-            "Ornn"
-        ],
-        [
-            "Caitlyn",
-            "Ekko",
+            "Corki",
+            "Jhin",
             "Jinx",
-            "Mel"
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
         ],
         [
-            "Blitzcrank",
+            "LeBlanc"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Gnar",
+            "Hecarim",
+            "Veigar",
+            "Wukong"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Samira"
+        ],
+        [
+            "Belveth",
             "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Anivia",
-            "Ashe",
+            "Ivern",
+            "Ksante",
             "Nunu",
-            "Tryndamere"
+            "Samira",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
+            "Belveth",
+            "Chogath",
+            "Corki",
+            "Fiora",
+            "Gangplank",
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

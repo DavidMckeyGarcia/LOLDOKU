@@ -1,14 +1,14 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "OG40",
-        "evolves"
+        "evolves",
+        "worlds skin"
     ],
     "cols": [
         "Ionia",
-        "knock-up",
-        "ult reset"
+        "stun",
+        "riot records"
     ],
     "solutions": [
         [
@@ -23,61 +23,104 @@
             "Yone"
         ],
         [
-            "Aatrox",
-            "Chogath",
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
             "Gragas",
-            "Jarvan IV",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
             "Ksante",
-            "Kayn",
-            "Malphite",
+            "Kennen",
             "Ornn",
+            "Pantheon",
             "Poppy",
+            "Renekton",
             "Riven",
+            "Sett",
             "Sion",
+            "Skarner",
             "Sylas",
             "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
             "Yone",
             "Zac"
         ],
         [
-            "Aatrox",
-            "Darius",
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
             "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
+            "Sett",
+            "Yasuo",
+            "Yone",
+            "Yorick"
         ],
         [
-            "Master yi"
+            "Kayn"
+        ],
+        [
+            "Bard",
+            "Viktor"
+        ],
+        [
+            "Kaisa",
+            "Kayle",
+            "Kayn"
+        ],
+        [
+            "Akali",
+            "Irelia",
+            "Jhin",
+            "Kennen",
+            "Lee sin",
+            "Rakan",
+            "Shen",
+            "Syndra",
+            "Xayah",
+            "Zed"
         ],
         [
             "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
+            "Ashe",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Irelia",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Nami",
             "Nunu",
-            "Sion"
+            "Orianna",
+            "Renekton",
+            "Syndra",
+            "Taliyah",
+            "Thresh",
+            "Twisted fate",
+            "Vayne",
+            "Viego",
+            "Zac"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Belveth",
-            "Kayn"
-        ],
-        [
-            "Belveth",
-            "Viktor"
+            "Akali",
+            "Aphelios",
+            "Ekko",
+            "Ezreal",
+            "Kaisa",
+            "Karthus",
+            "Viego"
         ]
     ]
 }

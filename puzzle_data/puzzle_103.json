@@ -1,33 +1,42 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
         "Mid",
         "prestige",
-        "true damage"
+        "blink"
     ],
     "cols": [
+        "Freljord",
         "silence",
-        "Bandle City",
-        "tether"
+        "never played"
     ],
     "solutions": [
+        [
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
         [
             "Chogath",
             "Kassadin",
             "Malzahar"
         ],
         [
-            "Corki",
-            "Fizz",
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Elise",
             "Heimerdinger",
-            "Tristana",
-            "Veigar"
+            "Kennen",
+            "Naafiri"
         ],
         [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
+            "Brand",
+            "Kindred",
+            "Lissandra",
+            "Volibear"
         ],
         [
             "Garen",
@@ -35,28 +44,46 @@
             "Soraka"
         ],
         [
-            "Fizz",
-            "Lulu",
-            "Teemo",
-            "Yuumi"
-        ],
-        [
-            "Aatrox",
-            "LeBlanc",
+            "Brand",
+            "Evelynn",
+            "Fiora",
+            "Garen",
+            "Jinx",
+            "Kayn",
+            "Kindred",
+            "Leona",
+            "Malphite",
+            "Miss Fortune",
             "Morgana",
+            "Pyke",
+            "Rakan",
             "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Senna",
+            "Shaco",
+            "Sivir",
+            "Sona",
+            "Soraka",
+            "Teemo",
+            "Thresh",
+            "Vayne",
+            "Volibear",
+            "Xayah",
+            "Yuumi",
+            "Zeri",
+            "Zyra"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Lissandra"
         ],
         [
-            "Corki"
+            "Kassadin"
         ],
         [
-            "Renata glasc"
+            "Pyke",
+            "Reksai",
+            "Shen",
+            "Tahm kench",
+            "Viego"
         ]
     ]
 }

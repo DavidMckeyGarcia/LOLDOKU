@@ -1,128 +1,80 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
         "Mid",
         "before s7",
-        "dark star"
+        "invis"
     ],
     "cols": [
-        "Piltover",
-        "root",
-        "100+ games"
+        "Zaun",
+        "fear",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
+            "Ekko",
             "Orianna",
-            "Seraphine"
+            "Viktor",
+            "Ziggs"
         ],
         [
             "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Vex"
         ],
         [
-            "Azir",
-            "Elise",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
+            "Ahri",
+            "Naafiri",
             "Swain",
-            "Varus",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Ekko",
+            "Janna",
+            "Jinx",
+            "Orianna",
+            "Singed",
+            "Twitch",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Warwick",
             "Zac",
-            "Zyra"
+            "Ziggs"
         ],
         [
             "Aatrox",
-            "Alistar",
-            "Ashe",
-            "Azir",
-            "Braum",
-            "Caitlyn",
-            "Elise",
-            "Ezreal",
-            "Gnar",
-            "Gragas",
-            "Graves",
-            "Janna",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Jhin",
-            "Lee sin",
-            "Leona",
-            "Lucian",
-            "Lulu",
-            "Orianna",
-            "Renekton",
-            "Rumble",
-            "Ryze",
-            "Sejuani",
-            "Shen",
-            "Syndra",
-            "Thresh",
-            "Tristana",
-            "Varus"
-        ],
-        [
-            "Orianna"
-        ],
-        [
-            "Jhin",
-            "Karma",
-            "Lissandra",
-            "Lux",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
             "Shaco",
-            "Varus"
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Jarvan IV",
-            "Jhin",
-            "Orianna",
-            "Thresh",
-            "Varus"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
+        ],
+        [
+            "Twitch"
+        ],
+        [
+            "Shaco"
+        ],
+        [
+            "Vayne",
+            "Viego"
         ]
     ]
 }

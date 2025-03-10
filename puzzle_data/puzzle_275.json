@@ -1,79 +1,106 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "true damage",
-        "cosmic"
+        "Adc",
+        "Space Groove",
+        "OG40"
     ],
     "cols": [
-        "silence",
-        "Bandle City",
-        "100% AP Ratio"
+        "slow",
+        "Targon",
+        "0 games"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Rumble",
-            "Teemo"
+            "Aphelios"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
+            "Mel",
+            "Samira"
+        ],
+        [
+            "Gragas",
+            "Lissandra",
+            "Lulu",
+            "Lux",
+            "Nami",
+            "Nasus",
             "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
+            "Rumble",
+            "Samira",
+            "Teemo",
+            "Twisted fate"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Taric"
         ],
         [
-            "Corki"
+            "Samira"
         ],
         [
-            "Belveth",
+            "Anivia",
+            "Ashe",
             "Chogath",
             "Corki",
-            "Fiora",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
             "Gangplank",
-            "Master yi",
-            "Nunu"
-        ],
-        [
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
             "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Belveth",
-            "Hecarim",
-            "Jhin",
-            "Lux",
-            "Master yi",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
             "Nunu",
-            "Skarner",
-            "Varus",
-            "Vladimir",
-            "Xin Zhao"
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Master yi"
         ]
     ]
 }

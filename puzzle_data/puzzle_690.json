@@ -1,60 +1,94 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "ult execute",
-        "dark star"
+        "Season 7+",
+        "global ult"
     ],
     "cols": [
-        "fear",
-        "Noxus",
-        "shred"
+        "Shurima",
+        "root",
+        "riot records"
     ],
     "solutions": [
         [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
             "Hwei",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Elise",
-            "Katarina",
+            "Karma",
             "LeBlanc",
+            "Lissandra",
+            "Lux",
             "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Corki",
-            "Jayce",
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
             "Karthus",
-            "Zoe"
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Darius",
-            "Urgot"
+            "Akshan",
+            "Ksante",
+            "Naafiri"
         ],
         [
-            "Darius",
-            "Draven",
-            "Riven"
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Evelynn",
-            "Garen"
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
         ],
         [
-            "Shaco"
+            "Taliyah",
+            "Xerath"
         ],
         [
-            "Mordekaiser"
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Jarvan IV",
-            "Mordekaiser"
+            "Ekko",
+            "Ezreal",
+            "Kaisa",
+            "Karthus",
+            "Senna"
         ]
     ]
 }

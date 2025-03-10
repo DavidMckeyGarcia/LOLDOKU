@@ -1,144 +1,101 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "arcade",
-        "global ult"
+        "Adc",
+        "Season 7+",
+        "shield"
     ],
     "cols": [
-        "slow",
+        "stun",
         "Zaun",
-        "ult reset"
+        "darkin"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Brand",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Ambessa",
             "Briar",
             "Camille",
-            "Diana",
-            "Dr. Mundo",
-            "Ekko",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gragas",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Karthus",
-            "Kayn",
-            "Khazix",
-            "Kindred",
-            "Lee sin",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nasus",
-            "Nautilus",
-            "Nocturne",
-            "Nunu",
-            "Olaf",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sejuani",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
             "Sett",
-            "Shaco",
-            "Shen",
-            "Skarner",
             "Sylas",
-            "Taliyah",
-            "Talon",
-            "Teemo",
-            "Trundle",
-            "Udyr",
             "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Yone"
         ],
         [
-            "Dr. Mundo",
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
             "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Brand",
-            "Caitlyn",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Miss Fortune",
-            "Qiyana",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
             "Sona",
-            "Ziggs"
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
             "Blitzcrank",
-            "Ziggs"
-        ],
-        [
-            "Ahri",
-            "Belveth"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Caitlyn",
-            "Draven",
             "Ekko",
-            "Galio",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Karthus",
-            "Kled",
-            "Lillia",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Nocturne",
-            "Ornn",
-            "Pantheon",
-            "Ryze",
-            "Senna",
-            "Shen",
-            "Sion",
-            "Soraka",
-            "Taliyah",
-            "Twisted fate",
-            "Vex",
-            "Xerath",
-            "Ziggs"
+            "Janna",
+            "Orianna",
+            "Renata glasc",
+            "Urgot",
+            "Vi",
+            "Viktor"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
-        ],
-        [
-            "Vex"
+            "Naafiri"
         ]
     ]
 }

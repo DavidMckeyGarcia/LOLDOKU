@@ -1,102 +1,39 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
         "Adc",
-        "before s7",
-        "true damage"
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
+        "Bilgewater",
         "knock-up",
-        "Ionia",
-        "riot records"
+        "100+ games"
     ],
     "solutions": [
+        [
+            "Miss Fortune",
+            "Nilah"
+        ],
         [
             "Kalista",
             "Samira",
             "Ziggs"
         ],
         [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
             "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
             "Varus",
             "Xayah"
         ],
         [
-            "Aphelios",
-            "Ezreal",
-            "Kaisa",
-            "Senna"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Tahm kench",
-            "Taliyah",
-            "Trundle",
-            "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Irelia",
-            "Ivern",
-            "Jhin",
-            "Karma",
-            "Kennen",
-            "Lee sin",
-            "Master yi",
-            "Shen",
-            "Syndra",
-            "Varus",
-            "Wukong",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Evelynn",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Mordekaiser",
-            "Olaf",
-            "Sona",
-            "Yasuo",
-            "Yorick"
+            "Gangplank",
+            "Pyke"
         ],
         [
             "Belveth",
@@ -109,22 +46,29 @@
             "Yone"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ivern",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Syndra",
+            "Syndra"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
             "Yone"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ksante",
-            "Olaf",
-            "Sett",
-            "Yone"
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

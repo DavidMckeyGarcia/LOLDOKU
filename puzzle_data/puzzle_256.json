@@ -1,96 +1,79 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "Season 7+",
-        "Space Groove"
+        "Mid",
+        "OG40",
+        "invis"
     ],
     "cols": [
-        "Shurima",
-        "knock-up",
-        "100% AP Ratio"
+        "root",
+        "Bandle City",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
+            "Hwei",
             "Karma",
+            "LeBlanc",
+            "Lissandra",
             "Lux",
-            "Milio",
+            "Mel",
             "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Ryze",
+            "Tristana",
+            "Twitch"
+        ],
+        [
+            "LeBlanc",
             "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
         ],
         [
-            "Aphelios",
-            "Belveth",
-            "Briar",
+            "Teemo"
+        ],
+        [
+            "Akali",
             "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
-        ],
-        [
-            "Nasus"
-        ],
-        [
-            "Blitzcrank",
-            "Gragas",
-            "Lulu",
-            "Nami",
-            "Nunu",
-            "Samira"
-        ],
-        [
-            "Blitzcrank",
-            "Lux",
-            "Nunu",
-            "Twisted fate"
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

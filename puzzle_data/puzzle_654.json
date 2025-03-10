@@ -1,61 +1,64 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "blink",
-        "OG40"
+        "Adc",
+        "ult execute",
+        "PROJECT"
     ],
     "cols": [
-        "silence",
-        "Zaun",
-        "ascended"
+        "knock-up",
+        "Noxus",
+        "riot records"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Ekko",
-            "Orianna",
-            "Viktor",
+            "Kalista",
+            "Samira",
             "Ziggs"
         ],
         [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Kassadin"
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
         ],
         [
-            "Ekko"
-        ],
-        [
-            "Pantheon"
-        ],
-        [
-            "Blitzcrank",
             "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Reksai",
+            "Riven"
         ],
         [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Darius",
+            "Draven",
+            "Riven"
         ],
         [
-            "Nasus",
-            "Taric"
+            "Akali",
+            "Evelynn",
+            "Viego"
+        ],
+        [
+            "Sejuani",
+            "Sylas",
+            "Vi",
+            "Yasuo"
+        ],
+        [
+            "Katarina",
+            "Mordekaiser"
+        ],
+        [
+            "Akali",
+            "Ekko",
+            "Mordekaiser",
+            "Senna",
+            "Yasuo"
         ]
     ]
 }

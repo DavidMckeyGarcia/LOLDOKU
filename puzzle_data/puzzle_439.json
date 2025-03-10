@@ -1,70 +1,81 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
         "Support",
-        "true damage",
-        "OG40"
+        "Season 7+",
+        "ult execute"
     ],
     "cols": [
+        "root",
         "Ionia",
-        "silence",
-        "100+ games"
+        "0 games"
     ],
     "solutions": [
+        [
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
         [
             "Karma",
             "Rakan"
         ],
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Mel",
+            "Milio"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Braum",
-            "Janna",
-            "Leona",
-            "Lulu",
-            "Maokai",
-            "Rakan",
-            "Thresh"
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ivern",
+            "Hwei",
+            "Kayn",
             "Lillia",
-            "Master yi",
+            "Rakan",
             "Sett",
-            "Syndra",
+            "Xayah",
             "Yone"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ],
         [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Akali",
+            "Jhin",
             "Syndra"
         ],
         [
-            "Master yi"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
+            "Akshan"
         ]
     ]
 }

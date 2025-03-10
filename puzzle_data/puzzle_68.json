@@ -1,104 +1,117 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "before s7",
-        "invis"
+        "Jungle",
+        "life steal",
+        "arcade"
     ],
     "cols": [
-        "Shurima",
+        "Zaun",
         "root",
-        "shred"
+        "never played"
     ],
     "solutions": [
         [
-            "Sivir"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Corki",
-            "Kogmaw"
-        ],
-        [
-            "Aatrox",
-            "Amumu",
-            "Azir",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Renekton",
-            "Sivir",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Caitlyn",
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
             "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
+            "Maokai",
             "Morgana",
             "Nautilus",
             "Nunu",
+            "Qiyana",
             "Rengar",
-            "Ryze",
             "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Corki",
+            "Amumu",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Dr. Mundo",
+            "Elise",
             "Evelynn",
-            "Garen",
+            "Fiddlesticks",
+            "Graves",
+            "Hecarim",
+            "Ivern",
             "Jarvan IV",
-            "Jayce",
-            "Karthus",
-            "Kogmaw",
+            "Kayn",
+            "Kindred",
+            "Lillia",
+            "Maokai",
             "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Reksai",
+            "Rell",
             "Rengar",
-            "Rumble",
-            "Sion",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Teemo",
             "Trundle",
+            "Udyr",
             "Vi",
-            "Wukong"
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zyra"
         ],
         [
-            "Akshan"
+            "Warwick"
         ],
         [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Kayn",
+            "Morgana",
+            "Nilah",
+            "Samira",
             "Senna",
-            "Shaco"
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
-            "Rengar",
-            "Wukong"
+            "Blitzcrank",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Miss Fortune",
+            "Sona"
         ]
     ]
 }

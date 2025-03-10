@@ -1,115 +1,84 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "elderwood"
+        "Support",
+        "life steal",
+        "arcade"
     ],
     "cols": [
-        "knock-up",
-        "Freljord",
+        "root",
+        "Zaun",
         "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
             "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
         ],
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
+            "Milio",
             "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Aurora",
-            "Ornn"
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Warwick"
         ],
         [
             "Aphelios",
             "Belveth",
             "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
             "Viego",
-            "Zeri"
+            "Vladimir",
+            "Warwick"
         ],
         [
-            "Azir",
-            "Rakan",
-            "Reksai",
-            "Wukong"
+            "Caitlyn",
+            "Qiyana"
         ],
         [
-            "Gnar"
+            "Blitzcrank",
+            "Ziggs"
         ],
         [
-            "Gnar",
+            "Belveth",
+            "Blitzcrank",
+            "Corki",
             "Hecarim",
-            "Veigar",
-            "Wukong"
+            "Kaisa",
+            "Veigar"
         ]
     ]
 }

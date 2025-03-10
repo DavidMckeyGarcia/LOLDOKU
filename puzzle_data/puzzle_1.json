@@ -1,73 +1,75 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "shield",
-        "elderwood"
+        "hextech",
+        "shield"
     ],
     "cols": [
-        "Shadow Isles",
-        "fear",
-        "riot records"
+        "The Void",
+        "silence",
+        "manaless"
     ],
     "solutions": [
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Chogath"
+        ],
+        [
+            "Chogath",
+            "Garen"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
             "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
             "Mordekaiser",
-            "Olaf",
+            "Renekton",
+            "Rumble",
             "Sett",
+            "Shen",
+            "Tryndamere",
             "Yasuo",
             "Yone",
-            "Yorick"
+            "Zac"
         ],
         [
-            "Senna",
-            "Thresh",
-            "Vex"
+            "Kassadin",
+            "Kogmaw",
+            "Malzahar"
         ],
         [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Aphelios",
-            "Ekko",
-            "Ksante",
+            "Renekton"
+        ],
+        [
             "Kaisa",
+            "Kassadin"
+        ],
+        [
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Ambessa",
+            "Garen",
+            "Kled",
+            "Lee sin",
             "Mordekaiser",
-            "Olaf",
-            "Senna",
+            "Rumble",
             "Sett",
-            "Sona",
+            "Shen",
             "Yasuo",
             "Yone"
-        ],
-        [
-            "Hecarim",
-            "Karthus"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Ahri",
-            "Karthus"
         ]
     ]
 }

@@ -1,58 +1,84 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "shield",
-        "prestige"
+        "invis",
+        "OG40"
     ],
     "cols": [
-        "silence",
-        "Shadow Isles",
-        "vastayan"
+        "knock-up",
+        "Demacia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
+        ],
+        [
+            "Belveth",
+            "Master yi",
+            "Olaf",
             "Viego"
         ],
         [
-            "Rengar",
+            "Neeko",
+            "Reksai",
             "Wukong"
         ],
         [
+            "Vayne"
+        ],
+        [
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Alistar",
+            "Anivia",
             "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Senna",
-            "Thresh",
-            "Vex"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Neeko",
-            "Rakan"
-        ],
-        [
-            "Garen",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Senna",
-            "Thresh"
-        ],
-        [
-            "Ahri",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

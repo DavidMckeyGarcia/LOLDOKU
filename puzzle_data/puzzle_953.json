@@ -1,134 +1,80 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "before s7",
-        "prestige"
+        "Support",
+        "true damage",
+        "OG40"
     ],
     "cols": [
         "knock-up",
-        "Piltover",
-        "ascended"
+        "Shurima",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Camille",
-            "Heimerdinger",
-            "Jayce"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Aatrox",
             "Alistar",
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
             "Blitzcrank",
             "Braum",
-            "Chogath",
-            "Diana",
-            "Fizz",
             "Galio",
-            "Gragas",
-            "Ivern",
             "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
             "Lulu",
-            "Malphite",
             "Nami",
             "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Tahm kench",
-            "Taliyah",
-            "Trundle",
-            "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Leona",
-            "Nasus",
-            "Pantheon",
-            "Renekton",
-            "Taric",
-            "Varus",
-            "Xerath"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
             "Neeko",
+            "Poppy",
             "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
             "Zyra"
         ],
         [
-            "Caitlyn",
-            "Camille",
-            "Ezreal"
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Aatrox",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Pantheon"
+            "Galio"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Ahri",
+            "Corki"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
+        ],
+        [
+            "Corki",
+            "Ryze"
         ]
     ]
 }

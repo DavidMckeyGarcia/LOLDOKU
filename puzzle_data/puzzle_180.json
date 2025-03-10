@@ -1,86 +1,67 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "blink",
-        "Season 7+"
+        "Adc",
+        "life steal",
+        "pool party"
     ],
     "cols": [
-        "root",
+        "stun",
         "Freljord",
-        "manaless"
+        "ascended"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
+            "Ashe",
             "Seraphine",
-            "Swain"
+            "Vayne"
         ],
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Ashe"
         ],
         [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Kennen",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Lissandra"
+            "Varus"
         ],
         [
             "Ambessa",
-            "Katarina",
-            "Reksai",
-            "Shen",
-            "Viego",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Ambessa",
-            "Belveth",
             "Briar",
-            "Sett",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
             "Viego",
-            "Yone"
+            "Warwick"
+        ],
+        [
+            "Olaf",
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus"
+        ],
+        [
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Braum"
+        ],
+        [
+            "Leona",
+            "Renekton",
+            "Taric"
         ]
     ]
 }

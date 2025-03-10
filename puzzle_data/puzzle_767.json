@@ -1,116 +1,85 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "before s7",
-        "shield"
+        "Top",
+        "worlds skin",
+        "true damage"
     ],
     "cols": [
         "root",
-        "Freljord",
-        "vastayan"
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
+            "Ksante",
             "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
+            "Singed",
             "Swain",
-            "Zyra"
+            "Zac"
         ],
         [
-            "Ashe",
-            "Brand",
-            "Braum"
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Nami",
-            "Neeko",
-            "Rakan"
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
+            "Aphelios",
             "Caitlyn",
-            "Ivern",
             "Jhin",
             "Jinx",
-            "Karma",
             "LeBlanc",
             "Lee sin",
             "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Nautilus",
+            "Maokai",
             "Nunu",
             "Rengar",
             "Ryze",
-            "Shaco",
             "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
+            "Xayah",
             "Zac",
             "Zyra"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Brand",
-            "Braum",
+            "Dr. Mundo",
+            "Ekko",
+            "Janna",
+            "Jinx",
+            "Orianna",
+            "Singed",
+            "Twitch",
+            "Zac"
+        ],
+        [
+            "Corki",
             "Gnar",
-            "Gragas",
-            "Kindred",
-            "Lissandra",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Kennen"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
             "Ivern",
             "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
             "Nunu",
+            "Renata glasc"
+        ],
+        [
             "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Twitch",
+            "Urgot"
         ],
         [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Neeko",
-            "Rakan"
+            "Amumu",
+            "Corki"
         ]
     ]
 }

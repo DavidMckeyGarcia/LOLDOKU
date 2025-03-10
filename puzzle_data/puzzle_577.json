@@ -1,16 +1,22 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
         "Adc",
-        "shield",
-        "worlds skin"
+        "dark star",
+        "invis"
     ],
     "cols": [
+        "Zaun",
         "root",
-        "Targon",
-        "100+ games"
+        "riot records"
     ],
     "solutions": [
+        [
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
         [
             "Aphelios",
             "Caitlyn",
@@ -23,105 +29,42 @@
             "Xayah"
         ],
         [
-            "Aphelios"
-        ],
-        [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
-        ],
-        [
             "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Orianna"
+        ],
+        [
+            "Jhin",
             "Karma",
-            "Lee sin",
+            "Lissandra",
             "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Shaco",
+            "Varus"
         ],
         [
-            "Aphelios",
-            "Diana",
-            "Taric"
+            "Mordekaiser"
         ],
         [
-            "Azir",
-            "Braum",
-            "Janna",
-            "Jarvan IV",
-            "Kaisa",
-            "Lee sin",
-            "Lulu",
-            "Orianna",
-            "Rakan",
-            "Rumble",
-            "Shen",
-            "Thresh"
+            "Twitch"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
             "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
+            "Neeko",
+            "Qiyana",
             "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
+            "Senna",
+            "Shaco"
         ],
         [
-            "Aphelios",
-            "Leona",
-            "Zoe"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Ashe",
-            "Azir",
-            "Caitlyn",
-            "Elise",
-            "Ezreal",
-            "Gnar",
-            "Gragas",
-            "Graves",
-            "Janna",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Jhin",
+            "Akali",
             "Kaisa",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Orianna",
-            "Rakan",
-            "Renekton",
-            "Ryze",
-            "Shen",
-            "Syndra",
-            "Thresh",
-            "Xayah"
+            "Qiyana",
+            "Senna",
+            "Viego"
         ]
     ]
 }

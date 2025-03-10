@@ -1,104 +1,107 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "invis",
+        "Support",
+        "global ult",
         "Season 7+"
     ],
     "cols": [
+        "Zaun",
         "slow",
-        "Bilgewater",
-        "100+ games"
+        "yordle"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Anivia",
-            "Aurelion Sol",
-            "Aurora",
-            "Azir",
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
+        ],
+        [
+            "Ashe",
+            "Bard",
             "Brand",
-            "Cassiopeia",
-            "Chogath",
-            "Corki",
-            "Diana",
-            "Ekko",
-            "Elise",
-            "Fizz",
+            "Braum",
             "Galio",
-            "Gragas",
             "Heimerdinger",
-            "Hwei",
-            "Irelia",
-            "Jayce",
+            "Janna",
             "Karma",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Lissandra",
+            "Leona",
+            "Lulu",
             "Lux",
+            "Maokai",
             "Mel",
-            "Naafiri",
-            "Orianna",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Pantheon",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Talon",
-            "Tristana",
-            "Twisted fate",
-            "Velkoz",
-            "Vex",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zed",
-            "Ziggs",
-            "Zilean",
-            "Zoe"
-        ],
-        [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Azir",
-            "Elise",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
-        ],
-        [
-            "Akali",
-            "Aurora",
-            "Kaisa",
-            "Khazix",
+            "Poppy",
             "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
+            "Rakan",
+            "Renata glasc",
             "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
+            "Seraphine",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
+            "Zyra"
         ],
         [
-            "Pyke"
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
         ],
         [
-            "Kaisa"
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Nocturne",
+            "Ornn",
+            "Pantheon",
+            "Ryze",
+            "Senna",
+            "Shen",
+            "Sion",
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
         ],
         [
             "Aphelios",
@@ -133,13 +136,7 @@
             "Zoe"
         ],
         [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Vex"
         ]
     ]
 }

@@ -1,16 +1,28 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "iron",
     "rows": [
         "Mid",
-        "global ult",
-        "Season 7+"
+        "before s7",
+        "coven"
     ],
     "cols": [
+        "Noxus",
         "knock-up",
-        "Freljord",
-        "ascended"
+        "100+ games"
     ],
     "solutions": [
+        [
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Elise",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
         [
             "Anivia",
             "Aurelion Sol",
@@ -21,6 +33,7 @@
             "Galio",
             "Gragas",
             "Neeko",
+            "Orianna",
             "Sylas",
             "Taliyah",
             "Velkoz",
@@ -29,56 +42,120 @@
             "Ziggs"
         ],
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
             "Azir",
-            "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
+            "Elise",
+            "Ezreal",
+            "Gragas",
+            "Jayce",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
         ],
         [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
+            "Alistar",
+            "Annie",
+            "Cassiopeia",
+            "Darius",
+            "Draven",
+            "Elise",
+            "Katarina",
+            "Kled",
+            "LeBlanc",
+            "Mordekaiser",
+            "Riven",
             "Sion",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
             "Taliyah",
-            "Ziggs"
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Ashe",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Janna",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Jhin",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Lulu",
+            "Orianna",
+            "Renekton",
+            "Rumble",
+            "Ryze",
+            "Sejuani",
+            "Shen",
+            "Syndra",
+            "Thresh",
+            "Tristana",
+            "Varus"
+        ],
+        [
+            "Cassiopeia",
+            "Elise",
+            "LeBlanc"
+        ],
+        [
+            "Nami",
+            "Zyra"
         ],
         [
             "Ashe",
-            "Ornn"
-        ],
-        [
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Kayn",
-            "Naafiri"
+            "Elise",
+            "Syndra"
         ]
     ]
 }

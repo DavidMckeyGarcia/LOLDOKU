@@ -309,7 +309,7 @@
         "misc": ["arcane",  "riot records", "Immunity", "100% AP Ratio"]
     },
     "Elise": {
-        "role": ["Jungle", "Mid"],
+        "role": ["Jungle"],
         "release date": ["before s7"],
         "region": ["Noxus"],
         "crowd control": ["slow", "stun", "blink"],
@@ -1331,8 +1331,8 @@
         "role": ["Mid"],
         "release date": ["before s7"],
         "region": ["Ionia"],
-        "crowd control": ["slow", "stun", "evolves"],
-        "kit": ["true damage", "ult execute"],
+        "crowd control": ["slow", "stun"],
+        "kit": ["true damage", "ult execute", "evolves"],
         "skinlines": ["pool party", "worlds skin", "coven"],
         "esports": ["100+ games"],
         "misc": []

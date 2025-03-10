@@ -311,8 +311,6 @@ print(diffs.count('challenger')/10)
 
 
 
-
-
 '''
 #GENERATES A RANDOM SOLVABLE PUZZLE
 puzzle = create_puzzle()

@@ -50,10 +50,6 @@
     max-height: 90%;
   }
 
-  .grid-header-logo img{
-    object-fit: contain;
-  }
-
   .column-image,
   .row-image {
     max-width: 60%;
@@ -337,7 +333,7 @@
     height: 60px;
   }
   .countdown {
-    font-size: 25px;
+    font-size: 18px;
     font-weight: bold;
     text-align: center;
     margin: 10px 0;

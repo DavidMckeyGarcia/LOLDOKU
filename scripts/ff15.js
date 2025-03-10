@@ -26,6 +26,7 @@ function setupFF15Button() {
         livesRemaining = 0;
         updateLivesDisplay();
         saveGameState();
+        checkGameStatus();
         
         // Reveal the second grid
         setTimeout(() => {

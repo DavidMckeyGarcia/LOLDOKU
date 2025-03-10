@@ -50,6 +50,11 @@
     max-height: 90%;
   }
 
+  .grid-header-logo{
+    max-width: 90%;
+    max-height: 90%;
+  }
+
   .column-image,
   .row-image {
     max-width: 60%;

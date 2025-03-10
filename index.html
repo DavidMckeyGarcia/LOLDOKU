@@ -58,8 +58,10 @@
       <!-- Game Grid -->
       <div class="grid">
         <!-- Column Headers -->
-        <div class="grid-header-logo"></div> <!-- Empty cell for the top-left corner -->
-        <div class="grid-header" data-type="col" ></div> <!-- Column 1 Header -->
+        <div class="grid-header-logo"> <!-- LOGO cell for the top-left corner -->
+        <img src="images/logo.png" alt="logo">
+        </div>
+        <div class="grid-header" data-type="col"></div> <!-- Column 1 Header -->
         <div class="grid-header" data-type="col"></div> <!-- Column 2 Header -->
         <div class="grid-header" data-type="col"></div> <!-- Column 3 Header -->
         <div class="grid-header"></div> <!-- Empty cell at the top-right corner -->
@@ -179,7 +181,7 @@
     <h3>Game Over</h3>
     <p>You have run out of lives!</p>
     <img src="images/defeat.png" alt="loss gif" style="width:300px;height:220px;">
-    <p>Time untill next puzzle:</p>
+    <p>Time until next puzzle:</p>
     <div id="countdown-timer" class="countdown">00:00:00</div>
     <div class="ffmodal-buttons">
       <button id="continue-btn">KEEP GUESSING</button>

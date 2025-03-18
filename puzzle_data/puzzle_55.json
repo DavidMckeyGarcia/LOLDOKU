@@ -1,87 +1,116 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
         "Adc",
-        "global ult",
-        "prestige"
+        "life steal",
+        "worlds skin"
     ],
     "cols": [
+        "Shadow Isles",
         "stun",
-        "Zaun",
-        "tether"
+        "100+ games"
     ],
     "solutions": [
+        [
+            "Kalista",
+            "Senna"
+        ],
         [
             "Ashe",
             "Seraphine",
             "Vayne"
         ],
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Kalista"
-        ],
-        [
             "Ashe",
-            "Aurelion Sol",
-            "Bard",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Viego"
+        ],
+        [
+            "Ambessa",
             "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
-        ],
-        [
-            "Kled",
-            "Nocturne"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
             "Ksante",
-            "Leona",
-            "Lissandra",
             "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
-        ],
-        [
-            "Jinx",
-            "Renata glasc",
-            "Zeri"
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
             "Aatrox",
-            "LeBlanc",
-            "Morgana",
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Lee sin"
+        ],
+        [
+            "Kalista",
+            "Karthus",
+            "Maokai",
+            "Thresh",
+            "Viego"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Irelia",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Nami",
+            "Nunu",
+            "Orianna",
+            "Renekton",
+            "Syndra",
+            "Taliyah",
+            "Thresh",
+            "Twisted fate",
+            "Vayne",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Ashe",
+            "Azir",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Janna",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Jhin",
+            "Kaisa",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Orianna",
+            "Rakan",
+            "Renekton",
+            "Ryze",
+            "Shen",
+            "Syndra",
+            "Thresh",
+            "Xayah"
         ]
     ]
 }

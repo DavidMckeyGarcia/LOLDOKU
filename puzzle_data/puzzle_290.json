@@ -1,70 +1,160 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "prestige",
-        "OG40"
+        "Support",
+        "global ult",
+        "prestige"
     ],
     "cols": [
-        "silence",
-        "Piltover",
-        "pentakill"
+        "slow",
+        "Zaun",
+        "celestial"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Ezreal",
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
             "Heimerdinger",
-            "Jayce",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Garen",
+            "Janna",
+            "Karma",
+            "Leona",
             "Lulu",
-            "Soraka"
-        ],
-        [
-            "Caitlyn",
-            "Camille",
-            "Ezreal"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Ezreal",
-            "Fiora",
-            "Jinx",
-            "Kaisa",
-            "Lucian",
-            "Vayne",
-            "Xayah"
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
+            "Zyra"
         ],
         [
             "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
+            "Janna",
+            "Renata glasc"
+        ],
+        [
+            "Bard",
             "Soraka"
         ],
         [
-            "Heimerdinger"
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Nocturne",
+            "Ornn",
+            "Pantheon",
+            "Ryze",
+            "Senna",
+            "Shen",
+            "Sion",
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
         ],
         [
-            "Ryze",
-            "Tristana",
-            "Twitch"
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Aurelion Sol",
+            "Bard",
+            "Soraka"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Akali",
+            "Brand",
+            "Caitlyn",
+            "Camille",
+            "Cassiopeia",
+            "Darius",
+            "Diana",
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Garen",
+            "Jinx",
+            "Ksante",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Kindred",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lulu",
+            "Lux",
+            "Malphite",
+            "Miss Fortune",
+            "Morgana",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Sett",
+            "Shaco",
+            "Sivir",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Sylas",
+            "Teemo",
+            "Thresh",
+            "Volibear",
+            "Yuumi",
+            "Zed",
+            "Zeri",
+            "Zoe",
+            "Zyra"
+        ],
+        [
+            "Jinx",
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Soraka"
         ]
     ]
 }

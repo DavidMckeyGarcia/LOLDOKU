@@ -1,89 +1,65 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "true damage",
+        "Support",
+        "ult execute",
         "OG40"
     ],
     "cols": [
-        "Demacia",
-        "knock-up",
-        "shred"
+        "silence",
+        "Noxus",
+        "yordle"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Orianna",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Jayce",
-            "Karthus",
-            "Zoe"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Vayne"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
-        ],
-        [
-            "Kayle",
-            "Morgana"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
             "Alistar",
-            "Anivia",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Veigar"
+        ],
+        [
             "Blitzcrank",
             "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
             "Sion"
         ],
         [
+            "Amumu",
             "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

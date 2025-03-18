@@ -1,109 +1,70 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "true damage",
-        "OG40"
+        "Support",
+        "invis",
+        "Space Groove"
     ],
     "cols": [
-        "Freljord",
-        "stun",
-        "100% AP Ratio"
+        "Bilgewater",
+        "root",
+        "tether"
     ],
     "solutions": [
         [
-            "Ashe"
-        ],
-        [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
+            "Nami",
+            "Nautilus",
             "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
+            "Tahm kench"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Nami",
+            "Twisted fate"
+        ],
+        [
+            "Lissandra",
+            "Lux",
             "Nunu"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
-            "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Taric"
         ]
     ]
 }

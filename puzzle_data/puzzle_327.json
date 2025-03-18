@@ -1,85 +1,78 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "global ult",
-        "OG40"
+        "Top",
+        "ult execute",
+        "prestige"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "ult reset"
+        "Zaun",
+        "fear",
+        "riot records"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
+            "Yasuo",
+            "Yone",
+            "Yorick"
+        ],
+        [
+            "Jinx",
+            "Urgot"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Akali",
+            "Evelynn",
+            "Viego"
+        ],
+        [
+            "Jinx",
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Shaco"
         ],
         [
             "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
+            "Akali",
+            "Evelynn",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Qiyana",
             "Senna",
-            "Soraka"
-        ],
-        [
-            "Briar",
-            "Draven",
-            "Kled",
-            "Mel",
-            "Sion"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Sett",
+            "Sona",
+            "Yasuo"
         ]
     ]
 }

@@ -1,82 +1,102 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "Space Groove",
-        "Season 7+"
+        "Support",
+        "OG40",
+        "arcade"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "100% AP Ratio"
+        "stun",
+        "Ionia",
+        "yordle"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Lucian",
-            "Vayne"
-        ],
-        [
-            "Aphelios",
+            "Alistar",
+            "Annie",
             "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Karma",
+            "Rakan"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Amumu",
             "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
+            "Heimerdinger",
+            "Teemo",
             "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Lissandra",
-            "Lux",
-            "Nunu"
-        ],
-        [
-            "Lux"
+            "Veigar"
         ],
         [
             "Blitzcrank",
-            "Lux",
-            "Nunu",
-            "Twisted fate"
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Ahri",
+            "Yasuo"
         ],
         [
-            "Sylas"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Corki",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

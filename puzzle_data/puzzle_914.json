@@ -1,101 +1,83 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "pool party",
-        "shield"
+        "Top",
+        "OG40",
+        "true damage"
     ],
     "cols": [
-        "Bilgewater",
-        "root",
-        "manaless"
+        "silence",
+        "Shadow Isles",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Ivern",
-            "Lee sin",
+            "Gwen",
             "Maokai",
-            "Morgana",
-            "Nautilus",
+            "Yorick"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
             "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Gwen"
         ],
         [
             "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
-            "Zac"
-        ],
-        [
+            "Chogath",
+            "Corki",
+            "Fiora",
             "Gangplank",
-            "Graves",
-            "Miss Fortune"
-        ],
-        [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
-        ],
-        [
-            "Dr. Mundo",
-            "Lee sin",
-            "Reksai",
-            "Renekton",
-            "Sett",
-            "Zac"
-        ],
-        [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
-        ],
-        [
-            "Ambessa",
-            "Garen",
-            "Kled",
-            "Lee sin",
-            "Mordekaiser",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Yasuo",
-            "Yone"
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

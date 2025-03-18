@@ -1,21 +1,16 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "OG40",
-        "dash"
+        "global ult",
+        "Season 7+"
     ],
     "cols": [
-        "Bilgewater",
         "root",
-        "100+ games"
+        "Demacia",
+        "pentakill"
     ],
     "solutions": [
-        [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
-        ],
         [
             "Ksante",
             "Maokai",
@@ -24,83 +19,59 @@
             "Zac"
         ],
         [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
+            "Fiora",
+            "Garen",
             "Jarvan IV",
-            "Jax",
-            "Jayce",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
             "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Morgana",
-            "Nunu",
+            "Mel",
             "Ryze",
-            "Shaco",
-            "Singed",
+            "Senna",
             "Soraka"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
+            "Galio",
+            "Lux"
         ],
         [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Azir",
-            "Braum",
-            "Caitlyn",
-            "Elise",
             "Ezreal",
-            "Gnar",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
+            "Jinx",
             "Kaisa",
-            "Lee sin",
-            "Leona",
-            "Lucian",
-            "Maokai",
-            "Rakan",
-            "Renekton",
-            "Sejuani",
-            "Shen",
-            "Thresh",
-            "Tristana"
+            "Ryze"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
         ]
     ]
 }

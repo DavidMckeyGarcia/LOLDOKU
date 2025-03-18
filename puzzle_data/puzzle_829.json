@@ -1,73 +1,85 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
-        "OG40",
-        "dark star"
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "silence",
-        "Ionia",
-        "100+ games"
+        "root",
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
             "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
             "Lee sin",
             "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
             "Soraka"
         ],
         [
-            "Master yi"
+            "Ekko",
+            "Jinx",
+            "Ziggs"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
+            "Kled",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Morgana",
+            "Nunu",
             "Ryze",
-            "Tristana"
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Chogath"
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
         ],
         [
-            "Jhin",
-            "Karma",
-            "Varus"
-        ],
-        [
-            "Jarvan IV",
-            "Jhin",
-            "Orianna",
-            "Thresh",
-            "Varus"
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

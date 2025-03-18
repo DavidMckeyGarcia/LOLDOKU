@@ -1,103 +1,139 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "invis",
-        "Season 7+"
+        "Jungle",
+        "before s7",
+        "prestige"
     ],
     "cols": [
-        "stun",
-        "Ixtal",
-        "riot records"
+        "fear",
+        "Bilgewater",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Graves",
+            "Nautilus"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
             "Nami",
             "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
             "Tahm kench",
-            "Taric",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Aurelion Sol",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Gangplank",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "Lux",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Sivir",
+            "Skarner",
+            "Tahm kench",
             "Thresh",
-            "Velkoz",
+            "Tristana",
+            "Twisted fate",
+            "Varus",
+            "Veigar",
+            "Vi",
+            "Viktor",
+            "Vladimir",
+            "Volibear",
+            "Warwick",
+            "Wukong",
             "Xerath",
+            "Xin Zhao",
             "Zilean"
         ],
         [
-            "Milio",
-            "Neeko",
-            "Zyra"
+            "Aatrox",
+            "Darius",
+            "Shaco"
         ],
         [
-            "Senna",
-            "Sona"
+            "Fizz",
+            "Miss Fortune",
+            "Pyke"
         ],
         [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Neeko",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Akali",
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Jax",
+            "Jinx",
             "Kaisa",
-            "Qiyana",
-            "Senna",
-            "Viego"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
+            "Lux",
             "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Milio",
-            "Neeko"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Senna",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Pantheon",
+            "Sivir",
+            "Thresh",
+            "Volibear",
+            "Zeri"
         ]
     ]
 }

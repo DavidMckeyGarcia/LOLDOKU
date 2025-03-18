@@ -1,72 +1,91 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
         "Jungle",
-        "Season 7+",
-        "ult execute"
+        "arcade",
+        "invis"
     ],
     "cols": [
-        "Ionia",
-        "fear",
-        "ult reset"
+        "stun",
+        "Demacia",
+        "tether"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
+            "Amumu",
+            "Brand",
             "Briar",
-            "Fiddlesticks",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
             "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
             "Sett",
-            "Xayah",
-            "Yone"
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Sona"
+        ],
+        [
+            "Malzahar"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
             "Viego"
         ],
         [
-            "Akali",
-            "Jhin",
-            "Syndra"
+            "Vayne"
         ],
         [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Darius",
-            "Viego"
+            "LeBlanc"
         ]
     ]
 }

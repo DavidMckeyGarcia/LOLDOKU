@@ -1,58 +1,96 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "PROJECT"
+        "Top",
+        "ult execute",
+        "Space Groove"
     ],
     "cols": [
-        "fear",
-        "Freljord",
+        "stun",
+        "Zaun",
         "shred"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Anivia",
-            "Aurora",
-            "Brand",
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
             "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Corki",
-            "Jayce",
-            "Karthus",
-            "Zoe"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Briar",
-            "Rell",
-            "Zoe"
-        ],
-        [
-            "Warwick"
-        ],
-        [
-            "Ashe",
-            "Sejuani"
-        ],
-        [
-            "Mordekaiser",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
             "Renekton",
-            "Vi"
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Wukong"
+        ],
+        [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Jinx",
+            "Urgot"
+        ],
+        [
+            "Evelynn",
+            "Garen"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lissandra",
+            "Nami",
+            "Nunu",
+            "Taric",
+            "Twisted fate"
+        ],
+        [
+            "Blitzcrank"
+        ],
+        [
+            "Nasus",
+            "Rumble"
         ]
     ]
 }

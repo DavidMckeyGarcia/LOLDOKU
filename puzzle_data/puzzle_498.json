@@ -1,56 +1,64 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
+        "Support",
         "arcade",
-        "life steal"
+        "OG40"
     ],
     "cols": [
+        "Bandle City",
         "stun",
-        "Bilgewater",
-        "arcane"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Amumu",
+            "Heimerdinger",
+            "Lulu",
+            "Yuumi"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
             "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
             "Morgana",
+            "Nami",
             "Nautilus",
-            "Nunu",
+            "Neeko",
             "Pantheon",
             "Poppy",
-            "Qiyana",
-            "Rammus",
+            "Pyke",
             "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Graves",
-            "Nautilus"
+            "Alistar",
+            "Ashe",
+            "Braum",
+            "Janna",
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
         ],
         [
-            "Ekko",
-            "Vi",
-            "Warwick"
+            "Corki",
+            "Veigar"
         ],
         [
             "Blitzcrank",
@@ -63,28 +71,43 @@
             "Veigar"
         ],
         [
-            "Miss Fortune"
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa"
         ],
         [
-            "Caitlyn"
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Ksante",
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
             "Morgana",
+            "Nunu",
+            "Rammus",
             "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Illaoi",
-            "Nilah"
-        ],
-        [
-            "Ambessa",
-            "Warwick"
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

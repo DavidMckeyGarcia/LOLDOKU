@@ -1,98 +1,74 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
         "Mid",
-        "Season 7+",
-        "coven"
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "pentakill"
+        "Freljord",
+        "root",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Ambessa",
             "Anivia",
-            "Annie",
-            "Aurelion Sol",
+            "Aurora",
             "Brand",
-            "Cassiopeia",
-            "Ekko",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
+            "Lissandra"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
             "Lissandra",
-            "Malzahar",
+            "Lux",
+            "Mel",
             "Neeko",
-            "Orianna",
-            "Pantheon",
             "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Lucian",
             "Ryze",
-            "Tristana"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
             "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Swain"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Ahri",
+            "Aurora",
+            "Neeko"
+        ],
+        [
+            "Nunu",
+            "Olaf"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Ahri"
+        ],
+        [
+            "Aurora",
+            "Ornn"
         ],
         [
             "Aphelios",
-            "Kaisa",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
             "Xayah"
         ],
         [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
-        ],
-        [
-            "Nami",
-            "Nilah"
-        ],
-        [
-            "Akali"
+            "Aurora",
+            "Neeko",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

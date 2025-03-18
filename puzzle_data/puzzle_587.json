@@ -1,135 +1,68 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "true damage",
-        "before s7"
+        "Jungle",
+        "Season 7+",
+        "prestige"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "ult reset"
+        "Shurima",
+        "fear",
+        "ascended"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
         ],
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Swain"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Vayne"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Cassiopeia",
-            "Darius",
-            "Draven",
-            "Elise",
-            "Katarina",
-            "Kled",
-            "LeBlanc",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Chogath",
             "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Tahm kench",
-            "Taliyah",
-            "Trundle",
-            "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ],
         [
             "Aatrox",
-            "Ahri",
+            "Jax",
+            "Ksante",
+            "Sivir"
+        ],
+        [
+            "Aatrox",
             "Darius",
-            "Master yi",
-            "Olaf",
-            "Singed",
-            "Sivir",
-            "Swain",
-            "Vayne",
-            "Viktor"
+            "Shaco"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ]
     ]
 }

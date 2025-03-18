@@ -1,101 +1,70 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "life steal",
-        "before s7"
+        "Support",
+        "OG40",
+        "elderwood"
     ],
     "cols": [
-        "Shurima",
-        "root",
-        "arcane"
+        "knock-up",
+        "The Void",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Sivir"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Mel"
-        ],
-        [
-            "Aatrox",
-            "Ksante",
-            "Nasus"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Ambessa",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Amumu",
-            "Azir",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Renekton",
-            "Sivir",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
             "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
             "Zyra"
         ],
         [
-            "Caitlyn",
-            "Ekko",
-            "Heimerdinger",
+            "Velkoz"
+        ],
+        [
+            "Pyke",
+            "Swain"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
             "Janna",
-            "Jayce",
-            "Jinx",
-            "LeBlanc",
-            "Orianna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Master yi",
             "Singed",
-            "Vi",
-            "Viktor",
-            "Warwick"
+            "Sivir"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Reksai"
+        ],
+        [
+            "Ahri"
         ]
     ]
 }

@@ -1,67 +1,87 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "global ult",
+        "Support",
+        "true damage",
         "Season 7+"
     ],
     "cols": [
-        "fear",
+        "knock-up",
         "Freljord",
-        "arcane"
+        "0 games"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Briar",
-            "Nocturne",
-            "Vex"
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
             "Ashe",
-            "Ornn"
+            "Brand",
+            "Braum"
         ],
         [
-            "Caitlyn",
-            "Ekko",
-            "Jinx",
-            "Mel"
+            "Mel",
+            "Milio"
         ],
         [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Nunu",
+            "Olaf"
+        ],
+        [
+            "Akshan",
+            "Master yi",
+            "Samira"
+        ],
+        [
+            "Belveth",
             "Briar",
-            "Hwei",
-            "Vex"
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
             "Aurora",
             "Ornn"
         ],
         [
+            "Akshan",
             "Ambessa",
-            "Mel"
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

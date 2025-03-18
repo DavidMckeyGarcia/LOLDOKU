@@ -1,61 +1,49 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "before s7",
-        "cosmic"
+        "Adc",
+        "invis",
+        "before s7"
     ],
     "cols": [
         "stun",
-        "Demacia",
-        "yordle"
+        "The Void",
+        "riot records"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Neeko",
+            "Pyke",
             "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Vayne",
+            "Viego"
         ],
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
+            "Kaisa",
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Akali",
+            "Kaisa",
+            "Qiyana",
+            "Senna",
+            "Viego"
         ],
         [
             "Alistar",
@@ -117,54 +105,26 @@
             "Zilean"
         ],
         [
-            "Fiora",
-            "Galio",
-            "Garen",
-            "Jarvan IV",
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Evelynn",
+            "Ezreal",
+            "Karthus",
             "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
+            "Mordekaiser",
+            "Olaf",
             "Sona",
-            "Vayne",
-            "Xin Zhao"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar",
-            "Ziggs"
-        ],
-        [
-            "Anivia",
-            "Hecarim",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Sion",
-            "Skarner",
-            "Xin Zhao"
-        ],
-        [
-            "Lux",
-            "Xin Zhao"
-        ],
-        [
-            "Lulu"
+            "Yasuo",
+            "Yorick"
         ]
     ]
 }

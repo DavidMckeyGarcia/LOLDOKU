@@ -1,95 +1,119 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "coven",
-        "invis"
+        "Top",
+        "Season 7+",
+        "dash"
     ],
     "cols": [
-        "Ixtal",
-        "knock-up",
-        "100% AP Ratio"
+        "fear",
+        "Ionia",
+        "manaless"
     ],
     "solutions": [
         [
-            "Nidalee",
-            "Qiyana",
-            "Rengar",
-            "Skarner",
-            "Zyra"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
+            "Ambessa",
             "Belveth",
             "Briar",
-            "Diana",
-            "Gragas",
+            "Sett",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Irelia",
             "Ivern",
-            "Jarvan IV",
             "Kayn",
             "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Shen",
             "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Yasuo",
+            "Yone"
         ],
         [
+            "Aatrox",
+            "Akali",
+            "Ambessa",
             "Belveth",
             "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
+            "Gnar",
+            "Kled",
+            "Lee sin",
+            "Reksai",
+            "Renekton",
+            "Rengar",
+            "Sett",
             "Shen",
             "Shyvana",
-            "Skarner",
-            "Vi",
+            "Tryndamere",
             "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao"
-        ],
-        [
-            "Zyra"
-        ],
-        [
-            "Nami",
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Evelynn"
-        ],
-        [
-            "Neeko",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Neeko",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "Kaisa",
-            "Neeko",
-            "Viego",
-            "Wukong"
+            "Yasuo",
+            "Yone",
+            "Zac"
         ]
     ]
 }

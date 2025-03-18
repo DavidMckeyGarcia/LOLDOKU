@@ -1,110 +1,87 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "OG40",
-        "global ult"
+        "Top",
+        "prestige",
+        "dash"
     ],
     "cols": [
-        "stun",
-        "Shurima",
-        "yordle"
+        "Freljord",
+        "fear",
+        "ascended"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
+            "Gnar",
+            "Gragas",
+            "Olaf",
             "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus",
             "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Renekton"
         ],
         [
-            "Taliyah",
-            "Xerath"
+            "Brand",
+            "Kindred",
+            "Lissandra",
+            "Volibear"
         ],
         [
-            "Kled",
+            "Aatrox",
+            "Darius",
+            "Shaco"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
+        ],
+        [
+            "Aurora",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Ornn",
+            "Sejuani",
+            "Tryndamere",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
             "Vex",
-            "Ziggs"
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Naafiri",
+            "Pantheon",
+            "Renekton"
         ]
     ]
 }

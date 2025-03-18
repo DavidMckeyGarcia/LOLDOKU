@@ -1,14 +1,14 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Top",
         "before s7",
-        "elderwood"
+        "global ult"
     ],
     "cols": [
         "fear",
-        "Shurima",
-        "100+ games"
+        "Zaun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
@@ -18,23 +18,25 @@
             "Warwick"
         ],
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Aatrox",
+            "Chogath",
+            "Fiora",
+            "Gangplank",
             "Gnar",
-            "Gragas",
-            "Jarvan IV",
             "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
         ],
         [
             "Aatrox",
@@ -47,61 +49,89 @@
             "Warwick"
         ],
         [
-            "Aatrox",
-            "Amumu",
-            "Azir",
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Ekko",
+            "Janna",
+            "Jinx",
+            "Orianna",
+            "Singed",
+            "Twitch",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Warwick",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Aurelion Sol",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Gangplank",
+            "Gnar",
+            "Hecarim",
             "Jax",
-            "Nasus",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "Lux",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
             "Rammus",
-            "Renekton",
+            "Shen",
+            "Shyvana",
             "Sivir",
-            "Taliyah",
+            "Skarner",
+            "Tahm kench",
+            "Thresh",
+            "Tristana",
+            "Twisted fate",
+            "Varus",
+            "Veigar",
+            "Vi",
+            "Viktor",
+            "Vladimir",
+            "Volibear",
+            "Warwick",
+            "Wukong",
             "Xerath",
+            "Xin Zhao",
             "Zilean"
         ],
         [
-            "Aatrox",
-            "Alistar",
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
             "Ashe",
-            "Azir",
-            "Braum",
-            "Caitlyn",
-            "Elise",
-            "Ezreal",
-            "Gnar",
-            "Gragas",
-            "Graves",
-            "Janna",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Jhin",
-            "Lee sin",
-            "Leona",
-            "Lucian",
-            "Lulu",
-            "Orianna",
-            "Renekton",
-            "Rumble",
-            "Ryze",
-            "Sejuani",
+            "Aurelion Sol",
+            "Briar",
+            "Ekko",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
             "Shen",
-            "Syndra",
-            "Thresh",
-            "Tristana",
-            "Varus"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Azir"
-        ],
-        [
-            "Azir",
-            "Gnar",
-            "Rakan",
-            "Xayah"
+            "Twisted fate",
+            "Xerath"
         ]
     ]
 }

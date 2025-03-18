@@ -1,68 +1,111 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "global ult",
-        "hextech"
+        "prestige",
+        "true damage"
     ],
     "cols": [
-        "fear",
-        "Noxus",
-        "pentakill"
+        "root",
+        "Piltover",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
             "Hwei",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Katarina",
+            "Karma",
             "LeBlanc",
+            "Lissandra",
+            "Lux",
             "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Lucian",
+            "Neeko",
+            "Qiyana",
             "Ryze",
-            "Tristana"
-        ],
-        [
-            "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Briar",
-            "Draven",
-            "Kled",
-            "Mel",
-            "Sion"
-        ],
-        [
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Ryze"
-        ],
-        [
-            "Nocturne"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Sion",
+            "Seraphine",
             "Swain"
         ],
         [
-            "Kogmaw",
-            "Tristana"
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Caitlyn",
+            "Camille",
+            "Ezreal"
+        ],
+        [
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Jax",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Sivir",
+            "Thresh",
+            "Volibear",
+            "Zeri"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Camille"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Corki",
+            "Fiora",
+            "Gangplank",
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

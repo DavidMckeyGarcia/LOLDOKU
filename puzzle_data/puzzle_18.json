@@ -1,70 +1,122 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "empyrean",
-        "OG40"
+        "Top",
+        "hextech",
+        "global ult"
     ],
     "cols": [
+        "stun",
         "Freljord",
-        "silence",
-        "100+ games"
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
             "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Azir",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Malzahar"
-        ],
-        [
+            "Heimerdinger",
+            "Irelia",
             "Jax",
-            "Jhin",
-            "Varus"
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Blitzcrank",
             "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
         ],
         [
             "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
+        ],
+        [
+            "Anivia",
+            "Sejuani"
+        ],
+        [
+            "Alistar",
+            "Nocturne",
+            "Rammus",
             "Tristana"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Briar",
+            "Ekko",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
+            "Shen",
+            "Twisted fate",
+            "Xerath"
         ]
     ]
 }

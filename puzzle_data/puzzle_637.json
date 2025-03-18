@@ -1,100 +1,73 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "empyrean",
-        "Season 7+"
+        "Mid",
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "never played"
+        "silence",
+        "Shurima",
+        "riot records"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Miss Fortune",
-            "Nilah"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
-        ],
-        [
-            "Brand",
-            "Jax",
-            "Ksante",
-            "Malzahar",
-            "Pyke",
-            "Zac"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Brand",
-            "Jhin",
-            "Pyke"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Nilah",
-            "Pyke"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
             "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
+            "Azir",
             "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Taliyah",
+            "Xerath"
+        ],
+        [
+            "Ekko",
+            "Ezreal",
+            "Kaisa",
+            "Karthus",
+            "Senna"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
+        ],
+        [
+            "Evelynn",
+            "Karthus",
+            "Kayle"
         ]
     ]
 }

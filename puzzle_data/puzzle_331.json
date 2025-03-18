@@ -1,83 +1,82 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "before s7",
-        "true damage"
+        "Support",
+        "Season 7+",
+        "evolves"
     ],
     "cols": [
-        "Demacia",
-        "silence",
-        "tether"
+        "Noxus",
+        "knock-up",
+        "ascended"
     ],
     "solutions": [
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
-        ],
-        [
-            "Fiora",
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sona",
-            "Vayne",
-            "Xin Zhao"
-        ],
-        [
+            "Alistar",
             "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
+            "Braum",
+            "Galio",
+            "Janna",
             "Lulu",
-            "Soraka"
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Aatrox",
-            "Fiddlesticks",
-            "Illaoi",
-            "Kalista",
-            "Karma",
-            "Kled",
-            "LeBlanc",
-            "Morgana",
-            "Nocturne",
+            "Leona",
+            "Pantheon",
             "Taric",
-            "Zac"
+            "Xerath"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Vayne"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Renata glasc"
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Kayn",
+            "Smolder"
+        ],
+        [
+            "Belveth",
+            "Kayn"
+        ],
+        [
+            "Kayn"
         ]
     ]
 }

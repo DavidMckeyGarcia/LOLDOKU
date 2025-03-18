@@ -1,98 +1,54 @@
 {
-    "difficulty": "silver",
+    "difficulty": "challenger",
     "rows": [
         "Jungle",
-        "OG40",
-        "true damage"
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "Shurima",
-        "knock-up",
-        "ult reset"
+        "silence",
+        "Piltover",
+        "tether"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
+            "Fiddlesticks"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
+            "Camille"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
             "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Zac"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
+            "Soraka"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
+            "Caitlyn",
+            "Ezreal"
         ],
         [
-            "Alistar",
-            "Anivia",
+            "Kled",
+            "Nocturne"
+        ],
+        [
             "Blitzcrank",
             "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Heimerdinger"
         ],
         [
-            "Akshan",
-            "Amumu",
-            "Ksante"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Vayne"
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

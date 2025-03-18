@@ -1,151 +1,75 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "invis",
-        "OG40"
+        "OG40",
+        "global ult"
     ],
     "cols": [
-        "Noxus",
-        "slow",
-        "ult reset"
+        "The Void",
+        "root",
+        "shred"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
+            "Chogath"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Camille",
-            "Chogath",
-            "Darius",
-            "Dr. Mundo",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
-            "Jarvan IV",
-            "Jayce",
             "Ksante",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Malphite",
             "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
             "Singed",
-            "Sion",
-            "Skarner",
             "Swain",
-            "Sylas",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
             "Zac"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Akali",
-            "Aurora",
-            "Kaisa",
-            "Khazix",
-            "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
-        ],
-        [
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Mordekaiser",
             "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Wukong"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Morgana",
             "Nunu",
-            "Rammus",
             "Ryze",
             "Shaco",
             "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
+            "Soraka"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Briar",
+            "Karthus",
+            "Sion"
         ]
     ]
 }

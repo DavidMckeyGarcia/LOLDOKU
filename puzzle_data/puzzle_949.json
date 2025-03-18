@@ -1,60 +1,133 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "global ult",
-        "OG40"
+        "Adc",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "silence",
-        "Bilgewater",
-        "pentakill"
+        "slow",
+        "Demacia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Ezreal",
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
             "Jinx",
             "Kaisa",
-            "Ryze"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Ryze",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
             "Tristana",
-            "Twitch"
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Belveth",
+            "Camille",
+            "Chogath",
+            "Corki",
+            "Darius",
+            "Draven",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Ksante",
+            "Kogmaw",
+            "Lillia",
+            "Nunu",
+            "Olaf",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Sett",
+            "Syndra",
+            "Twitch",
+            "Urgot",
+            "Velkoz",
+            "Zoe"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Ahri",
+            "Belveth",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Pyke",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
         ]
     ]
 }

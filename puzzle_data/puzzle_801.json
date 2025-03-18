@@ -1,67 +1,120 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "PROJECT",
-        "Season 7+"
+        "evolves",
+        "before s7"
     ],
     "cols": [
-        "Shurima",
-        "root",
-        "darkin"
+        "The Void",
+        "knock-up",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
+            "Chogath"
         ],
         [
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
             "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
             "Zac"
         ],
         [
             "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Belveth",
+            "Kaisa",
+            "Khazix"
+        ],
+        [
+            "Belveth",
             "Kayn"
         ],
         [
-            "Jax",
-            "Renekton"
+            "Belveth",
+            "Viktor"
         ],
         [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
         ],
         [
-            "Varus"
+            "Aatrox",
+            "Alistar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Kayn",
-            "Naafiri"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ]
     ]
 }

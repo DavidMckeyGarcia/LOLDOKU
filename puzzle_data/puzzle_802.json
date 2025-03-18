@@ -1,64 +1,106 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "true damage",
-        "elderwood"
+        "Mid",
+        "shield",
+        "before s7"
     ],
     "cols": [
-        "Bandle City",
-        "root",
-        "riot records"
+        "Ionia",
+        "silence",
+        "yordle"
     ],
     "solutions": [
         [
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
             "Corki",
-            "Tristana"
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
-            "Ezreal",
-            "Kaisa",
-            "Senna"
-        ],
-        [
-            "Corki"
-        ],
-        [
+            "Hwei",
             "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
+            "Karma",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ],
         [
             "Ahri",
             "Akali",
-            "Ksante",
-            "Olaf",
-            "Sett",
-            "Yone"
+            "Irelia",
+            "Ivern",
+            "Jhin",
+            "Karma",
+            "Kennen",
+            "Lee sin",
+            "Master yi",
+            "Shen",
+            "Syndra",
+            "Varus",
+            "Wukong",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Veigar"
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "LeBlanc",
-            "Xayah"
-        ],
-        [
-            "Ahri",
-            "Karthus"
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

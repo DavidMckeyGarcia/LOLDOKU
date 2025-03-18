@@ -1,83 +1,85 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "Fright Night",
-        "shield"
+        "Adc",
+        "Season 7+",
+        "blink"
     ],
     "cols": [
-        "fear",
-        "Zaun",
-        "shred"
+        "Noxus",
+        "root",
+        "riot records"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Ambessa",
             "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
+            "Kayn",
+            "Mel",
             "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
+            "Samira",
+            "Smolder"
         ],
         [
-            "Shaco",
-            "Urgot"
-        ],
-        [
-            "Renata glasc",
-            "Urgot",
-            "Zeri"
-        ],
-        [
-            "Trundle"
-        ],
-        [
+            "Aphelios",
             "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Blitzcrank",
-            "Ekko",
-            "Janna",
-            "Orianna",
+            "Ksante",
+            "Mel",
+            "Neeko",
             "Renata glasc",
-            "Urgot",
-            "Vi",
-            "Viktor"
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Garen",
-            "Jarvan IV",
-            "Mordekaiser",
-            "Olaf",
-            "Rell",
-            "Rumble",
-            "Sion",
-            "Vi"
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Ekko",
+            "Ezreal",
+            "Viego",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

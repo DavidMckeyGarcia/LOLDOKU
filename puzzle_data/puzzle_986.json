@@ -1,66 +1,86 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "shield",
-        "OG40"
+        "blink",
+        "before s7"
     ],
     "cols": [
-        "Piltover",
         "silence",
-        "0 games"
+        "Zaun",
+        "arcane"
     ],
     "solutions": [
-        [
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna",
-            "Seraphine"
-        ],
         [
             "Chogath",
             "Kassadin",
             "Malzahar"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
-        ],
-        [
-            "Camille",
+            "Ekko",
             "Orianna",
-            "Seraphine"
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Akshan",
             "Ambessa",
+            "Ekko",
+            "Heimerdinger",
+            "Jayce",
+            "LeBlanc",
             "Mel",
-            "Milio",
-            "Naafiri",
-            "Vex"
+            "Orianna",
+            "Viktor"
         ],
         [
-            "Heimerdinger"
+            "Kassadin"
+        ],
+        [
+            "Ekko"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "LeBlanc"
         ],
         [
             "Blitzcrank",
             "Chogath",
             "Fiddlesticks",
+            "Garen",
             "Kassadin",
+            "Lulu",
             "Soraka"
         ],
         [
-            "Master yi"
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Ekko",
+            "Janna",
+            "Jinx",
+            "Orianna",
+            "Singed",
+            "Twitch",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Warwick",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Heimerdinger",
+            "Janna",
+            "Jayce",
+            "Jinx",
+            "LeBlanc",
+            "Orianna",
+            "Singed",
+            "Vi",
+            "Viktor",
+            "Warwick"
         ]
     ]
 }

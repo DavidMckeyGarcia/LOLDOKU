@@ -1,47 +1,33 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Support",
+        "Adc",
         "OG40",
         "global ult"
     ],
     "cols": [
-        "Shurima",
         "root",
-        "0 games"
+        "Targon",
+        "shred"
     ],
     "solutions": [
         [
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
             "Senna",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Varus",
+            "Xayah"
         ],
         [
-            "Mel",
-            "Milio"
+            "Aphelios"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
+            "Corki",
+            "Kogmaw"
         ],
         [
             "Morgana",
@@ -52,11 +38,15 @@
             "Soraka"
         ],
         [
-            "Master yi"
+            "Soraka",
+            "Taric"
         ],
         [
-            "Taliyah",
-            "Xerath"
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ],
         [
             "Caitlyn",
@@ -69,9 +59,14 @@
             "Soraka"
         ],
         [
+            "Aurelion Sol",
+            "Pantheon",
+            "Soraka"
+        ],
+        [
             "Briar",
-            "Mel",
-            "Vex"
+            "Karthus",
+            "Sion"
         ]
     ]
 }

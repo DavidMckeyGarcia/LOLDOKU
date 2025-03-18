@@ -1,100 +1,94 @@
 {
     "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "OG40",
-        "true damage"
+        "Support",
+        "dash",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Bandle City",
-        "manaless"
+        "Ionia",
+        "root",
+        "ascended"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
+            "Karma",
+            "Rakan"
+        ],
+        [
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
             "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
         ],
         [
-            "Rumble",
-            "Teemo"
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Kayn",
             "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
+            "Lillia",
+            "Rakan",
             "Sett",
             "Shen",
-            "Shyvana",
-            "Viego",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
             "Zac"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Naafiri",
+            "Pantheon",
+            "Renekton"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Morgana",
             "Nunu",
-            "Sion"
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Corki"
-        ],
-        [
-            "Akali",
-            "Belveth",
-            "Garen",
-            "Sett",
-            "Yone"
+            "Nasus",
+            "Taric"
         ]
     ]
 }

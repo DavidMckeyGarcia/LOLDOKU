@@ -1,157 +1,95 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "before s7",
-        "shield"
+        "Adc",
+        "dash",
+        "empyrean"
     ],
     "cols": [
         "Bilgewater",
-        "fear",
-        "never played"
+        "knock-up",
+        "yordle"
     ],
     "solutions": [
         [
+            "Miss Fortune",
+            "Nilah"
+        ],
+        [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
             "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Heimerdinger",
-            "Naafiri"
-        ],
-        [
-            "Fizz",
-            "Gangplank",
             "Graves",
             "Illaoi",
-            "Miss Fortune",
-            "Nami",
             "Nautilus",
-            "Tahm kench",
-            "Twisted fate"
+            "Nilah",
+            "Pyke"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
-        ],
-        [
             "Alistar",
-            "Amumu",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
             "Braum",
-            "Chogath",
-            "Dr. Mundo",
-            "Draven",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Graves",
-            "Hecarim",
-            "Heimerdinger",
-            "Illaoi",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Ivern",
-            "Janna",
             "Jarvan IV",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Kennen",
-            "Kindred",
-            "Kled",
-            "Leona",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
             "Malphite",
-            "Miss Fortune",
-            "Mordekaiser",
-            "Morgana",
-            "Nami",
-            "Nunu",
-            "Rammus",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
             "Reksai",
-            "Rengar",
+            "Rell",
+            "Riven",
+            "Samira",
             "Sejuani",
-            "Shaco",
-            "Shen",
-            "Shyvana",
-            "Sivir",
-            "Skarner",
-            "Sona",
-            "Soraka",
-            "Tahm kench",
-            "Teemo",
-            "Thresh",
-            "Trundle",
-            "Twitch",
-            "Udyr",
-            "Vayne",
+            "Sylas",
+            "Taliyah",
             "Vi",
-            "Volibear",
-            "Warwick",
             "Wukong",
             "Xin Zhao",
-            "Yorick",
-            "Zyra"
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Blitzcrank",
-            "Braum",
-            "Garen",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
             "Kled",
-            "Malphite",
-            "Milio",
-            "Mordekaiser",
-            "Morgana",
-            "Naafiri",
-            "Nilah",
-            "Nunu",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Senna",
-            "Shen",
-            "Sivir",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Thresh",
-            "Udyr",
-            "Vi",
-            "Volibear",
-            "Yuumi"
+            "Poppy",
+            "Tristana",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Ksante",
+            "Zac"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

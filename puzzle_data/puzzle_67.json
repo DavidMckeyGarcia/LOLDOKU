@@ -1,66 +1,168 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "Fright Night",
-        "global ult"
+        "Support",
+        "before s7",
+        "shield"
     ],
     "cols": [
+        "Piltover",
         "stun",
-        "Freljord",
-        "yordle"
+        "vastayan"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Heimerdinger",
+            "Seraphine"
         ],
         [
-            "Ashe"
-        ],
-        [
-            "Corki",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
+            "Alistar",
             "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
             "Nautilus",
-            "Nunu",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
             "Pyke",
+            "Rell",
             "Renata glasc",
-            "Urgot",
-            "Veigar"
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Nunu",
-            "Trundle"
+            "Nami",
+            "Neeko",
+            "Rakan"
         ],
         [
-            "Veigar"
+            "Caitlyn",
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna"
         ],
         [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
             "Aurelion Sol",
             "Bard",
-            "Briar",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Cassiopeia",
             "Ekko",
-            "Ornn",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
             "Pantheon",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Riven",
+            "Sejuani",
             "Sion",
+            "Skarner",
+            "Sona",
+            "Syndra",
+            "Tahm kench",
             "Taliyah",
+            "Taric",
+            "Thresh",
             "Twisted fate",
-            "Xerath"
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Veigar",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
+            "Zilean"
         ],
         [
-            "Ashe",
-            "Ornn"
+            "Ahri",
+            "Nami",
+            "Rengar",
+            "Wukong"
         ],
         [
-            "Kled",
-            "Vex",
-            "Ziggs"
+            "Camille",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
+        ],
+        [
+            "Neeko",
+            "Rakan"
         ]
     ]
 }

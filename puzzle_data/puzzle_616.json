@@ -1,85 +1,114 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
         "Jungle",
-        "before s7",
-        "shield"
+        "Season 7+",
+        "coven"
     ],
     "cols": [
-        "fear",
-        "The Void",
-        "yordle"
+        "stun",
+        "Ionia",
+        "ult reset"
     ],
     "solutions": [
         [
+            "Amumu",
+            "Brand",
             "Briar",
-            "Fiddlesticks",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
             "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
         ],
         [
             "Belveth",
-            "Khazix",
-            "Reksai"
+            "Master yi",
+            "Olaf",
+            "Viego"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Khazix",
-            "Kogmaw",
-            "Reksai",
-            "Velkoz"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar",
-            "Ziggs"
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
             "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
         ],
         [
-            "Kaisa",
-            "Kassadin"
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
         ],
         [
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Vex"
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Syndra"
+        ],
+        [
+            "Ahri"
         ]
     ]
 }

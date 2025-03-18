@@ -1,73 +1,105 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "invis",
-        "OG40"
+        "Support",
+        "OG40",
+        "global ult"
     ],
     "cols": [
-        "Zaun",
-        "root",
-        "pentakill"
+        "stun",
+        "Shadow Isles",
+        "shred"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Twitch"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Akali",
-            "Kaisa",
-            "Twitch",
-            "Vayne"
-        ],
-        [
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
             "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
+            "Maokai",
+            "Senna",
+            "Thresh"
+        ],
+        [
+            "Rell"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
             "Morgana",
             "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Ryze",
-            "Tristana",
-            "Twitch"
+            "Karthus"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
+        ],
+        [
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Briar",
+            "Karthus",
+            "Sion"
         ]
     ]
 }

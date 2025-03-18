@@ -1,80 +1,115 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
+        "Top",
         "Season 7+",
-        "invis"
+        "elderwood"
     ],
     "cols": [
-        "root",
-        "The Void",
-        "pentakill"
+        "Freljord",
+        "stun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
             "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
         ],
         [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "Aphelios",
-            "Hwei",
+            "Ambessa",
+            "Briar",
+            "Camille",
             "Ksante",
-            "Mel",
+            "Milio",
             "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
             "Renata glasc",
-            "Senna",
             "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Belveth",
-            "Kaisa"
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
             "Aphelios",
+            "Belveth",
+            "Briar",
             "Kaisa",
-            "Xayah"
-        ],
-        [
-            "LeBlanc",
+            "Milio",
             "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Smolder",
+            "Viego",
+            "Zeri"
         ],
         [
-            "Kaisa",
-            "Khazix",
-            "Reksai"
+            "Gnar"
         ],
         [
-            "Akali",
-            "Kaisa",
-            "Twitch",
-            "Vayne"
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
+        ],
+        [
+            "Gnar",
+            "Hecarim",
+            "Veigar",
+            "Wukong"
         ]
     ]
 }

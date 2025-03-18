@@ -1,53 +1,34 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Support",
+        "Adc",
         "before s7",
-        "shield"
+        "ult execute"
     ],
     "cols": [
         "stun",
-        "Bilgewater",
-        "shred"
+        "Shurima",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
+            "Sivir"
         ],
         [
-            "Rell"
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
         ],
         [
             "Alistar",
@@ -109,83 +90,64 @@
             "Zilean"
         ],
         [
-            "Fizz",
-            "Gangplank",
-            "Graves",
-            "Illaoi",
-            "Miss Fortune",
-            "Nami",
-            "Nautilus",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
-            "Corki",
-            "Evelynn",
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
-            "Karthus",
-            "Kogmaw",
-            "Mordekaiser",
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
             "Nasus",
-            "Olaf",
+            "Rammus",
             "Renekton",
-            "Rengar",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Vi",
-            "Wukong"
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
+            "Aatrox",
+            "Alistar",
+            "Ashe",
+            "Azir",
             "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
-        ],
-        [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
-        ],
-        [
-            "Garen",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Janna",
             "Jarvan IV",
-            "Mordekaiser",
-            "Olaf",
-            "Rell",
+            "Jax",
+            "Jayce",
+            "Jhin",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Lulu",
+            "Orianna",
+            "Renekton",
             "Rumble",
-            "Sion",
-            "Vi"
+            "Ryze",
+            "Sejuani",
+            "Shen",
+            "Syndra",
+            "Thresh",
+            "Tristana",
+            "Varus"
+        ],
+        [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Jhin",
+            "Syndra"
         ]
     ]
 }

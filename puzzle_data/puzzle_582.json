@@ -1,65 +1,144 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
+        "Adc",
         "OG40",
-        "prestige"
+        "dash"
     ],
     "cols": [
-        "silence",
-        "Demacia",
-        "30+ wins"
+        "Bandle City",
+        "knock-up",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Corki",
+            "Tristana"
         ],
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Taliyah"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Kayle",
-            "Morgana"
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
         ],
         [
             "Corki",
-            "Ryze"
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Garen",
-            "Lulu",
-            "Soraka"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Sona",
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Tristana",
+            "Yuumi"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
             "Sylas",
-            "Vayne"
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Ahri",
-            "LeBlanc",
-            "Lissandra"
+            "Alistar",
+            "Aurelion Sol",
+            "Belveth",
+            "Briar",
+            "Corki",
+            "Ekko",
+            "Fiora",
+            "Fizz",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Kaisa",
+            "Nocturne",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Thresh",
+            "Tristana",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zeri"
         ]
     ]
 }

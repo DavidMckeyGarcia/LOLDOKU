@@ -1,105 +1,126 @@
 {
     "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "ult execute",
-        "worlds skin"
+        "Jungle",
+        "prestige",
+        "global ult"
     ],
     "cols": [
-        "Zaun",
-        "stun",
-        "pentakill"
+        "root",
+        "Shadow Isles",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Tristana",
-            "Twitch",
-            "Vayne",
-            "Xayah"
-        ],
-        [
-            "Jinx",
-            "Urgot"
-        ],
-        [
-            "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
+            "Hecarim",
+            "Karthus",
+            "Maokai",
             "Viego"
         ],
         [
-            "Akali",
-            "Darius",
-            "Jinx"
-        ],
-        [
-            "Dr. Mundo",
+            "Belveth",
+            "Briar",
             "Ekko",
-            "Janna",
-            "Jinx",
-            "Orianna",
-            "Singed",
-            "Twitch",
-            "Zac"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Bard",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Irelia",
+            "Evelynn",
+            "Hecarim",
             "Jax",
-            "Kennen",
-            "Leona",
-            "Nami",
+            "Master yi",
+            "Nocturne",
             "Nunu",
-            "Orianna",
-            "Renekton",
-            "Syndra",
-            "Taliyah",
-            "Thresh",
-            "Twisted fate",
-            "Vayne",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
             "Viego",
-            "Zac"
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
         ],
         [
-            "Akali",
-            "Aphelios",
-            "Ezreal",
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
+        ],
+        [
+            "Senna",
+            "Thresh"
+        ],
+        [
+            "Evelynn",
             "Fiora",
+            "Fizz",
+            "Jax",
             "Jinx",
             "Kaisa",
-            "Kalista",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Sivir",
+            "Thresh",
+            "Volibear",
+            "Zeri"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
             "Ryze",
-            "Twitch",
-            "Vayne",
-            "Xayah"
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Briar",
+            "Ekko",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
+            "Shen",
+            "Twisted fate",
+            "Xerath"
         ]
     ]
 }

@@ -1,119 +1,93 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "before s7",
-        "coven"
+        "hextech",
+        "global ult"
     ],
     "cols": [
-        "Piltover",
-        "knock-up",
-        "arcane"
+        "Freljord",
+        "silence",
+        "never played"
     ],
     "solutions": [
         [
-            "Camille",
-            "Heimerdinger",
-            "Jayce"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
+            "Gnar",
             "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
+            "Olaf",
             "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
             "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Ambessa",
-            "Heimerdinger",
-            "Jayce",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Blitzcrank",
-            "Braum",
             "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
+            "Garen"
+        ],
+        [
+            "Chogath",
+            "Dr. Mundo",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
+            "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
+        ],
+        [
+            "Anivia",
+            "Sejuani"
+        ],
+        [
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Alistar",
+            "Amumu",
             "Janna",
             "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Tahm kench",
-            "Taliyah",
-            "Trundle",
-            "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Rammus",
+            "Sejuani"
         ],
         [
-            "Caitlyn",
-            "Ekko",
-            "Heimerdinger",
-            "Janna",
-            "Jayce",
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Bard",
+            "Briar",
+            "Draven",
             "Jinx",
-            "LeBlanc",
-            "Orianna",
-            "Singed",
-            "Vi",
-            "Viktor",
-            "Warwick"
-        ],
-        [
-            "Camille"
-        ],
-        [
-            "Nami",
-            "Zyra"
-        ],
-        [
-            "LeBlanc"
+            "Kled",
+            "Lillia",
+            "Maokai",
+            "Senna",
+            "Shen",
+            "Soraka"
         ]
     ]
 }

@@ -1,137 +1,101 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "shield",
-        "prestige"
+        "Adc",
+        "coven",
+        "life steal"
     ],
     "cols": [
+        "Noxus",
         "stun",
-        "Bandle City",
-        "yordle"
+        "never played"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
+        ],
+        [
+            "Cassiopeia",
             "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
+            "LeBlanc"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
             "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Nami",
+            "Syndra"
         ],
         [
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Ashe",
+            "Elise",
+            "Evelynn",
+            "Morgana",
+            "Nami",
+            "Nilah",
+            "Zyra"
         ],
         [
             "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
+            "Briar",
+            "Kayn",
+            "Samira",
             "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
+            "Vladimir"
         ],
         [
-            "Lulu",
-            "Rumble",
-            "Yuumi"
-        ],
-        [
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Vex"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
+            "Ambessa",
+            "Briar",
             "Ksante",
-            "Leona",
-            "Lissandra",
             "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
-            "Fizz",
-            "Lulu",
-            "Teemo",
-            "Yuumi"
-        ],
-        [
-            "Fizz",
-            "Lulu",
-            "Teemo"
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Kayn",
+            "Morgana",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ]
     ]
 }

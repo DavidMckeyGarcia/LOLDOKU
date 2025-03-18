@@ -1,73 +1,126 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "OG40",
-        "prestige"
+        "Jungle",
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "Noxus",
-        "fear",
-        "shred"
+        "knock-up",
+        "Bilgewater",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Corki",
-            "Jayce",
-            "Karthus",
-            "Zoe"
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Briar",
+            "Ekko",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
+            "Shen",
+            "Twisted fate",
+            "Xerath"
         ],
         [
             "Alistar",
-            "Annie",
-            "Katarina",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
             "Sion"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Gangplank",
+            "Twisted fate"
         ],
         [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
             "Corki",
             "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
-        ],
-        [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Evelynn",
-            "Garen",
-            "Zoe"
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ]
     ]
 }

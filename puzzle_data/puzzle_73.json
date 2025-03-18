@@ -1,78 +1,118 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "empyrean",
-        "OG40"
+        "Support",
+        "true damage",
+        "PROJECT"
     ],
     "cols": [
+        "Noxus",
         "root",
-        "Bilgewater",
-        "manaless"
+        "never played"
     ],
     "solutions": [
         [
-            "Ksante",
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
+            "Karma",
+            "Leona",
+            "Lux",
             "Maokai",
-            "Singed",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
             "Swain",
-            "Zac"
+            "Zyra"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
+            "Darius",
+            "Draven",
+            "Samira"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
             "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Katarina",
+            "Mordekaiser"
         ],
         [
             "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
+            "Jinx",
+            "Leona",
+            "Senna",
+            "Varus"
         ],
         [
-            "Pyke"
-        ],
-        [
-            "Akali",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
+            "Ashe",
+            "Fiora",
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Mordekaiser",
+            "Pyke",
+            "Sejuani",
+            "Senna",
+            "Vayne",
+            "Vi",
+            "Warwick"
         ]
     ]
 }

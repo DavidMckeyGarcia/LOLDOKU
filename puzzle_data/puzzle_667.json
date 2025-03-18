@@ -1,93 +1,87 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "coven",
-        "blink"
+        "Adc",
+        "ult execute",
+        "prestige"
     ],
     "cols": [
-        "Bilgewater",
-        "stun",
-        "arcane"
+        "knock-up",
+        "Noxus",
+        "riot records"
     ],
     "solutions": [
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Akali",
+            "Evelynn",
+            "Viego"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
             "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
-        ],
-        [
-            "Nami",
-            "Nilah"
-        ],
-        [
-            "Ashe",
-            "Camille",
             "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
+            "Darius",
+            "Katarina",
+            "Kayn",
+            "LeBlanc",
+            "Riven",
+            "Swain"
         ],
         [
-            "LeBlanc"
-        ],
-        [
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "LeBlanc"
+            "Ahri",
+            "Akali",
+            "Evelynn",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Qiyana",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo"
         ]
     ]
 }

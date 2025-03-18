@@ -1,78 +1,57 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "worlds skin"
+        "Jungle",
+        "worlds skin",
+        "Season 7+"
     ],
     "cols": [
-        "root",
         "Piltover",
-        "ascended"
+        "knock-up",
+        "shred"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Camille"
         ],
         [
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Azir",
+            "Belveth",
+            "Briar",
             "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Camille",
-            "Seraphine"
-        ],
-        [
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
             "Kayn",
-            "Naafiri"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
             "Lee sin",
-            "Leona",
-            "Maokai",
+            "Nautilus",
             "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
             "Zac",
             "Zyra"
+        ],
+        [
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
         ],
         [
             "Caitlyn",
@@ -83,9 +62,52 @@
         ],
         [
             "Aatrox",
+            "Alistar",
             "Azir",
-            "Leona",
-            "Renekton"
+            "Gragas",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Malphite",
+            "Nami",
+            "Nunu",
+            "Orianna",
+            "Rakan",
+            "Taliyah",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Corki",
+            "Jarvan IV",
+            "Jayce",
+            "Karthus",
+            "Renekton",
+            "Rengar",
+            "Zoe"
+        ],
+        [
+            "Camille",
+            "Seraphine"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Briar",
+            "Rell",
+            "Zoe"
         ]
     ]
 }

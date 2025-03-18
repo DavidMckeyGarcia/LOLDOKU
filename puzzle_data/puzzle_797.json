@@ -1,87 +1,75 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "dash",
-        "Season 7+"
+        "Jungle",
+        "PROJECT",
+        "true damage"
     ],
     "cols": [
-        "Freljord",
-        "root",
-        "ult reset"
+        "Zaun",
+        "fear",
+        "shred"
     ],
     "solutions": [
         [
-            "Ashe"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Sivir",
-            "Vayne"
-        ],
-        [
-            "Aurora",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Ornn",
-            "Sejuani",
-            "Tryndamere",
-            "Volibear"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
             "Zac"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Belveth",
-            "Naafiri",
-            "Vayne",
-            "Vex",
-            "Viego"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Aurora",
-            "Ornn"
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Warwick"
+        ],
+        [
+            "Mordekaiser",
+            "Renekton",
+            "Vi"
+        ],
+        [
             "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Twitch",
+            "Urgot"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Corki",
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
         ]
     ]
 }

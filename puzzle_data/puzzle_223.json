@@ -1,103 +1,111 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "before s7",
-        "true damage"
+        "Adc",
+        "life steal",
+        "hextech"
     ],
     "cols": [
-        "silence",
+        "slow",
         "Noxus",
-        "shred"
+        "ascended"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Aatrox",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Morgana",
+            "Nasus",
+            "Nilah",
+            "Olaf",
+            "Samira",
+            "Senna",
+            "Sion",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Vladimir",
+            "Warwick"
         ],
         [
             "Ambessa",
-            "Darius",
+            "Briar",
             "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
+            "Samira",
             "Sion",
-            "Swain"
+            "Vladimir"
         ],
         [
-            "Garen",
+            "Aatrox",
+            "Kayn",
+            "Nasus"
+        ],
+        [
+            "Anivia",
+            "Galio",
+            "Janna",
             "Jarvan IV",
-            "Jayce",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
             "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Kogmaw",
+            "Nocturne",
+            "Poppy",
+            "Rammus",
+            "Sejuani",
+            "Singed",
+            "Sion",
+            "Swain",
+            "Tristana",
+            "Ziggs"
         ],
         [
             "Alistar",
             "Annie",
-            "Cassiopeia",
-            "Darius",
-            "Draven",
-            "Elise",
-            "Katarina",
-            "Kled",
-            "LeBlanc",
-            "Mordekaiser",
-            "Riven",
             "Sion",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Swain"
         ],
         [
-            "Corki",
-            "Evelynn",
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
-            "Karthus",
-            "Kogmaw",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rengar",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Vi",
-            "Wukong"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
+            "Renekton"
         ]
     ]
 }

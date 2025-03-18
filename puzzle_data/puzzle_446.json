@@ -1,76 +1,111 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
         "Top",
-        "life steal",
-        "Season 7+"
+        "OG40",
+        "true damage"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "0 games"
+        "stun",
+        "Piltover",
+        "yordle"
     ],
     "solutions": [
         [
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
             "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
             "Zac"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
+            "Camille",
+            "Heimerdinger",
+            "Jayce"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
             "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Ambessa",
-            "Illaoi"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
             "Morgana",
-            "Senna"
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Morgana"
+            "Heimerdinger"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Illaoi",
-            "Samira"
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Aphelios",
-            "Hwei",
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
             "Ksante",
-            "Mel",
-            "Neeko",
+            "Nunu",
+            "Pyke",
             "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Sylas"
+            "Camille"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
+            "Amumu",
+            "Corki"
         ]
     ]
 }

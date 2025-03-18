@@ -1,72 +1,106 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "empyrean",
+        "Jungle",
+        "prestige",
         "invis"
     ],
     "cols": [
-        "Shurima",
-        "root",
-        "tether"
+        "knock-up",
+        "Bandle City",
+        "riot records"
     ],
     "solutions": [
         [
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
             "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
             "Zyra"
         ],
         [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
+            "Sett",
+            "Viego"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Fizz",
+            "Lulu",
+            "Teemo",
             "Yuumi"
         ],
         [
-            "Jax",
-            "Ksante"
-        ],
-        [
-            "Jhin",
+            "Ahri",
+            "Akali",
+            "Evelynn",
+            "Ezreal",
             "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
-        ],
-        [
-            "Malzahar",
-            "Nocturne",
-            "Zac"
-        ],
-        [
-            "Akshan"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
             "Qiyana",
-            "Rengar",
             "Senna",
-            "Shaco"
+            "Sett",
+            "Sona",
+            "Yasuo"
         ],
         [
-            "LeBlanc"
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Teemo"
+        ],
+        [
+            "Akali",
+            "Kaisa",
+            "Qiyana",
+            "Senna",
+            "Viego"
         ]
     ]
 }

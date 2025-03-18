@@ -1,82 +1,63 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "OG40",
-        "shield"
+        "Adc",
+        "invis",
+        "OG40"
     ],
     "cols": [
-        "fear",
-        "Bandle City",
-        "100+ games"
+        "root",
+        "Demacia",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Azir",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
             "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
+            "Vayne"
         ],
         [
-            "Fiddlesticks",
+            "Corki"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Vayne"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
             "Shaco",
-            "Warwick"
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Kayle",
+            "Morgana"
         ],
         [
             "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Lulu",
-            "Rumble",
-            "Yuumi"
-        ],
-        [
-            "Azir",
-            "Braum",
-            "Janna",
-            "Jarvan IV",
-            "Kaisa",
-            "Lee sin",
-            "Lulu",
-            "Orianna",
-            "Rakan",
-            "Rumble",
-            "Shen",
-            "Thresh"
+            "Ryze"
         ]
     ]
 }

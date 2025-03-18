@@ -1,109 +1,69 @@
 {
-    "difficulty": "silver",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "invis",
-        "before s7"
+        "Adc",
+        "OG40",
+        "invis"
     ],
     "cols": [
-        "root",
-        "Ionia",
+        "Freljord",
+        "stun",
         "tether"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Ashe"
         ],
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Kalista"
         ],
         [
-            "LeBlanc",
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
+        ],
+        [
+            "Aurora"
+        ],
+        [
             "Neeko",
+            "Pyke",
             "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Akali",
-            "Wukong"
+            "Vayne",
+            "Viego"
         ],
         [
             "LeBlanc"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Irelia",
-            "Ivern",
-            "Jhin",
-            "Karma",
-            "Kennen",
-            "Lee sin",
-            "Master yi",
-            "Shen",
-            "Syndra",
-            "Varus",
-            "Wukong",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Aatrox",
-            "Fiddlesticks",
-            "Illaoi",
-            "Kalista",
-            "Karma",
-            "Kled",
-            "LeBlanc",
-            "Morgana",
-            "Nocturne",
-            "Taric",
-            "Zac"
         ]
     ]
 }

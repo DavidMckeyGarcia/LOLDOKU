@@ -1,16 +1,26 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "shield",
+        "true damage",
         "OG40"
     ],
     "cols": [
+        "Demacia",
         "stun",
-        "Piltover",
-        "arcane"
+        "riot records"
     ],
     "solutions": [
+        [
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
         [
             "Ambessa",
             "Camille",
@@ -41,64 +51,49 @@
             "Zac"
         ],
         [
-            "Camille",
-            "Heimerdinger",
-            "Jayce"
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
+            "Yasuo",
+            "Yone",
+            "Yorick"
         ],
         [
-            "Ambessa",
-            "Heimerdinger",
-            "Jayce",
-            "Singed",
-            "Warwick"
+            "Fiora",
+            "Garen",
+            "Vayne"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
+            "Amumu",
             "Camille",
-            "Ekko",
+            "Fiora",
             "Ivern",
             "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
             "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
+            "Pyke",
             "Renata glasc",
-            "Riven",
-            "Seraphine",
             "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
+            "Syndra",
             "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
+            "Vayne",
+            "Velkoz",
             "Yone"
         ],
         [
-            "Camille",
-            "Orianna",
-            "Seraphine"
+            "Ahri",
+            "Akali",
+            "Ksante",
+            "Olaf",
+            "Sett",
+            "Yone"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Janna",
-            "Mel",
-            "Orianna",
-            "Vi",
-            "Viktor"
+            "Kayle",
+            "Morgana"
         ],
         [
             "Alistar",
@@ -120,13 +115,9 @@
             "Zilean"
         ],
         [
-            "Heimerdinger"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
+            "Evelynn",
+            "Karthus",
+            "Kayle"
         ]
     ]
 }

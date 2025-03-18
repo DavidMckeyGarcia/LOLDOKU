@@ -1,89 +1,148 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "life steal",
-        "Fright Night"
+        "Mid",
+        "evolves",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Bilgewater",
-        "100% AP Ratio"
+        "Zaun",
+        "slow",
+        "riot records"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Anivia",
+            "Aurelion Sol",
+            "Aurora",
+            "Azir",
+            "Brand",
+            "Cassiopeia",
+            "Chogath",
+            "Corki",
+            "Diana",
+            "Ekko",
+            "Fizz",
             "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
+            "Gragas",
+            "Heimerdinger",
+            "Hwei",
+            "Irelia",
+            "Jayce",
             "Karma",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Lissandra",
             "Lux",
-            "Milio",
-            "Neeko",
+            "Mel",
+            "Naafiri",
+            "Orianna",
             "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Samira",
-            "Sion",
-            "Trundle"
-        ],
-        [
-            "Illaoi",
-            "Nilah"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Viego",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Talon",
+            "Tristana",
+            "Twisted fate",
+            "Velkoz",
+            "Vex",
+            "Viktor",
             "Vladimir",
+            "Xerath",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Viktor"
+        ],
+        [
+            "Bard",
+            "Belveth",
+            "Gangplank",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Khazix",
+            "Smolder",
+            "Syndra",
+            "Viktor"
+        ],
+        [
+            "Kaisa",
+            "Kayle",
+            "Kayn"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
             "Warwick"
         ],
         [
-            "Nautilus",
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
             "Nunu",
-            "Trundle"
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Nautilus",
-            "Pyke"
-        ],
-        [
-            "Nunu",
-            "Veigar",
-            "Zeri"
+            "Evelynn",
+            "Karthus",
+            "Kayle"
         ]
     ]
 }

@@ -1,63 +1,114 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "OG40",
-        "blink"
+        "Adc",
+        "shield",
+        "Season 7+"
     ],
     "cols": [
-        "silence",
         "Ionia",
-        "tether"
+        "stun",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Hwei",
             "Ivern",
-            "Kayn",
+            "Karma",
             "Lee sin",
-            "Lillia",
-            "Master yi",
+            "Rakan",
             "Sett",
             "Shen",
-            "Wukong"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
-        ],
-        [
-            "Kassadin"
-        ],
-        [
-            "Master yi",
-            "Shen",
             "Yasuo",
-            "Yone",
-            "Zed"
+            "Yone"
         ],
         [
-            "LeBlanc"
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
+        ],
+        [
+            "Naafiri",
+            "Olaf",
+            "Sivir",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
         ]
     ]
 }

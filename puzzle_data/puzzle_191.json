@@ -1,58 +1,70 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
+        "Top",
         "OG40",
-        "elderwood"
+        "ult execute"
     ],
     "cols": [
         "knock-up",
-        "Bandle City",
-        "shred"
+        "Shurima",
+        "never played"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
+            "Aatrox",
+            "Chogath",
             "Gragas",
-            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
+        ],
+        [
+            "Chogath",
+            "Dr. Mundo",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
             "Jarvan IV",
             "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
             "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
             "Trundle",
-            "Vi",
-            "Wukong"
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
         ],
         [
             "Alistar",
@@ -65,31 +77,54 @@
             "Sion"
         ],
         [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Corki",
-            "Evelynn",
-            "Karthus",
+            "Amumu",
+            "Jax",
             "Nasus",
-            "Sion"
+            "Rammus",
+            "Sivir",
+            "Zilean"
         ],
         [
-            "Azir",
-            "Rakan",
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Chogath",
             "Reksai",
-            "Wukong"
+            "Riven"
         ],
         [
-            "Veigar"
+            "Akshan"
         ],
         [
-            "Karthus",
-            "Wukong"
+            "Akshan",
+            "Chogath",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Viego"
         ]
     ]
 }

@@ -1,74 +1,90 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "blink",
-        "OG40"
+        "Mid",
+        "shield",
+        "hextech"
     ],
     "cols": [
-        "knock-up",
-        "Shadow Isles",
-        "tether"
+        "root",
+        "Freljord",
+        "arcane"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Heimerdinger",
+            "Jayce",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
             "Nautilus",
             "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Maokai",
-            "Senna",
-            "Thresh"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Viego"
-        ],
-        [
-            "LeBlanc"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
             "Nunu",
-            "Sion"
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
         ],
         [
-            "Karthus"
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Ambessa",
+            "Ekko",
+            "Janna",
+            "Mel",
+            "Orianna",
+            "Vi",
+            "Viktor"
+        ],
+        [
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Anivia",
+            "Sejuani"
+        ],
+        [
+            "Janna",
+            "Singed"
         ]
     ]
 }

@@ -1,70 +1,105 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "true damage",
-        "OG40"
+        "Mid",
+        "Season 7+",
+        "life steal"
     ],
     "cols": [
-        "root",
-        "Shadow Isles",
+        "Noxus",
+        "knock-up",
         "100+ games"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
             "Swain",
-            "Zac"
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Azir",
+            "Ezreal",
+            "Gragas",
+            "Jayce",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Kaisa",
+            "Rakan",
+            "Xayah"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Samira",
+            "Sion",
+            "Vladimir"
         ],
         [
             "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Ivern",
+            "Belveth",
+            "Briar",
             "Ksante",
-            "Nunu",
-            "Renata glasc"
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
         ],
         [
-            "Gwen"
-        ],
-        [
-            "Syndra"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Karthus"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
+            "Aatrox",
+            "Lee sin"
         ]
     ]
 }

@@ -1,74 +1,101 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "cosmic",
-        "before s7"
+        "Jungle",
+        "arcade",
+        "ult execute"
     ],
     "cols": [
-        "fear",
-        "Bandle City",
-        "tether"
+        "stun",
+        "Zaun",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Illaoi"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
             "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Lulu",
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
             "Rumble",
-            "Teemo",
-            "Tristana",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
             "Veigar"
         ],
         [
-            "Aatrox",
-            "Fiddlesticks",
-            "Illaoi",
-            "Kalista",
-            "Karma",
-            "Kled",
-            "LeBlanc",
-            "Morgana",
-            "Nocturne",
-            "Taric",
-            "Zac"
+            "Blitzcrank",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa"
+        ],
+        [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Jinx",
+            "Urgot"
+        ],
+        [
+            "Jhin",
+            "Syndra"
         ]
     ]
 }

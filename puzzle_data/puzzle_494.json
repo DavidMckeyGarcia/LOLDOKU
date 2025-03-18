@@ -1,90 +1,105 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "invis",
-        "worlds skin"
+        "Top",
+        "shield",
+        "before s7"
     ],
     "cols": [
-        "knock-up",
-        "Zaun",
-        "vastayan"
+        "Piltover",
+        "root",
+        "ascended"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Camille",
+            "Heimerdinger",
+            "Jayce"
         ],
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
-        [
-            "Nami",
-            "Neeko",
-            "Rakan"
-        ],
-        [
-            "Neeko",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "Twitch"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rengar",
-            "Wukong"
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
             "Aatrox",
-            "Alistar",
-            "Azir",
-            "Gragas",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Malphite",
-            "Nami",
-            "Nunu",
+            "Kayn",
+            "Nasus",
+            "Pantheon",
+            "Renekton"
+        ],
+        [
+            "Camille",
             "Orianna",
-            "Rakan",
-            "Taliyah",
+            "Seraphine"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Taric"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Janna",
-            "Jinx",
-            "Orianna",
-            "Singed",
-            "Twitch",
-            "Zac"
-        ],
-        [
-            "Nami",
-            "Rakan",
-            "Rengar",
-            "Xayah"
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Leona",
+            "Nasus",
+            "Pantheon",
+            "Renekton",
+            "Taric",
+            "Varus",
+            "Xerath"
         ]
     ]
 }

@@ -1,85 +1,64 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "ult execute",
-        "Season 7+"
+        "Mid",
+        "cosmic",
+        "ult execute"
     ],
     "cols": [
-        "Bilgewater",
-        "knock-up",
-        "0 games"
+        "Noxus",
+        "silence",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Briar",
-            "Master yi"
-        ],
-        [
-            "Pyke"
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
             "Chogath",
-            "Reksai",
-            "Riven"
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Akshan"
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Sion",
+            "Vladimir"
+        ],
+        [
+            "Kassadin",
+            "Lulu"
         ],
         [
             "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Master yi"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Darius",
+            "Pyke",
+            "Viego"
         ]
     ]
 }

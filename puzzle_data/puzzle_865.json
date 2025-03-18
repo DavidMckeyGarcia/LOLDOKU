@@ -1,126 +1,78 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "life steal",
-        "before s7"
+        "Jungle",
+        "dash",
+        "Season 7+"
     ],
     "cols": [
-        "root",
         "Shurima",
-        "100+ games"
+        "fear",
+        "arcane"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Aatrox",
+            "Amumu",
             "Jax",
-            "Ksante",
             "Nasus",
-            "Renekton"
+            "Rammus",
+            "Taliyah"
         ],
         [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Aatrox",
-            "Ksante",
-            "Nasus"
-        ],
-        [
-            "Aatrox",
-            "Lee sin"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
             "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Warwick"
+        ],
+        [
+            "Ekko",
+            "Vi",
+            "Warwick"
         ],
         [
             "Aatrox",
             "Amumu",
             "Azir",
             "Jax",
-            "Nasus",
+            "Ksante",
+            "Naafiri",
             "Rammus",
             "Renekton",
-            "Sivir",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
+            "Taliyah"
         ],
         [
             "Aatrox",
-            "Alistar",
-            "Ashe",
-            "Azir",
-            "Braum",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
+        ],
+        [
+            "Ambessa",
             "Caitlyn",
-            "Elise",
-            "Ezreal",
-            "Gnar",
-            "Gragas",
-            "Graves",
-            "Janna",
-            "Jarvan IV",
-            "Jax",
+            "Ekko",
             "Jayce",
-            "Jhin",
-            "Lee sin",
-            "Leona",
-            "Lucian",
-            "Lulu",
-            "Orianna",
-            "Renekton",
-            "Rumble",
-            "Ryze",
-            "Sejuani",
-            "Shen",
-            "Syndra",
-            "Thresh",
-            "Tristana",
-            "Varus"
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Ambessa",
+            "Mel"
         ]
     ]
 }

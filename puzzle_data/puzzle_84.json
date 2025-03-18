@@ -1,84 +1,118 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "true damage"
+        "Mid",
+        "arcade",
+        "before s7"
     ],
     "cols": [
+        "root",
         "Demacia",
-        "stun",
-        "100+ games"
+        "manaless"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
-        ],
-        [
-            "Ashe",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Vayne"
+            "Swain"
         ],
         [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jhin",
-            "Kaisa",
+            "Galio",
+            "Kayle",
             "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
-        ],
-        [
+            "Lux",
             "Sylas"
         ],
         [
+            "Akali",
             "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Katarina",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Caitlyn",
+            "Qiyana"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Vayne"
+            "Sona"
         ],
         [
-            "Amumu",
-            "Camille",
-            "Fiora",
+            "Belveth",
+            "Yasuo"
+        ],
+        [
+            "Caitlyn",
             "Ivern",
-            "Ksante",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
             "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Syndra"
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Katarina",
+            "Kennen",
+            "Kled",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Renekton",
+            "Rengar",
+            "Rumble",
+            "Shen",
+            "Shyvana",
+            "Tryndamere",
+            "Vladimir",
+            "Yasuo",
+            "Zac",
+            "Zed"
         ]
     ]
 }

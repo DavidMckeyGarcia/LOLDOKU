@@ -1,62 +1,79 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "elderwood",
-        "OG40"
+        "Jungle",
+        "before s7",
+        "true damage"
     ],
     "cols": [
+        "Demacia",
         "fear",
-        "Noxus",
-        "pentakill"
+        "0 games"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "LeBlanc"
-        ],
-        [
-            "Xayah"
-        ],
-        [
+            "Briar",
             "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
             "Shaco",
             "Warwick"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
+            "Briar",
+            "Master yi"
         ],
         [
-            "Ryze",
-            "Tristana",
-            "Twitch"
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Illaoi",
+            "Master yi"
+        ],
+        [
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Akshan",
+            "Master yi",
+            "Samira"
         ]
     ]
 }

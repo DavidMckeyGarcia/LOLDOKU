@@ -1,81 +1,133 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "shield",
-        "Season 7+"
+        "Mid",
+        "before s7",
+        "cosmic"
     ],
     "cols": [
-        "Freljord",
         "fear",
-        "shred"
+        "Demacia",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
         ],
         [
             "Aatrox",
             "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
             "Urgot",
             "Warwick"
         ],
         [
+            "Fiora",
+            "Galio",
             "Garen",
             "Jarvan IV",
-            "Jayce",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Hwei",
+            "Alistar",
+            "Ashe",
+            "Aurelion Sol",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Gangplank",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "Lux",
+            "Master yi",
             "Nocturne",
-            "Urgot",
-            "Vex"
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Sivir",
+            "Skarner",
+            "Tahm kench",
+            "Thresh",
+            "Tristana",
+            "Twisted fate",
+            "Varus",
+            "Veigar",
+            "Vi",
+            "Viktor",
+            "Vladimir",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xerath",
+            "Xin Zhao",
+            "Zilean"
         ],
         [
-            "Garen",
-            "Jarvan IV",
-            "Mordekaiser",
-            "Olaf",
-            "Rell",
-            "Rumble",
-            "Sion",
-            "Vi"
+            "Hecarim"
         ],
         [
-            "Aurora",
-            "Ornn"
+            "Lux",
+            "Xin Zhao"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Briar",
-            "Rell",
-            "Zoe"
+            "Belveth",
+            "Hecarim",
+            "Jhin",
+            "Lux",
+            "Master yi",
+            "Nunu",
+            "Skarner",
+            "Varus",
+            "Vladimir",
+            "Xin Zhao"
         ]
     ]
 }

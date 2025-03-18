@@ -1,73 +1,75 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
+        "Mid",
         "prestige",
-        "global ult"
+        "OG40"
     ],
     "cols": [
-        "silence",
-        "Piltover",
-        "100+ games"
+        "Shurima",
+        "fear",
+        "manaless"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Camille"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
-        ],
-        [
-            "Garen",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Caitlyn",
-            "Camille",
-            "Ezreal"
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
             "Aatrox",
-            "Caitlyn",
-            "Ezreal",
             "Jax",
-            "Kaisa",
+            "Ksante",
+            "Sivir"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Shaco"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Garen",
+            "Katarina",
             "Lee sin",
-            "Leona",
-            "Lucian",
-            "Lulu",
-            "Rakan",
-            "Thresh",
-            "Xayah"
+            "Sett",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Soraka"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
         ],
         [
-            "Caitlyn",
-            "Ezreal"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
-            "Ryze",
-            "Shen"
+            "Dr. Mundo",
+            "Katarina",
+            "Tryndamere"
         ]
     ]
 }

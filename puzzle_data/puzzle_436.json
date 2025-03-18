@@ -1,66 +1,86 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "empyrean",
-        "life steal"
+        "Mid",
+        "elderwood",
+        "Season 7+"
     ],
     "cols": [
         "knock-up",
-        "Shadow Isles",
-        "riot records"
+        "The Void",
+        "manaless"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
             "Ziggs"
         ],
         [
-            "Kalista",
-            "Senna"
-        ],
-        [
-            "Aphelios",
-            "Ezreal",
-            "Kaisa",
-            "Senna"
-        ],
-        [
-            "Ksante",
-            "Zac"
-        ],
-        [
-            "Vex"
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
         ],
         [
             "Akali",
-            "Ksante",
-            "Kayle"
+            "Ambessa",
+            "Katarina",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Aatrox",
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Reksai"
+        ],
+        [
+            "Gnar",
+            "Reksai"
+        ],
+        [
             "Belveth",
             "Briar",
             "Ksante",
             "Kayn",
-            "Lee sin",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
             "Samira",
-            "Sion",
-            "Trundle"
+            "Sylas",
+            "Yone"
         ],
         [
-            "Gwen",
-            "Senna",
-            "Viego"
+            "Belveth",
+            "Kaisa"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Kayn",
-            "Olaf",
-            "Senna",
-            "Viego"
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
         ]
     ]
 }

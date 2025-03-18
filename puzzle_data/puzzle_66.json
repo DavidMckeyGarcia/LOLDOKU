@@ -1,87 +1,102 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "true damage"
+        "Support",
+        "ult execute",
+        "Season 7+"
     ],
     "cols": [
-        "The Void",
-        "root",
-        "shred"
+        "stun",
+        "Noxus",
+        "arcane"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
             "Morgana",
+            "Nami",
             "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
-        ],
-        [
-            "Belveth",
-            "Kaisa"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Briar",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
             "Rell",
-            "Zoe"
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
         ],
         [
-            "Ivern",
+            "Heimerdinger",
+            "Janna",
+            "Mel"
+        ],
+        [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Jinx"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
             "Ksante",
-            "Nunu",
-            "Renata glasc"
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Ambessa",
+            "Mel"
         ]
     ]
 }

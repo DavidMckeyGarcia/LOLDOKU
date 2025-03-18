@@ -1,23 +1,16 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "global ult",
-        "coven"
+        "dash",
+        "before s7"
     ],
     "cols": [
-        "Demacia",
         "root",
-        "30+ wins"
+        "Targon",
+        "tether"
     ],
     "solutions": [
-        [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
         [
             "Hwei",
             "Karma",
@@ -32,49 +25,89 @@
             "Swain"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
         ],
         [
-            "Galio",
-            "Lux"
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
         ],
         [
             "Caitlyn",
-            "Jinx",
-            "Lux",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
             "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
         ],
         [
-            "Galio",
-            "Ryze",
-            "Taliyah"
+            "Aurelion Sol",
+            "Diana",
+            "Leona",
+            "Pantheon"
         ],
         [
-            "Morgana"
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Nocturne",
+            "Sylas",
+            "Yuumi",
+            "Zac"
         ],
         [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
             "LeBlanc",
+            "Lee sin",
+            "Leona",
             "Lissandra",
+            "Lux",
             "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
             "Zyra"
         ],
         [
-            "Ahri",
+            "Aurelion Sol",
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Aatrox",
+            "Fiddlesticks",
+            "Illaoi",
+            "Kalista",
+            "Karma",
+            "Kled",
             "LeBlanc",
-            "Lissandra"
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
         ]
     ]
 }

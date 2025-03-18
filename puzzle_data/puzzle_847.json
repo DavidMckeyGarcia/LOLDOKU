@@ -1,56 +1,112 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "empyrean",
-        "ult execute"
+        "Jungle",
+        "before s7",
+        "PROJECT"
     ],
     "cols": [
-        "fear",
         "Demacia",
-        "yordle"
+        "root",
+        "ascended"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Fiora",
             "Galio",
+            "Garen",
+            "Jarvan IV",
             "Kayle",
             "Lucian",
             "Lux",
-            "Sylas"
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Nocturne",
-            "Vex"
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Leona",
+            "Nasus",
+            "Pantheon",
+            "Renekton",
+            "Taric",
+            "Varus",
+            "Xerath"
         ],
         [
-            "Kayle",
-            "Lux"
+            "Fiora",
+            "Lucian",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Vex"
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Senna",
+            "Varus"
         ],
         [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Garen"
-        ],
-        [
-            "Veigar"
+            "Leona",
+            "Renekton",
+            "Varus"
         ]
     ]
 }

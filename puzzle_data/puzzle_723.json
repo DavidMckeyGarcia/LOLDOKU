@@ -1,61 +1,89 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "global ult",
-        "OG40"
+        "Top",
+        "invis",
+        "PROJECT"
     ],
     "cols": [
-        "Freljord",
-        "fear",
-        "0 games"
+        "Ionia",
+        "knock-up",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Aatrox",
+            "Chogath",
             "Gragas",
-            "Lissandra"
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
+            "Akali",
+            "Wukong"
         ],
         [
-            "Ashe",
-            "Ornn"
+            "Neeko",
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Briar",
-            "Nocturne",
-            "Vex"
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
         ],
         [
-            "Briar",
-            "Mel",
-            "Vex"
+            "Akali",
+            "Irelia",
+            "Jhin",
+            "Master yi",
+            "Varus",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
+            "Sejuani",
+            "Sylas",
+            "Vi",
+            "Yasuo"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Master yi"
+            "Akali",
+            "Fiora",
+            "Jinx",
+            "Lucian",
+            "Vayne"
         ]
     ]
 }

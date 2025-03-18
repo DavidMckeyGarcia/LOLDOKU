@@ -1,72 +1,145 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "global ult",
-        "empyrean"
+        "Jungle",
+        "shield",
+        "prestige"
     ],
     "cols": [
-        "Freljord",
-        "root",
-        "tether"
+        "Zaun",
+        "stun",
+        "ascended"
     ],
     "solutions": [
         [
-            "Gnar",
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
             "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
             "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Blitzcrank",
+            "Ekko",
+            "Janna",
+            "Orianna",
+            "Renata glasc",
+            "Urgot",
+            "Vi",
+            "Viktor"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
+            "Milio",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Taric"
+        ],
+        [
+            "Jinx",
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
             "Volibear"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
             "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Ashe",
-            "Ornn"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Kled",
-            "Nocturne"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
-        ],
-        [
-            "Malzahar",
-            "Nocturne",
-            "Zac"
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ]
     ]
 }

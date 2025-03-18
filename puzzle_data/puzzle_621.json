@@ -1,77 +1,117 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "global ult",
-        "cosmic"
+        "Adc",
+        "worlds skin",
+        "Season 7+"
     ],
     "cols": [
-        "Freljord",
+        "Zaun",
         "root",
-        "ascended"
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Brand",
-            "Braum"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
             "Senna",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "Ashe",
-            "Ornn"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Anivia",
-            "Lissandra",
-            "Nunu"
-        ],
-        [
-            "Jhin",
-            "Lissandra",
-            "Lux",
-            "Nautilus",
-            "Nunu",
             "Varus",
             "Xayah"
         ],
         [
-            "Varus"
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Dr. Mundo",
+            "Ekko",
+            "Janna",
+            "Jinx",
+            "Orianna",
+            "Singed",
+            "Twitch",
+            "Zac"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Singed",
+            "Xayah",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Ekko",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Nunu",
+            "Shen",
+            "Thresh",
+            "Twisted fate",
+            "Viego"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Kaisa",
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
         ]
     ]
 }

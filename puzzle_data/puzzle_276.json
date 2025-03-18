@@ -1,111 +1,74 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "OG40",
-        "true damage"
+        "Adc",
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "Noxus",
+        "Zaun",
         "root",
-        "never played"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Aphelios",
             "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
+            "Ksante",
             "Mel",
             "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Heimerdinger",
-            "Naafiri"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Belveth",
-            "Chogath",
-            "Draven",
-            "Fiora",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Lillia",
-            "Nunu",
-            "Pyke",
             "Renata glasc",
-            "Samira",
-            "Twitch",
-            "Vayne"
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Twitch"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Pyke",
+            "Vayne",
+            "Viego"
         ]
     ]
 }

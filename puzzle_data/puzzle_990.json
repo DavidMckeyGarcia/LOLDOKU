@@ -1,14 +1,14 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "Fright Night",
-        "invis"
+        "shield",
+        "Season 7+"
     ],
     "cols": [
         "fear",
-        "Freljord",
-        "tether"
+        "Shadow Isles",
+        "arcane"
     ],
     "solutions": [
         [
@@ -18,41 +18,51 @@
             "Warwick"
         ],
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Gwen",
+            "Maokai",
+            "Yorick"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Ambessa",
+            "Heimerdinger",
+            "Jayce",
+            "Singed",
+            "Warwick"
         ],
         [
-            "Shaco",
-            "Urgot"
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
         ],
         [
-            "Nunu",
-            "Trundle"
+            "Senna",
+            "Thresh",
+            "Vex"
         ],
         [
-            "Renata glasc"
+            "Ambessa",
+            "Ekko",
+            "Janna",
+            "Mel",
+            "Orianna",
+            "Vi",
+            "Viktor"
         ],
         [
-            "Shaco"
+            "Briar",
+            "Hwei",
+            "Vex"
         ],
         [
-            "Aurora"
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
         ],
         [
-            "LeBlanc"
+            "Ambessa",
+            "Mel"
         ]
     ]
 }

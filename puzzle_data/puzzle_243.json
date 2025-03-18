@@ -1,71 +1,149 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "empyrean",
-        "Season 7+"
+        "Support",
+        "evolves",
+        "before s7"
     ],
     "cols": [
-        "knock-up",
-        "Zaun",
-        "pentakill"
+        "stun",
+        "Bilgewater",
+        "ascended"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Tristana",
-            "Twitch",
-            "Vayne",
-            "Xayah"
-        ],
-        [
-            "Ksante",
-            "Zac"
-        ],
-        [
-            "Zac"
-        ],
-        [
-            "Akali"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Ornn",
-            "Rakan",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
             "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
             "Renata glasc",
-            "Zeri"
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
+        ],
+        [
+            "Bard",
+            "Syndra",
+            "Viktor"
+        ],
+        [
+            "Gangplank"
+        ],
+        [
+            "Kayn"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
+            "Pantheon",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Taric",
+            "Thresh",
+            "Twisted fate",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Veigar",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
+            "Zilean"
+        ],
+        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Leona",
+            "Nasus",
+            "Pantheon",
+            "Renekton",
+            "Taric",
+            "Varus",
+            "Xerath"
         ]
     ]
 }

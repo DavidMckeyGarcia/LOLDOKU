@@ -1,14 +1,14 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Support",
-        "invis",
-        "before s7"
+        "PROJECT",
+        "ult execute"
     ],
     "cols": [
         "Bilgewater",
-        "root",
-        "vastayan"
+        "knock-up",
+        "ult reset"
     ],
     "solutions": [
         [
@@ -18,83 +18,53 @@
             "Tahm kench"
         ],
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
             "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
             "Zyra"
         ],
         [
-            "Nami",
-            "Neeko",
-            "Rakan"
+            "Pyke",
+            "Swain"
+        ],
+        [
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Sejuani",
+            "Sylas",
+            "Vi",
+            "Yasuo"
+        ],
+        [
+            "Master yi",
+            "Pyke",
+            "Vayne"
         ],
         [
             "Pyke"
         ],
         [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Chogath",
+            "Reksai",
+            "Riven"
         ],
         [
-            "Aurora",
-            "Neeko",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Fizz",
-            "Gangplank",
-            "Graves",
-            "Illaoi",
-            "Miss Fortune",
-            "Nami",
-            "Nautilus",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Ahri",
-            "Nami",
-            "Rengar",
-            "Wukong"
+            "Darius",
+            "Pyke",
+            "Viego"
         ]
     ]
 }

@@ -1,129 +1,64 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "arcade",
-        "shield"
+        "Mid",
+        "prestige",
+        "life steal"
     ],
     "cols": [
-        "Noxus",
-        "stun",
-        "arcane"
+        "fear",
+        "Zaun",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
-        ],
-        [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Hwei",
+            "Vex"
         ],
         [
             "Ekko",
-            "Vi",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Shaco"
+        ],
+        [
+            "Jinx",
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kaisa",
+            "Lucian",
+            "Vayne",
+            "Xayah"
+        ],
+        [
+            "Aatrox",
+            "Briar",
             "Warwick"
         ],
         [
-            "Riven"
+            "Warwick"
         ],
         [
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Malzahar",
-            "Qiyana",
-            "Riven",
-            "Sona",
-            "Veigar"
-        ],
-        [
-            "Caitlyn"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Kled",
-            "Mel",
-            "Mordekaiser",
-            "Rell",
-            "Riven",
-            "Sion"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Janna",
-            "Mel",
-            "Orianna",
-            "Vi",
-            "Viktor"
+            "Aphelios"
         ]
     ]
 }

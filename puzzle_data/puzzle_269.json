@@ -1,53 +1,103 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "cosmic",
-        "ult execute"
+        "Adc",
+        "dash",
+        "Season 7+"
     ],
     "cols": [
-        "silence",
-        "Demacia",
+        "The Void",
+        "knock-up",
         "yordle"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Kaisa",
+            "Kogmaw"
         ],
         [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Belveth",
+            "Kaisa",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
             "Jarvan IV",
-            "Morgana",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
             "Poppy",
-            "Shyvana",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
             "Sylas",
-            "Xin Zhao"
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
         ],
         [
             "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Kled",
             "Poppy",
-            "Rumble",
-            "Teemo"
+            "Tristana",
+            "Vex",
+            "Ziggs"
         ],
         [
-            "Kassadin",
-            "Lulu"
+            "Belveth",
+            "Kaisa"
         ],
         [
-            "Lux",
-            "Xin Zhao"
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Lulu"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Garen"
-        ],
-        [
-            "Veigar"
+            "Vex"
         ]
     ]
 }

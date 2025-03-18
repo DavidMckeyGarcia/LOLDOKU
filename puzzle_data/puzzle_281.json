@@ -1,101 +1,109 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "blink",
-        "empyrean"
+        "Jungle",
+        "true damage",
+        "hextech"
     ],
     "cols": [
-        "slow",
-        "The Void",
-        "ascended"
+        "Zaun",
+        "silence",
+        "never played"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Bard",
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Fiddlesticks"
+        ],
+        [
+            "Amumu",
+            "Belveth",
             "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
-            "Karma",
-            "Leona",
-            "Lulu",
-            "Lux",
+            "Briar",
+            "Dr. Mundo",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Kindred",
+            "Lillia",
             "Maokai",
-            "Mel",
-            "Milio",
+            "Mordekaiser",
             "Morgana",
-            "Nami",
-            "Nautilus",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
+            "Nunu",
+            "Rammus",
+            "Reksai",
+            "Rell",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
             "Zyra"
         ],
         [
-            "Velkoz"
+            "Renata glasc",
+            "Twitch",
+            "Urgot"
         ],
         [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Ekko",
-            "Kassadin",
-            "Lissandra",
-            "Pantheon",
+            "Akshan",
+            "Amumu",
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
             "Pyke",
-            "Reksai",
-            "Ryze",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Zed"
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Janna",
+            "Singed",
+            "Ziggs"
         ],
         [
             "Kassadin",
-            "Reksai"
-        ],
-        [
-            "Pantheon"
-        ],
-        [
-            "Akali",
-            "Brand",
-            "Jhin",
-            "Ksante",
-            "Kayle",
-            "Lux",
-            "Nocturne",
-            "Pyke",
-            "Varus",
-            "Vex",
-            "Zac",
-            "Zed"
-        ],
-        [
             "Malzahar"
         ],
         [
-            "Varus"
+            "Alistar",
+            "Amumu",
+            "Janna",
+            "Jarvan IV",
+            "Rammus",
+            "Sejuani"
         ]
     ]
 }

@@ -1,74 +1,158 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "ult execute",
-        "OG40"
+        "Jungle",
+        "OG40",
+        "ult execute"
     ],
     "cols": [
-        "Shadow Isles",
-        "knock-up",
-        "ult reset"
+        "Bandle City",
+        "slow",
+        "shred"
     ],
     "solutions": [
         [
-            "Karthus",
-            "Vex"
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Camille",
             "Diana",
-            "Fizz",
-            "Galio",
+            "Dr. Mundo",
+            "Ekko",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
             "Gragas",
-            "Neeko",
-            "Orianna",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Karthus",
+            "Kayn",
+            "Khazix",
+            "Kindred",
+            "Lee sin",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nasus",
+            "Nautilus",
+            "Nocturne",
+            "Nunu",
+            "Olaf",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sejuani",
+            "Sett",
+            "Shaco",
+            "Shen",
+            "Skarner",
             "Sylas",
             "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Talon",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
         ],
         [
-            "Viego"
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Darius",
-            "Viego"
-        ],
-        [
-            "Karthus"
-        ],
-        [
-            "Alistar",
             "Anivia",
-            "Blitzcrank",
+            "Ashe",
             "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
             "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
             "Malphite",
+            "Morgana",
+            "Nasus",
             "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
             "Sion"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Veigar"
+        ],
+        [
+            "Akali",
+            "Chogath",
+            "Darius",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Syndra",
+            "Urgot",
+            "Viego"
+        ],
+        [
+            "Evelynn",
+            "Garen"
         ]
     ]
 }

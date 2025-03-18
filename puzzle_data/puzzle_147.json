@@ -1,45 +1,42 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
+        "Mid",
         "global ult",
-        "elderwood"
+        "OG40"
     ],
     "cols": [
-        "Shadow Isles",
+        "Demacia",
         "root",
-        "30+ wins"
+        "celestial"
     ],
     "solutions": [
         [
-            "Maokai",
-            "Senna",
-            "Thresh"
-        ],
-        [
-            "Karma",
-            "Leona",
+            "Galio",
+            "Kayle",
+            "Lucian",
             "Lux",
-            "Maokai",
+            "Sylas"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
             "Mel",
-            "Morgana",
-            "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Swain"
         ],
         [
-            "Galio"
+            "Aurelion Sol"
         ],
         [
-            "Karthus",
-            "Maokai",
-            "Senna",
-            "Vex"
+            "Galio",
+            "Lux"
         ],
         [
             "Caitlyn",
@@ -52,22 +49,24 @@
             "Soraka"
         ],
         [
-            "Galio",
+            "Aurelion Sol",
+            "Bard",
+            "Soraka"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Morgana",
+            "Nunu",
             "Ryze",
-            "Taliyah"
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Hecarim",
-            "Karthus"
-        ],
-        [
-            "LeBlanc",
-            "Xayah"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "LeBlanc"
+            "Soraka"
         ]
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
         "Top",
-        "Space Groove",
-        "true damage"
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
         "stun",
-        "Shurima",
-        "100+ games"
+        "Shadow Isles",
+        "0 games"
     ],
     "solutions": [
         [
@@ -41,40 +41,13 @@
             "Zac"
         ],
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
+            "Gwen",
             "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
+            "Yorick"
         ],
         [
-            "Blitzcrank",
-            "Gragas",
-            "Lissandra",
-            "Nami",
-            "Nunu",
-            "Taric",
-            "Twisted fate"
-        ],
-        [
-            "Nasus"
-        ],
-        [
-            "Gragas",
-            "Lulu",
-            "Rumble"
+            "Ambessa",
+            "Illaoi"
         ],
         [
             "Amumu",
@@ -93,12 +66,45 @@
             "Yone"
         ],
         [
-            "Akshan",
-            "Amumu",
-            "Ksante"
+            "Gwen"
         ],
         [
-            "Syndra"
+            "Akshan",
+            "Master yi",
+            "Samira"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

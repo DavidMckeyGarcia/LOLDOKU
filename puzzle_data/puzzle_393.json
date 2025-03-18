@@ -1,124 +1,99 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "life steal",
-        "OG40"
+        "Mid",
+        "OG40",
+        "elderwood"
     ],
     "cols": [
-        "stun",
-        "Noxus",
-        "never played"
+        "Freljord",
+        "root",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Draven",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
             "Mel",
-            "Samira",
-            "Smolder"
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Aphelios",
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Anivia",
             "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
+            "Nunu",
+            "Tryndamere"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Ksante",
             "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
-            "Kayn",
-            "Morgana",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Warwick"
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
             "Ashe",
             "Blitzcrank",
-            "Heimerdinger",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
             "Jax",
-            "Morgana",
+            "Master yi",
             "Nunu",
             "Rammus",
-            "Sion",
-            "Taric",
+            "Sivir",
+            "Tristana",
             "Twisted fate",
             "Veigar",
             "Warwick",
             "Zilean"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
+            "Gnar"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
+            "LeBlanc",
+            "Xayah"
+        ],
+        [
+            "Gnar",
+            "Hecarim",
+            "Veigar",
+            "Wukong"
         ]
     ]
 }

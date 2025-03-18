@@ -1,81 +1,113 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "global ult",
-        "cosmic"
+        "Adc",
+        "blink",
+        "before s7"
     ],
     "cols": [
-        "Freljord",
-        "root",
-        "shred"
+        "knock-up",
+        "Zaun",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
-        ],
-        [
-            "Ashe",
-            "Ornn"
-        ],
-        [
-            "Caitlyn",
             "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Briar",
-            "Karthus",
-            "Sion"
+            "Sivir",
+            "Vayne"
         ],
         [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ekko"
+        ],
+        [
+            "Master yi",
+            "Pyke",
+            "Viego"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
             "Anivia",
-            "Lissandra",
-            "Nunu"
-        ],
-        [
-            "Jhin",
-            "Lissandra",
-            "Lux",
+            "Aurelion Sol",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
             "Nautilus",
             "Nunu",
-            "Varus",
-            "Xayah"
+            "Orianna",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Sion"
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Ekko",
+            "Janna",
+            "Jinx",
+            "Orianna",
+            "Singed",
+            "Twitch",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Warwick",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ]
     ]
 }

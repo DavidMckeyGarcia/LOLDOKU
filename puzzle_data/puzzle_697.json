@@ -1,91 +1,125 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
         "Adc",
-        "shield",
-        "Space Groove"
+        "dash",
+        "pool party"
     ],
     "cols": [
+        "Zaun",
         "stun",
-        "Shurima",
-        "0 games"
+        "pentakill"
     ],
     "solutions": [
+        [
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
         [
             "Ashe",
             "Seraphine",
             "Vayne"
         ],
         [
-            "Sivir"
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
         ],
         [
-            "Mel",
-            "Samira"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
             "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
             "Urgot",
             "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
+            "Warwick",
+            "Zac",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Akshan",
-            "Azir",
-            "Ksante",
-            "Naafiri",
-            "Sivir"
-        ],
-        [
-            "Akshan",
+            "Alistar",
             "Ambessa",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Vex"
-        ],
-        [
-            "Blitzcrank",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
             "Gragas",
-            "Lissandra",
-            "Nami",
-            "Nunu",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Fiora",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Vayne"
+        ],
+        [
+            "Dr. Mundo",
+            "Orianna",
+            "Singed",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
             "Taric",
-            "Twisted fate"
+            "Zac"
         ],
         [
-            "Nasus"
-        ],
-        [
-            "Samira"
+            "Fiora"
         ]
     ]
 }

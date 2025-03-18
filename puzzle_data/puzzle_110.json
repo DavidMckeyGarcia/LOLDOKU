@@ -1,71 +1,86 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "PROJECT",
-        "life steal"
+        "Mid",
+        "invis",
+        "empyrean"
     ],
     "cols": [
-        "Demacia",
+        "Zaun",
         "stun",
-        "ascended"
+        "yordle"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
-        ],
-        [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Ashe",
             "Ekko",
-            "Fiora",
-            "Irelia",
-            "Jax",
-            "Leona",
-            "Pyke",
-            "Renekton",
-            "Sejuani",
-            "Sylas",
-            "Vayne",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Leona",
-            "Renekton",
-            "Varus"
-        ],
-        [
-            "Morgana"
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
             "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Twitch"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Teemo"
+        ],
+        [
+            "Zac"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
+            "Zac"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

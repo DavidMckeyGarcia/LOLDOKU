@@ -1,87 +1,85 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "invis",
-        "before s7"
+        "Jungle",
+        "pool party",
+        "ult execute"
     ],
     "cols": [
-        "Freljord",
-        "fear",
+        "Noxus",
+        "knock-up",
         "yordle"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Diana",
             "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Aurora"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Teemo"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Brand",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Lissandra",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
             "Nunu",
-            "Olaf",
+            "Poppy",
+            "Reksai",
+            "Rell",
             "Sejuani",
+            "Sylas",
+            "Taliyah",
             "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
             "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
             "Poppy",
             "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar",
+            "Teemo"
+        ],
+        [
+            "Draven"
+        ],
+        [
+            "Braum",
+            "Jarvan IV",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Reksai",
+            "Taliyah",
+            "Zac",
             "Ziggs"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Ziggs"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Veigar"
         ]
     ]
 }

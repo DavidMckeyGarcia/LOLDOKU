@@ -1,67 +1,118 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "cosmic",
-        "invis"
+        "Jungle",
+        "dash",
+        "before s7"
     ],
     "cols": [
+        "Bandle City",
         "root",
-        "The Void",
         "yordle"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Kaisa",
-            "Kogmaw"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
             "Corki",
+            "Fizz",
             "Tristana",
+            "Yuumi"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Kled",
+            "Poppy",
+            "Tristana",
+            "Vex",
             "Ziggs"
         ],
         [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Lulu",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
             "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
             "Lissandra",
             "Lux",
+            "Morgana",
             "Nautilus",
             "Nunu",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Belveth",
-            "Kassadin"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
             "Rengar",
-            "Senna",
-            "Shaco"
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Kaisa",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Teemo"
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

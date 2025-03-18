@@ -1,90 +1,65 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "prestige",
-        "true damage"
+        "Top",
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "Demacia",
-        "silence",
-        "100% AP Ratio"
+        "The Void",
+        "root",
+        "ascended"
     ],
     "solutions": [
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Chogath"
         ],
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
+            "Aatrox",
+            "Kayn",
+            "Nasus",
             "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
+            "Renekton"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Sona",
-            "Sylas",
-            "Vayne"
+            "Kaisa"
         ],
         [
-            "Garen",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Jax",
+            "Caitlyn",
             "Jinx",
-            "Kaisa",
             "Lux",
-            "Neeko",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
             "Pantheon",
-            "Sivir",
-            "Thresh",
-            "Volibear",
-            "Zeri"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Vayne"
+            "Xerath"
         ],
         [
             "Chogath",
-            "Garen"
+            "Kassadin"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
-            "Nunu"
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Nasus",
+            "Taric"
         ]
     ]
 }

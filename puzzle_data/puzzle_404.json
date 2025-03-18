@@ -1,95 +1,117 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "blink",
-        "Season 7+"
+        "Support",
+        "invis",
+        "before s7"
     ],
     "cols": [
         "knock-up",
-        "Ionia",
-        "pentakill"
+        "Ixtal",
+        "arcane"
     ],
     "solutions": [
         [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Milio",
+            "Neeko",
+            "Zyra"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Mel"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Neeko",
+            "Qiyana",
+            "Rengar"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
             "Anivia",
             "Aurelion Sol",
             "Azir",
+            "Blitzcrank",
+            "Braum",
             "Chogath",
             "Diana",
             "Fizz",
             "Galio",
             "Gragas",
-            "Neeko",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
+            "Nunu",
             "Orianna",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
+            "Poppy",
             "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
             "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
             "Yasuo",
-            "Yone"
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Master yi",
-            "Shen",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Malphite",
+            "Nidalee",
+            "Rengar",
+            "Skarner",
+            "Zyra"
         ],
         [
-            "Ezreal",
-            "Ryze"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
-        ],
-        [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
+            "Caitlyn",
+            "Ekko",
+            "Heimerdinger",
+            "Janna",
+            "Jayce",
+            "Jinx",
+            "LeBlanc",
+            "Orianna",
+            "Singed",
+            "Vi",
+            "Viktor",
+            "Warwick"
         ]
     ]
 }

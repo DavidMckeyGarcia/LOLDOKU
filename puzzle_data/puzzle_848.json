@@ -1,65 +1,138 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
+        "Jungle",
         "shield",
-        "OG40"
+        "Season 7+"
     ],
     "cols": [
-        "fear",
-        "Ixtal",
-        "ult reset"
+        "stun",
+        "Freljord",
+        "arcane"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Ekko",
+            "Vi",
             "Warwick"
         ],
         [
-            "Malphite",
-            "Skarner"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Malphite",
+            "Ambessa",
+            "Annie",
+            "Blitzcrank",
+            "Braum",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
             "Milio",
+            "Morgana",
+            "Nautilus",
             "Neeko",
-            "Skarner"
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rell",
+            "Renata glasc",
+            "Riven",
+            "Seraphine",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Yone"
         ],
         [
-            "Naafiri",
+            "Braum",
+            "Nunu",
             "Olaf",
-            "Sivir",
-            "Vex",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Janna",
+            "Mel",
+            "Orianna",
+            "Vi",
             "Viktor"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Malphite"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Ambessa",
+            "Mel"
         ]
     ]
 }

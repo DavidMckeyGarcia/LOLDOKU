@@ -1,21 +1,16 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
         "Mid",
-        "true damage",
-        "OG40"
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "silence",
         "Demacia",
-        "30+ wins"
+        "fear",
+        "pentakill"
     ],
     "solutions": [
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
         [
             "Galio",
             "Kayle",
@@ -24,44 +19,40 @@
             "Sylas"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
             "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Tristana"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Sylas"
         ],
         [
-            "Fiora",
-            "Garen",
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
+        ],
+        [
             "Vayne"
         ],
         [
-            "Ahri",
-            "Corki"
+            "Shaco"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Corki",
-            "Ryze"
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

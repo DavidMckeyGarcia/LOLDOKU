@@ -1,97 +1,61 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "PROJECT",
-        "evolves"
+        "Top",
+        "OG40",
+        "invis"
     ],
     "cols": [
-        "Zaun",
-        "stun",
-        "ult reset"
+        "fear",
+        "The Void",
+        "yordle"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Chogath"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
         ],
         [
             "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
+            "Shaco"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
+            "Kaisa",
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Irelia",
-            "Jax",
-            "Leona",
-            "Pyke",
-            "Renekton",
-            "Sejuani",
-            "Sylas",
-            "Vayne",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Master yi",
-            "Vayne"
-        ],
-        [
-            "Viktor"
-        ],
-        [
-            "Bard",
-            "Syndra",
-            "Viktor"
-        ],
-        [
-            "Belveth",
-            "Viktor"
+            "Teemo"
         ]
     ]
 }

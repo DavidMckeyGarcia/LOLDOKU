@@ -1,120 +1,56 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "challenger",
     "rows": [
-        "Adc",
-        "arcade",
-        "invis"
+        "Mid",
+        "global ult",
+        "hextech"
     ],
     "cols": [
-        "Noxus",
-        "slow",
-        "never played"
+        "silence",
+        "Freljord",
+        "tether"
     ],
     "solutions": [
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
-        ],
-        [
-            "Riven"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Brand",
-            "Caitlyn",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Miss Fortune",
-            "Qiyana",
-            "Sona",
-            "Ziggs"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Miss Fortune",
-            "Sona"
-        ],
-        [
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Akali",
+            "Anivia",
             "Aurora",
-            "Kaisa",
-            "Khazix",
-            "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Akshan",
-            "Pyke",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Teemo",
-            "Twitch",
-            "Vayne",
-            "Viego",
-            "Wukong"
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Kled",
+            "Nocturne"
+        ],
+        [
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Anivia",
+            "Sejuani"
+        ],
+        [
+            "Malzahar",
+            "Nocturne"
         ]
     ]
 }

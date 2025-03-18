@@ -1,103 +1,63 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "global ult",
-        "cosmic"
+        "Jungle",
+        "shield",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Noxus",
-        "never played"
+        "fear",
+        "Targon",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
+            "Diana",
+            "Pantheon"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
         ],
         [
             "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
+            "Diana",
+            "Taric"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Briar",
-            "Draven",
             "Kled",
-            "Mel",
-            "Sion"
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ],
         [
-            "Ashe",
-            "Bard",
             "Briar",
-            "Draven",
-            "Jinx",
-            "Kled",
-            "Lillia",
-            "Maokai",
-            "Senna",
-            "Shen",
-            "Soraka"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Anivia",
-            "Hecarim",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Sion",
-            "Skarner",
-            "Xin Zhao"
+            "Aphelios",
+            "Zoe"
         ],
         [
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Belveth",
-            "Hecarim",
-            "Illaoi",
-            "Jhin",
-            "Nami",
-            "Nunu",
-            "Rakan",
-            "Skarner",
-            "Xayah",
-            "Xin Zhao"
+            "Vex"
         ]
     ]
 }

@@ -1,75 +1,31 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "global ult",
-        "empyrean"
+        "OG40",
+        "dark star"
     ],
     "cols": [
-        "Freljord",
-        "slow",
+        "fear",
+        "Demacia",
         "manaless"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Camille",
-            "Chogath",
-            "Darius",
-            "Dr. Mundo",
             "Fiora",
-            "Gangplank",
             "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Irelia",
             "Jarvan IV",
-            "Jayce",
-            "Ksante",
             "Kayle",
-            "Kayn",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Ornn",
-            "Pantheon",
             "Poppy",
             "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
-            "Sion",
-            "Skarner",
-            "Swain",
             "Sylas",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
-            "Zac"
+            "Vayne"
         ],
         [
             "Aatrox",
@@ -91,67 +47,28 @@
             "Zac"
         ],
         [
-            "Ashe",
-            "Ornn"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Caitlyn",
-            "Draven",
-            "Ekko",
-            "Galio",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Karthus",
-            "Kled",
-            "Lillia",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Nocturne",
-            "Ornn",
-            "Pantheon",
-            "Ryze",
-            "Senna",
-            "Shen",
-            "Sion",
-            "Soraka",
-            "Taliyah",
-            "Twisted fate",
-            "Vex",
-            "Xerath",
-            "Ziggs"
-        ],
-        [
-            "Briar",
-            "Kled",
-            "Shen"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Akali",
-            "Brand",
-            "Jhin",
-            "Ksante",
             "Kayle",
-            "Lux",
-            "Nocturne",
-            "Pyke",
-            "Varus",
-            "Vex",
-            "Zac",
-            "Zed"
+            "Morgana"
         ],
         [
-            "Akali",
-            "Zac",
-            "Zed"
+            "Dr. Mundo",
+            "Katarina",
+            "Tryndamere"
+        ],
+        [
+            "Shaco"
+        ],
+        [
+            "Jarvan IV",
+            "Lux"
+        ],
+        [
+            "Mordekaiser"
         ]
     ]
 }

@@ -1,117 +1,99 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Top",
+        "Adc",
         "true damage",
-        "dark star"
+        "before s7"
     ],
     "cols": [
-        "stun",
-        "Demacia",
-        "100% AP Ratio"
+        "The Void",
+        "root",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Kaisa",
+            "Kogmaw"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Vayne"
+            "Corki",
+            "Tristana",
+            "Ziggs"
         ],
         [
             "Belveth",
             "Chogath",
-            "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
-            "Nunu"
+            "Kogmaw",
+            "Velkoz"
         ],
         [
-            "Lissandra",
-            "Orianna",
-            "Thresh",
-            "Xerath"
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
         ],
         [
-            "Jarvan IV",
-            "Lux"
+            "Amumu",
+            "Corki"
         ],
         [
             "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
             "Jhin",
+            "Jinx",
             "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
             "Lux",
-            "Thresh",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
             "Varus",
-            "Xerath"
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

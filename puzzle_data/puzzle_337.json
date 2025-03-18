@@ -1,104 +1,53 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "blink"
+        "Support",
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "The Void",
-        "stun",
-        "ult reset"
+        "Shadow Isles",
+        "silence",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
+            "Maokai",
+            "Senna",
+            "Thresh"
         ],
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
+            "Galio"
         ],
         [
-            "Belveth",
-            "Kaisa"
+            "Gwen"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
+            "Ahri",
+            "Corki"
         ],
         [
+            "Karthus"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
             "Kassadin",
-            "Reksai"
+            "Soraka"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Master yi",
-            "Viego"
+            "Corki",
+            "Ryze"
         ]
     ]
 }

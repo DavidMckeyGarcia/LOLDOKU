@@ -1,170 +1,81 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "platinum",
     "rows": [
         "Jungle",
-        "OG40",
-        "true damage"
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "The Void",
-        "slow",
-        "100+ games"
+        "Demacia",
+        "root",
+        "yordle"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
-            "Belveth",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Diana",
-            "Dr. Mundo",
-            "Ekko",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gragas",
-            "Graves",
-            "Hecarim",
             "Ivern",
-            "Jarvan IV",
-            "Karthus",
-            "Kayn",
-            "Khazix",
-            "Kindred",
             "Lee sin",
-            "Lillia",
             "Maokai",
-            "Mordekaiser",
             "Morgana",
-            "Nasus",
             "Nautilus",
-            "Nocturne",
             "Nunu",
-            "Olaf",
-            "Pantheon",
-            "Poppy",
             "Qiyana",
-            "Rammus",
-            "Reksai",
             "Rengar",
-            "Rumble",
-            "Sejuani",
-            "Sett",
             "Shaco",
-            "Shen",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Talon",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
             "Zac",
             "Zyra"
         ],
         [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
+            "Amumu",
+            "Poppy",
             "Rumble",
-            "Sejuani",
-            "Shen"
+            "Teemo"
         ],
         [
-            "Chogath",
-            "Kassadin"
+            "Galio",
+            "Lux"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
+        ],
+        [
             "Kayle",
-            "Malphite",
+            "Morgana"
+        ],
+        [
             "Morgana",
-            "Nasus",
             "Nunu",
-            "Rammus",
             "Ryze",
             "Shaco",
             "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
+            "Soraka"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
             "Teemo",
             "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Belveth",
-            "Camille",
-            "Chogath",
-            "Corki",
-            "Darius",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Ksante",
-            "Kogmaw",
-            "Lillia",
-            "Nunu",
-            "Olaf",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Sett",
-            "Syndra",
-            "Twitch",
-            "Urgot",
-            "Velkoz",
-            "Zoe"
-        ],
-        [
-            "Syndra"
+            "Veigar"
         ]
     ]
 }

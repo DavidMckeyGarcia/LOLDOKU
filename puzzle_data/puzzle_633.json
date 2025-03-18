@@ -1,130 +1,113 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "OG40",
-        "prestige"
+        "Support",
+        "Season 7+",
+        "PROJECT"
     ],
     "cols": [
+        "Noxus",
         "stun",
-        "Shurima",
-        "tether"
+        "0 games"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
+            "Alistar",
+            "Annie",
+            "Mel",
             "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
+            "Swain"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Anivia",
             "Annie",
             "Ashe",
+            "Bard",
             "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
-        ],
-        [
             "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
+            "Braum",
+            "Heimerdinger",
             "Leona",
-            "Lissandra",
+            "Milio",
             "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
             "Pantheon",
+            "Poppy",
             "Pyke",
-            "Qiyana",
+            "Rell",
             "Renata glasc",
-            "Riven",
-            "Sett",
+            "Seraphine",
             "Sona",
-            "Sylas",
+            "Tahm kench",
+            "Taric",
             "Thresh",
-            "Vayne",
-            "Volibear"
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Aatrox",
-            "Jax",
+            "Mel",
+            "Milio"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
             "Ksante",
-            "Sivir"
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Aatrox",
-            "LeBlanc",
-            "Morgana",
-            "Renata glasc",
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
+        ],
+        [
+            "Katarina",
+            "Mordekaiser"
+        ],
+        [
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
             "Sylas",
-            "Yuumi"
+            "Vayne",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Master yi"
         ]
     ]
 }

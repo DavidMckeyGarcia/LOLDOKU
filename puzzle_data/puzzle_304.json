@@ -1,66 +1,62 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Support",
-        "shield",
-        "cosmic"
+        "Top",
+        "arcade",
+        "true damage"
     ],
     "cols": [
-        "silence",
-        "Demacia",
-        "shred"
+        "root",
+        "Piltover",
+        "yordle"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
+            "Camille",
+            "Heimerdinger",
+            "Jayce"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
             "Poppy",
-            "Sona"
-        ],
-        [
-            "Rell"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Garen",
-            "Jarvan IV",
-            "Mordekaiser",
-            "Olaf",
-            "Rell",
             "Rumble",
-            "Sion",
-            "Vi"
+            "Teemo"
         ],
         [
-            "Kassadin",
-            "Lulu"
+            "Caitlyn",
+            "Qiyana"
         ],
         [
-            "Lux",
-            "Xin Zhao"
+            "Caitlyn",
+            "Ezreal"
         ],
         [
-            "Sion"
+            "Corki",
+            "Veigar",
+            "Ziggs"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Camille"
+        ],
+        [
+            "Amumu",
+            "Corki"
         ]
     ]
 }

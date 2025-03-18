@@ -1,60 +1,114 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "arcade",
-        "shield"
+        "Top",
+        "shield",
+        "prestige"
     ],
     "cols": [
-        "fear",
-        "Freljord",
+        "knock-up",
+        "Targon",
         "pentakill"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Pantheon"
         ],
         [
             "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Darius",
+            "Fiora",
+            "Vayne"
         ],
         [
-            "Hecarim"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Ezreal",
-            "Kaisa"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
+            "Azir",
+            "Blitzcrank",
             "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
             "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Diana",
+            "Taric"
         ],
         [
             "Aphelios",
             "Kaisa"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Zoe"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kaisa",
+            "Lucian",
+            "Vayne",
+            "Xayah"
         ]
     ]
 }

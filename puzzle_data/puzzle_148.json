@@ -1,59 +1,94 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "shield",
-        "Season 7+"
+        "Jungle",
+        "hextech",
+        "before s7"
     ],
     "cols": [
-        "Targon",
         "fear",
-        "pentakill"
+        "The Void",
+        "shred"
     ],
     "solutions": [
         [
-            "Pantheon"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Belveth",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
+        ],
+        [
+            "Nocturne"
+        ],
+        [
+            "Kassadin",
+            "Kogmaw",
+            "Malzahar"
+        ],
+        [
+            "Jarvan IV",
+            "Kogmaw",
+            "Renekton",
+            "Sion"
         ],
         [
             "Aatrox",
             "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
             "Urgot",
             "Warwick"
         ],
         [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
         ],
         [
-            "Aphelios",
-            "Diana",
-            "Taric"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Aphelios",
-            "Kaisa"
-        ],
-        [
-            "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
+            "Corki",
+            "Evelynn",
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Karthus",
+            "Kogmaw",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rengar",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Vi",
+            "Wukong"
         ]
     ]
 }

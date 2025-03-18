@@ -1,92 +1,85 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "dash"
+        "Support",
+        "true damage",
+        "coven"
     ],
     "cols": [
-        "Piltover",
         "root",
-        "pentakill"
+        "Demacia",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Caitlyn",
-            "Ezreal",
-            "Seraphine"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
             "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Tristana",
-            "Twitch",
-            "Vayne",
-            "Xayah"
-        ],
-        [
-            "Camille",
-            "Seraphine"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
             "Renata glasc",
             "Senna",
             "Seraphine",
-            "Xayah"
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
-            "Caitlyn",
-            "Camille",
-            "Ezreal",
-            "Jayce"
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Caitlyn",
             "Ivern",
             "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
+            "Nunu",
+            "Renata glasc"
         ],
         [
-            "Akali",
-            "Ezreal",
             "Fiora",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
+            "Garen",
             "Vayne"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Corki",
+            "Fiora",
+            "Gangplank",
+            "Master yi",
+            "Nunu"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Morgana",
+            "Zyra"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "Ashe",
+            "Evelynn"
         ]
     ]
 }

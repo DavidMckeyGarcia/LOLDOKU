@@ -1,92 +1,65 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Support",
-        "arcade",
-        "life steal"
+        "Adc",
+        "hextech",
+        "blink"
     ],
     "cols": [
-        "Demacia",
-        "stun",
-        "tether"
+        "Zaun",
+        "knock-up",
+        "arcane"
     ],
     "solutions": [
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Janna",
+            "Singed",
+            "Ziggs"
         ],
         [
             "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
             "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
+            "Sejuani",
+            "Sion",
+            "Ziggs"
+        ],
+        [
+            "Janna",
+            "Singed"
+        ],
+        [
+            "Ekko"
+        ],
+        [
+            "Reksai",
             "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Sona"
-        ],
-        [
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Malzahar",
-            "Qiyana",
-            "Riven",
-            "Sona",
-            "Veigar"
-        ],
-        [
-            "Malzahar"
-        ],
-        [
-            "Morgana"
+            "Yasuo",
+            "Yone"
         ],
         [
             "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Morgana"
+            "Ekko",
+            "LeBlanc"
         ]
     ]
 }

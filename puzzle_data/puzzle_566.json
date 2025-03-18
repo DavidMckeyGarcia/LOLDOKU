@@ -1,61 +1,58 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
+        "Support",
         "global ult",
-        "Season 7+"
+        "Fright Night"
     ],
     "cols": [
+        "Bilgewater",
         "stun",
-        "The Void",
-        "100+ games"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Alistar",
             "Annie",
-            "Aurelion Sol",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
             "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Gragas",
+            "Braum",
             "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Orianna",
             "Pantheon",
-            "Qiyana",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
             "Velkoz",
-            "Viktor",
             "Xerath",
-            "Yone",
             "Zilean"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
+            "Pyke",
+            "Swain"
         ],
         [
-            "Azir",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
+            "Gangplank",
+            "Twisted fate"
         ],
         [
             "Ashe",
@@ -71,42 +68,23 @@
             "Xerath"
         ],
         [
-            "Kaisa"
+            "Vex"
         ],
         [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
-            "Ryze",
-            "Shen"
+            "Nautilus",
+            "Pyke"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
+            "Annie",
+            "Nautilus",
+            "Nunu",
             "Pyke",
-            "Rell",
             "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Urgot",
+            "Veigar"
         ],
         [
-            "Belveth",
-            "Kaisa"
-        ],
-        [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Pyke"
         ]
     ]
 }

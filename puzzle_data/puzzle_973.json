@@ -1,133 +1,61 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "blink",
-        "Season 7+"
+        "Top",
+        "life steal",
+        "hextech"
     ],
     "cols": [
-        "Bilgewater",
-        "slow",
-        "riot records"
+        "fear",
+        "Shurima",
+        "ascended"
     ],
     "solutions": [
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
-            "Karma",
-            "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus",
             "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
+            "Renekton"
         ],
         [
-            "Senna",
-            "Sona"
-        ],
-        [
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
-            "Ekko",
-            "Kassadin",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Reksai",
-            "Ryze",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Zed"
-        ],
-        [
-            "Ekko",
-            "Ezreal",
-            "Viego",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aphelios",
-            "Aurora",
-            "Belveth",
+            "Aatrox",
             "Briar",
-            "Camille",
-            "Gwen",
-            "Hwei",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Lillia",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Ornn",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sett",
-            "Smolder",
-            "Sylas",
-            "Vex",
-            "Viego",
-            "Yuumi",
-            "Zeri",
-            "Zoe"
+            "Warwick"
         ],
         [
-            "Aphelios",
+            "Aatrox",
             "Ksante",
-            "Kaisa",
+            "Nasus"
+        ],
+        [
+            "Aatrox",
             "Kayn",
-            "Senna",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Nasus"
+        ],
+        [
+            "Nocturne"
+        ],
+        [
+            "Amumu",
+            "Rammus",
+            "Renekton"
+        ],
+        [
+            "Renekton"
         ]
     ]
 }

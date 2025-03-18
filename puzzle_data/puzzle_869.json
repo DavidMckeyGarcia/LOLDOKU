@@ -1,114 +1,104 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "global ult",
-        "Season 7+"
+        "Support",
+        "Season 7+",
+        "pool party"
     ],
     "cols": [
-        "root",
-        "Zaun",
-        "never played"
+        "stun",
+        "Demacia",
+        "tether"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
-        ],
-        [
+            "Alistar",
+            "Annie",
             "Ashe",
             "Bard",
-            "Briar",
-            "Draven",
-            "Jinx",
-            "Kled",
-            "Lillia",
-            "Maokai",
-            "Senna",
-            "Shen",
-            "Soraka"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
             "Milio",
-            "Naafiri",
-            "Nilah",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
             "Pyke",
-            "Rakan",
             "Rell",
             "Renata glasc",
-            "Samira",
-            "Senna",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
             "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Yone"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
+        ],
+        [
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Fiora",
+            "Jarvan IV"
+        ],
+        [
+            "Taric",
+            "Zac"
         ]
     ]
 }

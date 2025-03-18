@@ -1,124 +1,66 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "prestige",
-        "OG40"
+        "Adc",
+        "OG40",
+        "ult execute"
     ],
     "cols": [
-        "Zaun",
-        "stun",
-        "tether"
+        "Noxus",
+        "knock-up",
+        "arcane"
     ],
     "solutions": [
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Kalista",
+            "Samira",
             "Ziggs"
         ],
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
-        ],
-        [
+            "Caitlyn",
             "Jinx",
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "LeBlanc",
-            "Morgana",
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Mel"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Anivia",
             "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Katarina",
+            "Sion"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Jinx"
         ]
     ]
 }

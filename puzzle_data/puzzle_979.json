@@ -1,49 +1,46 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
+        "Adc",
         "Season 7+",
-        "life steal"
+        "dash"
     ],
     "cols": [
-        "Freljord",
+        "Noxus",
         "root",
-        "ascended"
+        "yordle"
     ],
     "solutions": [
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Diana",
+            "Corki",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Ambessa",
+            "Briar",
             "Kayn",
-            "Nasus",
-            "Pantheon"
-        ],
-        [
-            "Aurora",
-            "Ornn"
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
             "Aphelios",
@@ -57,25 +54,43 @@
             "Xayah"
         ],
         [
+            "Vex"
+        ],
+        [
+            "Alistar",
+            "Ambessa",
+            "Briar",
+            "Elise",
             "Kayn",
-            "Naafiri"
+            "Kled",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Talon"
         ],
         [
-            "Olaf",
-            "Trundle",
-            "Udyr"
-        ],
-        [
-            "Aphelios",
+            "Caitlyn",
+            "Ivern",
             "Ksante",
             "Lee sin",
-            "Morgana",
-            "Senna"
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus"
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Kled",
+            "Poppy",
+            "Tristana",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

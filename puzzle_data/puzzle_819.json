@@ -1,111 +1,100 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "invis",
-        "prestige"
+        "Adc",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Ixtal",
-        "vastayan"
+        "knock-up",
+        "Ionia",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Jhin",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Belveth",
+            "Chogath",
             "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Nidalee",
-            "Qiyana",
-            "Rengar",
-            "Skarner",
-            "Zyra"
-        ],
-        [
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Neeko",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
             "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
-        ],
-        [
-            "Malphite",
-            "Neeko",
-            "Qiyana",
-            "Zyra"
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
         ],
         [
             "Ahri",
+            "Akali",
+            "Ivern",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Syndra",
+            "Yone"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Corki",
+            "Fiora",
+            "Gangplank",
+            "Master yi",
+            "Nunu"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
             "Neeko",
+            "Ornn",
             "Rakan",
-            "Xayah"
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Kaisa",
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
         ]
     ]
 }

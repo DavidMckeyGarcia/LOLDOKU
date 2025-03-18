@@ -1,75 +1,122 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "ult execute",
-        "pool party"
+        "Adc",
+        "arcade",
+        "dash"
     ],
     "cols": [
-        "root",
-        "Zaun",
-        "arcane"
+        "stun",
+        "Demacia",
+        "riot records"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
+            "Ashe",
             "Seraphine",
-            "Swain"
+            "Vayne"
         ],
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
+            "Lucian",
+            "Vayne"
         ],
         [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Sona"
+        ],
+        [
+            "Ahri",
+            "Ezreal",
+            "Kaisa",
+            "Qiyana",
+            "Sona",
+            "Yasuo"
+        ],
+        [
+            "Alistar",
             "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Briar",
+            "Camille",
             "Ekko",
-            "Heimerdinger",
-            "Jayce",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Jinx",
-            "Urgot"
-        ],
-        [
-            "Jinx"
-        ],
-        [
-            "Caitlyn",
-            "Lee sin",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
             "Leona",
-            "Singed",
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
             "Zac"
         ],
         [
-            "Dr. Mundo",
-            "Orianna",
-            "Singed",
-            "Zac",
-            "Ziggs"
+            "Fiora",
+            "Galio",
+            "Jarvan IV",
+            "Lucian",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sylas",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
-            "Caitlyn",
-            "Heimerdinger",
-            "Orianna",
-            "Singed"
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Qiyana",
+            "Sett",
+            "Viego",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

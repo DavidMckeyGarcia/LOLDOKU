@@ -2,15 +2,31 @@
     "difficulty": "bronze",
     "rows": [
         "Support",
-        "prestige",
-        "global ult"
+        "blink",
+        "before s7"
     ],
     "cols": [
+        "root",
         "Bilgewater",
-        "stun",
-        "arcane"
+        "100+ games"
     ],
     "solutions": [
+        [
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
         [
             "Nami",
             "Nautilus",
@@ -19,93 +35,96 @@
         ],
         [
             "Alistar",
-            "Annie",
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
             "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Heimerdinger",
             "Janna",
-            "Mel"
-        ],
-        [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
             "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
+        ],
+        [
+            "LeBlanc",
             "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
+            "Ryze"
+        ],
+        [
             "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "LeBlanc"
-        ],
-        [
-            "Gangplank",
+            "Tahm kench",
             "Twisted fate"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Ezreal",
+            "Ryze",
+            "Shen"
         ],
         [
             "Caitlyn",
-            "Ekko",
+            "Ivern",
+            "Jhin",
             "Jinx",
-            "Mel"
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Ashe",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Janna",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Jhin",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Lulu",
+            "Orianna",
+            "Renekton",
+            "Rumble",
+            "Ryze",
+            "Sejuani",
+            "Shen",
+            "Syndra",
+            "Thresh",
+            "Tristana",
+            "Varus"
         ]
     ]
 }

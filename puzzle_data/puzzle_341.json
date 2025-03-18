@@ -1,63 +1,133 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "hextech",
+        "Mid",
+        "coven",
         "OG40"
     ],
     "cols": [
-        "fear",
-        "Zaun",
-        "ascended"
+        "stun",
+        "Noxus",
+        "never played"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
             "Pantheon",
-            "Renekton"
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Nocturne"
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Janna",
-            "Singed",
-            "Ziggs"
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Heimerdinger",
+            "Naafiri"
         ],
         [
-            "Renekton"
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Cassiopeia",
+            "Elise",
+            "LeBlanc"
         ],
         [
+            "Ashe",
+            "Elise",
+            "Evelynn",
+            "Morgana",
+            "Nami",
+            "Nilah",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
             "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
             "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
             "Janna",
-            "Singed",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
             "Twitch",
             "Warwick"
-        ],
-        [
-            "Nasus",
-            "Taric"
         ]
     ]
 }

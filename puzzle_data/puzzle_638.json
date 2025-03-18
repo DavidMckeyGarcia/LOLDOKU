@@ -1,55 +1,65 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "OG40",
-        "Space Groove"
+        "Adc",
+        "arcade",
+        "true damage"
     ],
     "cols": [
-        "silence",
-        "Demacia",
-        "0 games"
+        "The Void",
+        "root",
+        "shred"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Kaisa",
+            "Kogmaw"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
-            "Milio"
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Blitzcrank",
+            "Corki",
+            "Kogmaw"
+        ],
+        [
+            "Belveth",
+            "Kaisa",
+            "Malzahar"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Belveth",
             "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Kogmaw",
+            "Velkoz"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
         ],
         [
-            "Master yi"
-        ],
-        [
-            "Blitzcrank",
-            "Lulu"
-        ],
-        [
-            "Lux"
-        ],
-        [
-            "Samira"
+            "Corki",
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
         ]
     ]
 }

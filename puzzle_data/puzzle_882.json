@@ -1,69 +1,81 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "empyrean",
-        "blink"
+        "Top",
+        "Season 7+",
+        "shield"
     ],
     "cols": [
-        "knock-up",
-        "Bilgewater",
-        "ult reset"
+        "fear",
+        "Piltover",
+        "riot records"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Orianna",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Camille",
+            "Heimerdinger",
+            "Jayce"
+        ],
+        [
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
             "Yasuo",
             "Yone",
-            "Ziggs"
+            "Yorick"
         ],
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Ksante",
-            "Zac"
-        ],
-        [
-            "Pyke"
-        ],
-        [
+            "Briar",
+            "Hwei",
             "Vex"
         ],
         [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
+            "Camille",
+            "Seraphine"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
             "Yone"
         ],
         [
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate"
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
         ],
         [
-            "Master yi",
-            "Viego"
+            "Camille",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Aphelios",
+            "Ekko",
+            "Ksante",
+            "Kaisa",
+            "Mordekaiser",
+            "Olaf",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

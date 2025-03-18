@@ -1,71 +1,102 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "ult execute",
-        "Season 7+"
+        "Adc",
+        "before s7",
+        "life steal"
     ],
     "cols": [
         "root",
-        "Bilgewater",
-        "arcane"
+        "The Void",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "Jayce",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Jinx"
-        ],
-        [
             "Aphelios",
-            "Hwei",
-            "Ksante",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
-            "Neeko",
-            "Renata glasc",
             "Senna",
             "Seraphine",
+            "Varus",
             "Xayah"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Kaisa",
+            "Kogmaw"
         ],
         [
-            "Ambessa",
-            "Mel"
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Ryze",
+            "Tristana",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Belveth"
+        ],
+        [
+            "Aphelios"
         ]
     ]
 }

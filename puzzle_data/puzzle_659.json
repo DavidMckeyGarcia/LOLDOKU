@@ -1,102 +1,99 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "blink",
-        "coven"
+        "Support",
+        "PROJECT",
+        "blink"
     ],
     "cols": [
-        "slow",
-        "Bilgewater",
-        "pentakill"
+        "stun",
+        "Shadow Isles",
+        "riot records"
     ],
     "solutions": [
         [
-            "Aphelios",
+            "Alistar",
+            "Annie",
             "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
             "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
+            "Maokai",
+            "Senna",
+            "Thresh"
         ],
         [
-            "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Tristana",
-            "Twitch",
-            "Vayne",
-            "Xayah"
+            "Senna",
+            "Sona"
         ],
         [
+            "Ashe",
             "Ekko",
-            "Kassadin",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Senna"
+        ],
+        [
+            "Akali",
+            "Ekko",
+            "Mordekaiser",
+            "Senna",
+            "Yasuo"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
             "Lissandra",
             "Pantheon",
             "Pyke",
-            "Reksai",
-            "Ryze",
-            "Shen",
             "Tahm kench",
             "Twisted fate",
             "Viego",
-            "Zed"
+            "Yone"
         ],
         [
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate"
+            "Viego"
         ],
         [
+            "Ekko",
             "Ezreal",
-            "Ryze"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Evelynn",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Nilah",
-            "Syndra",
-            "Zyra"
-        ],
-        [
-            "Nami",
-            "Nilah"
-        ],
-        [
-            "Akali"
+            "Viego",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

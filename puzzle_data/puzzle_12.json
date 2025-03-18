@@ -1,105 +1,72 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 7+",
-        "global ult"
+        "Jungle",
+        "pool party",
+        "invis"
     ],
     "cols": [
-        "stun",
-        "Targon",
-        "0 games"
+        "Demacia",
+        "root",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
+            "Jarvan IV",
+            "Morgana",
             "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
+            "Shyvana",
             "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
+            "Xin Zhao"
+        ],
+        [
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
+        ],
+        [
+            "Fiora",
+            "Jarvan IV"
+        ],
+        [
+            "Caitlyn",
+            "Lee sin",
+            "Leona",
+            "Singed",
             "Zac"
         ],
         [
-            "Pantheon"
+            "Singed"
         ],
         [
-            "Ambessa",
-            "Illaoi"
+            "Vayne"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
+            "LeBlanc",
             "Neeko",
-            "Ornn",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
             "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Aurelion Sol",
-            "Pantheon",
-            "Soraka"
-        ],
-        [
-            "Briar",
-            "Mel",
-            "Vex"
+            "Vayne",
+            "Viego"
         ]
     ]
 }

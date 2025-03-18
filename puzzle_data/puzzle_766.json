@@ -1,137 +1,93 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "platinum",
     "rows": [
         "Support",
-        "global ult",
-        "pool party"
+        "blink",
+        "hextech"
     ],
     "cols": [
-        "slow",
-        "Demacia",
-        "yordle"
+        "Zaun",
+        "stun",
+        "ult reset"
     ],
     "solutions": [
         [
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
+        ],
+        [
+            "Alistar",
+            "Annie",
             "Ashe",
             "Bard",
+            "Blitzcrank",
             "Brand",
             "Braum",
-            "Galio",
             "Heimerdinger",
-            "Janna",
-            "Karma",
             "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
             "Milio",
             "Morgana",
             "Nami",
             "Nautilus",
+            "Neeko",
             "Pantheon",
             "Poppy",
             "Pyke",
-            "Rakan",
+            "Rell",
             "Renata glasc",
-            "Senna",
             "Seraphine",
             "Sona",
-            "Soraka",
-            "Swain",
             "Tahm kench",
+            "Taric",
             "Thresh",
             "Velkoz",
             "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
+            "Zilean"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Pyke",
+            "Swain"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
+            "Ekko"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Caitlyn",
-            "Draven",
+            "Ambessa",
             "Ekko",
-            "Galio",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Karthus",
-            "Kled",
-            "Lillia",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Nocturne",
-            "Ornn",
+            "Lissandra",
             "Pantheon",
-            "Ryze",
-            "Senna",
-            "Shen",
-            "Sion",
-            "Soraka",
-            "Taliyah",
+            "Pyke",
+            "Tahm kench",
             "Twisted fate",
-            "Vex",
-            "Xerath",
-            "Ziggs"
+            "Viego",
+            "Yone"
         ],
         [
-            "Galio",
-            "Lux"
+            "Master yi",
+            "Pyke",
+            "Viego"
         ],
         [
-            "Kled",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Braum",
-            "Caitlyn",
-            "Dr. Mundo",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Graves",
-            "Heimerdinger",
-            "Jarvan IV",
-            "Lee sin",
-            "Leona",
-            "Lulu",
-            "Miss Fortune",
-            "Orianna",
-            "Reksai",
-            "Sett",
+            "Janna",
             "Singed",
-            "Syndra",
-            "Taliyah",
-            "Zac",
-            "Ziggs",
-            "Zoe"
-        ],
-        [
-            "Fiora",
-            "Jarvan IV"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
             "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
+        ],
+        [
+            "Singed",
+            "Swain"
         ]
     ]
 }

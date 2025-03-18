@@ -1,129 +1,78 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "global ult",
-        "OG40"
+        "Mid",
+        "life steal",
+        "empyrean"
     ],
     "cols": [
-        "slow",
-        "Targon",
-        "0 games"
+        "Demacia",
+        "knock-up",
+        "tether"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
-            "Mel",
-            "Samira"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Caitlyn",
-            "Draven",
-            "Ekko",
             "Galio",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Karthus",
-            "Kled",
-            "Lillia",
+            "Kayle",
+            "Lucian",
             "Lux",
-            "Maokai",
-            "Mel",
-            "Nocturne",
-            "Ornn",
-            "Pantheon",
-            "Ryze",
-            "Senna",
-            "Shen",
-            "Sion",
-            "Soraka",
-            "Taliyah",
-            "Twisted fate",
-            "Vex",
-            "Xerath",
-            "Ziggs"
-        ],
-        [
-            "Aurelion Sol",
-            "Pantheon",
-            "Soraka"
-        ],
-        [
-            "Briar",
-            "Mel",
-            "Vex"
+            "Sylas"
         ],
         [
             "Anivia",
-            "Ashe",
+            "Aurelion Sol",
+            "Azir",
             "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
             "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
+            "Trundle"
         ],
         [
-            "Soraka",
-            "Taric"
+            "Aatrox",
+            "Illaoi",
+            "Morgana"
         ],
         [
-            "Master yi"
+            "Kayle",
+            "Lux"
+        ],
+        [
+            "Ksante",
+            "Zac"
+        ],
+        [
+            "Malzahar",
+            "Nocturne",
+            "Zac"
         ]
     ]
 }

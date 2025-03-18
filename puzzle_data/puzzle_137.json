@@ -1,101 +1,81 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "true damage"
+        "Top",
+        "ult execute",
+        "Space Groove"
     ],
     "cols": [
         "knock-up",
-        "Bilgewater",
-        "shred"
+        "Demacia",
+        "yordle"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Briar",
-            "Rell",
-            "Zoe"
-        ],
-        [
-            "Belveth",
+            "Aatrox",
             "Chogath",
-            "Ivern",
+            "Gragas",
+            "Jarvan IV",
             "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Corki",
+            "Fiora",
             "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Garen"
+        ],
+        [
+            "Veigar"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lulu",
+            "Nami",
+            "Nunu",
+            "Samira"
+        ],
+        [
+            "Lux"
+        ],
+        [
+            "Lulu",
+            "Rumble",
+            "Teemo"
         ]
     ]
 }

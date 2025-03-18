@@ -1,134 +1,66 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "PROJECT",
-        "OG40"
+        "Top",
+        "OG40",
+        "life steal"
     ],
     "cols": [
-        "slow",
-        "Ionia",
-        "tether"
+        "Freljord",
+        "fear",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
-            "Karma",
-            "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Karma",
-            "Rakan"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
             "Akali",
-            "Ashe",
-            "Ekko",
+            "Darius",
             "Fiora",
-            "Gangplank",
-            "Irelia",
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Mordekaiser",
-            "Pyke",
-            "Sejuani",
-            "Senna",
-            "Sylas",
-            "Varus",
-            "Warwick",
-            "Zed"
-        ],
-        [
-            "Akali",
-            "Irelia",
-            "Jhin",
-            "Master yi",
-            "Varus",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Sylas"
+            "Vayne"
         ],
         [
             "Anivia",
             "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
             "Nunu",
-            "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Master yi"
+            "Tryndamere"
         ],
         [
             "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Ryze",
+            "Tristana",
+            "Twitch"
+        ],
+        [
+            "Olaf",
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Warwick"
+        ],
+        [
+            "Aphelios"
         ]
     ]
 }

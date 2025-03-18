@@ -1,82 +1,67 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "shield"
+        "Adc",
+        "blink",
+        "coven"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "manaless"
+        "knock-up",
+        "Ionia",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Graves",
-            "Nautilus"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
+        ],
+        [
             "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
-            "Zac"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Sett",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
-        ],
-        [
-            "Ambessa",
-            "Garen",
-            "Kled",
-            "Lee sin",
-            "Mordekaiser",
-            "Rumble",
-            "Sett",
-            "Shen",
+            "Tahm kench",
             "Yasuo",
             "Yone"
+        ],
+        [
+            "Master yi",
+            "Shen",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Ezreal",
+            "Ryze"
+        ],
+        [
+            "Nami",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Syndra"
+        ],
+        [
+            "Akali"
         ]
     ]
 }

@@ -1,64 +1,132 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "global ult"
+        "Top",
+        "OG40",
+        "life steal"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "0 games"
+        "Ionia",
+        "stun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
-            "Briar",
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Volibear",
+            "Warwick",
+            "Wukong"
+        ],
+        [
             "Master yi"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Akshan",
+            "Kayn",
+            "Lee sin"
+        ],
+        [
             "Ambessa",
             "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
+            "Aphelios",
+            "Belveth",
             "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Briar",
-            "Mel",
-            "Vex"
+            "Viego",
+            "Vladimir",
+            "Warwick"
         ]
     ]
 }

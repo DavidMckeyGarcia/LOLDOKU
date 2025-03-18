@@ -1,68 +1,101 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "life steal",
-        "OG40"
+        "Jungle",
+        "Season 7+",
+        "cosmic"
     ],
     "cols": [
+        "Ionia",
         "knock-up",
-        "Freljord",
-        "tether"
+        "yordle"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
         ],
         [
-            "Ashe"
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Kalista"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Aatrox",
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
             "Belveth",
             "Briar",
             "Ksante",
             "Kayn",
-            "Lee sin",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
             "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Jhin",
+            "Master yi",
+            "Rakan",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
             "Sion",
-            "Trundle"
+            "Xin Zhao"
         ],
         [
-            "Olaf",
-            "Trundle",
-            "Udyr"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Morgana"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Lulu"
         ]
     ]
 }

@@ -1,82 +1,108 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "Space Groove",
-        "before s7"
+        "Mid",
+        "hextech",
+        "shield"
     ],
     "cols": [
-        "silence",
-        "Demacia",
+        "knock-up",
+        "Freljord",
         "tether"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
             "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
+            "Ziggs"
+        ],
+        [
+            "Anivia",
+            "Sejuani"
+        ],
+        [
+            "Malzahar",
+            "Nocturne"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Karma",
+            "Kled",
             "Morgana",
+            "Nocturne",
             "Renata glasc",
             "Taric",
             "Yuumi"
-        ],
-        [
-            "Blitzcrank",
-            "Lulu"
-        ],
-        [
-            "Lux"
-        ],
-        [
-            "Taric"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Fiora",
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sona",
-            "Vayne",
-            "Xin Zhao"
-        ],
-        [
-            "Aatrox",
-            "Fiddlesticks",
-            "Illaoi",
-            "Kalista",
-            "Karma",
-            "Kled",
-            "LeBlanc",
-            "Morgana",
-            "Nocturne",
-            "Taric",
-            "Zac"
         ]
     ]
 }

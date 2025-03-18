@@ -1,83 +1,111 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "PROJECT",
-        "OG40"
+        "Jungle",
+        "OG40",
+        "empyrean"
     ],
     "cols": [
-        "Bilgewater",
-        "knock-up",
-        "manaless"
+        "Freljord",
+        "stun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
             "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Orianna",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Akali",
-            "Katarina",
-            "Mordekaiser",
-            "Renekton",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
             "Alistar",
+            "Amumu",
             "Anivia",
+            "Annie",
+            "Ashe",
             "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
             "Nunu",
-            "Sion"
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Brand"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
+            "Zac"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

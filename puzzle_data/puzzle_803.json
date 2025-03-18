@@ -1,88 +1,91 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "empyrean",
-        "Season 7+"
+        "Jungle",
+        "before s7",
+        "blink"
     ],
     "cols": [
         "root",
-        "Shurima",
-        "100% AP Ratio"
+        "Piltover",
+        "ascended"
     ],
     "solutions": [
         [
-            "Ksante",
+            "Ivern",
+            "Lee sin",
             "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Camille"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
             "Singed",
+            "Soraka",
             "Swain",
-            "Zac"
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna"
         ],
         [
             "Aatrox",
-            "Jax",
-            "Ksante",
+            "Azir",
+            "Diana",
+            "Leona",
             "Nasus",
-            "Renekton"
-        ],
-        [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
             "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
-        ],
-        [
-            "Jhin",
-            "Ksante",
-            "Lux",
+            "Renekton",
+            "Taric",
             "Varus",
-            "Zac"
+            "Xerath"
         ],
         [
-            "Jax",
-            "Ksante"
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
         ],
         [
-            "Jax",
-            "Jhin",
-            "Lux",
-            "Nocturne",
-            "Varus"
+            "Ezreal"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Pantheon"
         ]
     ]
 }

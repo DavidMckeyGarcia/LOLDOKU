@@ -1,114 +1,77 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
+        "Adc",
         "OG40",
-        "shield"
+        "true damage"
     ],
     "cols": [
-        "knock-up",
-        "Ionia",
-        "ult reset"
+        "stun",
+        "Piltover",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Orianna",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Caitlyn",
+            "Ezreal",
+            "Seraphine"
         ],
         [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
+            "Corki"
         ],
         [
             "Alistar",
+            "Amumu",
             "Anivia",
+            "Annie",
+            "Ashe",
             "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
             "Nunu",
-            "Sion"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Master yi",
-            "Singed",
-            "Sivir"
-        ],
-        [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Diana",
-            "Galio",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Riven",
+            "Rammus",
             "Sion",
-            "Tahm kench",
-            "Vi",
-            "Yasuo",
-            "Yone"
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Hwei",
+            "Heimerdinger"
+        ],
+        [
+            "Corki",
+            "Ryze"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
             "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
             "Sett",
-            "Shen",
-            "Yasuo",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
             "Yone"
         ],
         [
-            "Naafiri",
-            "Olaf",
-            "Sivir",
-            "Vex",
-            "Viktor"
+            "Camille"
+        ],
+        [
+            "Ahri",
+            "Corki"
         ]
     ]
 }

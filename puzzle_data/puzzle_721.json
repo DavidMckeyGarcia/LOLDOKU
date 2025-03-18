@@ -1,111 +1,70 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "Fright Night",
-        "OG40"
+        "Adc",
+        "pool party",
+        "life steal"
     ],
     "cols": [
-        "Freljord",
-        "stun",
-        "tether"
+        "root",
+        "Ionia",
+        "shred"
     ],
     "solutions": [
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
+            "Jhin",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Corki",
+            "Kogmaw"
+        ],
+        [
+            "Caitlyn",
+            "Lee sin",
+            "Leona",
+            "Singed",
+            "Zac"
+        ],
+        [
+            "Lee sin",
             "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Syndra"
         ],
         [
-            "Fiddlesticks",
+            "Jarvan IV",
+            "Renekton",
+            "Zoe"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
             "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
+            "Senna"
         ],
         [
-            "Nunu",
-            "Trundle"
+            "Kayn",
+            "Lee sin"
         ],
         [
-            "Annie",
-            "Nautilus",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Urgot",
-            "Veigar"
-        ],
-        [
-            "Renata glasc"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
+            "Briar",
+            "Nasus",
+            "Olaf",
             "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Trundle"
         ]
     ]
 }

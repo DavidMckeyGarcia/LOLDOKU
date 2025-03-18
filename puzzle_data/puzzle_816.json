@@ -1,109 +1,64 @@
 {
-    "difficulty": "silver",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "life steal",
-        "PROJECT"
+        "Jungle",
+        "true damage",
+        "OG40"
     ],
     "cols": [
+        "silence",
         "Shadow Isles",
-        "stun",
-        "riot records"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Gwen",
+            "Fiddlesticks"
+        ],
+        [
+            "Hecarim",
+            "Karthus",
             "Maokai",
-            "Yorick"
+            "Viego"
         ],
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Elise",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
+            "Graves",
+            "Jarvan IV",
             "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
-            "Yasuo",
-            "Yone",
-            "Yorick"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Viego"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Kayn",
-            "Olaf",
-            "Senna",
-            "Viego"
-        ],
-        [
-            "Senna"
-        ],
-        [
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Irelia",
-            "Jax",
-            "Leona",
-            "Pyke",
-            "Renekton",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
             "Sejuani",
-            "Sylas",
-            "Vayne",
-            "Vi",
-            "Warwick"
+            "Shen"
         ],
         [
-            "Akali",
-            "Ekko",
-            "Mordekaiser",
-            "Senna",
-            "Yasuo"
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Gwen"
+        ],
+        [
+            "Syndra"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Karthus"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
         ]
     ]
 }

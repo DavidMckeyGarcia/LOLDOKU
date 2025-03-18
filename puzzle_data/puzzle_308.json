@@ -1,102 +1,81 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "evolves",
-        "OG40"
+        "Jungle",
+        "OG40",
+        "global ult"
     ],
     "cols": [
-        "stun",
-        "Zaun",
-        "manaless"
+        "Freljord",
+        "root",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
             "Brand",
-            "Cassiopeia",
-            "Ekko",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
             "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
         ],
         [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Bard",
-            "Syndra",
-            "Viktor"
-        ],
-        [
-            "Viktor"
-        ],
-        [
-            "Belveth"
-        ],
-        [
-            "Alistar",
-            "Amumu",
             "Anivia",
-            "Annie",
             "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
             "Morgana",
             "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
+            "Ryze",
+            "Shaco",
             "Singed",
-            "Twitch",
-            "Warwick"
+            "Soraka"
         ],
         [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
+            "Master yi",
+            "Singed",
+            "Sivir"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

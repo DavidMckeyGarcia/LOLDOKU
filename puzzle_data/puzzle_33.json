@@ -1,74 +1,105 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Top",
+        "Support",
         "Season 7+",
-        "life steal"
+        "shield"
     ],
     "cols": [
-        "Freljord",
-        "root",
-        "arcane"
+        "knock-up",
+        "Targon",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Ambessa",
-            "Heimerdinger",
-            "Jayce",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Ambessa",
-            "Mel"
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
         ],
         [
-            "Olaf",
-            "Trundle",
-            "Udyr"
+            "Pyke",
+            "Swain"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
             "Aphelios",
+            "Zoe"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Ksante",
             "Lee sin",
-            "Morgana",
-            "Senna"
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Ambessa",
-            "Warwick"
+            "Aphelios",
+            "Diana",
+            "Taric"
+        ],
+        [
+            "Naafiri",
+            "Olaf",
+            "Sivir",
+            "Vex",
+            "Viktor"
         ]
     ]
 }

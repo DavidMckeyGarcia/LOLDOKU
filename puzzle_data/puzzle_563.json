@@ -1,65 +1,57 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "dark star"
+        "Jungle",
+        "dark star",
+        "ult execute"
     ],
     "cols": [
-        "Shadow Isles",
-        "knock-up",
-        "shred"
+        "fear",
+        "Noxus",
+        "arcane"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Senna"
-        ],
-        [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Kogmaw"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Belveth",
             "Briar",
-            "Ksante",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Briar",
+            "Elise",
             "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
+            "Mordekaiser",
             "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Talon"
         ],
         [
-            "Briar",
-            "Rell",
-            "Zoe"
+            "Ekko",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Thresh"
+            "Shaco"
         ],
         [
-            "Chogath",
-            "Jarvan IV",
-            "Malphite",
+            "Mordekaiser"
+        ],
+        [
             "Orianna"
         ],
         [
-            "Jarvan IV",
-            "Mordekaiser"
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Jinx"
         ]
     ]
 }

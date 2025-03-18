@@ -1,72 +1,109 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
+        "Support",
         "before s7",
-        "invis"
+        "arcade"
     ],
     "cols": [
-        "The Void",
-        "fear",
-        "30+ wins"
+        "root",
+        "Noxus",
+        "tether"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
             "Shaco",
-            "Warwick"
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Taliyah"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Khazix",
-            "Kogmaw",
-            "Reksai",
-            "Velkoz"
+            "Alistar",
+            "Annie",
+            "Cassiopeia",
+            "Darius",
+            "Draven",
+            "Elise",
+            "Katarina",
+            "Kled",
+            "LeBlanc",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
             "Aatrox",
-            "Darius",
             "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
+            "Illaoi",
+            "Kalista",
+            "Karma",
+            "Kled",
             "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
         ],
         [
-            "Kaisa",
-            "Khazix",
-            "Reksai"
+            "Caitlyn",
+            "Qiyana"
         ],
         [
-            "Shaco"
+            "Riven"
         ],
         [
-            "LeBlanc"
+            "Malzahar"
         ]
     ]
 }

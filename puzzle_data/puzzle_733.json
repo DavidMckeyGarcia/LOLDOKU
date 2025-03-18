@@ -1,71 +1,92 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Jungle",
+        "Support",
         "OG40",
-        "life steal"
+        "invis"
     ],
     "cols": [
-        "Demacia",
-        "root",
-        "0 games"
+        "stun",
+        "The Void",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Jarvan IV",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
             "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
+            "Nami",
             "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Velkoz"
+        ],
+        [
+            "Galio"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
             "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
+        ],
+        [
+            "Corki",
+            "Ryze"
+        ],
+        [
+            "Neeko",
+            "Pyke",
             "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Vayne",
+            "Viego"
         ],
         [
-            "Briar",
-            "Master yi"
+            "Kaisa",
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Morgana"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Illaoi",
-            "Samira"
+            "LeBlanc"
         ]
     ]
 }

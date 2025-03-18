@@ -1,47 +1,128 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "iron",
     "rows": [
-        "Mid",
-        "OG40",
-        "arcade"
+        "Support",
+        "shield",
+        "OG40"
     ],
     "cols": [
         "knock-up",
-        "Freljord",
-        "ult reset"
+        "Bilgewater",
+        "never played"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
             "Galio",
-            "Gragas",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Orianna",
-            "Sylas",
-            "Taliyah",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
             "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Zyra"
         ],
         [
-            "Anivia",
-            "Aurora",
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
             "Brand",
-            "Gragas",
-            "Lissandra"
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
         ],
         [
-            "Ahri",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Nautilus",
+            "Nilah",
+            "Tahm kench"
+        ],
+        [
+            "Akshan",
+            "Aphelios",
+            "Blitzcrank",
+            "Braum",
+            "Garen",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kled",
+            "Malphite",
+            "Milio",
+            "Mordekaiser",
+            "Morgana",
             "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
+            "Nilah",
+            "Nunu",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Shen",
+            "Sivir",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Thresh",
+            "Udyr",
+            "Vi",
+            "Volibear",
+            "Yuumi"
         ],
         [
             "Alistar",
@@ -54,29 +135,30 @@
             "Sion"
         ],
         [
-            "Anivia",
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Amumu",
             "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Master yi",
-            "Singed",
-            "Sivir"
-        ],
-        [
-            "Belveth",
             "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Ahri",
-            "Belveth"
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ]
     ]
 }

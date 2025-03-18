@@ -1,88 +1,73 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "ult execute",
-        "OG40"
+        "Support",
+        "before s7",
+        "arcade"
     ],
     "cols": [
-        "The Void",
-        "knock-up",
-        "riot records"
+        "silence",
+        "Demacia",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
+            "Galio",
+            "Lux",
+            "Morgana",
             "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Sona"
         ],
         [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
-            "Viego"
+            "Nami",
+            "Neeko",
+            "Rakan"
         ],
         [
-            "Chogath",
-            "Reksai"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Akali",
-            "Evelynn",
-            "Viego"
-        ],
-        [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Alistar",
-            "Anivia",
             "Blitzcrank",
             "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Ahri",
+            "Nami",
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Blitzcrank",
+            "Malzahar"
+        ],
+        [
+            "Sona"
+        ],
+        [
+            "Ahri"
         ]
     ]
 }

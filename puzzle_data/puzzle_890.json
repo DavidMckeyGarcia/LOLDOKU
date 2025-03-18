@@ -1,84 +1,162 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "prestige",
-        "ult execute"
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "fear",
-        "Noxus",
-        "100+ games"
+        "slow",
+        "Shurima",
+        "tether"
     ],
     "solutions": [
         [
             "Aatrox",
+            "Akali",
+            "Camille",
+            "Chogath",
             "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
-        ],
-        [
-            "Aatrox",
+            "Dr. Mundo",
+            "Fiora",
+            "Gangplank",
+            "Garen",
             "Gnar",
             "Gragas",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Irelia",
             "Jarvan IV",
-            "Jax",
             "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
+            "Ksante",
+            "Kayle",
             "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Quinn",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Singed",
+            "Sion",
+            "Skarner",
+            "Swain",
+            "Sylas",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Urgot",
+            "Volibear",
+            "Warwick",
+            "Yorick",
+            "Zac"
         ],
         [
             "Aatrox",
-            "Caitlyn",
-            "Ezreal",
             "Jax",
-            "Kaisa",
-            "Lee sin",
-            "Leona",
-            "Lucian",
-            "Lulu",
-            "Rakan",
-            "Thresh",
-            "Xayah"
+            "Ksante",
+            "Nasus",
+            "Renekton"
         ],
         [
-            "Darius",
-            "Urgot"
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
         ],
         [
+            "Ahri",
+            "Akali",
+            "Belveth",
+            "Camille",
+            "Chogath",
+            "Corki",
             "Darius",
             "Draven",
-            "Riven"
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Ksante",
+            "Kogmaw",
+            "Lillia",
+            "Nunu",
+            "Olaf",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Sett",
+            "Syndra",
+            "Twitch",
+            "Urgot",
+            "Velkoz",
+            "Zoe"
         ],
         [
-            "Jhin",
-            "Syndra"
+            "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Renata glasc"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

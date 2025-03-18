@@ -1,72 +1,59 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "OG40",
-        "true damage"
+        "Adc",
+        "coven",
+        "life steal"
     ],
     "cols": [
-        "fear",
-        "Noxus",
-        "100+ games"
+        "Freljord",
+        "knock-up",
+        "arcane"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Ashe"
+        ],
+        [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Mel"
+        ],
+        [
+            "Ashe",
+            "Lissandra"
+        ],
+        [
+            "Nami",
+            "Zyra"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Olaf",
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
         ],
         [
             "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Azir",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
             "Warwick"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Syndra"
         ]
     ]
 }

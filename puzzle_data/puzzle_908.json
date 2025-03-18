@@ -1,76 +1,106 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
+        "Mid",
         "OG40",
-        "Space Groove"
+        "life steal"
     ],
     "cols": [
-        "silence",
-        "Noxus",
-        "manaless"
+        "Freljord",
+        "root",
+        "never played"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
             "Swain"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Heimerdinger",
+            "Naafiri"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
             "Soraka"
         ],
         [
             "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
-        ],
-        [
+            "Amumu",
+            "Ashe",
             "Blitzcrank",
-            "Lulu"
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ],
         [
-            "Samira"
+            "Olaf",
+            "Trundle",
+            "Udyr"
         ],
         [
-            "Rumble"
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Kayn",
+            "Morgana",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ]
     ]
 }

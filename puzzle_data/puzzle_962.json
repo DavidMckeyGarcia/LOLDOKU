@@ -1,96 +1,120 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "Season 7+",
-        "true damage"
+        "Adc",
+        "before s7",
+        "invis"
     ],
     "cols": [
         "knock-up",
-        "The Void",
-        "shred"
+        "Noxus",
+        "riot records"
     ],
     "solutions": [
         [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
             "Aatrox",
+            "Alistar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
             "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
+            "Ivern",
+            "Janna",
             "Jarvan IV",
-            "Ksante",
-            "Kayn",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
             "Malphite",
-            "Ornn",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
             "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Cassiopeia",
+            "Darius",
+            "Draven",
+            "Elise",
+            "Katarina",
+            "Kled",
+            "LeBlanc",
+            "Mordekaiser",
             "Riven",
             "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Chogath"
-        ],
-        [
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Evelynn",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
             "Mordekaiser",
-            "Nasus",
             "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
+            "Sona",
+            "Yasuo",
+            "Yorick"
+        ],
+        [
+            "Neeko",
+            "Reksai",
             "Wukong"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "LeBlanc",
+            "Talon"
         ],
         [
-            "Belveth",
-            "Kaisa"
-        ],
-        [
-            "Briar",
-            "Rell",
-            "Zoe"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
-        ],
-        [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
+            "Akali",
+            "Kaisa",
+            "Qiyana",
+            "Senna",
+            "Viego"
         ]
     ]
 }

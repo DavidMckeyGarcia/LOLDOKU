@@ -1,106 +1,122 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "shield",
-        "coven"
+        "OG40",
+        "Fright Night"
     ],
     "cols": [
-        "Noxus",
-        "root",
-        "100+ games"
+        "slow",
+        "Freljord",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
-        ],
-        [
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
             "Karma",
             "Leona",
+            "Lulu",
             "Lux",
             "Maokai",
             "Mel",
+            "Milio",
             "Morgana",
+            "Nami",
             "Nautilus",
-            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
             "Renata glasc",
             "Senna",
             "Seraphine",
+            "Sona",
             "Soraka",
             "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
             "Zyra"
         ],
         [
-            "Alistar",
             "Ashe",
-            "Braum",
+            "Brand",
+            "Braum"
+        ],
+        [
+            "Pyke",
+            "Swain"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
             "Janna",
-            "Leona",
-            "Lulu",
-            "Maokai",
-            "Rakan",
-            "Thresh"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Kled",
-            "Mel",
-            "Mordekaiser",
-            "Rell",
-            "Riven",
-            "Sion"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
             "Morgana",
-            "Nautilus",
-            "Neeko",
+            "Nasus",
             "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Azir",
-            "Braum",
-            "Janna",
-            "Jarvan IV",
-            "Kaisa",
-            "Lee sin",
-            "Lulu",
-            "Orianna",
-            "Rakan",
-            "Rumble",
-            "Shen",
-            "Thresh"
-        ],
-        [
-            "Cassiopeia",
-            "Elise",
-            "LeBlanc"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Morgana",
-            "Zyra"
-        ],
-        [
+            "Anivia",
             "Ashe",
-            "Elise",
-            "Syndra"
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
+        ],
+        [
+            "Draven",
+            "Nautilus",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Shaco",
+            "Trundle",
+            "Urgot",
+            "Zeri"
+        ],
+        [
+            "Nunu",
+            "Trundle"
+        ],
+        [
+            "Pyke"
         ]
     ]
 }

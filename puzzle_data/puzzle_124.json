@@ -1,76 +1,110 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "empyrean",
-        "OG40"
+        "Support",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "Demacia",
-        "root",
-        "yordle"
+        "stun",
+        "Bilgewater",
+        "0 games"
     ],
     "solutions": [
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Kayle",
-            "Lux"
-        ],
-        [
-            "Jhin",
-            "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Amumu",
-            "Corki",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
             "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Mel",
+            "Milio"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Akshan",
+            "Master yi",
+            "Samira"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

@@ -1,95 +1,105 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "OG40",
-        "invis"
+        "Adc",
+        "global ult",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "ult reset"
+        "Demacia",
+        "knock-up",
+        "never played"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
+        ],
+        [
+            "Galio",
+            "Lux"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
             "Ashe",
             "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
+            "Briar",
+            "Draven",
+            "Jinx",
+            "Kled",
+            "Lillia",
+            "Maokai",
+            "Senna",
+            "Shen",
+            "Soraka"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
             "Neeko",
-            "Pantheon",
-            "Poppy",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
             "Pyke",
+            "Rakan",
             "Rell",
             "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Swain"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Master yi",
-            "Singed",
-            "Sivir"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Vayne",
-            "Viego"
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ]
     ]
 }

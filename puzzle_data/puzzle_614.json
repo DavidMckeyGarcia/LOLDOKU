@@ -1,73 +1,96 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "OG40",
-        "invis"
+        "Mid",
+        "Season 7+",
+        "ult execute"
     ],
     "cols": [
         "knock-up",
         "Noxus",
-        "100+ games"
+        "0 games"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
             "Ziggs"
         ],
         [
-            "Draven",
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Katarina",
+            "LeBlanc",
             "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Naafiri",
+            "Vex"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
             "Samira",
             "Smolder"
         ],
         [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
             "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Neeko",
             "Reksai",
-            "Wukong"
+            "Riven"
         ],
         [
-            "LeBlanc",
-            "Talon"
+            "Darius",
+            "Draven",
+            "Riven"
         ],
         [
-            "Kaisa"
+            "Akshan"
         ]
     ]
 }

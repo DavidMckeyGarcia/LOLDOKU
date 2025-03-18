@@ -1,42 +1,45 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
+        "Top",
         "OG40",
-        "hextech"
+        "PROJECT"
     ],
     "cols": [
+        "fear",
         "Zaun",
-        "knock-up",
-        "yordle"
+        "riot records"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
+            "Yasuo",
+            "Yone",
+            "Yorick"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
             "Blitzcrank",
@@ -47,44 +50,25 @@
             "Warwick"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Evelynn",
+            "Karthus",
+            "Kayle"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Warwick"
         ],
         [
-            "Janna",
-            "Singed",
-            "Ziggs"
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Galio",
-            "Janna",
-            "Jarvan IV",
-            "Poppy",
-            "Sejuani",
-            "Sion",
-            "Ziggs"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Tristana",
-            "Ziggs"
+            "Akali",
+            "Ekko",
+            "Mordekaiser",
+            "Senna",
+            "Yasuo"
         ]
     ]
 }

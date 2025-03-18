@@ -1,14 +1,14 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "evolves",
-        "dark star"
+        "hextech",
+        "ult execute"
     ],
     "cols": [
         "stun",
-        "Ionia",
-        "ascended"
+        "The Void",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
@@ -44,47 +44,74 @@
             "Zac"
         ],
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
+            "Belveth",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
             "Master yi",
-            "Sett",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
             "Shen",
-            "Wukong"
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
         ],
         [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
         ],
         [
-            "Bard",
+            "Kassadin",
+            "Kogmaw",
+            "Malzahar"
+        ],
+        [
+            "Alistar",
+            "Nocturne",
+            "Rammus",
+            "Tristana"
+        ],
+        [
+            "Pyke",
+            "Riven",
             "Syndra",
-            "Viktor"
+            "Urgot",
+            "Veigar",
+            "Viego"
         ],
         [
-            "Kayn",
-            "Syndra"
+            "Chogath",
+            "Reksai"
         ],
         [
-            "Kayn"
-        ],
-        [
-            "Lissandra",
-            "Orianna",
-            "Thresh",
-            "Xerath"
-        ],
-        [
+            "Chogath",
+            "Evelynn",
             "Jhin",
-            "Karma",
-            "Varus"
-        ],
-        [
-            "Varus",
-            "Xerath"
+            "Jinx",
+            "Veigar",
+            "Viego"
         ]
     ]
 }

@@ -2,15 +2,23 @@
     "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "PROJECT",
-        "dash"
+        "elderwood",
+        "before s7"
     ],
     "cols": [
+        "Noxus",
         "knock-up",
-        "Ionia",
-        "ult reset"
+        "yordle"
     ],
     "solutions": [
+        [
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
+        ],
         [
             "Belveth",
             "Briar",
@@ -36,100 +44,97 @@
             "Zyra"
         ],
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
             "Wukong"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
+            "Gnar",
+            "Veigar"
         ],
         [
-            "Sejuani",
-            "Sylas",
-            "Vi",
-            "Yasuo"
-        ],
-        [
-            "Akali",
-            "Irelia",
-            "Jhin",
-            "Master yi",
-            "Varus",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Master yi",
-            "Vayne"
+            "Alistar",
+            "Annie",
+            "Cassiopeia",
+            "Darius",
+            "Draven",
+            "Elise",
+            "Katarina",
+            "Kled",
+            "LeBlanc",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
             "Aatrox",
             "Alistar",
+            "Anivia",
             "Aurelion Sol",
             "Azir",
-            "Belveth",
+            "Blitzcrank",
             "Braum",
-            "Briar",
+            "Chogath",
             "Diana",
             "Fizz",
             "Galio",
             "Gragas",
             "Ivern",
+            "Janna",
             "Jarvan IV",
-            "Ksante",
-            "Kayn",
+            "Kalista",
             "Lee sin",
+            "Lulu",
             "Malphite",
+            "Nami",
             "Nautilus",
-            "Ornn",
+            "Nunu",
+            "Orianna",
             "Poppy",
-            "Rakan",
             "Reksai",
-            "Rell",
             "Riven",
-            "Samira",
             "Sejuani",
-            "Sylas",
+            "Sion",
+            "Tahm kench",
             "Taliyah",
+            "Trundle",
+            "Velkoz",
             "Vi",
             "Wukong",
             "Xin Zhao",
             "Yasuo",
-            "Yone",
             "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
             "Ziggs"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Irelia",
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Belveth",
-            "Naafiri",
-            "Vayne",
-            "Vex",
-            "Viego"
         ]
     ]
 }

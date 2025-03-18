@@ -1,53 +1,66 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "hextech",
-        "ult execute"
+        "Top",
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "Zaun",
+        "Piltover",
         "silence",
-        "ult reset"
+        "shred"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
-        [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Swain"
-        ],
-        [
-            "Janna",
-            "Singed",
-            "Ziggs"
-        ],
-        [
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Jinx",
-            "Urgot"
+            "Camille",
+            "Heimerdinger",
+            "Jayce"
         ],
         [
             "Chogath",
             "Garen"
         ],
         [
-            "Darius",
-            "Viego"
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Wukong"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Briar",
+            "Karthus",
+            "Sion"
+        ],
+        [
+            "Heimerdinger"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ]
     ]
 }

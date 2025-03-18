@@ -1,102 +1,85 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "prestige",
-        "ult execute"
+        "Mid",
+        "pool party",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Zaun",
-        "arcane"
+        "Bilgewater",
+        "knock-up",
+        "tether"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
+            "Fizz",
+            "Twisted fate"
+        ],
+        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
+            "Orianna",
             "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Gangplank",
+            "Graves",
+            "Miss Fortune"
+        ],
+        [
+            "Braum",
+            "Jarvan IV",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Reksai",
+            "Taliyah",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
             "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "LeBlanc"
-        ],
-        [
-            "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
-        ],
-        [
-            "Jinx",
-            "Urgot"
-        ],
-        [
-            "Jinx"
+            "Sylas",
+            "Yuumi"
         ]
     ]
 }

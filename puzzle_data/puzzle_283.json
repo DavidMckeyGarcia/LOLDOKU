@@ -1,74 +1,84 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "OG40",
-        "ult execute"
+        "Top",
+        "invis",
+        "OG40"
     ],
     "cols": [
         "Demacia",
-        "root",
-        "manaless"
+        "knock-up",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Galio",
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
             "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
             "Akali",
-            "Ambessa",
-            "Katarina",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Vayne"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Akali",
+            "Kaisa",
+            "Twitch",
+            "Vayne"
         ],
         [
             "Kayle",
             "Morgana"
         ],
         [
-            "Morgana",
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
             "Nunu",
+            "Sion"
+        ],
+        [
             "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
-        ],
-        [
-            "Garen"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Akali",
-            "Garen",
-            "Reksai",
-            "Viego"
+            "Tristana",
+            "Twitch"
         ]
     ]
 }

@@ -1,79 +1,73 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "blink"
+        "Mid",
+        "global ult",
+        "empyrean"
     ],
     "cols": [
-        "Noxus",
-        "root",
+        "Shadow Isles",
+        "knock-up",
         "ascended"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
+            "Karthus",
+            "Vex"
         ],
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
             "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Neeko",
-            "Renata glasc",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
+        ],
+        [
+            "Karthus",
+            "Maokai",
             "Senna",
-            "Seraphine",
-            "Xayah"
+            "Vex"
         ],
         [
-            "Kayn",
-            "Naafiri"
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
         ],
         [
-            "Ambessa",
-            "Katarina",
-            "LeBlanc"
+            "Pantheon",
+            "Xerath"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
+            "Vex"
         ],
         [
-            "Pantheon"
+            "Ksante",
+            "Zac"
+        ],
+        [
+            "Varus"
         ]
     ]
 }

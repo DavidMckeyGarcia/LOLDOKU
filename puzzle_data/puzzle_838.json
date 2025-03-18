@@ -1,99 +1,147 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "OG40",
-        "ult execute"
+        "Jungle",
+        "coven",
+        "before s7"
     ],
     "cols": [
-        "The Void",
-        "knock-up",
+        "Bilgewater",
+        "root",
         "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Velkoz"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
+        ],
+        [
+            "Nami",
+            "Nilah"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Morgana",
+            "Zyra"
+        ],
+        [
+            "Ashe",
+            "Evelynn"
+        ],
+        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
             "Nami",
             "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
             "Tahm kench",
-            "Velkoz",
+            "Twisted fate"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
             "Zyra"
         ],
         [
             "Alistar",
             "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Ashe",
+            "Aurelion Sol",
             "Blitzcrank",
             "Chogath",
             "Corki",
+            "Ekko",
             "Evelynn",
+            "Fiora",
+            "Fizz",
             "Gangplank",
+            "Gnar",
+            "Hecarim",
             "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Chogath",
-            "Reksai"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Chogath",
-            "Evelynn",
             "Jhin",
             "Jinx",
+            "Karma",
+            "Lux",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Sivir",
+            "Skarner",
+            "Tahm kench",
+            "Thresh",
+            "Tristana",
+            "Twisted fate",
+            "Varus",
             "Veigar",
-            "Viego"
+            "Vi",
+            "Viktor",
+            "Vladimir",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xerath",
+            "Xin Zhao",
+            "Zilean"
         ]
     ]
 }

@@ -1,69 +1,101 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Adc",
-        "blink",
+        "ult execute",
         "hextech"
     ],
     "cols": [
-        "root",
-        "Freljord",
-        "100+ games"
+        "Zaun",
+        "slow",
+        "shred"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
             "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Ashe"
-        ],
-        [
+            "Aphelios",
             "Ashe",
             "Caitlyn",
-            "Ezreal",
+            "Corki",
+            "Draven",
             "Jhin",
+            "Jinx",
             "Kaisa",
-            "Lucian",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
             "Tristana",
+            "Twitch",
             "Varus",
-            "Xayah"
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
+            "Corki",
+            "Kogmaw"
         ],
         [
-            "Lissandra"
+            "Jinx",
+            "Urgot"
         ],
         [
-            "Ezreal",
-            "Ryze",
-            "Shen"
+            "Akali",
+            "Chogath",
+            "Darius",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Syndra",
+            "Urgot",
+            "Viego"
         ],
         [
+            "Evelynn",
+            "Garen"
+        ],
+        [
+            "Janna",
             "Singed",
-            "Swain"
+            "Ziggs"
         ],
         [
             "Anivia",
-            "Sejuani"
-        ],
-        [
-            "Alistar",
+            "Galio",
             "Janna",
             "Jarvan IV",
-            "Renekton",
+            "Kassadin",
+            "Kogmaw",
+            "Nocturne",
+            "Poppy",
+            "Rammus",
             "Sejuani",
-            "Tristana"
+            "Singed",
+            "Sion",
+            "Swain",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Jarvan IV",
+            "Kogmaw",
+            "Renekton",
+            "Sion"
         ]
     ]
 }

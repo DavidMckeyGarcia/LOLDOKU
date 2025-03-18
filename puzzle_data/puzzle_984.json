@@ -1,42 +1,49 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
+        "Mid",
         "life steal",
-        "OG40"
+        "Season 7+"
     ],
     "cols": [
+        "root",
         "Noxus",
-        "fear",
-        "riot records"
+        "darkin"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
             "Qiyana",
-            "Sett",
-            "Viego"
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Naafiri"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
         ],
         [
             "Ambessa",
@@ -48,32 +55,31 @@
         ],
         [
             "Aatrox",
-            "Briar",
-            "Warwick"
+            "Kayn"
         ],
         [
             "Aphelios",
+            "Hwei",
             "Ksante",
-            "Kayn",
-            "Olaf",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
             "Senna",
-            "Viego"
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

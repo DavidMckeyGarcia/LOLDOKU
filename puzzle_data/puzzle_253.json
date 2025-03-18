@@ -1,71 +1,121 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "OG40",
-        "hextech"
+        "Mid",
+        "before s7",
+        "life steal"
     ],
     "cols": [
-        "knock-up",
         "Freljord",
-        "shred"
+        "root",
+        "riot records"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Ashe"
-        ],
-        [
-            "Corki",
-            "Kogmaw"
-        ],
-        [
-            "Alistar",
             "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
         ],
         [
             "Anivia",
             "Ashe",
+            "Brand",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Lissandra",
             "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Galio",
-            "Janna",
-            "Jarvan IV",
-            "Poppy",
+            "Olaf",
             "Sejuani",
-            "Sion",
-            "Ziggs"
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Anivia",
-            "Sejuani"
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Jarvan IV",
-            "Kogmaw",
-            "Renekton",
-            "Sion"
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Evelynn",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Mordekaiser",
+            "Olaf",
+            "Sona",
+            "Yasuo",
+            "Yorick"
+        ],
+        [
+            "Olaf",
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kayn",
+            "Olaf",
+            "Senna",
+            "Viego"
         ]
     ]
 }

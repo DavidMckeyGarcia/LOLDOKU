@@ -1,73 +1,58 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Top",
+        "Adc",
         "invis",
-        "OG40"
+        "arcade"
     ],
     "cols": [
-        "root",
-        "Ionia",
-        "ult reset"
+        "knock-up",
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
+            "Corki",
+            "Tristana",
+            "Ziggs"
         ],
         [
-            "LeBlanc",
             "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Akali",
+            "Reksai",
             "Wukong"
         ],
         [
-            "Vayne",
-            "Viego"
+            "Twitch"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Teemo"
         ],
         [
-            "Master yi"
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Blitzcrank",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

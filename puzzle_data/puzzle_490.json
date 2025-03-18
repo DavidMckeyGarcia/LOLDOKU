@@ -1,59 +1,86 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "ult execute",
-        "Season 7+"
+        "Adc",
+        "life steal",
+        "PROJECT"
     ],
     "cols": [
-        "fear",
-        "Shurima",
-        "arcane"
+        "Noxus",
+        "stun",
+        "pentakill"
     ],
     "solutions": [
         [
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
+        ],
+        [
+            "Ambessa",
             "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
+            "Kayn",
+            "Samira",
+            "Sion",
+            "Vladimir"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
             "Warwick"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
+            "Aphelios"
         ],
         [
+            "Katarina",
+            "Mordekaiser"
+        ],
+        [
+            "Ashe",
             "Ekko",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
             "Vi",
             "Warwick"
         ],
         [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Akshan"
-        ],
-        [
-            "Jinx"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
-        ],
-        [
-            "Ambessa",
-            "Mel"
+            "Akali",
+            "Fiora",
+            "Jinx",
+            "Lucian",
+            "Vayne"
         ]
     ]
 }

@@ -1,67 +1,86 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
         "Top",
-        "Season 7+",
-        "ult execute"
+        "OG40",
+        "invis"
     ],
     "cols": [
-        "Zaun",
-        "root",
-        "yordle"
+        "Ionia",
+        "knock-up",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
             "Zac"
         ],
         [
-            "Ksante",
-            "Maokai",
+            "Aatrox",
+            "Darius",
+            "Olaf",
             "Singed",
             "Swain",
-            "Zac"
+            "Vayne"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Master yi"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
+            "Master yi",
+            "Singed",
+            "Sivir"
+        ],
+        [
+            "Akali",
+            "Wukong"
+        ],
+        [
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Vex"
-        ],
-        [
-            "Jinx",
-            "Urgot"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Veigar"
+            "Pyke",
+            "Vayne",
+            "Viego"
         ]
     ]
 }

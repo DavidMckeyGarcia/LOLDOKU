@@ -1,134 +1,94 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "hextech",
-        "shield"
+        "Jungle",
+        "worlds skin",
+        "blink"
     ],
     "cols": [
-        "Zaun",
-        "stun",
-        "yordle"
+        "Shadow Isles",
+        "knock-up",
+        "ascended"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
         ],
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Belveth",
+            "Briar",
+            "Diana",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Janna",
-            "Singed",
-            "Ziggs"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Malzahar",
-            "Poppy",
-            "Rammus",
-            "Renekton",
-            "Sejuani",
-            "Sion"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Blitzcrank",
-            "Ekko",
-            "Janna",
-            "Orianna",
-            "Renata glasc",
-            "Urgot",
-            "Vi",
-            "Viktor"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
             "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
             "Nautilus",
-            "Neeko",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
+        ],
+        [
+            "Kalista",
+            "Karthus",
+            "Maokai",
+            "Thresh",
+            "Viego"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Azir",
+            "Gragas",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Malphite",
+            "Nami",
             "Nunu",
             "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
+            "Rakan",
+            "Taliyah",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Leona",
+            "Renekton"
+        ],
+        [
+            "Viego"
+        ],
+        [
+            "Reksai",
             "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Vex"
+            "Pantheon"
         ]
     ]
 }

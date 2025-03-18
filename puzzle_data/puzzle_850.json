@@ -1,14 +1,14 @@
 {
-    "difficulty": "silver",
+    "difficulty": "challenger",
     "rows": [
         "Mid",
-        "worlds skin",
-        "OG40"
+        "OG40",
+        "ult execute"
     ],
     "cols": [
         "root",
-        "Shurima",
-        "30+ wins"
+        "Shadow Isles",
+        "0 games"
     ],
     "solutions": [
         [
@@ -25,56 +25,15 @@
             "Swain"
         ],
         [
+            "Karthus",
+            "Vex"
+        ],
+        [
             "Akshan",
-            "Azir",
+            "Ambessa",
+            "Mel",
             "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Jax",
-            "Renekton",
-            "Taliyah"
-        ],
-        [
-            "Azir",
-            "Corki",
-            "LeBlanc",
-            "Orianna",
-            "Ryze",
-            "Taliyah"
+            "Vex"
         ],
         [
             "Morgana",
@@ -85,16 +44,20 @@
             "Soraka"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
+            "Karthus"
         ],
         [
-            "Corki",
-            "Ryze"
+            "Master yi"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Viego"
+        ],
+        [
+            "Akshan"
         ]
     ]
 }

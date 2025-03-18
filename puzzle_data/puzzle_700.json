@@ -1,82 +1,158 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "before s7",
-        "blink"
+        "Season 7+",
+        "invis"
     ],
     "cols": [
-        "silence",
-        "Freljord",
-        "ascended"
+        "slow",
+        "Shadow Isles",
+        "shred"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
+            "Belveth",
             "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
-        [
+            "Briar",
+            "Camille",
             "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
+            "Dr. Mundo",
+            "Ekko",
+            "Elise",
+            "Evelynn",
             "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Brand",
-            "Braum",
-            "Gnar",
             "Gragas",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Karthus",
+            "Kayn",
+            "Khazix",
             "Kindred",
-            "Lissandra",
+            "Lee sin",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nasus",
+            "Nautilus",
+            "Nocturne",
             "Nunu",
             "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Leona",
-            "Nasus",
             "Pantheon",
-            "Renekton",
-            "Taric",
-            "Varus",
-            "Xerath"
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sejuani",
+            "Sett",
+            "Shaco",
+            "Shen",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Talon",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Kassadin"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
         ],
         [
-            "Lissandra"
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
         ],
         [
-            "Pantheon"
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Briar",
+            "Rell",
+            "Zoe"
+        ],
+        [
+            "Akali",
+            "Aurora",
+            "Kaisa",
+            "Khazix",
+            "Pyke",
+            "Qiyana",
+            "Reksai",
+            "Rengar",
+            "Senna",
+            "Shaco",
+            "Talon",
+            "Teemo",
+            "Twitch",
+            "Viego"
+        ],
+        [
+            "Senna",
+            "Viego"
+        ],
+        [
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

@@ -1,53 +1,81 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "empyrean",
-        "blink"
+        "Mid",
+        "ult execute",
+        "before s7"
     ],
     "cols": [
-        "Freljord",
-        "silence",
-        "ascended"
+        "fear",
+        "Shurima",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Fiddlesticks"
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Diana",
-            "Kayn",
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Darius",
+            "Pyke",
+            "Viego"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
             "Nasus",
-            "Pantheon"
+            "Rammus",
+            "Renekton",
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Brand"
-        ],
-        [
-            "Malzahar"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "Kassadin"
-        ],
-        [
-            "Pantheon"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ]
     ]
 }

@@ -1,34 +1,68 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "iron",
     "rows": [
-        "Adc",
+        "Mid",
         "worlds skin",
         "before s7"
     ],
     "cols": [
-        "Freljord",
+        "Noxus",
         "stun",
-        "ult reset"
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ashe"
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Sivir",
-            "Vayne"
-        ],
-        [
-            "Ashe",
-            "Gnar",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
             "Gragas",
-            "Kindred",
-            "Nunu"
+            "Heimerdinger",
+            "Irelia",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Alistar",
+            "Elise",
+            "LeBlanc",
+            "Talon"
         ],
         [
             "Alistar",
@@ -57,27 +91,34 @@
             "Zac"
         ],
         [
-            "Aatrox",
-            "Singed",
+            "Akali",
+            "Aphelios",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Ryze",
+            "Twitch",
             "Vayne",
-            "Viego"
+            "Xayah"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Brand",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Lissandra",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Alistar",
+            "Annie",
+            "Cassiopeia",
+            "Darius",
+            "Draven",
+            "Elise",
+            "Katarina",
+            "Kled",
+            "LeBlanc",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
             "Alistar",
@@ -139,16 +180,18 @@
             "Zilean"
         ],
         [
-            "Aatrox",
-            "Ahri",
+            "Akali",
             "Darius",
-            "Master yi",
-            "Olaf",
-            "Singed",
-            "Sivir",
-            "Swain",
-            "Vayne",
-            "Viktor"
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Ryze",
+            "Tristana",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

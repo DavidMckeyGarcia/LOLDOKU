@@ -1,128 +1,63 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "OG40",
-        "dash"
+        "Adc",
+        "cosmic",
+        "ult execute"
     ],
     "cols": [
-        "knock-up",
-        "Shurima",
-        "pentakill"
+        "root",
+        "Demacia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Orianna",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Akali",
-            "Ezreal",
             "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Ryze",
-            "Tristana",
-            "Twitch"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Malphite",
-            "Nautilus",
-            "Ornn",
-            "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Yone",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Aatrox",
-            "Amumu",
-            "Azir",
-            "Jax",
-            "Ksante",
-            "Naafiri",
-            "Rammus",
-            "Renekton",
-            "Taliyah"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Fiora",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
             "Vayne"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Jhin",
+            "Lissandra",
+            "Lux",
+            "Nautilus",
+            "Nunu",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Lux",
+            "Xin Zhao"
+        ],
+        [
+            "Belveth",
+            "Master yi"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Garen"
+        ],
+        [
+            "Darius",
+            "Pyke",
+            "Viego"
         ]
     ]
 }

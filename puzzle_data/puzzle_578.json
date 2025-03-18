@@ -1,89 +1,154 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "true damage",
-        "Season 7+"
+        "Top",
+        "OG40",
+        "dash"
     ],
     "cols": [
-        "knock-up",
         "Demacia",
-        "shred"
+        "stun",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Orianna",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Corki",
-            "Jayce",
-            "Karthus",
-            "Zoe"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
             "Fiora",
             "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
             "Vayne"
         ],
         [
-            "Corki",
-            "Garen",
-            "Kogmaw",
-            "Olaf",
-            "Zoe"
-        ],
-        [
-            "Belveth",
-            "Briar",
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
             "Ksante",
-            "Kayn",
-            "Neeko",
+            "Kennen",
             "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
             "Sylas",
-            "Yone"
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
-            "Sylas"
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
         ],
         [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Ryze",
+            "Tristana",
+            "Twitch"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Jarvan IV",
+            "Lucian",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sylas",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Alistar",
+            "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
             "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
             "Rell",
-            "Zoe"
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Fiora",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Vayne"
         ]
     ]
 }

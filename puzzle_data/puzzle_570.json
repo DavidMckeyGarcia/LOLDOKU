@@ -1,56 +1,101 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "arcade",
-        "OG40"
+        "Mid",
+        "OG40",
+        "Space Groove"
     ],
     "cols": [
-        "Freljord",
-        "silence",
-        "30+ wins"
+        "stun",
+        "Bilgewater",
+        "manaless"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Galio"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Blitzcrank",
-            "Malzahar"
-        ],
-        [
-            "Ahri",
-            "Corki"
-        ],
-        [
+            "Ambessa",
             "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Fizz",
+            "Twisted fate"
+        ],
+        [
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
             "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Dr. Mundo",
+            "Katarina",
             "Tryndamere"
         ],
         [
             "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Gragas",
+            "Lissandra",
+            "Nami",
+            "Nunu",
+            "Taric",
+            "Twisted fate"
         ],
         [
-            "Corki",
-            "Ryze"
+            "Nami",
+            "Twisted fate"
+        ],
+        [
+            "Rumble"
         ]
     ]
 }

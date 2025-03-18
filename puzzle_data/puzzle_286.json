@@ -1,55 +1,131 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "invis",
-        "OG40"
+        "before s7",
+        "true damage"
     ],
     "cols": [
-        "Shadow Isles",
-        "fear",
-        "shred"
+        "Zaun",
+        "silence",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Karthus",
-            "Vex"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Hwei",
-            "Vex"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
+            "Aurelion Sol",
+            "Chogath",
             "Corki",
-            "Jayce",
-            "Karthus",
-            "Zoe"
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Senna",
-            "Viego"
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Ekko",
+            "Janna",
+            "Jinx",
+            "Orianna",
+            "Singed",
+            "Twitch",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Warwick",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Shaco"
-        ],
-        [
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Karthus"
-        ],
-        [
+            "Blitzcrank",
+            "Chogath",
             "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
         ],
         [
+            "Alistar",
+            "Ashe",
+            "Aurelion Sol",
+            "Blitzcrank",
+            "Chogath",
             "Corki",
+            "Ekko",
             "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
+            "Fiora",
+            "Fizz",
+            "Gangplank",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "Lux",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Sivir",
+            "Skarner",
+            "Tahm kench",
+            "Thresh",
+            "Tristana",
+            "Twisted fate",
+            "Varus",
+            "Veigar",
+            "Vi",
+            "Viktor",
+            "Vladimir",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xerath",
+            "Xin Zhao",
+            "Zilean"
+        ],
+        [
+            "Renata glasc",
+            "Twitch",
+            "Urgot"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Corki",
+            "Fiora",
+            "Gangplank",
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

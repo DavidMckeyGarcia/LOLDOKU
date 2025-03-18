@@ -1,40 +1,55 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
+        "Mid",
         "Season 7+",
-        "dash"
+        "global ult"
     ],
     "cols": [
+        "Ionia",
         "root",
-        "Bilgewater",
-        "shred"
+        "ult reset"
     ],
     "solutions": [
         [
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
             "Karma",
-            "Leona",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
             "Lux",
-            "Maokai",
             "Mel",
-            "Morgana",
-            "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Soraka",
+            "Swain"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
             "Swain",
-            "Zyra"
+            "Vex",
+            "Viktor"
         ],
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Rell"
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
         ],
         [
             "Aphelios",
@@ -48,45 +63,28 @@
             "Xayah"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
         ],
         [
-            "Briar",
-            "Rell",
-            "Zoe"
+            "Lillia",
+            "Shen"
         ],
         [
             "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
+            "Jinx",
+            "Lux",
             "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Briar",
-            "Corki",
-            "Jarvan IV",
-            "Jayce",
-            "Rell",
-            "Renekton",
-            "Rengar",
-            "Vi",
-            "Wukong"
+            "Vex"
         ]
     ]
 }

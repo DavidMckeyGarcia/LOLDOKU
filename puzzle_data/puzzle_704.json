@@ -1,81 +1,113 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "arcade",
-        "before s7"
+        "Adc",
+        "hextech",
+        "life steal"
     ],
     "cols": [
-        "Bandle City",
-        "silence",
-        "yordle"
+        "Noxus",
+        "slow",
+        "arcane"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Rumble",
-            "Teemo"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
             "Corki",
-            "Veigar"
-        ],
-        [
-            "Blitzcrank",
-            "Malzahar"
-        ],
-        [
-            "Corki",
-            "Veigar",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
             "Ziggs"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Lulu",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Caitlyn",
+            "Jinx",
+            "Mel"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
+            "Alistar",
+            "Annie",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
             "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Kogmaw",
+            "Nocturne",
+            "Poppy",
+            "Rammus",
+            "Sejuani",
+            "Singed",
+            "Sion",
+            "Swain",
+            "Tristana",
+            "Ziggs"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar",
-            "Ziggs"
+            "Janna",
+            "Singed"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Samira",
+            "Sion",
+            "Vladimir"
+        ],
+        [
+            "Aatrox",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Morgana",
+            "Nasus",
+            "Nilah",
+            "Olaf",
+            "Samira",
+            "Senna",
+            "Sion",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Vladimir",
+            "Warwick"
+        ],
+        [
+            "Ambessa",
+            "Warwick"
         ]
     ]
 }

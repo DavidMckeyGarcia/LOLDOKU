@@ -1,81 +1,156 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "true damage",
-        "Season 7+"
+        "Top",
+        "global ult",
+        "before s7"
     ],
     "cols": [
-        "Shurima",
-        "knock-up",
-        "yordle"
+        "Piltover",
+        "fear",
+        "never played"
     ],
     "solutions": [
         [
-            "Xerath",
-            "Zilean"
+            "Camille",
+            "Heimerdinger",
+            "Jayce"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Chogath",
+            "Dr. Mundo",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
+            "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Ashe",
+            "Bard",
+            "Briar",
+            "Draven",
+            "Jinx",
+            "Kled",
+            "Lillia",
+            "Maokai",
+            "Senna",
+            "Shen",
+            "Soraka"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
         ],
         [
             "Alistar",
+            "Amumu",
+            "Ashe",
+            "Bard",
             "Blitzcrank",
+            "Brand",
             "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Ksante"
-        ],
-        [
-            "Belveth",
             "Chogath",
+            "Dr. Mundo",
+            "Draven",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Graves",
+            "Hecarim",
+            "Heimerdinger",
+            "Illaoi",
             "Ivern",
-            "Ksante",
+            "Janna",
+            "Jarvan IV",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kennen",
+            "Kindred",
+            "Kled",
+            "Leona",
+            "Malphite",
+            "Miss Fortune",
+            "Mordekaiser",
+            "Morgana",
+            "Nami",
             "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Amumu",
-            "Corki"
-        ],
-        [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Vex"
+            "Rammus",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Sivir",
+            "Skarner",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Teemo",
+            "Thresh",
+            "Trundle",
+            "Twitch",
+            "Udyr",
+            "Vayne",
+            "Vi",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Yorick",
+            "Zyra"
         ]
     ]
 }

@@ -1,69 +1,80 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "dark star",
-        "before s7"
+        "Jungle",
+        "invis",
+        "arcade"
     ],
     "cols": [
-        "Freljord",
-        "silence",
-        "darkin"
+        "knock-up",
+        "Noxus",
+        "yordle"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
+            "Belveth",
+            "Briar",
+            "Diana",
             "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Naafiri"
-        ],
-        [
-            "Lissandra"
-        ],
-        [
-            "Chogath"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Brand",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Lissandra",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
             "Nunu",
-            "Olaf",
+            "Poppy",
+            "Reksai",
+            "Rell",
             "Sejuani",
+            "Sylas",
+            "Taliyah",
             "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Mordekaiser",
+            "Rell",
+            "Talon"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "LeBlanc",
+            "Talon"
+        ],
+        [
+            "Teemo"
+        ],
+        [
+            "Belveth",
             "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Riven",
+            "Yasuo",
+            "Ziggs"
         ],
         [
-            "Aatrox",
-            "Varus"
+            "Riven"
+        ],
+        [
+            "Corki",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

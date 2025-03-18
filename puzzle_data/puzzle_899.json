@@ -1,58 +1,113 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "invis",
-        "Season 7+"
+        "Mid",
+        "before s7",
+        "shield"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "ult reset"
+        "root",
+        "Targon",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Briar",
             "Hwei",
-            "Vex"
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Vex",
-            "Viego"
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Aurelion Sol",
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Ryze",
+            "Tristana",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Aphelios",
+            "Diana",
+            "Taric"
+        ],
+        [
+            "Aphelios",
+            "Kaisa"
         ]
     ]
 }

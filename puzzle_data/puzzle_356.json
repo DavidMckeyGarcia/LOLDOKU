@@ -1,76 +1,57 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
-        "blink",
-        "PROJECT"
+        "Jungle",
+        "ult execute",
+        "elderwood"
     ],
     "cols": [
-        "Zaun",
-        "root",
-        "arcane"
+        "fear",
+        "Shadow Isles",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Heimerdinger",
-            "Jayce",
-            "LeBlanc",
-            "Mel",
-            "Orianna",
-            "Viktor"
-        ],
-        [
-            "Ekko"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "LeBlanc"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Vi",
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
             "Warwick"
         ],
         [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Vi",
-            "Warwick"
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Viego"
+        ],
+        [
+            "Darius",
+            "Pyke",
+            "Viego"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Hecarim",
+            "Karthus"
+        ],
+        [
+            "Ahri"
         ]
     ]
 }

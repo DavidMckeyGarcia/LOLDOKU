@@ -1,105 +1,112 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "prestige",
+        "Jungle",
+        "cosmic",
         "before s7"
     ],
     "cols": [
-        "fear",
-        "Ionia",
-        "yordle"
+        "root",
+        "Demacia",
+        "tether"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Kayn",
+            "Ivern",
             "Lee sin",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Fizz",
-            "Lulu",
-            "Teemo"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
             "Shaco",
-            "Urgot",
-            "Warwick"
+            "Zac",
+            "Zyra"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Irelia",
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Jhin",
+            "Lissandra",
+            "Lux",
+            "Nautilus",
+            "Nunu",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Lux",
+            "Xin Zhao"
+        ],
+        [
+            "Illaoi"
+        ],
+        [
+            "Caitlyn",
             "Ivern",
             "Jhin",
+            "Jinx",
             "Karma",
-            "Kennen",
+            "LeBlanc",
             "Lee sin",
-            "Master yi",
-            "Shen",
-            "Syndra",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
             "Varus",
-            "Wukong",
-            "Yasuo",
-            "Zed"
+            "Zac",
+            "Zyra"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
             "Poppy",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar",
-            "Ziggs"
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Aatrox",
+            "Fiddlesticks",
+            "Illaoi",
+            "Kalista",
+            "Karma",
+            "Kled",
+            "LeBlanc",
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
         ]
     ]
 }

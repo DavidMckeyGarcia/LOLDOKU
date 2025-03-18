@@ -1,76 +1,61 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "global ult",
-        "pool party"
+        "Support",
+        "pool party",
+        "invis"
     ],
     "cols": [
+        "Zaun",
         "stun",
-        "Piltover",
-        "ult reset"
+        "arcane"
     ],
     "solutions": [
         [
-            "Amumu",
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
             "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
             "Morgana",
+            "Nami",
             "Nautilus",
-            "Nunu",
+            "Neeko",
             "Pantheon",
             "Poppy",
-            "Qiyana",
-            "Rammus",
+            "Pyke",
             "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Camille"
+            "Heimerdinger",
+            "Janna",
+            "Mel"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Vex"
+            "Dr. Mundo",
+            "Orianna",
+            "Singed",
+            "Zac",
+            "Ziggs"
         ],
         [
             "Braum",
@@ -88,10 +73,21 @@
         [
             "Caitlyn",
             "Heimerdinger",
-            "Orianna"
+            "Orianna",
+            "Singed"
         ],
         [
-            "Singed"
+            "Twitch"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

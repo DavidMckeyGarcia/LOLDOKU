@@ -1,36 +1,68 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "before s7",
-        "shield"
+        "Top",
+        "shield",
+        "before s7"
     ],
     "cols": [
+        "Shurima",
         "silence",
-        "Shadow Isles",
-        "100+ games"
+        "yordle"
     ],
     "solutions": [
         [
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Ksante",
+            "Naafiri",
+            "Sivir"
+        ],
+        [
             "Blitzcrank",
-            "Lulu",
-            "Soraka"
+            "Garen",
+            "Kassadin",
+            "Lulu"
         ],
         [
-            "Maokai",
-            "Senna",
-            "Thresh"
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Braum",
-            "Janna",
-            "Leona",
-            "Lulu",
-            "Maokai",
-            "Rakan",
-            "Thresh"
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Renekton",
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
             "Blitzcrank",
@@ -42,68 +74,20 @@
             "Soraka"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Karthus",
-            "Thresh",
-            "Yorick"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Ashe",
-            "Azir",
-            "Braum",
-            "Caitlyn",
-            "Elise",
-            "Ezreal",
+            "Amumu",
+            "Corki",
+            "Fizz",
             "Gnar",
-            "Gragas",
-            "Graves",
-            "Janna",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Jhin",
-            "Lee sin",
-            "Leona",
-            "Lucian",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
             "Lulu",
-            "Orianna",
-            "Renekton",
+            "Poppy",
             "Rumble",
-            "Ryze",
-            "Sejuani",
-            "Shen",
-            "Syndra",
-            "Thresh",
+            "Teemo",
             "Tristana",
-            "Varus"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Senna",
-            "Thresh",
-            "Vex"
-        ],
-        [
-            "Azir",
-            "Braum",
-            "Janna",
-            "Jarvan IV",
-            "Kaisa",
-            "Lee sin",
-            "Lulu",
-            "Orianna",
-            "Rakan",
-            "Rumble",
-            "Shen",
-            "Thresh"
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

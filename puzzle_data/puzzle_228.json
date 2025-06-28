@@ -1,90 +1,75 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "true damage",
-        "before s7"
+        "Support",
+        "OG40",
+        "empyrean"
     ],
     "cols": [
-        "silence",
-        "Freljord",
-        "yordle"
+        "Zaun",
+        "knock-up",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
         ],
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
-            "Amumu",
-            "Corki"
+            "Pyke",
+            "Swain"
         ],
         [
             "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
         ],
         [
+            "Alistar",
             "Anivia",
-            "Ashe",
-            "Brand",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Lissandra",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
             "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Sion"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar",
-            "Ziggs"
+            "Master yi",
+            "Singed",
+            "Sivir"
+        ],
+        [
+            "Zac"
+        ],
+        [
+            "Ksante",
+            "Zac"
+        ],
+        [
+            "Pyke",
+            "Vex"
         ]
     ]
 }

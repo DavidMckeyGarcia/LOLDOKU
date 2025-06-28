@@ -1,119 +1,85 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "before s7",
-        "life steal"
+        "Support",
+        "dark star",
+        "blink"
     ],
     "cols": [
-        "Freljord",
-        "fear",
-        "100+ games"
+        "stun",
+        "Piltover",
+        "riot records"
     ],
     "solutions": [
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Brand",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Lissandra",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
             "Alistar",
+            "Annie",
             "Ashe",
-            "Azir",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
             "Braum",
-            "Caitlyn",
-            "Elise",
-            "Ezreal",
-            "Gnar",
-            "Gragas",
-            "Graves",
-            "Janna",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Jhin",
-            "Lee sin",
+            "Heimerdinger",
             "Leona",
-            "Lucian",
-            "Lulu",
-            "Orianna",
-            "Renekton",
-            "Rumble",
-            "Ryze",
-            "Sejuani",
-            "Shen",
-            "Syndra",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
             "Thresh",
-            "Tristana",
-            "Varus"
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Olaf",
-            "Trundle",
-            "Udyr"
+            "Heimerdinger",
+            "Seraphine"
         ],
         [
-            "Aatrox",
-            "Briar",
-            "Warwick"
+            "Senna",
+            "Sona"
         ],
         [
-            "Aatrox",
-            "Lee sin"
+            "Lissandra",
+            "Orianna",
+            "Thresh",
+            "Xerath"
+        ],
+        [
+            "Orianna"
+        ],
+        [
+            "Mordekaiser"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Ezreal"
+        ],
+        [
+            "Ekko",
+            "Ezreal",
+            "Viego",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

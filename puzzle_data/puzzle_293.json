@@ -1,101 +1,57 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "dash",
+        "Mid",
+        "cosmic",
         "OG40"
     ],
     "cols": [
         "Ixtal",
-        "root",
-        "manaless"
+        "silence",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Malphite",
+            "Neeko",
+            "Qiyana"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Nidalee",
             "Skarner"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Kassadin",
+            "Lulu"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
-            "Kled",
-            "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Malphite",
-            "Nidalee",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Akali",
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Gnar",
-            "Kled",
-            "Lee sin",
-            "Reksai",
-            "Renekton",
-            "Rengar",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Tryndamere",
-            "Viego",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Xayah"
         ],
         [
             "Malphite"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
             "Soraka"
         ],
         [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
+            "Ryze",
+            "Tristana",
+            "Twitch"
         ]
     ]
 }

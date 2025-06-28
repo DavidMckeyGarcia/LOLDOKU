@@ -1,16 +1,20 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "before s7",
-        "invis"
+        "arcade",
+        "before s7"
     ],
     "cols": [
+        "Bilgewater",
         "root",
-        "Ixtal",
-        "never played"
+        "tether"
     ],
     "solutions": [
+        [
+            "Fizz",
+            "Twisted fate"
+        ],
         [
             "Hwei",
             "Karma",
@@ -25,15 +29,31 @@
             "Swain"
         ],
         [
-            "Neeko",
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Miss Fortune"
+        ],
+        [
+            "Caitlyn",
             "Qiyana"
         ],
         [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Heimerdinger",
-            "Naafiri"
+            "Malzahar"
+        ],
+        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
         ],
         [
             "Caitlyn",
@@ -60,100 +80,17 @@
             "Zyra"
         ],
         [
-            "Malphite",
-            "Nidalee",
-            "Rengar",
-            "Skarner",
-            "Zyra"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Chogath",
-            "Dr. Mundo",
-            "Draven",
-            "Elise",
-            "Evelynn",
+            "Aatrox",
             "Fiddlesticks",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Graves",
-            "Hecarim",
-            "Heimerdinger",
             "Illaoi",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Jhin",
-            "Jinx",
             "Kalista",
-            "Kennen",
-            "Kindred",
+            "Karma",
             "Kled",
-            "Leona",
-            "Malphite",
-            "Miss Fortune",
-            "Mordekaiser",
-            "Morgana",
-            "Nami",
-            "Nunu",
-            "Rammus",
-            "Reksai",
-            "Rengar",
-            "Sejuani",
-            "Shaco",
-            "Shen",
-            "Shyvana",
-            "Sivir",
-            "Skarner",
-            "Sona",
-            "Soraka",
-            "Tahm kench",
-            "Teemo",
-            "Thresh",
-            "Trundle",
-            "Twitch",
-            "Udyr",
-            "Vayne",
-            "Vi",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Yorick",
-            "Zyra"
-        ],
-        [
             "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Neeko",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Akshan",
-            "Pyke",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Teemo",
-            "Twitch",
-            "Vayne",
-            "Viego",
-            "Wukong"
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
         ]
     ]
 }

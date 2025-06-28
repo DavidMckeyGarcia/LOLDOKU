@@ -1,14 +1,14 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
         "Mid",
         "Season 7+",
-        "arcade"
+        "cosmic"
     ],
     "cols": [
         "knock-up",
-        "Piltover",
-        "tether"
+        "Freljord",
+        "manaless"
     ],
     "solutions": [
         [
@@ -30,17 +30,20 @@
             "Ziggs"
         ],
         [
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna",
-            "Seraphine"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
             "Belveth",
@@ -56,27 +59,36 @@
             "Yone"
         ],
         [
-            "Camille",
-            "Seraphine"
+            "Aurora",
+            "Ornn"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Xin Zhao"
+        ],
+        [
+            "Anivia",
+            "Lissandra",
+            "Nunu"
         ],
         [
             "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Malzahar"
+            "Vladimir"
         ]
     ]
 }

@@ -1,81 +1,62 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
         "Top",
-        "PROJECT",
-        "life steal"
+        "shield",
+        "arcade"
     ],
     "cols": [
-        "root",
-        "Targon",
-        "manaless"
+        "silence",
+        "Noxus",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Pantheon"
-        ],
-        [
-            "Aatrox",
-            "Akali",
             "Ambessa",
-            "Dr. Mundo",
-            "Garen",
-            "Gnar",
-            "Kennen",
+            "Darius",
+            "Kayn",
             "Kled",
             "Mordekaiser",
-            "Renekton",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Tryndamere",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
+            "Wukong"
         ],
         [
-            "Leona"
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
         ],
         [
-            "Akali",
-            "Katarina",
-            "Mordekaiser",
-            "Renekton",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
-            "Aatrox",
             "Ambessa",
-            "Belveth",
-            "Briar",
-            "Lee sin",
-            "Viego",
-            "Vladimir"
+            "Annie",
+            "Kled",
+            "Mel",
+            "Mordekaiser",
+            "Rell",
+            "Riven",
+            "Sion"
+        ],
+        [
+            "Neeko",
+            "Rakan"
+        ],
+        [
+            "Blitzcrank",
+            "Malzahar"
+        ],
+        [
+            "Riven"
+        ],
+        [
+            "Ahri"
         ]
     ]
 }

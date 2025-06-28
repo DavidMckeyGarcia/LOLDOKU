@@ -1,57 +1,83 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
         "Support",
-        "global ult",
-        "OG40"
+        "before s7",
+        "pool party"
     ],
     "cols": [
-        "Freljord",
         "silence",
-        "30+ wins"
+        "Ionia",
+        "arcane"
     ],
     "solutions": [
-        [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
         [
             "Blitzcrank",
             "Lulu",
             "Soraka"
         ],
         [
-            "Galio"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Ashe",
-            "Ornn"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Galio",
-            "Ryze",
-            "Taliyah"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
+            "Heimerdinger",
+            "Janna",
+            "Mel"
         ],
         [
             "Blitzcrank",
             "Chogath",
             "Fiddlesticks",
+            "Garen",
             "Kassadin",
+            "Lulu",
             "Soraka"
         ],
         [
-            "Corki",
-            "Ryze"
+            "Ahri",
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Jhin",
+            "Karma",
+            "Kennen",
+            "Lee sin",
+            "Master yi",
+            "Shen",
+            "Syndra",
+            "Varus",
+            "Wukong",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Heimerdinger",
+            "Janna",
+            "Jayce",
+            "Jinx",
+            "LeBlanc",
+            "Orianna",
+            "Singed",
+            "Vi",
+            "Viktor",
+            "Warwick"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Lee sin",
+            "Sett",
+            "Syndra"
+        ],
+        [
+            "Caitlyn",
+            "Heimerdinger",
+            "Orianna",
+            "Singed"
         ]
     ]
 }

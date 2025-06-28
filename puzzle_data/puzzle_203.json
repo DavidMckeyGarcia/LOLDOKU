@@ -1,91 +1,70 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "global ult",
-        "arcade"
+        "Jungle",
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "Ionia",
-        "root",
-        "never played"
+        "fear",
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
-        ],
-        [
-            "Lillia",
-            "Shen"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Ashe",
-            "Bard",
             "Briar",
-            "Draven",
-            "Jinx",
-            "Kled",
-            "Lillia",
-            "Maokai",
-            "Senna",
-            "Shen",
-            "Soraka"
-        ],
-        [
-            "Ahri",
-            "Yasuo"
-        ],
-        [
-            "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Brand",
+            "Fiddlesticks",
             "Hecarim",
-            "Miss Fortune",
-            "Sona"
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Renata glasc",
+            "Twitch",
+            "Urgot"
+        ],
+        [
+            "Amumu",
+            "Corki"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

@@ -1,111 +1,122 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Support",
-        "OG40",
-        "true damage"
+        "global ult",
+        "Season 7+"
     ],
     "cols": [
-        "Bilgewater",
-        "silence",
-        "never played"
+        "stun",
+        "Noxus",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
-        ],
-        [
             "Alistar",
+            "Annie",
             "Ashe",
             "Bard",
             "Blitzcrank",
             "Brand",
             "Braum",
             "Heimerdinger",
-            "Janna",
             "Leona",
-            "Maokai",
             "Milio",
             "Morgana",
             "Nami",
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
             "Pyke",
-            "Rakan",
             "Rell",
             "Renata glasc",
-            "Senna",
+            "Seraphine",
             "Sona",
-            "Soraka",
             "Tahm kench",
+            "Taric",
             "Thresh",
-            "Yuumi",
-            "Zyra"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
             "Alistar",
-            "Amumu",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
+            "Alistar",
             "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
+            "Braum",
             "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
         ],
         [
-            "Gangplank",
-            "Pyke"
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Ekko",
+            "Ornn",
+            "Pantheon",
+            "Sion",
+            "Taliyah",
+            "Twisted fate",
+            "Xerath"
         ],
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Belveth",
-            "Chogath",
+            "Briar",
             "Draven",
-            "Fiora",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Lillia",
-            "Nunu",
+            "Kled",
+            "Mel",
+            "Sion"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
             "Pyke",
+            "Rell",
             "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
             "Samira",
-            "Twitch",
-            "Vayne"
+            "Smolder"
+        ],
+        [
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

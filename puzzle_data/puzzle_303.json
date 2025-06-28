@@ -1,93 +1,96 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "prestige",
-        "OG40"
+        "Support",
+        "OG40",
+        "shield"
     ],
     "cols": [
-        "knock-up",
-        "The Void",
-        "yordle"
+        "root",
+        "Ionia",
+        "riot records"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Chogath"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
         ],
         [
-            "Kaisa"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Fizz",
-            "Lulu",
-            "Teemo"
+            "Senna",
+            "Sona"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
+            "Morgana",
             "Nunu",
-            "Sion"
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Chogath",
-            "Kassadin"
+            "Master yi"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Evelynn",
+            "Karthus",
+            "Kayle"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Hwei",
+            "Ivern",
+            "Karma",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Ekko",
+            "Ksante",
+            "Kaisa",
+            "Mordekaiser",
+            "Olaf",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

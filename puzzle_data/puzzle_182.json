@@ -1,91 +1,142 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "OG40",
-        "shield"
+        "Adc",
+        "dash",
+        "worlds skin"
     ],
     "cols": [
-        "silence",
         "Ionia",
-        "100+ games"
+        "stun",
+        "tether"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Jhin",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Kalista"
         ],
         [
             "Ahri",
             "Akali",
-            "Hwei",
             "Irelia",
-            "Karma",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Azir",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Hwei",
             "Ivern",
-            "Karma",
+            "Kayn",
             "Lee sin",
+            "Lillia",
             "Rakan",
             "Sett",
             "Shen",
+            "Wukong",
             "Yasuo",
             "Yone"
         ],
         [
-            "Azir",
+            "Alistar",
+            "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
             "Braum",
-            "Janna",
-            "Jarvan IV",
-            "Kaisa",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Nocturne",
+            "Sylas",
+            "Yuumi",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Irelia",
+            "Jhin",
+            "Kennen",
             "Lee sin",
-            "Lulu",
-            "Orianna",
             "Rakan",
-            "Rumble",
             "Shen",
-            "Thresh"
+            "Syndra",
+            "Xayah",
+            "Zed"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Irelia",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Nami",
+            "Nunu",
+            "Orianna",
+            "Renekton",
+            "Syndra",
+            "Taliyah",
+            "Thresh",
+            "Twisted fate",
+            "Vayne",
+            "Viego",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Kalista",
+            "LeBlanc",
+            "Yuumi",
+            "Zac"
         ]
     ]
 }

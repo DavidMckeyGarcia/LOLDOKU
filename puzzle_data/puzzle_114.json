@@ -1,122 +1,101 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "dash",
-        "cosmic"
+        "Top",
+        "shield",
+        "arcade"
     ],
     "cols": [
-        "Demacia",
         "knock-up",
-        "ascended"
+        "Ixtal",
+        "tether"
     ],
     "solutions": [
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "Fiora",
-            "Galio",
-            "Jarvan IV",
-            "Lucian",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sylas",
-            "Vayne",
-            "Xin Zhao"
-        ],
-        [
             "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Diana",
-            "Fizz",
-            "Galio",
+            "Chogath",
             "Gragas",
-            "Ivern",
             "Jarvan IV",
             "Ksante",
             "Kayn",
-            "Lee sin",
             "Malphite",
-            "Nautilus",
             "Ornn",
             "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
             "Riven",
-            "Samira",
-            "Sejuani",
+            "Sion",
             "Sylas",
-            "Taliyah",
-            "Vi",
+            "Tahm kench",
+            "Trundle",
             "Wukong",
-            "Xin Zhao",
             "Yasuo",
             "Yone",
-            "Zac",
-            "Ziggs"
+            "Zac"
+        ],
+        [
+            "Malphite",
+            "Skarner"
         ],
         [
             "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
+        ],
+        [
             "Azir",
+            "Blitzcrank",
+            "Braum",
             "Diana",
-            "Kayn",
-            "Leona",
-            "Naafiri",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Lux",
-            "Xin Zhao"
-        ],
-        [
-            "Anivia",
-            "Belveth",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
             "Lulu",
-            "Nami",
+            "Malphite",
             "Nautilus",
+            "Neeko",
             "Nunu",
+            "Orianna",
+            "Poppy",
             "Rakan",
+            "Rell",
+            "Riven",
             "Sion",
-            "Xin Zhao"
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Varus"
+            "Malphite",
+            "Milio",
+            "Neeko",
+            "Skarner"
+        ],
+        [
+            "Karma",
+            "Kled",
+            "Morgana",
+            "Nocturne",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Qiyana"
+        ],
+        [
+            "Malzahar"
         ]
     ]
 }

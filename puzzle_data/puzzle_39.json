@@ -1,87 +1,106 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "blink",
-        "arcade"
+        "Adc",
+        "global ult",
+        "before s7"
     ],
     "cols": [
-        "Noxus",
-        "silence",
-        "never played"
+        "Shadow Isles",
+        "knock-up",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
+            "Kalista",
+            "Senna"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
-            "Kayn",
-            "Kennen",
-            "Kled",
-            "Malphite",
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Karthus",
             "Maokai",
-            "Mordekaiser",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Hecarim",
+            "Kalista",
+            "Karthus",
+            "Thresh",
             "Yorick"
         ],
         [
-            "Ambessa",
-            "Katarina",
-            "LeBlanc"
-        ],
-        [
-            "Kassadin"
-        ],
-        [
-            "Pyke",
+            "Aatrox",
+            "Alistar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
+            "Poppy",
             "Reksai",
-            "Shen",
+            "Riven",
+            "Sejuani",
+            "Sion",
             "Tahm kench",
-            "Viego"
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Riven"
-        ],
-        [
-            "Blitzcrank",
-            "Malzahar"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Miss Fortune",
-            "Sona"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ]
     ]
 }

@@ -1,101 +1,84 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "coven",
-        "evolves"
+        "Mid",
+        "invis",
+        "Season 7+"
     ],
     "cols": [
-        "Demacia",
-        "slow",
-        "100% AP Ratio"
+        "knock-up",
+        "Freljord",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
             "Ziggs"
         ],
         [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Morgana"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
             "Ahri",
-            "Akali",
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Evelynn",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Nilah",
-            "Syndra",
-            "Zyra"
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "Ashe",
-            "Evelynn"
+            "Neeko",
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Kayle"
+            "Aurora"
         ],
         [
-            "Bard",
+            "Pyke",
+            "Vayne",
+            "Viego"
+        ],
+        [
             "Belveth",
-            "Gangplank",
-            "Kaisa",
-            "Kayle",
+            "Briar",
+            "Ksante",
             "Kayn",
-            "Khazix",
-            "Smolder",
-            "Syndra",
-            "Viktor"
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Aurora",
+            "Ornn"
         ],
         [
             "Belveth",
-            "Gangplank",
-            "Kaisa",
-            "Smolder",
-            "Viktor"
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
         ]
     ]
 }

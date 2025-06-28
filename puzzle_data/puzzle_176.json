@@ -3,14 +3,25 @@
     "rows": [
         "Mid",
         "dash",
-        "OG40"
+        "arcade"
     ],
     "cols": [
+        "Ionia",
         "knock-up",
-        "Zaun",
-        "30+ wins"
+        "riot records"
     ],
     "solutions": [
+        [
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
         [
             "Anivia",
             "Aurelion Sol",
@@ -30,22 +41,30 @@
             "Ziggs"
         ],
         [
+            "Ahri",
+            "Akali",
             "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
         ],
         [
             "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Akali",
+            "Irelia",
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
             "Aatrox",
@@ -85,42 +104,37 @@
             "Ziggs"
         ],
         [
+            "Ahri",
+            "Akali",
             "Ekko",
-            "Urgot",
-            "Vi",
-            "Warwick",
-            "Zac",
-            "Zeri",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Qiyana",
+            "Sett",
+            "Viego",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ahri",
+            "Yasuo"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
             "Ziggs"
         ],
         [
             "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "Taliyah"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Corki",
-            "Ryze"
+            "Ezreal",
+            "Kaisa",
+            "Qiyana",
+            "Sona",
+            "Yasuo"
         ]
     ]
 }

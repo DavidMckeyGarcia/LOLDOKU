@@ -1,83 +1,66 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "true damage",
-        "Season 7+"
+        "Jungle",
+        "PROJECT",
+        "before s7"
     ],
     "cols": [
+        "fear",
         "Bilgewater",
-        "knock-up",
-        "vastayan"
+        "0 games"
     ],
     "solutions": [
         [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Graves",
+            "Nautilus"
+        ],
+        [
+            "Briar",
+            "Master yi"
+        ],
+        [
+            "Warwick"
+        ],
+        [
             "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Pyke"
+        ],
+        [
+            "Master yi"
         ],
         [
             "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Wukong"
-        ],
-        [
+            "Fizz",
             "Gangplank",
-            "Pyke"
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Ahri"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Illaoi",
+            "Master yi"
         ]
     ]
 }

@@ -1,95 +1,99 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
+        "Jungle",
         "Season 7+",
-        "global ult"
+        "shield"
     ],
     "cols": [
-        "knock-up",
         "Freljord",
-        "100+ games"
+        "root",
+        "tether"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Orianna",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Anivia",
-            "Aurora",
             "Brand",
             "Gragas",
-            "Lissandra"
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Azir",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
             "Sylas",
-            "Yone"
+            "Zac"
         ],
         [
             "Aurora",
             "Ornn"
         ],
         [
-            "Kaisa",
-            "Rakan",
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
             "Xayah"
         ],
         [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ],
         [
-            "Ashe",
-            "Ornn"
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
-            "Ryze",
-            "Shen"
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Karma",
+            "Kled",
+            "Morgana",
+            "Nocturne",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
         ]
     ]
 }

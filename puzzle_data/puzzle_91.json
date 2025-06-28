@@ -1,171 +1,57 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "challenger",
     "rows": [
         "Mid",
-        "life steal",
-        "Season 7+"
+        "Season 7+",
+        "hextech"
     ],
     "cols": [
-        "Noxus",
-        "slow",
-        "0 games"
+        "Freljord",
+        "fear",
+        "tether"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
-        ],
-        [
-            "Ahri",
-            "Akali",
             "Anivia",
-            "Aurelion Sol",
             "Aurora",
-            "Azir",
             "Brand",
-            "Cassiopeia",
-            "Chogath",
-            "Corki",
-            "Diana",
-            "Ekko",
-            "Fizz",
-            "Galio",
             "Gragas",
-            "Heimerdinger",
+            "Lissandra"
+        ],
+        [
             "Hwei",
-            "Irelia",
-            "Jayce",
+            "Vex"
+        ],
+        [
             "Karma",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Naafiri",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Talon",
-            "Tristana",
-            "Twisted fate",
-            "Velkoz",
-            "Vex",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zed",
-            "Ziggs",
-            "Zilean",
-            "Zoe"
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Aatrox",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Morgana",
-            "Nasus",
-            "Nilah",
-            "Olaf",
-            "Samira",
-            "Senna",
-            "Sion",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Vladimir",
-            "Warwick"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Illaoi",
-            "Samira"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Aphelios",
             "Aurora",
-            "Belveth",
-            "Briar",
-            "Camille",
-            "Gwen",
-            "Hwei",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Lillia",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Ornn",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sett",
-            "Smolder",
-            "Sylas",
-            "Vex",
-            "Viego",
-            "Yuumi",
-            "Zeri",
-            "Zoe"
+            "Ornn"
         ],
         [
-            "Akshan",
-            "Ambessa",
             "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
+            "Hwei",
             "Vex"
+        ],
+        [
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
+        ],
+        [
+            "Anivia",
+            "Sejuani"
+        ],
+        [
+            "Nocturne"
+        ],
+        [
+            "Malzahar",
+            "Nocturne"
         ]
     ]
 }

@@ -1,61 +1,73 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "true damage"
+        "Top",
+        "invis",
+        "cosmic"
     ],
     "cols": [
-        "Demacia",
         "fear",
-        "yordle"
+        "Demacia",
+        "manaless"
     ],
     "solutions": [
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
+            "Aatrox",
+            "Darius",
+            "Urgot",
             "Warwick"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Sylas"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Vex"
         ],
         [
             "Fiora",
             "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
             "Vayne"
         ],
         [
-            "Darius",
-            "Urgot"
+            "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Amumu",
-            "Corki"
+            "Shaco"
+        ],
+        [
+            "Vayne"
+        ],
+        [
+            "Akali",
+            "Reksai",
+            "Rengar",
+            "Viego"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Lux",
+            "Xin Zhao"
+        ],
+        [
+            "Belveth",
+            "Vladimir"
         ]
     ]
 }

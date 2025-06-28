@@ -1,87 +1,77 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "shield",
-        "Season 7+"
+        "Top",
+        "Season 7+",
+        "evolves"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "arcane"
+        "knock-up",
+        "Zaun",
+        "darkin"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
             "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Kayn"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
             "Neeko",
-            "Nunu",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
             "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Zeri"
         ],
         [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
+            "Kayn",
+            "Naafiri"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Janna",
-            "Mel",
-            "Orianna",
-            "Vi",
+            "Belveth",
+            "Kayn"
+        ],
+        [
             "Viktor"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Ambessa",
-            "Mel"
+            "Kayn"
         ]
     ]
 }

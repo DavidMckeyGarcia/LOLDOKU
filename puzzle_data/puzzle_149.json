@@ -1,36 +1,27 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
         "Support",
-        "Season 7+",
-        "shield"
+        "before s7",
+        "pool party"
     ],
     "cols": [
-        "root",
-        "Bandle City",
+        "silence",
+        "Noxus",
         "yordle"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
         ],
         [
             "Heimerdinger",
@@ -38,50 +29,57 @@
             "Poppy"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Yuumi"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
-        ],
-        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
             "Lulu",
-            "Rumble",
-            "Yuumi"
+            "Soraka"
         ],
         [
+            "Alistar",
+            "Annie",
+            "Cassiopeia",
+            "Darius",
+            "Draven",
+            "Elise",
+            "Katarina",
+            "Kled",
+            "LeBlanc",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
             "Kled",
             "Lulu",
             "Poppy",
             "Rumble",
-            "Vex"
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
+        ],
+        [
+            "Lulu"
+        ],
+        [
+            "Draven"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Ziggs"
         ]
     ]
 }

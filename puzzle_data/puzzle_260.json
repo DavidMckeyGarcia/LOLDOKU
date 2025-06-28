@@ -1,62 +1,131 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "blink",
-        "Season 7+"
+        "Mid",
+        "evolves",
+        "before s7"
     ],
     "cols": [
+        "Demacia",
         "knock-up",
-        "Shadow Isles",
-        "ascended"
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
             "Ziggs"
         ],
         [
-            "Kalista",
-            "Senna"
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ],
         [
-            "Varus"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Viego"
-        ],
-        [
-            "Pantheon"
+            "Kayle"
         ],
         [
             "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Kayn"
         ],
         [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
+            "Viktor"
         ],
         [
-            "Kayn",
-            "Naafiri"
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ]
     ]
 }

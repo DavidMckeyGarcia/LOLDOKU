@@ -1,78 +1,66 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "before s7",
-        "global ult"
+        "Adc",
+        "coven",
+        "invis"
     ],
     "cols": [
-        "fear",
-        "Shadow Isles",
-        "ult reset"
+        "Noxus",
+        "root",
+        "shred"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Karthus",
-            "Thresh",
-            "Yorick"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Singed",
-            "Sivir",
-            "Swain",
-            "Vayne",
-            "Viktor"
-        ],
-        [
-            "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Karthus",
-            "Maokai",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
             "Senna",
-            "Vex"
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Vex"
+            "Corki",
+            "Kogmaw"
+        ],
+        [
+            "Cassiopeia",
+            "Elise",
+            "LeBlanc"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Morgana",
+            "Zyra"
+        ],
+        [
+            "Evelynn"
+        ],
+        [
+            "LeBlanc",
+            "Talon"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

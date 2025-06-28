@@ -1,104 +1,89 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "coven",
-        "before s7"
+        "Mid",
+        "before s7",
+        "global ult"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "30+ wins"
+        "Demacia",
+        "silence",
+        "yordle"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Corki"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Morgana",
-            "Zyra"
-        ],
-        [
-            "Cassiopeia",
-            "Elise",
-            "LeBlanc"
-        ],
-        [
-            "Ahri",
-            "LeBlanc",
-            "Lissandra"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
             "Lux",
             "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Cassiopeia",
-            "Darius",
-            "Draven",
-            "Elise",
-            "Katarina",
-            "Kled",
-            "LeBlanc",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Ahri",
-            "Azir",
+            "Amumu",
             "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
+        ],
+        [
             "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Lux"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

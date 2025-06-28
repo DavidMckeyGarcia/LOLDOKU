@@ -1,65 +1,165 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "invis",
-        "Season 7+"
+        "Support",
+        "life steal",
+        "before s7"
     ],
     "cols": [
         "Demacia",
         "stun",
-        "tether"
+        "riot records"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
+            "Alistar",
+            "Annie",
             "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Kalista"
-        ],
-        [
-            "Vayne"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "LeBlanc"
-        ],
-        [
-            "Sylas"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
             "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Ornn",
+            "Pantheon",
+            "Poppy",
             "Pyke",
             "Rell",
             "Renata glasc",
             "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Senna",
+            "Sona"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kayn",
+            "Olaf",
+            "Senna",
+            "Viego"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
+            "Ivern",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
+            "Pantheon",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Syndra",
+            "Tahm kench",
+            "Taliyah",
+            "Taric",
+            "Thresh",
+            "Twisted fate",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Veigar",
+            "Velkoz",
+            "Vi",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
+            "Xin Zhao",
+            "Zac",
+            "Zilean"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Evelynn",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Mordekaiser",
+            "Olaf",
+            "Sona",
+            "Yasuo",
+            "Yorick"
         ]
     ]
 }

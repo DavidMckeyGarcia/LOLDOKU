@@ -1,16 +1,20 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
         "Support",
-        "true damage",
-        "dark star"
+        "elderwood",
+        "invis"
     ],
     "cols": [
+        "Shurima",
         "knock-up",
-        "Freljord",
-        "100% AP Ratio"
+        "vastayan"
     ],
     "solutions": [
+        [
+            "Xerath",
+            "Zilean"
+        ],
         [
             "Alistar",
             "Blitzcrank",
@@ -29,64 +33,38 @@
             "Zyra"
         ],
         [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
+            "Nami",
             "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
+            "Rakan"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
+            "Azir"
         ],
         [
-            "Nunu",
-            "Olaf"
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
-            "Nunu"
+            "Ahri",
+            "Rakan",
+            "Wukong",
+            "Xayah"
         ],
         [
-            "Chogath",
-            "Jarvan IV",
-            "Malphite",
-            "Orianna"
+            "Akshan"
         ],
         [
-            "Lissandra"
+            "Neeko",
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Chogath",
-            "Jhin",
-            "Karma",
-            "Lux",
-            "Thresh",
-            "Varus",
-            "Xerath"
+            "Aurora",
+            "Neeko",
+            "Rengar",
+            "Wukong"
         ]
     ]
 }

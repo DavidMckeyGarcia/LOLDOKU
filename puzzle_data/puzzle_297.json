@@ -1,70 +1,75 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "blink",
-        "worlds skin"
+        "Top",
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "The Void",
-        "knock-up",
-        "ult reset"
+        "Shurima",
+        "root",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Kaisa",
-            "Kogmaw"
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Sivir",
+            "Akali",
+            "Darius",
+            "Fiora",
             "Vayne"
         ],
         [
-            "Kassadin",
-            "Reksai"
+            "Akshan",
+            "Amumu",
+            "Ksante"
         ],
         [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Master yi",
-            "Pyke",
-            "Viego"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Azir",
-            "Gragas",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Malphite",
-            "Nami",
+            "Ivern",
+            "Ksante",
             "Nunu",
-            "Orianna",
-            "Rakan",
-            "Taliyah",
-            "Zac",
-            "Zyra"
+            "Renata glasc"
         ],
         [
-            "Aatrox",
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Kogmaw",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
             "Singed",
-            "Vayne",
-            "Viego"
+            "Soraka"
+        ],
+        [
+            "Ryze",
+            "Tristana",
+            "Twitch"
         ]
     ]
 }

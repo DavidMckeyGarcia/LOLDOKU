@@ -1,117 +1,121 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
         "Mid",
-        "before s7",
-        "global ult"
+        "PROJECT",
+        "before s7"
     ],
     "cols": [
-        "Shurima",
-        "root",
-        "yordle"
+        "knock-up",
+        "Targon",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Akshan",
+            "Anivia",
+            "Aurelion Sol",
             "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Corki",
+            "Chogath",
+            "Diana",
             "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar",
-            "Vex",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
             "Ziggs"
+        ],
+        [
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Sejuani",
+            "Sylas",
+            "Vi",
+            "Yasuo"
+        ],
+        [
+            "Leona"
+        ],
+        [
+            "Master yi",
+            "Pyke",
+            "Vayne"
         ],
         [
             "Aatrox",
-            "Amumu",
+            "Alistar",
+            "Anivia",
+            "Aurelion Sol",
             "Azir",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Renekton",
-            "Sivir",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Caitlyn",
+            "Blitzcrank",
+            "Braum",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
             "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
+            "Lulu",
+            "Malphite",
+            "Nami",
             "Nautilus",
             "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
+            "Orianna",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
             "Zac",
+            "Ziggs",
             "Zyra"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar",
-            "Ziggs"
+            "Aurelion Sol",
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
         ],
         [
-            "Taliyah",
-            "Xerath"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Kled",
-            "Vex",
-            "Ziggs"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ]
     ]
 }

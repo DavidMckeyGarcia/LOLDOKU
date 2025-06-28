@@ -1,144 +1,72 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "OG40",
-        "dash"
+        "Top",
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Ionia",
-        "riot records"
+        "Noxus",
+        "silence",
+        "yordle"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
+            "Ambessa",
+            "Darius",
             "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
+            "Kled",
             "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
-            "Viego"
+            "Riven",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Samira"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Amumu",
+            "Corki"
         ],
         [
             "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
+            "Annie",
+            "Katarina",
             "Sion"
         ],
         [
-            "Master yi"
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Malphite",
-            "Nautilus",
-            "Ornn",
-            "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Yone",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Irelia",
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Ezreal",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Qiyana",
-            "Sett",
-            "Viego",
-            "Yasuo",
-            "Yone"
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

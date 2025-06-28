@@ -1,127 +1,109 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "ult execute",
-        "OG40"
+        "Adc",
+        "dash",
+        "prestige"
     ],
     "cols": [
-        "Bandle City",
-        "stun",
-        "100% AP Ratio"
+        "knock-up",
+        "Targon",
+        "shred"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
+            "Aphelios"
+        ],
+        [
+            "Corki",
+            "Kogmaw"
+        ],
+        [
+            "Aatrox",
             "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
             "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
             "Nautilus",
-            "Neeko",
-            "Pantheon",
+            "Ornn",
             "Poppy",
-            "Pyke",
+            "Rakan",
+            "Reksai",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Veigar"
-        ],
-        [
-            "Pyke",
             "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Chogath",
-            "Evelynn",
-            "Jhin",
-            "Jinx",
-            "Veigar",
-            "Viego"
+            "Aurelion Sol",
+            "Diana",
+            "Leona",
+            "Pantheon"
         ],
         [
+            "Briar",
             "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Jarvan IV",
+            "Jayce",
+            "Rell",
+            "Renekton",
+            "Rengar",
+            "Vi",
+            "Wukong"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Zoe"
+        ],
+        [
             "Evelynn",
-            "Gangplank",
-            "Jax",
-            "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Garen",
+            "Zoe"
         ]
     ]
 }

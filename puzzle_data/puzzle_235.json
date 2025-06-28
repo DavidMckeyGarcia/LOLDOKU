@@ -1,90 +1,101 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "worlds skin",
-        "Season 7+"
+        "Jungle",
+        "shield",
+        "before s7"
     ],
     "cols": [
-        "root",
-        "Bandle City",
-        "arcane"
+        "Zaun",
+        "fear",
+        "tether"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Fiddlesticks",
             "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Nocturne",
+            "Sylas",
+            "Zac"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Corki",
-            "Yuumi"
-        ],
-        [
-            "Caitlyn",
+            "Blitzcrank",
             "Ekko",
             "Janna",
-            "Jayce",
-            "Jinx",
-            "LeBlanc",
             "Orianna",
-            "Singed"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
             "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Urgot",
+            "Vi",
+            "Viktor"
         ],
         [
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
+        ],
+        [
+            "Karma",
+            "Kled",
+            "Morgana",
+            "Nocturne",
+            "Renata glasc",
+            "Taric",
             "Yuumi"
         ],
         [
-            "Ambessa",
-            "Mel"
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Ekko",
+            "Janna",
+            "Jinx",
+            "Orianna",
+            "Singed",
+            "Twitch",
+            "Urgot",
+            "Vi",
+            "Viktor",
+            "Warwick",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Fiddlesticks",
+            "Illaoi",
+            "Kalista",
+            "Karma",
+            "Kled",
+            "LeBlanc",
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
         ]
     ]
 }

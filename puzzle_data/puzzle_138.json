@@ -1,69 +1,121 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Top",
+        "Jungle",
         "OG40",
-        "coven"
+        "Fright Night"
     ],
     "cols": [
-        "Demacia",
-        "root",
-        "arcane"
+        "stun",
+        "Freljord",
+        "shred"
     ],
     "solutions": [
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
             "Poppy",
-            "Quinn",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
             "Sylas",
-            "Vayne"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
             "Zac"
         ],
         [
-            "Ambessa",
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
             "Heimerdinger",
-            "Jayce",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
+            "Jax",
             "Morgana",
             "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Singed",
-            "Warwick"
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
-            "Morgana"
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Morgana",
-            "Zyra"
+            "Annie",
+            "Nautilus",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Urgot",
+            "Veigar"
         ],
         [
-            "LeBlanc"
+            "Nunu",
+            "Trundle"
+        ],
+        [
+            "Trundle"
         ]
     ]
 }

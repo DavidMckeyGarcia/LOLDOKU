@@ -1,118 +1,87 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "coven",
-        "before s7"
+        "Mid",
+        "before s7",
+        "life steal"
     ],
     "cols": [
-        "Freljord",
-        "knock-up",
-        "vastayan"
+        "root",
+        "The Void",
+        "darkin"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Nami",
-            "Neeko",
-            "Rakan"
-        ],
-        [
-            "Ashe",
-            "Lissandra"
-        ],
-        [
-            "Nami",
-            "Zyra"
-        ],
-        [
-            "Ahri",
-            "Nami"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Brand",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
             "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
+        ],
+        [
+            "Naafiri"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
             "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Khazix",
+            "Kogmaw",
+            "Reksai",
+            "Velkoz"
         ],
         [
             "Aatrox",
-            "Alistar",
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Tahm kench",
-            "Taliyah",
-            "Trundle",
-            "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Varus"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar",
-            "Wukong"
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Belveth"
+        ],
+        [
+            "Aatrox",
+            "Kayn"
         ]
     ]
 }

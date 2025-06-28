@@ -1,86 +1,103 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "arcade",
-        "shield"
+        "Mid",
+        "Season 7+",
+        "elderwood"
     ],
     "cols": [
-        "Ionia",
-        "root",
-        "ult reset"
+        "knock-up",
+        "Shurima",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Karma",
-            "Rakan"
-        ],
-        [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Pyke",
-            "Swain"
-        ],
-        [
-            "Ahri",
-            "Yasuo"
-        ],
-        [
-            "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Ahri",
-            "Belveth"
-        ],
-        [
-            "Hwei",
-            "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
-            "Sett",
-            "Shen",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
             "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
             "Yone"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
+            "Akshan",
             "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Naafiri"
         ],
         [
-            "Naafiri",
-            "Olaf",
-            "Sivir",
-            "Vex",
-            "Viktor"
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Kaisa",
+            "Milio",
+            "Neeko",
+            "Smolder",
+            "Viego",
+            "Zeri"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Azir"
+        ],
+        [
+            "Gnar",
+            "Hecarim",
+            "Veigar",
+            "Wukong"
         ]
     ]
 }

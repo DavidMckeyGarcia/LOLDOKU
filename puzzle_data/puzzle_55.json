@@ -1,63 +1,117 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "dark star",
-        "global ult"
+        "Jungle",
+        "shield",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Zaun",
-        "tether"
+        "knock-up",
+        "Demacia",
+        "arcane"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Kalista"
-        ],
-        [
-            "Lissandra",
-            "Orianna",
-            "Thresh",
-            "Xerath"
-        ],
-        [
-            "Orianna"
-        ],
-        [
-            "Karma"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
+            "Belveth",
             "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
             "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
             "Ekko",
-            "Jinx",
-            "Ziggs"
+            "Vi",
+            "Warwick"
         ],
         [
-            "Kled",
-            "Nocturne"
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Janna",
+            "Mel",
+            "Orianna",
+            "Vi",
+            "Viktor"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Ambessa",
+            "Mel"
         ]
     ]
 }

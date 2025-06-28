@@ -1,66 +1,124 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "global ult",
-        "PROJECT"
+        "Mid",
+        "OG40",
+        "invis"
     ],
     "cols": [
+        "stun",
         "Bilgewater",
-        "root",
-        "tether"
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
             "Sylas",
-            "Zac"
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Fizz",
+            "Twisted fate"
+        ],
+        [
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
             "Gangplank",
             "Twisted fate"
         ],
         [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Kled",
-            "Nocturne"
-        ],
-        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
             "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
             "Pyke"
         ],
         [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
-        ],
-        [
-            "Sylas"
+            "Kaisa",
+            "Neeko",
+            "Viego",
+            "Wukong"
         ]
     ]
 }

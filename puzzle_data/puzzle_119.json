@@ -2,102 +2,105 @@
     "difficulty": "gold",
     "rows": [
         "Top",
-        "arcade",
-        "dash"
+        "invis",
+        "hextech"
     ],
     "cols": [
-        "root",
-        "The Void",
-        "100% AP Ratio"
+        "stun",
+        "Zaun",
+        "manaless"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Chogath"
-        ],
-        [
-            "Chogath",
+            "Ambessa",
+            "Camille",
             "Fiora",
-            "Gangplank",
             "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
             "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
             "Pantheon",
-            "Shen",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
             "Skarner",
+            "Sylas",
             "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
             "Volibear",
             "Warwick",
-            "Wukong"
-        ],
-        [
-            "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Belveth",
-            "Kaisa",
-            "Malzahar"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Veigar"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
+            "Yone",
             "Zac"
         ],
         [
-            "Belveth",
-            "Kaisa",
-            "Khazix",
-            "Reksai"
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Twitch"
+        ],
+        [
+            "Akali",
+            "Reksai",
+            "Rengar",
+            "Viego"
         ],
         [
             "Alistar",
-            "Aurelion Sol",
-            "Belveth",
-            "Briar",
-            "Corki",
-            "Ekko",
-            "Fiora",
-            "Fizz",
-            "Gnar",
-            "Hecarim",
-            "Jax",
-            "Kaisa",
-            "Nocturne",
-            "Pantheon",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
             "Rammus",
-            "Shen",
-            "Shyvana",
-            "Thresh",
-            "Tristana",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Zeri"
+            "Renekton",
+            "Sejuani",
+            "Sion"
+        ],
+        [
+            "Janna",
+            "Singed",
+            "Ziggs"
+        ],
+        [
+            "Renekton"
         ]
     ]
 }

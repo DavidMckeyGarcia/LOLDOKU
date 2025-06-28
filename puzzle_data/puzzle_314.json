@@ -1,83 +1,79 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "dark star",
-        "invis"
+        "Top",
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "stun",
-        "Shurima",
-        "tether"
+        "root",
+        "The Void",
+        "manaless"
     ],
     "solutions": [
         [
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Chogath"
+        ],
+        [
+            "Aatrox",
+            "Akali",
             "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
             "Yone",
-            "Zilean"
+            "Zac"
         ],
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
+            "Kaisa"
         ],
         [
-            "Lissandra",
-            "Orianna",
-            "Thresh",
-            "Xerath"
+            "Briar",
+            "Kled",
+            "Shen"
         ],
         [
-            "Xerath"
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Karma"
+            "Chogath",
+            "Kassadin"
         ],
         [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Akshan"
-        ],
-        [
-            "LeBlanc"
+            "Dr. Mundo",
+            "Katarina",
+            "Tryndamere"
         ]
     ]
 }

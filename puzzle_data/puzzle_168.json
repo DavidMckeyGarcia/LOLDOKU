@@ -1,120 +1,92 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "OG40",
-        "dash"
+        "Jungle",
+        "Season 7+",
+        "global ult"
     ],
     "cols": [
-        "Bandle City",
-        "knock-up",
-        "pentakill"
+        "root",
+        "Demacia",
+        "manaless"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Rumble",
-            "Teemo"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
             "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
+            "Morgana",
             "Poppy",
-            "Riven",
-            "Sion",
+            "Shyvana",
             "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
+            "Xin Zhao"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
             "Zac"
         ],
         [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Ryze",
-            "Tristana",
-            "Twitch"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Tristana",
-            "Yuumi"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
+            "Aphelios",
+            "Hwei",
             "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Malphite",
-            "Nautilus",
-            "Ornn",
-            "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Yone",
-            "Zac",
-            "Ziggs"
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Akali",
-            "Ezreal",
-            "Fiora",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Vayne"
+            "Sylas"
+        ],
+        [
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Galio",
+            "Lux"
+        ],
+        [
+            "Briar",
+            "Kled",
+            "Shen"
         ]
     ]
 }

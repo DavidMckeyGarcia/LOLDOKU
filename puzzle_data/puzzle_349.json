@@ -1,67 +1,121 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "before s7",
-        "true damage"
+        "Adc",
+        "global ult",
+        "hextech"
     ],
     "cols": [
-        "fear",
-        "The Void",
-        "vastayan"
+        "slow",
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Ahri",
-            "Aurora",
-            "Neeko"
+            "Corki",
+            "Tristana",
+            "Ziggs"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Briar",
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
+            "Mel",
             "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
+            "Ornn",
+            "Pantheon",
+            "Ryze",
+            "Senna",
+            "Shen",
+            "Sion",
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
         ],
         [
-            "Chogath",
+            "Ekko",
+            "Jinx",
+            "Ziggs"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
             "Kassadin",
-            "Khazix",
             "Kogmaw",
-            "Reksai",
-            "Velkoz"
+            "Nocturne",
+            "Poppy",
+            "Rammus",
+            "Sejuani",
+            "Singed",
+            "Sion",
+            "Swain",
+            "Tristana",
+            "Ziggs"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar",
-            "Wukong"
+            "Janna",
+            "Singed",
+            "Ziggs"
         ],
         [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
-        ],
-        [
-            "Ahri"
+            "Amumu",
+            "Poppy",
+            "Tristana",
+            "Ziggs"
         ]
     ]
 }

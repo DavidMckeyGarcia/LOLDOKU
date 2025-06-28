@@ -1,85 +1,69 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "pool party",
-        "blink"
+        "Jungle",
+        "hextech",
+        "invis"
     ],
     "cols": [
+        "root",
         "Freljord",
-        "knock-up",
         "arcane"
     ],
     "solutions": [
         [
-            "Gnar",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Brand",
             "Gragas",
+            "Kindred",
+            "Nunu",
             "Olaf",
-            "Ornn",
+            "Sejuani",
             "Trundle",
-            "Tryndamere",
             "Udyr",
             "Volibear"
         ],
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Ambessa",
-            "Heimerdinger",
-            "Jayce",
-            "Singed",
+            "Ekko",
+            "Vi",
             "Warwick"
         ],
         [
-            "Braum"
+            "Singed",
+            "Swain"
         ],
         [
-            "Braum",
-            "Jarvan IV",
-            "Lee sin",
-            "Lulu",
-            "Orianna",
-            "Reksai",
-            "Taliyah",
-            "Zac",
-            "Ziggs"
+            "Anivia",
+            "Sejuani"
         ],
         [
-            "Caitlyn",
-            "Heimerdinger",
-            "Orianna",
+            "Janna",
             "Singed"
         ],
         [
-            "Lissandra"
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
         ],
         [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
+            "Aurora"
         ],
         [
-            "Ambessa",
-            "Ekko",
             "LeBlanc"
         ]
     ]

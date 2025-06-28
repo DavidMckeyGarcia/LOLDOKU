@@ -1,73 +1,64 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "before s7",
-        "global ult"
+        "Jungle",
+        "OG40",
+        "hextech"
     ],
     "cols": [
-        "Piltover",
-        "silence",
+        "fear",
+        "Shurima",
         "ascended"
     ],
     "solutions": [
         [
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
+            "Briar",
             "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Leona",
+            "Amumu",
+            "Jax",
             "Nasus",
-            "Pantheon",
-            "Renekton",
-            "Taric",
-            "Varus",
-            "Xerath"
+            "Rammus",
+            "Taliyah"
         ],
         [
-            "Caitlyn",
-            "Ezreal"
+            "Diana",
+            "Kayn",
+            "Nasus",
+            "Pantheon"
         ],
         [
-            "Soraka"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Pantheon",
-            "Xerath"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
+        ],
+        [
+            "Nasus",
+            "Taric"
+        ],
+        [
+            "Nocturne"
+        ],
+        [
+            "Amumu",
+            "Rammus",
+            "Renekton"
+        ],
+        [
+            "Renekton"
         ]
     ]
 }

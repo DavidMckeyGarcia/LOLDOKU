@@ -1,94 +1,147 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "dash",
+        "Adc",
+        "life steal",
         "OG40"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "yordle"
+        "slow",
+        "Demacia",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
             "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
             "Senna",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
-            "Kled",
-            "Poppy",
+            "Sivir",
+            "Smolder",
             "Tristana",
-            "Vex",
+            "Twitch",
+            "Varus",
+            "Zeri",
             "Ziggs"
         ],
         [
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Aatrox",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
             "Morgana",
+            "Nasus",
+            "Nilah",
+            "Olaf",
+            "Samira",
+            "Senna",
+            "Sion",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Vladimir",
+            "Warwick"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Viego",
+            "Vladimir",
+            "Warwick"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
             "Nunu",
+            "Rammus",
             "Ryze",
             "Shaco",
             "Singed",
-            "Soraka"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
+            "Sion",
+            "Sivir",
+            "Soraka",
             "Teemo",
             "Tristana",
-            "Veigar"
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ]
     ]
 }

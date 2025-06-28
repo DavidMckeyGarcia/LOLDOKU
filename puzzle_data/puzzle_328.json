@@ -1,101 +1,61 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "blink",
-        "Season 7+"
+        "Top",
+        "Season 7+",
+        "shield"
     ],
     "cols": [
-        "root",
-        "Zaun",
-        "never played"
+        "Bilgewater",
+        "fear",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
         ],
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
             "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
+            "Pyke"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Ekko"
-        ],
-        [
-            "Pyke",
-            "Reksai",
-            "Shen",
-            "Tahm kench",
-            "Viego"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
             "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Aphelios",
+            "Kaisa",
+            "Xayah"
+        ],
+        [
+            "Nautilus",
             "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Tahm kench"
+        ],
+        [
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
+        ],
+        [
+            "Aphelios",
+            "Kaisa"
         ]
     ]
 }

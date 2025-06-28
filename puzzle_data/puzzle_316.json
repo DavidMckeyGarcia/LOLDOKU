@@ -1,61 +1,77 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "ult execute",
-        "OG40"
+        "Jungle",
+        "Season 7+",
+        "global ult"
     ],
     "cols": [
-        "Shadow Isles",
-        "silence",
-        "manaless"
+        "Zaun",
+        "fear",
+        "riot records"
     ],
     "solutions": [
         [
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Ekko",
+            "Evelynn",
             "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
+            "Sett",
+            "Viego"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Briar",
+            "Hwei",
             "Vex"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
         ],
         [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Ekko",
+            "Jinx",
+            "Ziggs"
         ],
         [
-            "Viego"
+            "Briar",
+            "Nocturne",
+            "Vex"
         ],
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Akali",
-            "Garen",
-            "Reksai",
-            "Viego"
-        ],
-        [
-            "Karthus"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Dr. Mundo",
-            "Katarina",
-            "Tryndamere"
+            "Ekko",
+            "Ezreal",
+            "Kaisa",
+            "Karthus",
+            "Senna"
         ]
     ]
 }

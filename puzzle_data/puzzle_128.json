@@ -1,100 +1,86 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
         "Adc",
-        "global ult",
+        "shield",
         "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Demacia",
-        "100% AP Ratio"
+        "Bilgewater",
+        "knock-up",
+        "ascended"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Lucian",
-            "Vayne"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
+            "Varus"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Nautilus",
+            "Nilah",
+            "Tahm kench"
         ],
         [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
             "Galio",
-            "Lux"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Briar",
-            "Ekko",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Nocturne",
-            "Pantheon",
-            "Shen",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Ksante",
-            "Milio",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
             "Neeko",
-            "Ornn",
-            "Pyke",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rakan",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Sylas"
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Taric"
         ],
         [
-            "Aphelios",
+            "Nilah",
+            "Pyke"
+        ],
+        [
             "Belveth",
             "Briar",
-            "Kaisa",
-            "Milio",
+            "Ksante",
+            "Kayn",
             "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

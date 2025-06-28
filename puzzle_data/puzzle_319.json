@@ -1,55 +1,65 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "coven"
+        "Adc",
+        "Space Groove",
+        "Season 7+"
     ],
     "cols": [
+        "Freljord",
         "stun",
-        "Ixtal",
-        "pentakill"
+        "never played"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
+            "Ashe"
+        ],
+        [
+            "Ashe",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Neeko",
-            "Qiyana"
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
         ],
         [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
+            "Gragas",
+            "Lissandra",
+            "Nunu"
+        ],
+        [
+            "Blitzcrank",
+            "Gragas",
+            "Lissandra",
+            "Nami",
+            "Nunu",
+            "Taric",
+            "Twisted fate"
+        ],
+        [
+            "Blitzcrank",
+            "Nami",
+            "Nunu",
+            "Samira",
+            "Teemo"
+        ],
+        [
+            "Aurora",
+            "Ornn"
         ],
         [
             "Ambessa",
@@ -69,29 +79,26 @@
             "Yone"
         ],
         [
-            "Milio",
-            "Neeko"
-        ],
-        [
+            "Akshan",
             "Aphelios",
-            "Kaisa",
-            "Xayah"
-        ],
-        [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
-        ],
-        [
-            "Zyra"
-        ],
-        [
-            "Akali"
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ]
     ]
 }

@@ -1,128 +1,81 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "hextech",
-        "true damage"
+        "Top",
+        "prestige",
+        "life steal"
     ],
     "cols": [
-        "Demacia",
-        "slow",
-        "tether"
+        "fear",
+        "Noxus",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
-            "Karma",
-            "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Galio",
-            "Jarvan IV",
-            "Poppy"
-        ],
-        [
-            "Anivia",
-            "Galio",
-            "Janna",
-            "Jarvan IV",
-            "Kassadin",
-            "Kogmaw",
-            "Nocturne",
-            "Poppy",
-            "Rammus",
-            "Sejuani",
-            "Singed",
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
             "Sion",
+            "Swain"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
             "Swain",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Malzahar",
-            "Nocturne"
-        ],
-        [
-            "Fiora",
-            "Garen",
             "Vayne"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Belveth",
-            "Camille",
-            "Chogath",
-            "Corki",
+            "Aatrox",
             "Darius",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Ksante",
-            "Kogmaw",
-            "Lillia",
-            "Nunu",
-            "Olaf",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Sett",
-            "Syndra",
-            "Twitch",
-            "Urgot",
-            "Velkoz",
-            "Zoe"
+            "Shaco"
         ],
         [
-            "Renata glasc"
+            "Cassiopeia",
+            "Darius",
+            "Katarina",
+            "Kayn",
+            "LeBlanc",
+            "Riven",
+            "Swain"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Pyke",
+            "Sivir",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Warwick"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Samira",
+            "Sion",
+            "Vladimir"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Olaf",
+            "Viego"
         ]
     ]
 }

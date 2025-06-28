@@ -1,137 +1,80 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "worlds skin",
-        "blink"
+        "Jungle",
+        "arcade",
+        "global ult"
     ],
     "cols": [
-        "Targon",
-        "stun",
-        "100% AP Ratio"
+        "Piltover",
+        "knock-up",
+        "tether"
     ],
     "solutions": [
         [
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
+            "Camille"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Aphelios",
-            "Leona",
-            "Zoe"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Bard",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
+            "Belveth",
+            "Briar",
+            "Diana",
             "Gragas",
-            "Irelia",
-            "Jax",
-            "Kennen",
-            "Leona",
-            "Nami",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
             "Nunu",
-            "Orianna",
-            "Renekton",
-            "Syndra",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
             "Taliyah",
-            "Thresh",
-            "Twisted fate",
-            "Vayne",
-            "Viego",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
             "Zac"
         ],
         [
-            "Alistar",
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Ekko",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Nunu",
-            "Shen",
-            "Thresh",
-            "Twisted fate",
-            "Viego"
+            "Caitlyn",
+            "Ezreal"
         ],
         [
-            "Pantheon"
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
         ],
         [
-            "Ambessa",
-            "Ekko",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Yone"
+            "Malzahar"
         ],
         [
-            "Ekko",
-            "Master yi",
-            "Pantheon",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego"
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Kled",
+            "Nocturne"
         ]
     ]
 }

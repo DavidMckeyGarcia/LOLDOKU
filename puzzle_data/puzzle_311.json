@@ -1,63 +1,98 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "blink"
+        "Top",
+        "OG40",
+        "shield"
     ],
     "cols": [
-        "Zaun",
-        "knock-up",
-        "tether"
+        "root",
+        "Bandle City",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Kalista"
-        ],
-        [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Belveth",
-            "Briar",
             "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
+            "Heimerdinger",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
+            "Gragas",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Maokai",
+            "Renekton",
+            "Rumble",
+            "Shen"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
             "Renata glasc",
-            "Sylas",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Lulu",
+            "Rumble",
             "Yuumi"
         ],
         [
-            "Ekko"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "LeBlanc"
+            "Azir",
+            "Braum",
+            "Janna",
+            "Jarvan IV",
+            "Kaisa",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Rakan",
+            "Rumble",
+            "Shen",
+            "Thresh"
         ]
     ]
 }

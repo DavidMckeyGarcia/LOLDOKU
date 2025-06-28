@@ -1,75 +1,56 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "ult execute",
-        "empyrean"
+        "Top",
+        "OG40",
+        "global ult"
     ],
     "cols": [
         "The Void",
-        "knock-up",
-        "ult reset"
+        "silence",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
+            "Chogath"
         ],
         [
             "Chogath",
-            "Reksai"
+            "Garen"
         ],
         [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
+            "Akali",
             "Darius",
-            "Pyke",
-            "Viego"
+            "Fiora",
+            "Vayne"
         ],
         [
-            "Malzahar"
+            "Chogath",
+            "Kassadin"
         ],
         [
-            "Ksante",
-            "Zac"
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Pyke",
-            "Vex"
+            "Ryze",
+            "Tristana",
+            "Twitch"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Ryze"
         ]
     ]
 }

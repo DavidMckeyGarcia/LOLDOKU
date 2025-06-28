@@ -1,69 +1,92 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "dash",
+        "Mid",
+        "shield",
         "Season 7+"
     ],
     "cols": [
-        "Bilgewater",
-        "fear",
-        "vastayan"
+        "Targon",
+        "root",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Wukong"
-        ],
-        [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
             "Ahri",
-            "Aurora",
-            "Rakan",
-            "Rengar",
-            "Wukong"
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Aphelios",
+            "Diana",
+            "Taric"
         ],
         [
-            "Briar",
+            "Aphelios",
             "Hwei",
-            "Vex"
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
         ],
         [
-            "Aurora",
+            "Naafiri",
+            "Olaf",
+            "Sivir",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Aphelios",
+            "Zoe"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
             "Neeko",
-            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
             "Xayah"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
         ]
     ]
 }

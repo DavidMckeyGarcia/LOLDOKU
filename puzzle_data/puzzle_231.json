@@ -1,56 +1,85 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "invis",
-        "OG40"
+        "Top",
+        "shield",
+        "Season 7+"
     ],
     "cols": [
+        "Demacia",
         "fear",
-        "Bilgewater",
-        "pentakill"
+        "100+ games"
     ],
     "solutions": [
         [
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Gnar",
+            "Gragas",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Maokai",
+            "Renekton",
+            "Rumble",
+            "Shen"
+        ],
+        [
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
+        ],
+        [
+            "Azir",
+            "Braum",
+            "Janna",
+            "Jarvan IV",
+            "Kaisa",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Rakan",
+            "Rumble",
+            "Shen",
+            "Thresh"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Briar",
             "Hwei",
             "Vex"
         ],
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Akali",
             "Kaisa",
-            "Twitch",
-            "Vayne"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Ryze",
-            "Tristana",
-            "Twitch"
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

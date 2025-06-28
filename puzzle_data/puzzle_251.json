@@ -1,77 +1,96 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "Season 7+",
-        "arcade"
+        "Mid",
+        "before s7",
+        "prestige"
     ],
     "cols": [
-        "Freljord",
-        "knock-up",
-        "yordle"
+        "fear",
+        "Bilgewater",
+        "manaless"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
+            "Hwei",
             "Vex"
         ],
         [
-            "Brand"
+            "Fizz",
+            "Twisted fate"
         ],
         [
-            "Belveth",
-            "Blitzcrank",
-            "Riven",
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Vladimir",
             "Yasuo",
-            "Ziggs"
+            "Yone",
+            "Zed"
         ],
         [
-            "Corki",
-            "Veigar",
-            "Ziggs"
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Katarina",
+            "Kennen",
+            "Kled",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Renekton",
+            "Rengar",
+            "Rumble",
+            "Shen",
+            "Shyvana",
+            "Tryndamere",
+            "Vladimir",
+            "Yasuo",
+            "Zac",
+            "Zed"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Shaco"
+        ],
+        [
+            "Fizz",
+            "Miss Fortune",
+            "Pyke"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Garen",
+            "Katarina",
+            "Lee sin",
+            "Sett",
+            "Yasuo",
+            "Zed"
         ]
     ]
 }

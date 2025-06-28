@@ -1,107 +1,71 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "Space Groove"
+        "Adc",
+        "OG40",
+        "hextech"
     ],
     "cols": [
-        "Freljord",
-        "stun",
-        "100+ games"
+        "root",
+        "Bandle City",
+        "yordle"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Azir",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Kaisa",
-            "Rakan",
+            "Varus",
             "Xayah"
         ],
         [
-            "Gragas",
-            "Lissandra",
-            "Nunu"
+            "Corki",
+            "Tristana"
         ],
         [
-            "Blitzcrank",
-            "Gragas",
-            "Lissandra",
-            "Nami",
+            "Corki",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Morgana",
             "Nunu",
-            "Taric",
-            "Twisted fate"
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Gragas",
-            "Lulu",
-            "Rumble"
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Tristana"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Tristana",
+            "Ziggs"
         ]
     ]
 }

@@ -1,106 +1,90 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "shield",
+        "Support",
+        "cosmic",
         "before s7"
     ],
     "cols": [
-        "stun",
         "Demacia",
-        "vastayan"
+        "stun",
+        "0 games"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
-            "Camille",
-            "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
-        ],
-        [
             "Galio",
-            "Garen",
-            "Jarvan IV",
             "Lux",
             "Morgana",
             "Poppy",
             "Sona"
         ],
         [
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Rakan"
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Mel",
+            "Milio"
+        ],
+        [
+            "Lux",
+            "Xin Zhao"
+        ],
+        [
+            "Anivia",
+            "Hecarim",
+            "Lissandra",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Sion",
+            "Skarner",
+            "Xin Zhao"
+        ],
+        [
+            "Illaoi",
+            "Master yi"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
             "Alistar",
@@ -162,26 +146,8 @@
             "Zilean"
         ],
         [
-            "Fiora",
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sona",
-            "Vayne",
-            "Xin Zhao"
-        ],
-        [
-            "Ahri",
-            "Nami",
-            "Rengar",
-            "Wukong"
+            "Illaoi",
+            "Master yi"
         ]
     ]
 }

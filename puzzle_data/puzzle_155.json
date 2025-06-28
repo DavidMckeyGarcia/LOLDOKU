@@ -1,129 +1,99 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "silver",
     "rows": [
         "Mid",
         "Season 7+",
         "life steal"
     ],
     "cols": [
-        "stun",
-        "Targon",
-        "never played"
+        "knock-up",
+        "Ionia",
+        "shred"
     ],
     "solutions": [
         [
-            "Ambessa",
             "Anivia",
-            "Annie",
             "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
             "Neeko",
             "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
             "Sylas",
-            "Syndra",
             "Taliyah",
-            "Twisted fate",
-            "Veigar",
             "Velkoz",
-            "Viktor",
-            "Xerath",
+            "Yasuo",
             "Yone",
-            "Zilean"
+            "Ziggs"
         ],
         [
-            "Aurelion Sol",
-            "Diana",
-            "Pantheon",
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Corki",
+            "Jayce",
+            "Karthus",
             "Zoe"
         ],
         [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Heimerdinger",
-            "Naafiri"
-        ],
-        [
-            "Ambessa",
+            "Belveth",
             "Briar",
-            "Camille",
             "Ksante",
-            "Milio",
+            "Kayn",
             "Neeko",
             "Ornn",
-            "Pyke",
+            "Rakan",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
+            "Samira",
             "Sylas",
-            "Viego",
             "Yone"
         ],
         [
-            "Aphelios",
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
+            "Briar",
+            "Rell",
             "Zoe"
         ],
         [
-            "Akshan",
-            "Aphelios",
+            "Aatrox",
             "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
-        ],
-        [
-            "Ambessa",
             "Briar",
             "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
             "Kayn",
-            "Morgana",
-            "Nilah",
+            "Lee sin",
             "Samira",
-            "Senna",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Warwick"
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Kayn",
+            "Lee sin"
+        ],
+        [
+            "Briar",
+            "Nasus",
+            "Olaf",
+            "Sion",
+            "Trundle"
         ]
     ]
 }

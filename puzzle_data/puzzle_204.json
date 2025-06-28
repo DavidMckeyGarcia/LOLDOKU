@@ -1,131 +1,112 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "before s7",
-        "prestige"
+        "Support",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "Targon",
+        "Demacia",
         "stun",
-        "darkin"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Aphelios"
-        ],
-        [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Varus"
-        ],
-        [
-            "Aurelion Sol",
-            "Diana",
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Anivia",
             "Annie",
             "Ashe",
-            "Aurelion Sol",
             "Bard",
             "Blitzcrank",
             "Brand",
             "Braum",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
             "Heimerdinger",
-            "Irelia",
-            "Ivern",
-            "Jax",
-            "Kennen",
             "Leona",
-            "Lissandra",
+            "Milio",
             "Morgana",
             "Nami",
             "Nautilus",
-            "Nunu",
-            "Orianna",
+            "Neeko",
             "Pantheon",
             "Poppy",
-            "Rammus",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Skarner",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
             "Sona",
-            "Syndra",
             "Tahm kench",
-            "Taliyah",
             "Taric",
             "Thresh",
-            "Twisted fate",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Veigar",
             "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Warwick",
             "Xerath",
-            "Xin Zhao",
-            "Zac",
             "Zilean"
         ],
         [
-            "Aatrox",
-            "Varus"
-        ],
-        [
-            "Diana",
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Zoe"
-        ],
-        [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Neeko",
-            "Pantheon",
             "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
-            "Volibear"
+            "Swain"
         ],
         [
-            "Aatrox",
-            "Kayn"
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Ahri",
+            "Belveth",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Pyke",
+            "Vayne"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
         ]
     ]
 }

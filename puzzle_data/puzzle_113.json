@@ -1,105 +1,125 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "prestige",
-        "before s7"
+        "Support",
+        "dark star",
+        "Season 7+"
     ],
     "cols": [
+        "Ionia",
         "root",
-        "Bandle City",
-        "vastayan"
+        "never played"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Corki",
-            "Tristana"
-        ],
-        [
-            "Xayah"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
-        ],
-        [
-            "Fizz",
-            "Lulu",
-            "Teemo",
-            "Yuumi"
-        ],
-        [
-            "Ahri",
-            "Neeko",
-            "Rakan",
-            "Xayah"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
             "Karma",
-            "LeBlanc",
-            "Lee sin",
+            "Rakan"
+        ],
+        [
+            "Karma",
             "Leona",
-            "Lissandra",
             "Lux",
+            "Maokai",
+            "Mel",
             "Morgana",
             "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
             "Soraka",
             "Swain",
-            "Varus",
-            "Zac",
             "Zyra"
         ],
         [
-            "Corki",
-            "Fizz",
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
             "Heimerdinger",
-            "Lulu",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar",
-            "Wukong"
+            "Jhin",
+            "Karma",
+            "Varus"
+        ],
+        [
+            "Jhin",
+            "Karma",
+            "Lissandra",
+            "Lux",
+            "Shaco",
+            "Varus"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Jhin",
+            "Malphite",
+            "Mordekaiser",
+            "Shaco",
+            "Thresh"
+        ],
+        [
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ]
     ]
 }

@@ -1,77 +1,70 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "before s7",
-        "invis"
+        "Top",
+        "OG40",
+        "arcade"
     ],
     "cols": [
-        "Bilgewater",
         "fear",
-        "ult reset"
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Fizz",
-            "Gangplank",
-            "Graves",
-            "Illaoi",
-            "Miss Fortune",
-            "Nami",
-            "Nautilus",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
             "Aatrox",
             "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
             "Urgot",
             "Warwick"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Master yi",
-            "Olaf",
+            "Dr. Mundo",
             "Singed",
-            "Sivir",
-            "Swain",
-            "Vayne",
-            "Viktor"
+            "Urgot",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Pyke"
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Shaco"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Pyke",
-            "Vayne",
-            "Viego"
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Blitzcrank",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

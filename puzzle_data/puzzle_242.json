@@ -1,100 +1,120 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Support",
-        "shield",
-        "OG40"
+        "before s7",
+        "shield"
     ],
     "cols": [
-        "knock-up",
-        "Targon",
-        "ult reset"
+        "Bandle City",
+        "root",
+        "yordle"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
+            "Heimerdinger",
             "Lulu",
-            "Nami",
+            "Yuumi"
+        ],
+        [
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
             "Nautilus",
             "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
         ],
         [
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Pyke",
-            "Swain"
-        ],
-        [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Diana",
-            "Galio",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Lee sin",
+            "Heimerdinger",
             "Lulu",
-            "Malphite",
+            "Poppy"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Lulu",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
             "Nautilus",
-            "Neeko",
             "Nunu",
-            "Orianna",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
             "Poppy",
-            "Rakan",
-            "Rell",
-            "Riven",
-            "Sion",
-            "Tahm kench",
-            "Vi",
-            "Yasuo",
-            "Yone"
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
+        ],
+        [
+            "Lulu",
+            "Rumble",
+            "Yuumi"
         ],
         [
             "Aphelios",
-            "Diana",
-            "Taric"
-        ],
-        [
-            "Naafiri",
-            "Olaf",
-            "Sivir",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
             "Nunu",
-            "Sion"
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
         ],
         [
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ]
     ]
 }

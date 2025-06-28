@@ -1,40 +1,76 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "OG40",
-        "ult execute"
+        "Mid",
+        "PROJECT",
+        "OG40"
     ],
     "cols": [
         "root",
         "Ionia",
-        "arcane"
+        "never played"
     ],
     "solutions": [
         [
+            "Hwei",
             "Karma",
-            "Leona",
+            "LeBlanc",
+            "Lissandra",
             "Lux",
-            "Maokai",
             "Mel",
-            "Morgana",
-            "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Swain"
         ],
         [
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
             "Karma",
-            "Rakan"
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
+            "Akshan",
+            "Brand",
+            "Chogath",
             "Heimerdinger",
-            "Janna",
-            "Mel"
+            "Naafiri"
+        ],
+        [
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Senna",
+            "Varus"
+        ],
+        [
+            "Akali",
+            "Irelia",
+            "Jhin",
+            "Master yi",
+            "Varus",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Ashe",
+            "Fiora",
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Mordekaiser",
+            "Pyke",
+            "Sejuani",
+            "Senna",
+            "Vayne",
+            "Vi",
+            "Warwick"
         ],
         [
             "Morgana",
@@ -48,22 +84,26 @@
             "Master yi"
         ],
         [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
             "Heimerdinger",
             "Janna",
-            "Singed",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
             "Warwick"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Akali",
-            "Jhin",
-            "Syndra"
-        ],
-        [
-            "Jinx"
         ]
     ]
 }

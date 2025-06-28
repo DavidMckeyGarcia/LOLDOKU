@@ -1,99 +1,75 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "elderwood",
-        "before s7"
+        "Adc",
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "Shurima",
-        "root",
-        "30+ wins"
+        "knock-up",
+        "Noxus",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Taliyah"
-        ],
-        [
-            "Azir"
-        ],
-        [
-            "LeBlanc",
-            "Xayah"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "LeBlanc"
-        ],
-        [
-            "Aatrox",
-            "Amumu",
-            "Azir",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Renekton",
             "Sivir",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Caitlyn",
+            "Belveth",
+            "Chogath",
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Nautilus",
+            "Ksante",
             "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Samira"
         ],
         [
             "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Belveth",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Pyke",
+            "Vayne"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

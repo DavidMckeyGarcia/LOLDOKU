@@ -1,135 +1,64 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "PROJECT",
-        "invis"
+        "Mid",
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "Freljord",
-        "slow",
-        "ult reset"
+        "Piltover",
+        "silence",
+        "shred"
     ],
     "solutions": [
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Akali",
-            "Camille",
-            "Chogath",
-            "Darius",
-            "Dr. Mundo",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
+            "Ezreal",
             "Heimerdinger",
-            "Illaoi",
-            "Irelia",
-            "Jarvan IV",
             "Jayce",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
+        ],
+        [
+            "Camille"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Corki",
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
+        ],
+        [
+            "Heimerdinger"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
             "Nasus",
-            "Olaf",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
-            "Sion",
-            "Skarner",
-            "Swain",
-            "Sylas",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Ashe",
-            "Sejuani"
-        ],
-        [
-            "Akali",
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Gangplank",
-            "Irelia",
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Mordekaiser",
-            "Pyke",
-            "Sejuani",
-            "Senna",
-            "Sylas",
-            "Varus",
-            "Warwick",
-            "Zed"
-        ],
-        [
-            "Master yi",
-            "Pyke",
-            "Vayne"
-        ],
-        [
-            "Aurora"
-        ],
-        [
-            "Akali",
-            "Aurora",
-            "Kaisa",
-            "Khazix",
-            "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
-        ],
-        [
-            "Pyke",
-            "Vayne",
-            "Viego"
+            "Sion"
         ]
     ]
 }

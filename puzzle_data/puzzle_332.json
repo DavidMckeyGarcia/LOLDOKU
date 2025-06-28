@@ -1,96 +1,146 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "arcade",
-        "global ult"
+        "Top",
+        "OG40",
+        "blink"
     ],
     "cols": [
-        "stun",
-        "Zaun",
-        "shred"
+        "slow",
+        "Freljord",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
+            "Aatrox",
+            "Akali",
+            "Camille",
+            "Chogath",
+            "Darius",
+            "Dr. Mundo",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gnar",
             "Gragas",
+            "Gwen",
             "Heimerdinger",
+            "Illaoi",
             "Irelia",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
+            "Jarvan IV",
+            "Jayce",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Ornn",
             "Pantheon",
-            "Qiyana",
-            "Seraphine",
+            "Poppy",
+            "Quinn",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Singed",
+            "Sion",
+            "Skarner",
+            "Swain",
             "Sylas",
-            "Syndra",
-            "Taliyah",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Urgot",
+            "Volibear",
+            "Warwick",
+            "Yorick",
+            "Zac"
+        ],
+        [
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
             "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
+            "Twitch",
+            "Warwick",
             "Zilean"
         ],
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Jayce",
-            "Karthus",
-            "Zoe"
-        ],
-        [
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Malzahar",
-            "Qiyana",
-            "Riven",
-            "Sona",
-            "Veigar"
-        ],
-        [
-            "Blitzcrank",
-            "Ziggs"
-        ],
-        [
-            "Corki"
-        ],
-        [
+            "Anivia",
             "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Ryze",
+            "Tristana",
+            "Twitch"
+        ],
+        [
             "Ekko",
-            "Ornn",
+            "Kassadin",
+            "Lissandra",
             "Pantheon",
-            "Sion",
-            "Taliyah",
+            "Pyke",
+            "Reksai",
+            "Ryze",
+            "Shen",
+            "Tahm kench",
             "Twisted fate",
-            "Xerath"
+            "Viego",
+            "Zed"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
+            "Lissandra"
         ],
         [
-            "Briar",
-            "Karthus",
-            "Sion"
+            "Ezreal",
+            "Ryze"
         ]
     ]
 }

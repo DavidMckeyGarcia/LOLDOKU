@@ -1,83 +1,86 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "Season 7+",
-        "ult execute"
+        "Support",
+        "empyrean",
+        "Season 7+"
     ],
     "cols": [
+        "Demacia",
         "slow",
-        "Shadow Isles",
-        "shred"
+        "0 games"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Akali",
-            "Camille",
-            "Chogath",
-            "Darius",
-            "Dr. Mundo",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gnar",
-            "Gragas",
-            "Gwen",
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
             "Heimerdinger",
-            "Illaoi",
-            "Irelia",
-            "Jarvan IV",
-            "Jayce",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Kled",
-            "Malphite",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
             "Maokai",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Ornn",
+            "Mel",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Pantheon",
             "Poppy",
-            "Quinn",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Singed",
-            "Sion",
-            "Skarner",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Sona",
+            "Soraka",
             "Swain",
-            "Sylas",
             "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Urgot",
-            "Volibear",
-            "Warwick",
-            "Yorick",
-            "Zac"
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
+            "Zyra"
         ],
         [
-            "Gwen",
-            "Maokai",
-            "Yorick"
+            "Mel",
+            "Milio"
         ],
         [
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
+            "Kayle",
+            "Lux"
+        ],
+        [
+            "Akali",
+            "Brand",
+            "Jhin",
+            "Ksante",
+            "Kayle",
+            "Lux",
+            "Nocturne",
+            "Pyke",
+            "Varus",
+            "Vex",
+            "Zac",
+            "Zed"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Sylas"
         ],
         [
             "Aphelios",
@@ -112,37 +115,14 @@
             "Zoe"
         ],
         [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
-        ],
-        [
+            "Akshan",
+            "Ambessa",
             "Briar",
-            "Rell",
-            "Zoe"
-        ],
-        [
-            "Akali",
-            "Chogath",
-            "Darius",
-            "Draven",
-            "Evelynn",
-            "Garen",
-            "Jhin",
-            "Jinx",
-            "Pyke",
-            "Reksai",
-            "Syndra",
-            "Urgot",
-            "Viego"
-        ],
-        [
-            "Viego"
-        ],
-        [
-            "Evelynn",
-            "Garen"
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

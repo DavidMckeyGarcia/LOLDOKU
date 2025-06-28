@@ -1,113 +1,94 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "blink",
-        "prestige"
+        "Top",
+        "dash",
+        "cosmic"
     ],
     "cols": [
         "Ionia",
-        "knock-up",
-        "manaless"
+        "fear",
+        "shred"
     ],
     "solutions": [
         [
-            "Ahri",
             "Akali",
-            "Hwei",
             "Irelia",
-            "Karma",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Orianna",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
-        ],
-        [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Master yi",
+            "Kayn",
+            "Kennen",
+            "Sett",
             "Shen",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
+            "Wukong",
             "Yasuo",
             "Yone"
         ],
         [
-            "Ambessa",
-            "Katarina",
-            "Reksai",
-            "Shen",
-            "Viego",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Wukong"
         ],
         [
             "Ahri",
             "Akali",
+            "Irelia",
+            "Ivern",
             "Kayn",
             "Lee sin",
+            "Lillia",
             "Rakan",
             "Sett",
-            "Xayah",
+            "Shen",
+            "Wukong",
             "Yasuo",
-            "Zed"
+            "Yone"
         ],
         [
             "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Garen",
-            "Katarina",
-            "Lee sin",
-            "Sett",
-            "Yasuo",
-            "Zed"
+            "Briar",
+            "Corki",
+            "Jarvan IV",
+            "Jayce",
+            "Rell",
+            "Renekton",
+            "Rengar",
+            "Vi",
+            "Wukong"
+        ],
+        [
+            "Jhin",
+            "Master yi",
+            "Rakan",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Sion"
         ]
     ]
 }

@@ -2,12 +2,12 @@
     "difficulty": "bronze",
     "rows": [
         "Support",
-        "shield",
-        "hextech"
+        "blink",
+        "PROJECT"
     ],
     "cols": [
         "slow",
-        "The Void",
+        "Ionia",
         "100% AP Ratio"
     ],
     "solutions": [
@@ -48,7 +48,8 @@
             "Zyra"
         ],
         [
-            "Velkoz"
+            "Karma",
+            "Rakan"
         ],
         [
             "Alistar",
@@ -65,110 +66,75 @@
             "Zilean"
         ],
         [
-            "Aphelios",
-            "Azir",
-            "Braum",
-            "Camille",
-            "Diana",
             "Ekko",
-            "Galio",
-            "Garen",
-            "Hwei",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Kaisa",
-            "Karma",
             "Kassadin",
-            "Kled",
-            "Lee sin",
-            "Lulu",
-            "Lux",
-            "Malphite",
-            "Mel",
-            "Milio",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Reksai",
+            "Ryze",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Zed"
+        ],
+        [
+            "Master yi",
+            "Shen",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Ekko",
+            "Master yi",
+            "Pantheon",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Gangplank",
+            "Irelia",
+            "Jhin",
+            "Jinx",
+            "Leona",
             "Mordekaiser",
-            "Morgana",
-            "Naafiri",
-            "Nautilus",
-            "Nilah",
-            "Nocturne",
-            "Nunu",
-            "Olaf",
-            "Orianna",
-            "Poppy",
-            "Rakan",
-            "Renata glasc",
-            "Rumble",
-            "Senna",
-            "Seraphine",
-            "Sett",
-            "Shen",
-            "Sion",
-            "Sivir",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vex",
-            "Viktor",
-            "Volibear",
-            "Yuumi"
-        ],
-        [
-            "Kaisa",
-            "Kassadin"
-        ],
-        [
-            "Aphelios",
-            "Blitzcrank",
-            "Ekko",
-            "Kaisa",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Nocturne",
-            "Nunu",
-            "Shen",
-            "Sivir",
-            "Skarner",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Viktor",
-            "Volibear"
-        ],
-        [
-            "Anivia",
-            "Galio",
-            "Janna",
-            "Jarvan IV",
-            "Kassadin",
-            "Kogmaw",
-            "Nocturne",
-            "Poppy",
-            "Rammus",
+            "Pyke",
             "Sejuani",
-            "Singed",
-            "Sion",
-            "Swain",
-            "Tristana",
-            "Ziggs"
+            "Senna",
+            "Sylas",
+            "Varus",
+            "Warwick",
+            "Zed"
         ],
         [
-            "Kassadin",
-            "Kogmaw",
-            "Malzahar"
+            "Akali",
+            "Irelia",
+            "Jhin",
+            "Master yi",
+            "Varus",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Alistar",
-            "Nocturne",
-            "Rammus",
-            "Tristana"
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Gangplank",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Master yi",
+            "Varus",
+            "Vi",
+            "Warwick"
         ]
     ]
 }

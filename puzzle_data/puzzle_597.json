@@ -1,52 +1,78 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "cosmic",
-        "true damage"
+        "Mid",
+        "invis",
+        "OG40"
     ],
     "cols": [
-        "silence",
-        "Bilgewater",
-        "vastayan"
+        "root",
+        "Zaun",
+        "shred"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Twitch"
+        ],
+        [
+            "Rengar",
             "Wukong"
         ],
         [
-            "Kassadin",
-            "Lulu"
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus"
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
         ],
         [
-            "Nami",
-            "Rakan",
-            "Xayah"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Ahri"
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ]
     ]
 }

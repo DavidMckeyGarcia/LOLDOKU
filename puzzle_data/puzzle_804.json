@@ -1,97 +1,55 @@
 {
-    "difficulty": "silver",
+    "difficulty": "challenger",
     "rows": [
-        "Support",
-        "OG40",
-        "worlds skin"
+        "Jungle",
+        "prestige",
+        "true damage"
     ],
     "cols": [
-        "root",
-        "Zaun",
+        "silence",
+        "Bandle City",
         "yordle"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Fiddlesticks"
         ],
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Rumble",
+            "Teemo"
         ],
         [
             "Amumu",
-            "Corki",
-            "Heimerdinger",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Garen",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Fizz",
+            "Lulu",
             "Teemo",
-            "Tristana",
-            "Veigar"
+            "Yuumi"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
+            "Fizz",
+            "Lulu",
+            "Teemo"
         ],
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Janna",
-            "Jinx",
-            "Orianna",
-            "Singed",
-            "Twitch",
-            "Zac"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Corki",
-            "Gnar",
-            "Kennen"
+            "Corki"
+        ],
+        [
+            "Amumu",
+            "Corki"
         ]
     ]
 }

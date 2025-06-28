@@ -1,72 +1,68 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "OG40",
-        "pool party"
+        "Jungle",
+        "Season 7+",
+        "global ult"
     ],
     "cols": [
         "Shurima",
-        "silence",
-        "yordle"
+        "fear",
+        "0 games"
     ],
     "solutions": [
-        [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
         [
             "Amumu",
             "Jax",
             "Nasus",
             "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Renekton",
             "Taliyah"
         ],
         [
-            "Lulu"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Ziggs"
+            "Briar",
+            "Master yi"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
+        ],
+        [
+            "Taliyah",
+            "Xerath"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Briar",
+            "Mel",
+            "Vex"
         ]
     ]
 }

@@ -1,72 +1,114 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
         "Adc",
-        "elderwood",
+        "dark star",
         "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Noxus",
-        "pentakill"
+        "slow",
+        "Piltover",
+        "riot records"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
             "Aphelios",
-            "Ezreal",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
             "Jinx",
             "Kaisa",
             "Kalista",
             "Kogmaw",
-            "Lucian",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
             "Tristana",
             "Twitch",
-            "Vayne",
-            "Xayah"
+            "Varus",
+            "Zeri",
+            "Ziggs"
         ],
         [
-            "Azir",
-            "Rakan",
-            "Reksai",
-            "Wukong"
+            "Caitlyn",
+            "Ezreal",
+            "Seraphine"
         ],
         [
-            "LeBlanc"
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
         ],
         [
-            "Xayah"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
             "Chogath",
-            "Janna",
+            "Jarvan IV",
+            "Jhin",
+            "Karma",
+            "Khazix",
+            "Lissandra",
+            "Lux",
             "Malphite",
+            "Mordekaiser",
+            "Orianna",
+            "Shaco",
+            "Thresh",
+            "Varus",
+            "Xerath"
+        ],
+        [
+            "Orianna"
+        ],
+        [
+            "Mordekaiser"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
             "Nunu",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
+            "Rammus",
             "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
             "Tristana",
-            "Twitch"
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Heimerdinger"
+        ],
+        [
+            "Evelynn",
+            "Karthus",
+            "Kayle"
         ]
     ]
 }

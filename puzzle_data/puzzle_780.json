@@ -1,61 +1,75 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "cosmic",
-        "OG40"
+        "Season 7+",
+        "hextech"
     ],
     "cols": [
-        "Ionia",
-        "fear",
-        "30+ wins"
+        "root",
+        "Zaun",
+        "tether"
     ],
     "solutions": [
         [
             "Ivern",
-            "Kayn",
             "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
             "Shaco",
-            "Warwick"
+            "Zac",
+            "Zyra"
         ],
         [
-            "Taliyah"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Jhin",
-            "Master yi",
-            "Rakan",
-            "Varus",
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
             "Xayah"
         ],
         [
-            "Hecarim"
+            "Renata glasc",
+            "Zeri"
         ],
         [
-            "Lissandra"
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ],
         [
-            "Master yi"
+            "Singed",
+            "Swain"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Janna",
+            "Singed",
+            "Ziggs"
         ],
         [
-            "Corki",
-            "Ryze"
+            "Malzahar",
+            "Nocturne"
         ]
     ]
 }

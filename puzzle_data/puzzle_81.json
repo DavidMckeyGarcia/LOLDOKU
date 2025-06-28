@@ -1,111 +1,134 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "OG40",
-        "global ult"
+        "Adc",
+        "pool party",
+        "dash"
     ],
     "cols": [
-        "stun",
-        "Shurima",
-        "ult reset"
+        "knock-up",
+        "Noxus",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
+        ],
+        [
+            "Braum",
+            "Jarvan IV",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Reksai",
+            "Taliyah",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Draven"
+        ],
+        [
             "Fiora",
-            "Gnar",
+            "Gangplank"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
+            "Azir",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
+            "Ivern",
+            "Jarvan IV",
             "Ksante",
-            "Kennen",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
             "Ornn",
-            "Pantheon",
             "Poppy",
-            "Renekton",
+            "Rakan",
+            "Reksai",
+            "Rell",
             "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
+            "Samira",
+            "Sejuani",
             "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
             "Yone",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
+            "Zac",
+            "Ziggs"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Master yi",
-            "Singed",
-            "Sivir"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
+            "Ambessa",
             "Briar",
+            "Elise",
+            "Kayn",
+            "Kled",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Talon"
+        ],
+        [
+            "Alistar",
+            "Aurelion Sol",
+            "Belveth",
+            "Briar",
+            "Corki",
             "Ekko",
-            "Ornn",
+            "Fiora",
+            "Fizz",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Kaisa",
+            "Nocturne",
             "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Taliyah",
-            "Xerath"
-        ],
-        [
-            "Vex"
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Thresh",
+            "Tristana",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zeri"
         ]
     ]
 }

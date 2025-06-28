@@ -1,152 +1,62 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Mid",
+        "Jungle",
         "OG40",
-        "ult execute"
+        "dark star"
     ],
     "cols": [
-        "Shurima",
-        "slow",
-        "yordle"
+        "fear",
+        "Demacia",
+        "tether"
     ],
     "solutions": [
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Anivia",
-            "Aurelion Sol",
-            "Aurora",
-            "Azir",
-            "Brand",
-            "Cassiopeia",
-            "Chogath",
-            "Corki",
-            "Diana",
-            "Ekko",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Heimerdinger",
-            "Hwei",
-            "Irelia",
-            "Jayce",
-            "Karma",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Naafiri",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Talon",
-            "Tristana",
-            "Twisted fate",
-            "Velkoz",
-            "Vex",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zed",
-            "Ziggs",
-            "Zilean",
-            "Zoe"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
+            "Briar",
             "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
-            "Ryze",
+            "Hecarim",
+            "Nocturne",
             "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
+            "Warwick"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
         ],
         [
-            "Akshan"
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
         ],
         [
-            "Akali",
-            "Chogath",
-            "Darius",
-            "Draven",
-            "Evelynn",
-            "Garen",
-            "Jhin",
-            "Jinx",
-            "Pyke",
-            "Reksai",
-            "Syndra",
-            "Urgot",
-            "Viego"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Veigar"
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
+        ],
+        [
+            "Shaco"
+        ],
+        [
+            "Jarvan IV",
+            "Lux"
+        ],
+        [
+            "Karma"
         ]
     ]
 }

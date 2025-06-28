@@ -1,14 +1,14 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
         "Top",
         "Season 7+",
-        "prestige"
+        "global ult"
     ],
     "cols": [
         "knock-up",
-        "Freljord",
-        "vastayan"
+        "Ionia",
+        "riot records"
     ],
     "solutions": [
         [
@@ -32,17 +32,27 @@
             "Zac"
         ],
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Akali",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Wukong"
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
+            "Yasuo",
+            "Yone",
+            "Yorick"
         ],
         [
             "Belveth",
@@ -58,42 +68,43 @@
             "Yone"
         ],
         [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
+            "Hwei",
             "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
+            "Lillia",
             "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
+            "Sett",
+            "Xayah",
+            "Yone"
         ],
         [
-            "Brand",
-            "Kindred",
-            "Lissandra",
-            "Volibear"
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
         ],
         [
-            "Ahri",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Lillia",
+            "Shen"
+        ],
+        [
+            "Ekko",
+            "Ezreal",
+            "Kaisa",
+            "Karthus",
+            "Senna"
         ]
     ]
 }

@@ -1,42 +1,46 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
+        "Jungle",
         "OG40",
-        "invis"
+        "elderwood"
     ],
     "cols": [
-        "The Void",
         "root",
-        "0 games"
+        "Freljord",
+        "tether"
     ],
     "solutions": [
         [
-            "Velkoz"
-        ],
-        [
-            "Karma",
-            "Leona",
-            "Lux",
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Mel",
             "Morgana",
             "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
             "Zyra"
         ],
         [
-            "Mel",
-            "Milio"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Chogath",
-            "Kassadin"
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
+            "Zac"
         ],
         [
             "Morgana",
@@ -47,23 +51,25 @@
             "Soraka"
         ],
         [
-            "Master yi"
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
-            "Kaisa",
-            "Khazix",
-            "Reksai"
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ],
         [
             "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "Xayah"
         ],
         [
-            "Akshan"
+            "Gnar"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

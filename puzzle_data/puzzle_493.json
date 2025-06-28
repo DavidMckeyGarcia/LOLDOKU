@@ -1,14 +1,14 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
         "Mid",
-        "OG40",
-        "empyrean"
+        "shield",
+        "coven"
     ],
     "cols": [
         "root",
-        "Bilgewater",
-        "never played"
+        "Noxus",
+        "riot records"
     ],
     "solutions": [
         [
@@ -25,64 +25,82 @@
             "Swain"
         ],
         [
-            "Fizz",
-            "Twisted fate"
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Akshan",
-            "Brand",
-            "Chogath",
-            "Heimerdinger",
-            "Naafiri"
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Jhin",
+            "Aphelios",
+            "Hwei",
+            "Ivern",
             "Ksante",
+            "Karma",
+            "Lee sin",
             "Lux",
-            "Varus",
-            "Zac"
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
         ],
         [
-            "Pyke"
+            "Ambessa",
+            "Annie",
+            "Kled",
+            "Mel",
+            "Mordekaiser",
+            "Rell",
+            "Riven",
+            "Sion"
         ],
         [
-            "Brand",
-            "Jhin",
-            "Pyke"
+            "Aphelios",
+            "Ekko",
+            "Ksante",
+            "Kaisa",
+            "Mordekaiser",
+            "Olaf",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Morgana",
+            "Zyra"
+        ],
+        [
+            "Cassiopeia",
+            "Elise",
+            "LeBlanc"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Evelynn"
         ]
     ]
 }

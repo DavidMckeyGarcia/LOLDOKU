@@ -1,104 +1,132 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "Season 7+",
-        "PROJECT"
+        "Adc",
+        "pool party",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "tether"
+        "Zaun",
+        "slow",
+        "riot records"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Ashe",
+            "Caitlyn",
+            "Corki",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Mel",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Twitch",
+            "Varus",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Dr. Mundo",
+            "Orianna",
+            "Singed",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Braum",
+            "Caitlyn",
+            "Dr. Mundo",
+            "Draven",
             "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
-        ],
-        [
             "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Graves",
+            "Heimerdinger",
+            "Jarvan IV",
+            "Lee sin",
+            "Leona",
+            "Lulu",
+            "Miss Fortune",
+            "Orianna",
+            "Reksai",
+            "Sett",
+            "Singed",
+            "Syndra",
+            "Taliyah",
+            "Zac",
+            "Ziggs",
+            "Zoe"
         ],
         [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
+            "Sett"
         ],
         [
-            "Ambessa",
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
             "Briar",
             "Camille",
+            "Gwen",
+            "Hwei",
             "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
             "Milio",
-            "Neeko",
+            "Naafiri",
+            "Nilah",
             "Ornn",
             "Pyke",
-            "Rell",
+            "Rakan",
             "Renata glasc",
+            "Samira",
+            "Senna",
             "Seraphine",
             "Sett",
+            "Smolder",
             "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
             "Viego",
             "Yone"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
-        ],
-        [
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Irelia",
-            "Jax",
-            "Leona",
-            "Pyke",
-            "Renekton",
-            "Sejuani",
-            "Sylas",
-            "Vayne",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Sylas"
         ]
     ]
 }

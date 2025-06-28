@@ -1,67 +1,55 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "Space Groove"
+        "Support",
+        "ult execute",
+        "prestige"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
+        "Zaun",
+        "silence",
         "shred"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
+        ],
+        [
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Rell"
+        ],
+        [
             "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Urgot"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Corki",
-            "Kogmaw"
+            "Evelynn",
+            "Garen"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
+            "Jinx",
             "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Zeri"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Garen",
+            "Lulu",
+            "Soraka"
         ],
         [
-            "Briar",
-            "Rell",
+            "Evelynn",
+            "Garen",
             "Zoe"
-        ],
-        [
-            "Lissandra",
-            "Lux",
-            "Nunu"
-        ],
-        [
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Nasus",
-            "Rumble"
         ]
     ]
 }

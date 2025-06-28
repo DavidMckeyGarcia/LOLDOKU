@@ -1,149 +1,78 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "evolves",
-        "before s7"
+        "Jungle",
+        "before s7",
+        "global ult"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "ascended"
+        "fear",
+        "Shadow Isles",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "Bard",
-            "Syndra",
-            "Viktor"
-        ],
-        [
-            "Gangplank"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
+            "Briar",
+            "Fiddlesticks",
             "Hecarim",
-            "Heimerdinger",
-            "Irelia",
-            "Ivern",
-            "Jax",
-            "Kennen",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Orianna",
-            "Pantheon",
-            "Poppy",
-            "Rammus",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Taric",
-            "Thresh",
-            "Twisted fate",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Veigar",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Warwick",
-            "Xerath",
-            "Xin Zhao",
-            "Zac",
-            "Zilean"
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Fizz",
-            "Gangplank",
-            "Graves",
-            "Illaoi",
-            "Miss Fortune",
-            "Nami",
-            "Nautilus",
-            "Tahm kench",
-            "Twisted fate"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
+        ],
+        [
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
         ],
         [
             "Aatrox",
-            "Azir",
-            "Diana",
-            "Leona",
-            "Nasus",
-            "Pantheon",
-            "Renekton",
-            "Taric",
-            "Varus",
-            "Xerath"
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Hecarim",
+            "Kalista",
+            "Karthus",
+            "Thresh",
+            "Yorick"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

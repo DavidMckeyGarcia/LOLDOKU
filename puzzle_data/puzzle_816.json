@@ -1,64 +1,101 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "true damage",
-        "OG40"
+        "Mid",
+        "OG40",
+        "invis"
     ],
     "cols": [
-        "silence",
-        "Shadow Isles",
-        "100+ games"
+        "root",
+        "The Void",
+        "never played"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
-        ],
-        [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
             "Chogath",
-            "Garen"
-        ],
-        [
-            "Gwen"
-        ],
-        [
-            "Syndra"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
             "Kassadin",
+            "Malzahar",
+            "Velkoz"
+        ],
+        [
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Heimerdinger",
+            "Naafiri"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
             "Soraka"
         ],
         [
-            "Karthus"
+            "Chogath",
+            "Kassadin"
         ],
         [
             "Alistar",
+            "Amumu",
             "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
             "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Kaisa",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Akshan",
+            "Pyke",
+            "Reksai",
+            "Rengar",
+            "Senna",
+            "Shaco",
+            "Teemo",
+            "Twitch",
+            "Vayne",
+            "Viego",
+            "Wukong"
         ]
     ]
 }

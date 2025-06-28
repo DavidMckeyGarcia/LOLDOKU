@@ -1,104 +1,63 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "pool party",
-        "true damage"
+        "Adc",
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "stun",
-        "Bilgewater",
-        "yordle"
+        "Demacia",
+        "knock-up",
+        "tether"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Kalista"
+        ],
+        [
+            "Galio",
+            "Lux"
+        ],
+        [
             "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
             "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar",
-            "Vex",
             "Ziggs"
         ],
         [
-            "Braum",
-            "Fiora",
-            "Heimerdinger",
-            "Leona",
-            "Orianna",
-            "Renekton",
-            "Sett",
-            "Syndra",
-            "Taliyah",
-            "Taric",
-            "Zac"
+            "Kled",
+            "Nocturne"
         ],
         [
-            "Gangplank",
-            "Graves",
-            "Miss Fortune"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Ziggs"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
             "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
+            "Sion"
         ],
         [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Amumu",
-            "Corki"
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

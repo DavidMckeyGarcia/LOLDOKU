@@ -2,70 +2,66 @@
     "difficulty": "diamond",
     "rows": [
         "Adc",
-        "Season 7+",
-        "empyrean"
+        "ult execute",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Demacia",
-        "ult reset"
+        "Zaun",
+        "root",
+        "arcane"
     ],
     "solutions": [
         [
-            "Ashe",
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
             "Seraphine",
-            "Vayne"
+            "Varus",
+            "Xayah"
         ],
         [
-            "Lucian",
-            "Vayne"
+            "Caitlyn",
+            "Jinx",
+            "Mel"
         ],
         [
-            "Sivir",
-            "Vayne"
+            "Jinx",
+            "Urgot"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Jinx"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
             "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Sylas"
-        ],
-        [
-            "Belveth",
-            "Naafiri",
-            "Pyke",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Brand",
-            "Jax",
-            "Ksante",
-            "Malzahar",
-            "Pyke",
-            "Zac"
-        ],
-        [
-            "Kayle",
-            "Lux"
-        ],
-        [
-            "Pyke",
-            "Vex"
+            "Mel"
         ]
     ]
 }

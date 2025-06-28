@@ -1,43 +1,90 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "prestige",
-        "Season 7+"
+        "Support",
+        "dash",
+        "prestige"
     ],
     "cols": [
         "knock-up",
-        "Bilgewater",
-        "tether"
+        "Shadow Isles",
+        "celestial"
     ],
     "solutions": [
         [
-            "Anivia",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Maokai",
+            "Senna",
+            "Thresh"
+        ],
+        [
+            "Bard",
+            "Soraka"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
             "Aurelion Sol",
             "Azir",
-            "Chogath",
+            "Belveth",
+            "Braum",
+            "Briar",
             "Diana",
             "Fizz",
             "Galio",
             "Gragas",
-            "Neeko",
-            "Orianna",
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
             "Sylas",
             "Taliyah",
-            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
             "Yasuo",
             "Yone",
+            "Zac",
             "Ziggs"
         ],
         [
-            "Fizz",
-            "Twisted fate"
+            "Gwen",
+            "Hecarim",
+            "Maokai",
+            "Thresh",
+            "Vex",
+            "Viego"
         ],
         [
-            "Karma",
-            "LeBlanc",
-            "Malzahar",
-            "Sylas"
+            "Aurelion Sol",
+            "Bard"
         ],
         [
             "Aatrox",
@@ -56,39 +103,11 @@
             "Zyra"
         ],
         [
-            "Fizz",
-            "Miss Fortune",
-            "Pyke"
+            "Senna",
+            "Thresh"
         ],
         [
-            "Aatrox",
-            "LeBlanc",
-            "Morgana",
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Soraka"
         ]
     ]
 }

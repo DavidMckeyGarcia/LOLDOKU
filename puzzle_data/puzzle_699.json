@@ -1,75 +1,102 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "global ult",
-        "empyrean"
+        "Mid",
+        "before s7",
+        "cosmic"
     ],
     "cols": [
-        "silence",
-        "Zaun",
-        "100% AP Ratio"
+        "root",
+        "Bilgewater",
+        "ascended"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Briar",
-            "Ekko",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
             "Lux",
-            "Nocturne",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Fizz",
+            "Twisted fate"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
             "Pantheon",
-            "Shen",
-            "Twisted fate",
             "Xerath"
         ],
         [
-            "Malzahar"
-        ],
-        [
-            "Zac"
-        ],
-        [
-            "Jax",
+            "Caitlyn",
+            "Ivern",
             "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
             "Lux",
-            "Nocturne",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Leona",
+            "Nasus",
+            "Pantheon",
+            "Renekton",
+            "Taric",
+            "Varus",
+            "Xerath"
+        ],
+        [
+            "Jhin",
+            "Lissandra",
+            "Lux",
+            "Nautilus",
+            "Nunu",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Illaoi",
+            "Nami",
+            "Nautilus"
+        ],
+        [
             "Varus"
         ]
     ]

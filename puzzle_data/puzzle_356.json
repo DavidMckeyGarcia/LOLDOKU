@@ -1,57 +1,142 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "ult execute",
-        "elderwood"
+        "Support",
+        "elderwood",
+        "shield"
     ],
     "cols": [
-        "fear",
-        "Shadow Isles",
+        "slow",
+        "Bandle City",
         "ult reset"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
+            "Zyra"
         ],
         [
+            "Heimerdinger",
+            "Lulu",
+            "Yuumi"
+        ],
+        [
+            "Pyke",
+            "Swain"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Bard",
+            "Gnar",
             "Hecarim",
             "Karthus",
-            "Maokai",
-            "Viego"
+            "Rakan",
+            "Reksai"
         ],
         [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Darius",
-            "Urgot"
-        ],
-        [
-            "Viego"
-        ],
-        [
-            "Darius",
-            "Pyke",
-            "Viego"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Hecarim",
-            "Karthus"
+            "Veigar"
         ],
         [
             "Ahri"
+        ],
+        [
+            "Aphelios",
+            "Azir",
+            "Braum",
+            "Camille",
+            "Diana",
+            "Ekko",
+            "Galio",
+            "Garen",
+            "Hwei",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Kaisa",
+            "Karma",
+            "Kassadin",
+            "Kled",
+            "Lee sin",
+            "Lulu",
+            "Lux",
+            "Malphite",
+            "Mel",
+            "Milio",
+            "Mordekaiser",
+            "Morgana",
+            "Naafiri",
+            "Nautilus",
+            "Nilah",
+            "Nocturne",
+            "Nunu",
+            "Olaf",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Renata glasc",
+            "Rumble",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Shen",
+            "Sion",
+            "Sivir",
+            "Skarner",
+            "Sona",
+            "Tahm kench",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vex",
+            "Viktor",
+            "Volibear",
+            "Yuumi"
+        ],
+        [
+            "Lulu",
+            "Rumble",
+            "Yuumi"
+        ],
+        [
+            "Naafiri",
+            "Olaf",
+            "Sivir",
+            "Vex",
+            "Viktor"
         ]
     ]
 }

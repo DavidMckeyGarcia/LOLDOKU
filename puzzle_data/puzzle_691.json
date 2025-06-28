@@ -1,114 +1,65 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "shield",
-        "prestige"
+        "ult execute",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Targon",
-        "pentakill"
+        "silence",
+        "Ionia",
+        "arcane"
     ],
     "solutions": [
         [
-            "Aatrox",
             "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Pantheon"
+            "Garen"
         ],
         [
             "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Diana",
-            "Galio",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Riven",
-            "Sion",
-            "Tahm kench",
-            "Vi",
+            "Irelia",
+            "Kayn",
+            "Kennen",
+            "Sett",
+            "Shen",
+            "Wukong",
             "Yasuo",
             "Yone"
         ],
         [
-            "Aphelios",
-            "Diana",
-            "Taric"
+            "Ambessa",
+            "Heimerdinger",
+            "Jayce",
+            "Singed",
+            "Warwick"
         ],
         [
-            "Aphelios",
-            "Kaisa"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Diana",
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Zoe"
+            "Chogath",
+            "Garen"
         ],
         [
             "Akali",
-            "Darius",
-            "Ezreal",
-            "Fiora",
-            "Jinx",
-            "Kaisa",
-            "Lucian",
-            "Vayne",
-            "Xayah"
+            "Jhin",
+            "Syndra"
+        ],
+        [
+            "Jinx"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
         ]
     ]
 }

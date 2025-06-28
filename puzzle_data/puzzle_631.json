@@ -1,97 +1,111 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "cosmic",
-        "Season 7+"
+        "Mid",
+        "PROJECT",
+        "blink"
     ],
     "cols": [
         "stun",
-        "Shadow Isles",
-        "shred"
+        "Noxus",
+        "arcane"
     ],
     "solutions": [
         [
-            "Alistar",
+            "Ambessa",
+            "Anivia",
             "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
+            "Aurelion Sol",
             "Brand",
-            "Braum",
+            "Cassiopeia",
+            "Ekko",
+            "Gragas",
             "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
+            "Irelia",
+            "Lissandra",
+            "Malzahar",
             "Neeko",
+            "Orianna",
             "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
+            "Qiyana",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
             "Velkoz",
+            "Viktor",
             "Xerath",
+            "Yone",
             "Zilean"
         ],
         [
-            "Maokai",
-            "Senna",
-            "Thresh"
-        ],
-        [
-            "Rell"
-        ],
-        [
-            "Anivia",
-            "Hecarim",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Sion",
-            "Skarner",
-            "Xin Zhao"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Sion"
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
             "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
+            "Ekko",
+            "Heimerdinger",
+            "Jayce",
+            "LeBlanc",
+            "Mel",
+            "Orianna",
+            "Viktor"
+        ],
+        [
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
             "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
+            "Renekton",
+            "Sejuani",
             "Sylas",
+            "Vayne",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Katarina",
+            "Mordekaiser"
+        ],
+        [
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
             "Viego",
             "Yone"
         ],
         [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
         ],
         [
-            "Briar",
-            "Rell",
-            "Zoe"
+            "Ambessa",
+            "Ekko",
+            "LeBlanc"
         ]
     ]
 }

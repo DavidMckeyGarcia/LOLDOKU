@@ -1,57 +1,85 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "invis",
-        "OG40"
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "fear",
-        "Ixtal",
-        "pentakill"
+        "Shurima",
+        "root",
+        "0 games"
     ],
     "solutions": [
         [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
             "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Naafiri",
             "Vex"
         ],
         [
+            "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Akshan",
+            "Master yi",
+            "Samira"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
             "Neeko",
-            "Qiyana"
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "Neeko",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "Akali",
-            "Kaisa",
-            "Twitch",
-            "Vayne"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Malphite"
-        ],
-        [
-            "Ryze",
-            "Tristana",
-            "Twitch"
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

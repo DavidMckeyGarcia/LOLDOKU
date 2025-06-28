@@ -1,101 +1,76 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "arcade",
-        "ult execute"
+        "Top",
+        "OG40",
+        "Space Groove"
     ],
     "cols": [
-        "stun",
-        "Zaun",
-        "100+ games"
+        "Noxus",
+        "root",
+        "yordle"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
-        ],
-        [
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Malzahar",
-            "Qiyana",
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
             "Riven",
-            "Sona",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
             "Veigar"
         ],
         [
-            "Blitzcrank",
-            "Ziggs"
+            "Samira"
         ],
         [
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa"
+            "Lissandra",
+            "Lux",
+            "Nunu"
         ],
         [
-            "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
-        ],
-        [
-            "Jinx",
-            "Urgot"
-        ],
-        [
-            "Jhin",
-            "Syndra"
+            "Lulu",
+            "Rumble",
+            "Teemo"
         ]
     ]
 }

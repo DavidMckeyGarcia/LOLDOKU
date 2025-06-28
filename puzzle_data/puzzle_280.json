@@ -1,21 +1,16 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "arcade",
-        "life steal"
+        "Season 7+",
+        "worlds skin"
     ],
     "cols": [
-        "Zaun",
         "root",
-        "100+ games"
+        "Noxus",
+        "ascended"
     ],
     "solutions": [
-        [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
         [
             "Karma",
             "Leona",
@@ -34,41 +29,69 @@
         ],
         [
             "Alistar",
-            "Ashe",
-            "Braum",
-            "Janna",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
             "Leona",
-            "Lulu",
-            "Maokai",
-            "Rakan",
-            "Thresh"
-        ],
-        [
-            "Blitzcrank",
-            "Ziggs"
-        ],
-        [
-            "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa"
-        ],
-        [
-            "Warwick"
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
             "Aphelios",
+            "Hwei",
             "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "LeBlanc",
             "Lee sin",
-            "Morgana",
-            "Senna"
+            "Leona",
+            "Maokai",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Singed",
+            "Xayah",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Elise",
+            "LeBlanc",
+            "Talon"
         ],
         [
             "Aatrox",
-            "Lee sin"
+            "Azir",
+            "Leona",
+            "Renekton"
         ]
     ]
 }

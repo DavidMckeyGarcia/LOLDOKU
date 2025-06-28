@@ -1,62 +1,92 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "blink",
-        "Season 7+"
+        "Jungle",
+        "global ult",
+        "before s7"
     ],
     "cols": [
-        "knock-up",
-        "Shadow Isles",
+        "Freljord",
+        "fear",
         "ascended"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Kalista",
-            "Senna"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Varus"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Viego"
-        ],
-        [
+            "Diana",
+            "Kayn",
+            "Nasus",
             "Pantheon"
         ],
         [
-            "Belveth",
+            "Ashe",
+            "Ornn"
+        ],
+        [
             "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Nocturne",
+            "Vex"
         ],
         [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
+            "Pantheon",
+            "Xerath"
         ],
         [
-            "Kayn",
-            "Naafiri"
+            "Anivia",
+            "Ashe",
+            "Brand",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Lissandra",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Leona",
+            "Nasus",
+            "Pantheon",
+            "Renekton",
+            "Taric",
+            "Varus",
+            "Xerath"
         ]
     ]
 }

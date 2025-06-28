@@ -1,117 +1,69 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "life steal",
-        "arcade"
+        "Top",
+        "OG40",
+        "coven"
     ],
     "cols": [
+        "Demacia",
         "root",
-        "Zaun",
-        "never played"
+        "arcane"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
             "Zac"
         ],
         [
-            "Amumu",
-            "Belveth",
-            "Brand",
-            "Briar",
-            "Dr. Mundo",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Kindred",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
+            "Ambessa",
+            "Heimerdinger",
+            "Jayce",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
             "Morgana",
             "Nunu",
-            "Rammus",
-            "Reksai",
-            "Rell",
-            "Rengar",
-            "Sejuani",
+            "Ryze",
             "Shaco",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Morgana",
             "Zyra"
         ],
         [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Warwick"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Illaoi",
-            "Kayn",
-            "Morgana",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Caitlyn",
-            "Qiyana"
-        ],
-        [
-            "Blitzcrank",
-            "Ziggs"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Miss Fortune",
-            "Sona"
+            "LeBlanc"
         ]
     ]
 }

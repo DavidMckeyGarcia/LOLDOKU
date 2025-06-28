@@ -2,98 +2,85 @@
     "difficulty": "emerald",
     "rows": [
         "Top",
-        "evolves",
-        "OG40"
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "Demacia",
-        "stun",
-        "ascended"
+        "knock-up",
+        "Piltover",
+        "yordle"
     ],
     "solutions": [
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Aatrox",
+            "Chogath",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
+            "Jarvan IV",
             "Ksante",
-            "Kennen",
+            "Kayn",
+            "Malphite",
             "Ornn",
-            "Pantheon",
             "Poppy",
-            "Renekton",
             "Riven",
-            "Sett",
             "Sion",
-            "Skarner",
             "Sylas",
             "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
             "Yone",
             "Zac"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Kayle"
-        ],
-        [
-            "Bard",
-            "Syndra",
-            "Viktor"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
+            "Camille",
             "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Jayce"
         ],
         [
-            "Nasus",
-            "Taric"
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Camille"
+        ],
+        [
+            "Amumu",
+            "Corki"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Camille",
+            "Seraphine"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

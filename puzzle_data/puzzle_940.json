@@ -1,80 +1,47 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "true damage",
-        "Season 7+"
+        "Mid",
+        "Season 7+",
+        "true damage"
     ],
     "cols": [
-        "Shurima",
+        "Zaun",
         "root",
-        "never played"
+        "yordle"
     ],
     "solutions": [
         [
-            "Sivir"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
             "Mel",
-            "Senna",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Varus",
-            "Xayah"
+            "Swain"
         ],
         [
-            "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
         ],
         [
-            "Akshan",
-            "Amumu",
-            "Ksante"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Belveth",
-            "Chogath",
-            "Draven",
-            "Fiora",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Lillia",
-            "Nunu",
-            "Pyke",
             "Renata glasc",
-            "Samira",
-            "Twitch",
-            "Vayne"
-        ],
-        [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
+            "Zeri"
         ],
         [
             "Aphelios",
@@ -88,26 +55,22 @@
             "Xayah"
         ],
         [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
+            "Vex"
+        ],
+        [
             "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Twitch",
+            "Urgot"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Amumu",
+            "Corki"
         ]
     ]
 }

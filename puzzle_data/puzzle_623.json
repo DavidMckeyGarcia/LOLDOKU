@@ -1,107 +1,75 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
+        "Jungle",
         "Season 7+",
-        "dash"
+        "global ult"
     ],
     "cols": [
-        "fear",
+        "root",
         "Bilgewater",
-        "100% AP Ratio"
+        "yordle"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Fizz",
-            "Twisted fate"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Aurelion Sol",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Nilah",
-            "Pyke"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
             "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
+            "Hwei",
+            "Ksante",
+            "Mel",
             "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Fizz",
-            "Graves",
-            "Illaoi",
-            "Nautilus",
             "Nilah",
             "Pyke"
         ],
         [
-            "Alistar",
-            "Aurelion Sol",
-            "Belveth",
-            "Briar",
-            "Corki",
-            "Ekko",
-            "Fiora",
-            "Fizz",
-            "Gnar",
-            "Hecarim",
-            "Jax",
-            "Kaisa",
-            "Nocturne",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Thresh",
-            "Tristana",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Zeri"
+            "Vex"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ]
     ]
 }

@@ -1,92 +1,112 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
         "Jungle",
-        "global ult",
+        "invis",
         "before s7"
     ],
     "cols": [
-        "Shadow Isles",
-        "silence",
-        "manaless"
+        "Demacia",
+        "root",
+        "yordle"
     ],
     "solutions": [
         [
-            "Hecarim",
-            "Karthus",
-            "Maokai",
-            "Viego"
-        ],
-        [
-            "Fiddlesticks"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
             "Shyvana",
-            "Viego",
-            "Zac"
+            "Sylas",
+            "Xin Zhao"
         ],
         [
-            "Karthus",
+            "Ivern",
+            "Lee sin",
             "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Vayne"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
             "Senna",
-            "Vex"
+            "Shaco"
         ],
         [
-            "Soraka"
+            "Teemo"
         ],
         [
-            "Briar",
-            "Kled",
-            "Shen"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Karthus",
-            "Thresh",
-            "Yorick"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
+            "Fiora",
+            "Galio",
             "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
-            "Aatrox",
-            "Akali",
-            "Dr. Mundo",
-            "Garen",
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Fizz",
             "Gnar",
-            "Katarina",
+            "Heimerdinger",
             "Kennen",
             "Kled",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Renekton",
-            "Rengar",
+            "Lulu",
+            "Poppy",
             "Rumble",
-            "Shen",
-            "Shyvana",
-            "Tryndamere",
-            "Vladimir",
-            "Yasuo",
-            "Zac",
-            "Zed"
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

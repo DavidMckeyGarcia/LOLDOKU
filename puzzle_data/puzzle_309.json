@@ -1,101 +1,76 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
+        "Adc",
         "dash",
-        "Season 7+"
+        "pool party"
     ],
     "cols": [
-        "Zaun",
-        "fear",
-        "100+ games"
+        "root",
+        "The Void",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
             "Zac"
         ],
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
-        ],
-        [
-            "Ekko",
-            "Urgot",
-            "Vi",
-            "Warwick",
-            "Zac",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Azir",
-            "Braum",
-            "Caitlyn",
-            "Elise",
-            "Ezreal",
-            "Gnar",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
+            "Belveth",
             "Kaisa",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vayne",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Caitlyn",
             "Lee sin",
             "Leona",
-            "Lucian",
-            "Maokai",
-            "Rakan",
-            "Renekton",
-            "Sejuani",
-            "Shen",
-            "Thresh",
-            "Tristana"
+            "Singed",
+            "Zac"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Reksai"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Singed"
         ]
     ]
 }

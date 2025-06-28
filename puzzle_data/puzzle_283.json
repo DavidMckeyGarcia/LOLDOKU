@@ -1,16 +1,22 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "invis",
-        "OG40"
+        "ult execute",
+        "before s7"
     ],
     "cols": [
+        "fear",
         "Demacia",
-        "knock-up",
-        "pentakill"
+        "never played"
     ],
     "solutions": [
+        [
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
         [
             "Fiora",
             "Garen",
@@ -22,63 +28,140 @@
             "Vayne"
         ],
         [
-            "Aatrox",
             "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Darius",
+            "Dr. Mundo",
             "Fiora",
-            "Vayne"
+            "Garen",
+            "Gnar",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
+            "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
         ],
         [
-            "Vayne"
+            "Darius",
+            "Urgot"
         ],
         [
-            "Neeko",
+            "Garen"
+        ],
+        [
+            "Akshan",
+            "Chogath",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
             "Reksai",
-            "Wukong"
+            "Viego"
         ],
         [
-            "Akali",
-            "Kaisa",
-            "Twitch",
-            "Vayne"
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
         ],
         [
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
             "Kayle",
-            "Morgana"
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
             "Alistar",
-            "Anivia",
+            "Amumu",
+            "Ashe",
+            "Bard",
             "Blitzcrank",
+            "Brand",
+            "Braum",
             "Chogath",
+            "Dr. Mundo",
+            "Draven",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Graves",
+            "Hecarim",
+            "Heimerdinger",
+            "Illaoi",
+            "Ivern",
             "Janna",
+            "Jarvan IV",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kennen",
+            "Kindred",
+            "Kled",
+            "Leona",
             "Malphite",
+            "Miss Fortune",
+            "Mordekaiser",
+            "Morgana",
+            "Nami",
             "Nunu",
-            "Sion"
-        ],
-        [
-            "Ryze",
-            "Tristana",
-            "Twitch"
+            "Rammus",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Sivir",
+            "Skarner",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Teemo",
+            "Thresh",
+            "Trundle",
+            "Twitch",
+            "Udyr",
+            "Vayne",
+            "Vi",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Yorick",
+            "Zyra"
         ]
     ]
 }

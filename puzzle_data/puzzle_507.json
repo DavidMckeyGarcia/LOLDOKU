@@ -1,94 +1,124 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "dash",
-        "OG40"
+        "Mid",
+        "blink",
+        "before s7"
     ],
     "cols": [
         "Ionia",
         "root",
-        "ascended"
+        "riot records"
     ],
     "solutions": [
         [
+            "Ahri",
+            "Akali",
+            "Hwei",
+            "Irelia",
             "Karma",
-            "Rakan"
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
+            "Hwei",
             "Karma",
-            "Leona",
+            "LeBlanc",
+            "Lissandra",
             "Lux",
-            "Maokai",
             "Mel",
-            "Morgana",
-            "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Swain"
         ],
         [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Qiyana",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Master yi",
+            "Shen",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Ekko",
+            "Ezreal",
+            "Viego",
+            "Yasuo",
+            "Yone"
         ],
         [
             "Ahri",
             "Akali",
             "Irelia",
             "Ivern",
-            "Kayn",
+            "Jhin",
+            "Karma",
+            "Kennen",
             "Lee sin",
-            "Lillia",
-            "Rakan",
-            "Sett",
+            "Master yi",
             "Shen",
+            "Syndra",
+            "Varus",
             "Wukong",
             "Yasuo",
-            "Yone"
+            "Zed"
         ],
         [
             "Caitlyn",
             "Ivern",
-            "Ksante",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
             "Lee sin",
             "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Naafiri",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Master yi"
-        ],
-        [
+            "Lissandra",
+            "Lux",
             "Morgana",
+            "Nautilus",
             "Nunu",
+            "Rengar",
             "Ryze",
             "Shaco",
             "Singed",
-            "Soraka"
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Nasus",
-            "Taric"
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Evelynn",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Mordekaiser",
+            "Olaf",
+            "Sona",
+            "Yasuo",
+            "Yorick"
         ]
     ]
 }

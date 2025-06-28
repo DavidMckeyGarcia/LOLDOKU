@@ -1,61 +1,67 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Top",
-        "life steal",
-        "hextech"
+        "Adc",
+        "OG40",
+        "Fright Night"
     ],
     "cols": [
-        "fear",
-        "Shurima",
-        "ascended"
+        "Freljord",
+        "root",
+        "shred"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Ashe"
         ],
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Corki",
+            "Kogmaw"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Karthus",
             "Nasus",
-            "Renekton"
+            "Sion"
         ],
         [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
+            "Nunu",
+            "Trundle"
         ],
         [
-            "Aatrox",
-            "Briar",
-            "Warwick"
+            "Nautilus",
+            "Nunu",
+            "Renata glasc",
+            "Shaco"
         ],
         [
-            "Aatrox",
-            "Ksante",
-            "Nasus"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Nasus"
-        ],
-        [
-            "Nocturne"
-        ],
-        [
-            "Amumu",
-            "Rammus",
-            "Renekton"
-        ],
-        [
-            "Renekton"
+            "Trundle"
         ]
     ]
 }

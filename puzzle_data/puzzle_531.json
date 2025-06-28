@@ -2,105 +2,113 @@
     "difficulty": "silver",
     "rows": [
         "Top",
-        "invis",
+        "arcade",
         "OG40"
     ],
     "cols": [
-        "Demacia",
-        "knock-up",
-        "100% AP Ratio"
+        "stun",
+        "Freljord",
+        "yordle"
     ],
     "solutions": [
         [
+            "Ambessa",
+            "Camille",
             "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
+            "Gnar",
             "Gragas",
-            "Jarvan IV",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
             "Ksante",
-            "Kayn",
-            "Malphite",
+            "Kennen",
             "Ornn",
+            "Pantheon",
             "Poppy",
+            "Renekton",
             "Riven",
+            "Sett",
             "Sion",
+            "Skarner",
             "Sylas",
             "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
             "Yone",
             "Zac"
         ],
         [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
             "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Vayne"
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Neeko",
-            "Reksai",
-            "Wukong"
-        ],
-        [
-            "Kaisa",
-            "Neeko",
-            "Viego",
-            "Wukong"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Alistar",
-            "Anivia",
             "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Brand"
+        ],
+        [
+            "Corki",
+            "Veigar",
+            "Ziggs"
         ],
         [
             "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
             "Ashe",
             "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
+            "Heimerdinger",
             "Jax",
-            "Master yi",
+            "Morgana",
             "Nunu",
             "Rammus",
-            "Sivir",
-            "Tristana",
+            "Sion",
+            "Taric",
             "Twisted fate",
             "Veigar",
             "Warwick",
             "Zilean"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

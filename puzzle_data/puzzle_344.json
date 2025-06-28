@@ -1,65 +1,77 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "invis",
+        "Support",
+        "dark star",
         "before s7"
     ],
     "cols": [
-        "Ixtal",
+        "Shurima",
         "root",
-        "vastayan"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Nidalee",
-            "Qiyana",
-            "Rengar",
-            "Skarner",
-            "Zyra"
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Ivern",
-            "Lee sin",
+            "Karma",
+            "Leona",
+            "Lux",
             "Maokai",
+            "Mel",
             "Morgana",
             "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Rengar",
-            "Wukong"
-        ],
-        [
             "Neeko",
-            "Qiyana",
-            "Rengar"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
+            "Renata glasc",
             "Senna",
-            "Shaco"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Malphite",
-            "Nidalee",
-            "Rengar",
-            "Skarner",
+            "Seraphine",
+            "Soraka",
+            "Swain",
             "Zyra"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Braum",
+            "Janna",
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
+        ],
+        [
+            "Xerath"
+        ],
+        [
+            "Jhin",
+            "Karma",
+            "Lissandra",
+            "Lux",
+            "Shaco",
+            "Varus"
+        ],
+        [
+            "Jarvan IV",
+            "Jhin",
+            "Orianna",
+            "Thresh",
+            "Varus"
+        ],
+        [
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Renekton",
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
             "Caitlyn",
@@ -86,10 +98,36 @@
             "Zyra"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar",
-            "Wukong"
+            "Aatrox",
+            "Alistar",
+            "Ashe",
+            "Azir",
+            "Braum",
+            "Caitlyn",
+            "Elise",
+            "Ezreal",
+            "Gnar",
+            "Gragas",
+            "Graves",
+            "Janna",
+            "Jarvan IV",
+            "Jax",
+            "Jayce",
+            "Jhin",
+            "Lee sin",
+            "Leona",
+            "Lucian",
+            "Lulu",
+            "Orianna",
+            "Renekton",
+            "Rumble",
+            "Ryze",
+            "Sejuani",
+            "Shen",
+            "Syndra",
+            "Thresh",
+            "Tristana",
+            "Varus"
         ]
     ]
 }

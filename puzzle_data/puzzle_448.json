@@ -1,53 +1,81 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "life steal"
+        "Jungle",
+        "invis",
+        "arcade"
     ],
     "cols": [
-        "fear",
-        "Demacia",
-        "darkin"
+        "Freljord",
+        "knock-up",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Brand",
+            "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
-        ],
-        [
-            "Naafiri"
-        ],
-        [
+            "Belveth",
             "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Sylas"
-        ],
-        [
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
             "Kayn",
-            "Naafiri"
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Aatrox",
-            "Briar",
-            "Warwick"
+            "Rengar",
+            "Wukong"
         ],
         [
-            "Morgana"
+            "Aurora"
         ],
         [
-            "Aatrox",
-            "Kayn"
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Aurora",
+            "Neeko",
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Brand"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Ahri"
         ]
     ]
 }

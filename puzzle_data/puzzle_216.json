@@ -1,55 +1,60 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "life steal",
-        "Season 7+"
+        "Support",
+        "Season 7+",
+        "ult execute"
     ],
     "cols": [
         "Zaun",
-        "root",
-        "100+ games"
+        "slow",
+        "0 games"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
         ],
         [
-            "Ksante",
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
             "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Warwick"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
+            "Mel",
+            "Milio",
             "Morgana",
-            "Senna"
+            "Nami",
+            "Nautilus",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
+            "Zyra"
         ],
         [
-            "Aatrox",
-            "Lee sin"
+            "Mel",
+            "Milio"
         ],
         [
             "Renata glasc",
@@ -57,19 +62,67 @@
         ],
         [
             "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
             "Hwei",
             "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
             "Mel",
-            "Neeko",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
             "Renata glasc",
+            "Samira",
             "Senna",
             "Seraphine",
-            "Xayah"
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
+        ],
+        [
+            "Jinx",
+            "Urgot"
+        ],
+        [
+            "Akali",
+            "Chogath",
+            "Darius",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Syndra",
+            "Urgot",
+            "Viego"
+        ],
+        [
+            "Akshan"
         ]
     ]
 }

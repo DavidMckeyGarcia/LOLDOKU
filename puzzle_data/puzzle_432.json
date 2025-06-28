@@ -1,77 +1,87 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "before s7",
-        "global ult"
+        "Mid",
+        "Season 7+",
+        "Space Groove"
     ],
     "cols": [
-        "fear",
-        "Targon",
-        "ascended"
+        "knock-up",
+        "Shurima",
+        "yordle"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Diana",
-            "Pantheon"
-        ],
-        [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
-        ],
-        [
+            "Anivia",
             "Aurelion Sol",
-            "Diana",
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Taric"
-        ],
-        [
-            "Aatrox",
             "Azir",
+            "Chogath",
             "Diana",
-            "Leona",
-            "Nasus",
-            "Pantheon",
-            "Renekton",
-            "Taric",
-            "Varus",
-            "Xerath"
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Belveth",
             "Briar",
-            "Nocturne",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
             "Vex"
         ],
         [
-            "Aurelion Sol",
-            "Pantheon",
-            "Soraka"
+            "Blitzcrank",
+            "Gragas",
+            "Lulu",
+            "Nami",
+            "Nunu",
+            "Samira"
         ],
         [
-            "Pantheon",
-            "Xerath"
+            "Nasus"
+        ],
+        [
+            "Lulu",
+            "Rumble",
+            "Teemo"
         ]
     ]
 }

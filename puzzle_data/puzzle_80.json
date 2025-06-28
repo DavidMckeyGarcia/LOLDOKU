@@ -1,78 +1,111 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "global ult",
-        "Season 7+"
+        "Jungle",
+        "ult execute",
+        "empyrean"
     ],
     "cols": [
-        "Shadow Isles",
         "root",
-        "ult reset"
+        "Demacia",
+        "never played"
     ],
     "solutions": [
         [
-            "Gwen",
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Yorick"
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Ksante",
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
+        ],
+        [
+            "Amumu",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Dr. Mundo",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Kindred",
+            "Lillia",
             "Maokai",
-            "Singed",
-            "Swain",
+            "Mordekaiser",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Reksai",
+            "Rell",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zyra"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Garen"
+        ],
+        [
+            "Akshan",
+            "Chogath",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Viego"
+        ],
+        [
+            "Jhin",
+            "Ksante",
+            "Lux",
+            "Varus",
             "Zac"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
+            "Kayle",
+            "Lux"
         ],
         [
-            "Karthus",
-            "Maokai",
-            "Senna",
-            "Vex"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Belveth",
-            "Naafiri",
-            "Pyke",
-            "Vex",
-            "Viego"
+            "Brand",
+            "Jhin",
+            "Pyke"
         ]
     ]
 }

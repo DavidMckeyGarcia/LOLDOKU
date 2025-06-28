@@ -1,62 +1,73 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "arcade",
-        "true damage"
+        "Mid",
+        "before s7",
+        "global ult"
     ],
     "cols": [
-        "root",
         "Piltover",
-        "yordle"
+        "silence",
+        "ascended"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna",
+            "Seraphine"
         ],
         [
-            "Camille",
-            "Heimerdinger",
-            "Jayce"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Pantheon",
+            "Xerath"
         ],
         [
             "Caitlyn",
-            "Qiyana"
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Diana",
+            "Leona",
+            "Nasus",
+            "Pantheon",
+            "Renekton",
+            "Taric",
+            "Varus",
+            "Xerath"
         ],
         [
             "Caitlyn",
             "Ezreal"
         ],
         [
-            "Corki",
-            "Veigar",
-            "Ziggs"
+            "Soraka"
         ],
         [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Camille"
-        ],
-        [
-            "Amumu",
-            "Corki"
+            "Pantheon",
+            "Xerath"
         ]
     ]
 }

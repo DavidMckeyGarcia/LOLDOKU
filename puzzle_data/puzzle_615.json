@@ -2,13 +2,13 @@
     "difficulty": "gold",
     "rows": [
         "Mid",
-        "dash",
-        "OG40"
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
         "stun",
         "Zaun",
-        "celestial"
+        "tether"
     ],
     "solutions": [
         [
@@ -47,95 +47,54 @@
             "Ziggs"
         ],
         [
-            "Aurelion Sol"
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
         ],
         [
-            "Alistar",
             "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
             "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
-            "Ivern",
-            "Jax",
             "Ksante",
-            "Leona",
-            "Nautilus",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sett",
-            "Sylas",
-            "Taliyah",
-            "Thresh",
-            "Urgot",
-            "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Ekko",
-            "Urgot",
-            "Vi",
-            "Warwick",
-            "Zac",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Aurelion Sol",
-            "Bard"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
             "Morgana",
-            "Nunu",
-            "Rammus",
             "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
+            "Udyr",
+            "Viego",
             "Warwick"
         ],
         [
-            "Soraka"
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Morgana"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ]
     ]
 }

@@ -1,104 +1,93 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "shield",
-        "OG40"
+        "Mid",
+        "true damage",
+        "before s7"
     ],
     "cols": [
-        "knock-up",
-        "The Void",
-        "tether"
+        "silence",
+        "Demacia",
+        "shred"
     ],
     "solutions": [
         [
-            "Aatrox",
             "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Chogath"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Diana",
             "Galio",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Ksante",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Riven",
-            "Sion",
-            "Tahm kench",
-            "Vi",
-            "Yasuo",
-            "Yone"
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Kaisa",
-            "Kassadin"
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
         ],
         [
-            "Karma",
-            "Kled",
-            "Morgana",
-            "Nocturne",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Alistar",
-            "Anivia",
+            "Fiora",
+            "Garen",
+            "Vayne"
+        ],
+        [
+            "Corki",
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
+        ],
+        [
             "Blitzcrank",
             "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
             "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
             "Morgana",
-            "Taric"
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Corki",
+            "Evelynn",
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Karthus",
+            "Kogmaw",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rengar",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Vi",
+            "Wukong"
         ]
     ]
 }

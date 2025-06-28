@@ -1,71 +1,60 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "invis",
-        "Season 7+"
+        "Top",
+        "Season 7+",
+        "pool party"
     ],
     "cols": [
-        "fear",
         "Noxus",
-        "100% AP Ratio"
+        "root",
+        "never played"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Briar",
-            "Elise",
+            "Ambessa",
+            "Darius",
             "Kayn",
+            "Kled",
             "Mordekaiser",
-            "Rell",
-            "Talon"
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
-            "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Chogath",
+            "Dr. Mundo",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
+            "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
             "Shen",
-            "Shyvana",
             "Skarner",
-            "Vi",
-            "Viego",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
             "Volibear",
             "Warwick",
             "Wukong",
-            "Xin Zhao"
-        ],
-        [
-            "Shaco"
-        ],
-        [
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Kaisa",
-            "Neeko",
-            "Viego",
-            "Wukong"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Yorick"
         ],
         [
             "Ambessa",
@@ -78,14 +67,58 @@
         ],
         [
             "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Akshan",
+            "Aphelios",
             "Belveth",
             "Briar",
-            "Kaisa",
+            "Gwen",
+            "Kayn",
+            "Lillia",
             "Milio",
-            "Neeko",
-            "Smolder",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
             "Viego",
+            "Xayah",
+            "Yuumi",
             "Zeri"
+        ],
+        [
+            "Draven"
+        ],
+        [
+            "Caitlyn",
+            "Lee sin",
+            "Leona",
+            "Singed",
+            "Zac"
+        ],
+        [
+            "Braum",
+            "Dr. Mundo",
+            "Draven",
+            "Fiora",
+            "Graves",
+            "Heimerdinger",
+            "Jarvan IV",
+            "Leona",
+            "Miss Fortune",
+            "Reksai"
         ]
     ]
 }

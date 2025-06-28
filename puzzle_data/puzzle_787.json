@@ -1,109 +1,116 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "PROJECT",
-        "ult execute"
+        "Mid",
+        "true damage",
+        "prestige"
     ],
     "cols": [
-        "slow",
-        "Shurima",
-        "100+ games"
+        "The Void",
+        "stun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
+        ],
+        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
             "Seraphine",
-            "Sivir",
-            "Smolder",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
             "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
+            "Veigar",
+            "Vex",
             "Ziggs"
         ],
         [
-            "Sivir"
-        ],
-        [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Akali",
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Gangplank",
-            "Irelia",
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Mordekaiser",
-            "Pyke",
-            "Sejuani",
-            "Senna",
-            "Sylas",
-            "Varus",
-            "Warwick",
-            "Zed"
-        ],
-        [
-            "Jax",
-            "Renekton"
-        ],
-        [
-            "Ashe",
-            "Jax",
-            "Jhin",
-            "Leona",
-            "Lucian",
-            "Renekton",
-            "Sejuani",
-            "Varus"
-        ],
-        [
-            "Akali",
+            "Belveth",
             "Chogath",
-            "Darius",
-            "Draven",
-            "Evelynn",
-            "Garen",
-            "Jhin",
-            "Jinx",
+            "Kogmaw",
+            "Velkoz"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
             "Pyke",
-            "Reksai",
+            "Renata glasc",
+            "Sett",
             "Syndra",
             "Urgot",
-            "Viego"
+            "Vayne",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Akshan"
+            "Amumu",
+            "Corki"
         ],
         [
-            "Jhin",
-            "Syndra"
+            "Kaisa"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Fizz",
+            "Lulu",
+            "Teemo"
         ]
     ]
 }

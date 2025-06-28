@@ -1,106 +1,62 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "worlds skin",
+        "Adc",
+        "blink",
         "Season 7+"
     ],
     "cols": [
-        "Targon",
-        "root",
-        "manaless"
+        "knock-up",
+        "Shadow Isles",
+        "ascended"
     ],
     "solutions": [
         [
-            "Diana",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Kalista",
+            "Senna"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Viego"
+        ],
+        [
             "Pantheon"
         ],
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
-        ],
-        [
             "Belveth",
             "Briar",
-            "Dr. Mundo",
-            "Lee sin",
-            "Mordekaiser",
-            "Reksai",
-            "Rengar",
-            "Rumble",
-            "Sett",
-            "Shen",
-            "Shyvana",
-            "Viego",
-            "Zac"
-        ],
-        [
-            "Aphelios",
-            "Leona",
-            "Zoe"
-        ],
-        [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Singed",
-            "Xayah",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Akali",
-            "Dr. Mundo",
-            "Gnar",
-            "Kennen",
-            "Lee sin",
-            "Renekton",
-            "Rengar",
-            "Shen",
-            "Viego",
-            "Zac",
-            "Zed"
-        ],
-        [
-            "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
             "Ksante",
-            "Mel",
+            "Kayn",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

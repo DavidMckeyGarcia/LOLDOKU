@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
         "Top",
-        "before s7",
-        "empyrean"
+        "PROJECT",
+        "life steal"
     ],
     "cols": [
         "root",
-        "Ionia",
-        "tether"
+        "Targon",
+        "manaless"
     ],
     "solutions": [
         [
@@ -19,94 +19,63 @@
             "Zac"
         ],
         [
+            "Pantheon"
+        ],
+        [
+            "Aatrox",
             "Akali",
-            "Irelia",
-            "Kayn",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
             "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
             "Sett",
             "Shen",
-            "Wukong",
+            "Tryndamere",
             "Yasuo",
-            "Yone"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
+            "Yone",
             "Zac"
         ],
         [
-            "Caitlyn",
-            "Ivern",
             "Jhin",
             "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
             "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Senna",
+            "Varus"
         ],
         [
-            "Ahri",
+            "Leona"
+        ],
+        [
             "Akali",
-            "Irelia",
-            "Ivern",
-            "Jhin",
-            "Karma",
-            "Kennen",
-            "Lee sin",
-            "Master yi",
-            "Shen",
-            "Syndra",
-            "Varus",
-            "Wukong",
+            "Katarina",
+            "Mordekaiser",
+            "Renekton",
             "Yasuo",
             "Zed"
         ],
         [
-            "Aatrox",
-            "Fiddlesticks",
-            "Illaoi",
-            "Kalista",
-            "Karma",
-            "Kled",
-            "LeBlanc",
-            "Morgana",
-            "Nocturne",
-            "Taric",
-            "Zac"
-        ],
-        [
-            "Jhin",
+            "Aphelios",
             "Ksante",
-            "Lux",
-            "Varus",
-            "Zac"
+            "Lee sin",
+            "Morgana",
+            "Senna"
         ],
         [
-            "Akali",
-            "Jhin",
-            "Varus",
-            "Zed"
+            "Aphelios"
         ],
         [
-            "Malzahar",
-            "Nocturne",
-            "Zac"
+            "Aatrox",
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Lee sin",
+            "Viego",
+            "Vladimir"
         ]
     ]
 }

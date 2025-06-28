@@ -1,14 +1,14 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "ult execute",
-        "Space Groove"
+        "prestige",
+        "true damage"
     ],
     "cols": [
         "knock-up",
-        "Demacia",
-        "yordle"
+        "Noxus",
+        "pentakill"
     ],
     "solutions": [
         [
@@ -32,50 +32,79 @@
             "Zac"
         ],
         [
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Akali",
+            "Darius",
             "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
             "Vayne"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Garen"
-        ],
-        [
-            "Veigar"
-        ],
-        [
-            "Blitzcrank",
-            "Gragas",
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
             "Lulu",
-            "Nami",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Cassiopeia",
+            "Darius",
+            "Katarina",
+            "Kayn",
+            "LeBlanc",
+            "Riven",
+            "Swain"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Ezreal",
+            "Fiora",
+            "Jinx",
+            "Kaisa",
+            "Lucian",
+            "Vayne",
+            "Xayah"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
             "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Darius",
+            "Draven",
             "Samira"
         ],
         [
-            "Lux"
-        ],
-        [
-            "Lulu",
-            "Rumble",
-            "Teemo"
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Kogmaw",
+            "Twitch",
+            "Vayne"
         ]
     ]
 }

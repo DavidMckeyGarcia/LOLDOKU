@@ -1,51 +1,60 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "elderwood",
-        "before s7"
+        "Mid",
+        "before s7",
+        "pool party"
     ],
     "cols": [
-        "Shadow Isles",
         "stun",
-        "riot records"
+        "Piltover",
+        "manaless"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Senna"
-        ],
-        [
-            "Ashe",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
             "Seraphine",
-            "Vayne"
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
-            "Aphelios",
             "Ezreal",
-            "Kaisa",
-            "Senna"
+            "Heimerdinger",
+            "Jayce",
+            "Orianna",
+            "Seraphine"
         ],
         [
-            "Hecarim",
-            "Karthus"
-        ],
-        [
-            "Bard",
-            "Gnar",
-            "Hecarim",
-            "Veigar"
-        ],
-        [
-            "Ahri",
-            "Karthus"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Karthus",
-            "Thresh",
-            "Yorick"
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
             "Alistar",
@@ -107,18 +116,60 @@
             "Zilean"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Evelynn",
+            "Caitlyn",
             "Ezreal",
-            "Karthus",
-            "Kayle",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Katarina",
+            "Kennen",
+            "Kled",
+            "Lee sin",
             "Mordekaiser",
-            "Olaf",
-            "Sona",
+            "Reksai",
+            "Renekton",
+            "Rengar",
+            "Rumble",
+            "Shen",
+            "Shyvana",
+            "Tryndamere",
+            "Vladimir",
             "Yasuo",
-            "Yorick"
+            "Zac",
+            "Zed"
+        ],
+        [
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Caitlyn",
+            "Heimerdinger",
+            "Orianna"
+        ],
+        [
+            "Dr. Mundo",
+            "Lee sin",
+            "Reksai",
+            "Renekton",
+            "Sett",
+            "Zac"
         ]
     ]
 }

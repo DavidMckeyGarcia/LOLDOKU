@@ -1,139 +1,86 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "blink",
-        "OG40"
+        "invis",
+        "elderwood"
     ],
     "cols": [
-        "Bilgewater",
-        "slow",
-        "0 games"
+        "knock-up",
+        "Shadow Isles",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Ahri",
-            "Akali",
             "Anivia",
             "Aurelion Sol",
-            "Aurora",
             "Azir",
-            "Brand",
-            "Cassiopeia",
             "Chogath",
-            "Corki",
             "Diana",
-            "Ekko",
             "Fizz",
             "Galio",
             "Gragas",
-            "Heimerdinger",
-            "Hwei",
-            "Irelia",
-            "Jayce",
-            "Karma",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Naafiri",
+            "Neeko",
             "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain",
             "Sylas",
-            "Syndra",
             "Taliyah",
-            "Talon",
-            "Tristana",
-            "Twisted fate",
             "Velkoz",
-            "Vex",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zed",
-            "Ziggs",
-            "Zilean",
-            "Zoe"
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Mel",
-            "Naafiri",
+            "Karthus",
             "Vex"
         ],
         [
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
-            "Ekko",
-            "Kassadin",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Reksai",
-            "Ryze",
-            "Shen",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Zed"
-        ],
-        [
-            "Ambessa",
-            "Master yi"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Anivia",
-            "Ashe",
+            "Aurelion Sol",
             "Chogath",
             "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
             "Tristana",
-            "Tryndamere",
             "Twisted fate",
-            "Twitch",
-            "Warwick",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
             "Zilean"
         ],
         [
-            "Master yi"
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Senna",
+            "Viego"
+        ],
+        [
+            "Kaisa",
+            "Neeko",
+            "Viego",
+            "Wukong"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Hecarim",
+            "Karthus"
+        ],
+        [
+            "Gnar",
+            "Hecarim",
+            "Veigar",
+            "Wukong"
         ]
     ]
 }

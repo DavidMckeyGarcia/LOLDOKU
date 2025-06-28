@@ -1,70 +1,86 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
         "Adc",
-        "pool party",
-        "life steal"
+        "blink",
+        "Season 7+"
     ],
     "cols": [
-        "root",
-        "Ionia",
-        "shred"
+        "Noxus",
+        "stun",
+        "0 games"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Draven",
             "Mel",
-            "Senna",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Ashe",
             "Seraphine",
-            "Varus",
-            "Xayah"
+            "Vayne"
         ],
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
+            "Mel",
+            "Samira"
         ],
         [
-            "Corki",
-            "Kogmaw"
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
         ],
         [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
         ],
         [
-            "Lee sin",
-            "Sett",
-            "Syndra"
+            "Ambessa",
+            "Master yi"
         ],
         [
-            "Jarvan IV",
-            "Renekton",
-            "Zoe"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
-            "Lee sin",
-            "Morgana",
-            "Senna"
-        ],
-        [
-            "Kayn",
-            "Lee sin"
-        ],
-        [
+            "Ambessa",
             "Briar",
-            "Nasus",
-            "Olaf",
-            "Sion",
-            "Trundle"
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

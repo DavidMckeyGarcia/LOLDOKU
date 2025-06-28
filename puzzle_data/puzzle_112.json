@@ -1,80 +1,86 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "true damage",
-        "pool party"
+        "Jungle",
+        "pool party",
+        "shield"
     ],
     "cols": [
-        "knock-up",
-        "The Void",
-        "shred"
+        "Freljord",
+        "silence",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Velkoz"
-        ],
-        [
-            "Rell"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
+            "Brand",
+            "Gragas",
+            "Kindred",
             "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
-        ],
-        [
-            "Corki",
-            "Garen",
-            "Kogmaw",
             "Olaf",
-            "Zoe"
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Fiddlesticks"
+        ],
+        [
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Braum"
+        ],
+        [
+            "Lulu"
         ],
         [
             "Braum",
+            "Caitlyn",
+            "Graves",
             "Jarvan IV",
+            "Lee sin",
+            "Leona",
+            "Lulu",
+            "Orianna",
+            "Renekton",
+            "Syndra"
+        ],
+        [
+            "Braum",
+            "Nunu",
+            "Olaf",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Azir",
+            "Braum",
+            "Janna",
+            "Jarvan IV",
+            "Kaisa",
             "Lee sin",
             "Lulu",
             "Orianna",
-            "Reksai",
-            "Taliyah",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Reksai"
-        ],
-        [
-            "Jarvan IV",
-            "Renekton",
-            "Zoe"
+            "Rakan",
+            "Rumble",
+            "Shen",
+            "Thresh"
         ]
     ]
 }

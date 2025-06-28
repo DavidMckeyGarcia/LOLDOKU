@@ -1,106 +1,86 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "Season 7+",
-        "life steal"
+        "Mid",
+        "ult execute",
+        "Season 7+"
     ],
     "cols": [
-        "Targon",
-        "stun",
-        "shred"
+        "Shurima",
+        "knock-up",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Pantheon"
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
+            "Neeko",
+            "Orianna",
             "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
             "Yone",
-            "Zac"
+            "Ziggs"
         ],
         [
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "Aphelios",
-            "Zoe"
+            "Akshan"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Darius",
+            "Pyke",
+            "Viego"
+        ],
+        [
+            "Akshan",
             "Ksante",
-            "Milio",
+            "Naafiri"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
             "Neeko",
             "Ornn",
-            "Pyke",
+            "Rakan",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
+            "Samira",
             "Sylas",
-            "Viego",
             "Yone"
         ],
         [
-            "Briar",
-            "Rell",
-            "Zoe"
-        ],
-        [
-            "Aphelios"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Briar",
-            "Nasus",
-            "Olaf",
-            "Sion",
-            "Trundle"
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
         ]
     ]
 }

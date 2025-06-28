@@ -1,62 +1,59 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Adc",
-        "Fright Night",
+        "Mid",
+        "global ult",
         "OG40"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "tether"
+        "Piltover",
+        "silence",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna",
+            "Seraphine"
         ],
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Kalista"
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
-            "Annie",
-            "Draven"
+            "Caitlyn",
+            "Ezreal"
         ],
         [
-            "Nautilus",
-            "Nunu",
-            "Trundle"
+            "Soraka"
         ],
         [
-            "Renata glasc"
+            "Vex"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
+            "Heimerdinger"
         ],
         [
-            "Alistar",
-            "Anivia",
             "Blitzcrank",
             "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

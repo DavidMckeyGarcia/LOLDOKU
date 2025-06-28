@@ -1,78 +1,61 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
         "Top",
-        "empyrean",
-        "true damage"
+        "true damage",
+        "prestige"
     ],
     "cols": [
-        "knock-up",
-        "The Void",
-        "pentakill"
+        "fear",
+        "Targon",
+        "yordle"
     ],
     "solutions": [
         [
             "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Pantheon"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
             "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Chogath"
-        ],
-        [
-            "Akali",
             "Darius",
-            "Fiora",
-            "Vayne"
+            "Urgot"
         ],
         [
-            "Ksante",
-            "Zac"
+            "Zoe"
         ],
         [
-            "Malzahar"
+            "Amumu",
+            "Corki"
         ],
         [
-            "Akali"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
-        ],
-        [
-            "Akali",
+            "Aatrox",
             "Darius",
-            "Fiora",
-            "Kogmaw",
-            "Twitch",
-            "Vayne"
+            "Shaco"
+        ],
+        [
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Zoe"
+        ],
+        [
+            "Fizz",
+            "Lulu",
+            "Teemo"
         ]
     ]
 }

@@ -1,16 +1,24 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
         "Jungle",
-        "arcade",
+        "Season 7+",
         "true damage"
     ],
     "cols": [
+        "Demacia",
         "fear",
-        "Noxus",
-        "never played"
+        "yordle"
     ],
     "solutions": [
+        [
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
+        ],
         [
             "Briar",
             "Fiddlesticks",
@@ -20,93 +28,34 @@
             "Warwick"
         ],
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
-        ],
-        [
             "Amumu",
-            "Belveth",
-            "Brand",
+            "Poppy",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Sylas"
+        ],
+        [
             "Briar",
-            "Dr. Mundo",
-            "Elise",
-            "Evelynn",
-            "Fiddlesticks",
-            "Graves",
-            "Hecarim",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Kindred",
-            "Lillia",
-            "Maokai",
-            "Mordekaiser",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Reksai",
-            "Rell",
-            "Rengar",
-            "Sejuani",
-            "Shaco",
-            "Shen",
-            "Shyvana",
-            "Skarner",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Zyra"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Hecarim"
+            "Vex"
         ],
         [
-            "Riven"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Miss Fortune",
-            "Sona"
+            "Fiora",
+            "Garen",
+            "Vayne"
         ],
         [
             "Darius",
             "Urgot"
         ],
         [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Akshan",
             "Amumu",
-            "Belveth",
-            "Chogath",
-            "Draven",
-            "Fiora",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Lillia",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Twitch",
-            "Vayne"
+            "Corki"
         ]
     ]
 }

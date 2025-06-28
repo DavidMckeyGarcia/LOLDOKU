@@ -1,63 +1,86 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "arcade",
+        "Jungle",
+        "dark star",
         "Season 7+"
     ],
     "cols": [
-        "fear",
+        "knock-up",
         "Freljord",
-        "100% AP Ratio"
+        "riot records"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Anivia",
-            "Aurora",
             "Brand",
             "Gragas",
+            "Kindred",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
+            "Sett",
+            "Viego"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Malphite",
+            "Orianna"
+        ],
+        [
             "Lissandra"
         ],
         [
-            "Aurelion Sol",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Hecarim"
-        ],
-        [
-            "Brand"
+            "Mordekaiser"
         ],
         [
             "Belveth",
-            "Blitzcrank",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Veigar"
-        ],
-        [
             "Briar",
-            "Hwei",
-            "Vex"
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
             "Aurora",
@@ -65,14 +88,13 @@
         ],
         [
             "Aphelios",
-            "Belveth",
-            "Briar",
+            "Ksante",
             "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
+            "Kayn",
+            "Senna",
+            "Sett",
             "Viego",
-            "Zeri"
+            "Yone"
         ]
     ]
 }

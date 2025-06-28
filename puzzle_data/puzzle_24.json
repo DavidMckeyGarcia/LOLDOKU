@@ -1,88 +1,62 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "elderwood",
-        "OG40"
+        "Mid",
+        "life steal",
+        "cosmic"
     ],
     "cols": [
-        "Ionia",
         "fear",
-        "100% AP Ratio"
+        "Ionia",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Akali",
-            "Irelia",
-            "Kayn",
-            "Kennen",
-            "Sett",
-            "Shen",
-            "Wukong",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
+            "Hwei",
+            "Vex"
         ],
         [
             "Ahri",
-            "Rakan",
-            "Wukong",
-            "Xayah"
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Warwick"
+        ],
+        [
+            "Kayn",
+            "Lee sin"
+        ],
+        [
+            "Aphelios"
         ],
         [
             "Hecarim"
         ],
         [
-            "Gnar",
-            "Hecarim",
-            "Veigar",
-            "Wukong"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Evelynn",
-            "Gangplank",
-            "Jax",
+            "Jhin",
             "Master yi",
-            "Nunu",
-            "Rammus",
-            "Sivir",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Rakan",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Xayah"
         ]
     ]
 }

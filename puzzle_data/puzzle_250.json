@@ -1,16 +1,23 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "cosmic",
-        "before s7"
+        "dash",
+        "cosmic"
     ],
     "cols": [
+        "Bandle City",
         "knock-up",
-        "Shadow Isles",
-        "100+ games"
+        "ult reset"
     ],
     "solutions": [
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
+        ],
         [
             "Anivia",
             "Aurelion Sol",
@@ -30,19 +37,67 @@
             "Ziggs"
         ],
         [
-            "Karthus",
-            "Vex"
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
         ],
         [
+            "Corki",
+            "Fizz",
+            "Tristana",
+            "Yuumi"
+        ],
+        [
+            "Aatrox",
+            "Alistar",
+            "Aurelion Sol",
             "Azir",
-            "Ezreal",
+            "Belveth",
+            "Braum",
+            "Briar",
+            "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
+            "Ivern",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Malphite",
+            "Nautilus",
+            "Ornn",
+            "Poppy",
+            "Rakan",
+            "Reksai",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Yone",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vayne",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Lulu"
         ],
         [
             "Anivia",
@@ -56,94 +111,8 @@
             "Xin Zhao"
         ],
         [
-            "Hecarim"
-        ],
-        [
-            "Jhin",
-            "Lulu",
-            "Rakan",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Tahm kench",
-            "Taliyah",
-            "Trundle",
-            "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Hecarim",
-            "Kalista",
-            "Karthus",
-            "Thresh",
-            "Yorick"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Ashe",
-            "Azir",
-            "Braum",
-            "Caitlyn",
-            "Elise",
-            "Ezreal",
-            "Gnar",
-            "Gragas",
-            "Graves",
-            "Janna",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Jhin",
-            "Lee sin",
-            "Leona",
-            "Lucian",
-            "Lulu",
-            "Orianna",
-            "Renekton",
-            "Rumble",
-            "Ryze",
-            "Sejuani",
-            "Shen",
-            "Syndra",
-            "Thresh",
-            "Tristana",
-            "Varus"
+            "Belveth",
+            "Master yi"
         ]
     ]
 }

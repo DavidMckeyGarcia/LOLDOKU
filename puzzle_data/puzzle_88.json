@@ -1,83 +1,119 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "Season 7+",
-        "global ult"
+        "Mid",
+        "arcade",
+        "Season 7+"
     ],
     "cols": [
-        "Piltover",
-        "root",
-        "0 games"
+        "Bilgewater",
+        "stun",
+        "never played"
     ],
     "solutions": [
         [
+            "Fizz",
+            "Twisted fate"
+        ],
+        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Gragas",
             "Heimerdinger",
-            "Seraphine"
-        ],
-        [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
+            "Irelia",
+            "Lissandra",
+            "Malzahar",
             "Neeko",
-            "Renata glasc",
-            "Senna",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Mel",
-            "Milio"
-        ],
-        [
-            "Camille",
-            "Seraphine"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
             "Akshan",
+            "Brand",
+            "Chogath",
+            "Heimerdinger",
+            "Naafiri"
+        ],
+        [
+            "Miss Fortune"
+        ],
+        [
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Miss Fortune",
+            "Sona"
+        ],
+        [
+            "Nilah",
+            "Pyke"
+        ],
+        [
             "Ambessa",
             "Briar",
-            "Mel",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
             "Milio",
             "Naafiri",
+            "Nilah",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
             "Samira",
-            "Vex"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
             "Senna",
-            "Soraka"
-        ],
-        [
-            "Briar",
-            "Mel",
-            "Vex"
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ]
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
         "Adc",
-        "OG40",
-        "PROJECT"
+        "Season 7+",
+        "global ult"
     ],
     "cols": [
         "Shurima",
-        "slow",
-        "pentakill"
+        "root",
+        "arcane"
     ],
     "solutions": [
         [
@@ -16,117 +16,59 @@
         ],
         [
             "Aphelios",
-            "Ashe",
             "Caitlyn",
-            "Corki",
-            "Draven",
             "Jhin",
             "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
             "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
             "Senna",
             "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
             "Varus",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Aphelios",
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Tristana",
-            "Twitch",
-            "Vayne",
             "Xayah"
         ],
         [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
-            "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Ryze",
-            "Tristana",
-            "Twitch"
-        ],
-        [
-            "Jax",
-            "Renekton"
-        ],
-        [
-            "Akali",
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Gangplank",
-            "Irelia",
-            "Jhin",
+            "Caitlyn",
             "Jinx",
-            "Leona",
-            "Mordekaiser",
-            "Pyke",
-            "Sejuani",
+            "Mel"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
             "Senna",
-            "Sylas",
-            "Varus",
-            "Warwick",
-            "Zed"
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Akali",
-            "Fiora",
+            "Ambessa",
+            "Mel"
+        ],
+        [
+            "Taliyah",
+            "Xerath"
+        ],
+        [
+            "Caitlyn",
             "Jinx",
-            "Lucian",
-            "Vayne"
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Caitlyn",
+            "Ekko",
+            "Jinx",
+            "Mel"
         ]
     ]
 }

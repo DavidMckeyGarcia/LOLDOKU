@@ -1,93 +1,104 @@
 {
-    "difficulty": "gold",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "shield",
-        "before s7"
+        "Adc",
+        "evolves",
+        "OG40"
     ],
     "cols": [
-        "Shurima",
-        "silence",
-        "yordle"
+        "Noxus",
+        "stun",
+        "never played"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Ashe",
+            "Seraphine",
+            "Vayne"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Akshan",
-            "Azir",
-            "Ksante",
-            "Naafiri",
-            "Sivir"
-        ],
-        [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Vex"
-        ],
-        [
-            "Aatrox",
-            "Amumu",
-            "Azir",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Renekton",
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
             "Sivir",
-            "Taliyah",
-            "Xerath",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
+        ],
+        [
+            "Kayn",
+            "Smolder"
+        ],
+        [
+            "Bard",
+            "Syndra",
+            "Viktor"
+        ],
+        [
+            "Bard",
+            "Belveth",
+            "Kayn"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
             "Zilean"
         ],
         [
+            "Alistar",
+            "Amumu",
+            "Ashe",
             "Blitzcrank",
             "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
             "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
             "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
             "Teemo",
-            "Tristana",
-            "Veigar",
-            "Ziggs"
+            "Twitch",
+            "Warwick"
         ]
     ]
 }

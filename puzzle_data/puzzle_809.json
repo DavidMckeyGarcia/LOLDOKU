@@ -1,76 +1,58 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
         "Mid",
-        "worlds skin",
-        "shield"
+        "before s7",
+        "elderwood"
     ],
     "cols": [
+        "Shadow Isles",
         "fear",
-        "Shurima",
-        "30+ wins"
+        "celestial"
     ],
     "solutions": [
         [
+            "Karthus",
+            "Vex"
+        ],
+        [
             "Hwei",
             "Vex"
         ],
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
+            "Aurelion Sol"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
-        ],
-        [
-            "Aatrox"
+            "Hecarim",
+            "Kalista",
+            "Karthus",
+            "Thresh",
+            "Yorick"
         ],
         [
             "Aatrox",
-            "Azir",
-            "Jax",
-            "Renekton",
-            "Taliyah"
-        ],
-        [
-            "Azir",
-            "Corki",
-            "LeBlanc",
-            "Orianna",
-            "Ryze",
-            "Taliyah"
-        ],
-        [
-            "Hwei",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
             "Nocturne",
+            "Shaco",
             "Urgot",
-            "Vex"
+            "Warwick"
         ],
         [
-            "Akshan",
-            "Azir",
-            "Ksante",
-            "Naafiri",
-            "Sivir"
+            "Aurelion Sol",
+            "Bard",
+            "Soraka"
         ],
         [
-            "Azir",
-            "Galio",
-            "Orianna",
-            "Viktor"
+            "Hecarim",
+            "Karthus"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Bard"
         ]
     ]
 }

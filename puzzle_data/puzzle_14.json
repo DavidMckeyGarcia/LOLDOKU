@@ -1,66 +1,57 @@
 {
-    "difficulty": "iron",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "cosmic",
-        "before s7"
+        "Top",
+        "before s7",
+        "ult execute"
     ],
     "cols": [
         "stun",
-        "Noxus",
-        "100% AP Ratio"
+        "Shurima",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
             "Vayne"
-        ],
-        [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Anivia",
-            "Hecarim",
-            "Lissandra",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Sion",
-            "Skarner",
-            "Xin Zhao"
-        ],
-        [
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Belveth",
-            "Hecarim",
-            "Jhin",
-            "Lux",
-            "Master yi",
-            "Nunu",
-            "Skarner",
-            "Varus",
-            "Vladimir",
-            "Xin Zhao"
         ],
         [
             "Alistar",
@@ -122,65 +113,47 @@
             "Zilean"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Cassiopeia",
-            "Darius",
-            "Draven",
-            "Elise",
-            "Katarina",
-            "Kled",
-            "LeBlanc",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Renekton",
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Aurelion Sol",
-            "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Evelynn",
+            "Akali",
+            "Darius",
+            "Ezreal",
             "Fiora",
-            "Fizz",
-            "Gangplank",
-            "Gnar",
-            "Hecarim",
-            "Jax",
-            "Jhin",
             "Jinx",
-            "Karma",
-            "Lux",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
-            "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Sivir",
-            "Skarner",
-            "Tahm kench",
-            "Thresh",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Ryze",
             "Tristana",
-            "Twisted fate",
-            "Varus",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
             "Veigar",
-            "Vi",
-            "Viktor",
-            "Vladimir",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xerath",
-            "Xin Zhao",
-            "Zilean"
+            "Viego"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Jinx"
         ]
     ]
 }

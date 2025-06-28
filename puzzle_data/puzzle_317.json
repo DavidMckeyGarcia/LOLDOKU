@@ -1,107 +1,85 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "true damage",
-        "coven"
+        "Support",
+        "OG40",
+        "true damage"
     ],
     "cols": [
-        "Noxus",
-        "stun",
-        "pentakill"
+        "Zaun",
+        "knock-up",
+        "tether"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
-            "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
+            "Blitzcrank",
+            "Janna",
+            "Renata glasc"
         ],
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
             "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
+            "Rakan",
+            "Rell",
             "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
         ],
         [
-            "Darius",
-            "Draven",
-            "Samira"
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
         ],
         [
-            "Amumu",
-            "Camille",
-            "Fiora",
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
+        ],
+        [
+            "Renata glasc",
+            "Twitch",
+            "Urgot"
+        ],
+        [
+            "Belveth",
+            "Chogath",
             "Ivern",
             "Ksante",
             "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
+            "Samira",
             "Velkoz",
             "Yone"
         ],
         [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Kogmaw",
-            "Twitch",
-            "Vayne"
-        ],
-        [
-            "Cassiopeia",
-            "Elise",
-            "LeBlanc"
-        ],
-        [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
-        ],
-        [
-            "Akali"
+            "Renata glasc"
         ]
     ]
 }

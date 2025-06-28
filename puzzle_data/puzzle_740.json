@@ -2,15 +2,20 @@
     "difficulty": "emerald",
     "rows": [
         "Top",
-        "prestige",
-        "OG40"
+        "hextech",
+        "Season 7+"
     ],
     "cols": [
+        "Bandle City",
         "knock-up",
-        "The Void",
         "ult reset"
     ],
     "solutions": [
+        [
+            "Heimerdinger",
+            "Rumble",
+            "Teemo"
+        ],
         [
             "Aatrox",
             "Chogath",
@@ -32,9 +37,6 @@
             "Zac"
         ],
         [
-            "Chogath"
-        ],
-        [
             "Aatrox",
             "Darius",
             "Olaf",
@@ -43,51 +45,45 @@
             "Vayne"
         ],
         [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Pyke",
-            "Sivir",
-            "Swain",
-            "Vayne"
+            "Tristana"
         ],
         [
             "Alistar",
             "Anivia",
-            "Blitzcrank",
-            "Chogath",
+            "Galio",
             "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
+            "Ziggs"
         ],
         [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Master yi",
             "Singed",
-            "Sivir"
+            "Swain"
+        ],
+        [
+            "Yuumi"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
         ]
     ]
 }

@@ -1,96 +1,78 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Top",
-        "ult execute",
-        "Space Groove"
+        "Support",
+        "Space Groove",
+        "life steal"
     ],
     "cols": [
-        "stun",
-        "Zaun",
-        "shred"
+        "Targon",
+        "knock-up",
+        "ascended"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
+            "Leona",
             "Pantheon",
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
             "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
+            "Rakan",
+            "Rell",
             "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Wukong"
-        ],
-        [
-            "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
-        ],
-        [
-            "Jinx",
-            "Urgot"
-        ],
-        [
-            "Evelynn",
-            "Garen"
+            "Taric"
         ],
         [
             "Blitzcrank",
             "Gragas",
-            "Lissandra",
+            "Lulu",
             "Nami",
             "Nunu",
-            "Taric",
-            "Twisted fate"
-        ],
-        [
-            "Blitzcrank"
+            "Samira"
         ],
         [
             "Nasus",
-            "Rumble"
+            "Taric"
+        ],
+        [
+            "Aphelios"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus"
         ]
     ]
 }

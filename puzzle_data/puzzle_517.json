@@ -1,77 +1,139 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "true damage",
-        "Season 7+"
+        "Jungle",
+        "life steal",
+        "prestige"
     ],
     "cols": [
-        "Shurima",
-        "root",
-        "vastayan"
+        "Ionia",
+        "stun",
+        "riot records"
     ],
     "solutions": [
         [
-            "Akshan",
-            "Azir",
-            "Naafiri",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Ahri",
-            "Aurora",
-            "Neeko"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Ksante"
-        ],
-        [
             "Ivern",
-            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
+        ],
+        [
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
             "Nunu",
-            "Renata glasc"
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Ahri"
+            "Ekko",
+            "Evelynn",
+            "Karthus",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Qiyana",
+            "Sett",
+            "Viego"
         ],
         [
-            "Akshan",
+            "Kayn",
+            "Lee sin"
+        ],
+        [
+            "Ambessa",
+            "Briar",
             "Ksante",
-            "Naafiri"
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
             "Aphelios",
-            "Hwei",
             "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
+            "Kayn",
+            "Olaf",
             "Senna",
-            "Seraphine",
-            "Xayah"
+            "Viego"
         ],
         [
-            "Aurora",
-            "Neeko",
+            "Ahri",
+            "Akali",
+            "Kayn",
+            "Lee sin",
             "Rakan",
-            "Xayah"
+            "Sett",
+            "Xayah",
+            "Yasuo",
+            "Zed"
+        ],
+        [
+            "Brand",
+            "Camille",
+            "Cassiopeia",
+            "Fiora",
+            "Jax",
+            "Ksante",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
+            "Sett",
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Evelynn",
+            "Ezreal",
+            "Ksante",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Qiyana",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo"
         ]
     ]
 }

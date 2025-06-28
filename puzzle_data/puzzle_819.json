@@ -1,100 +1,90 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "true damage",
-        "Season 7+"
+        "Mid",
+        "cosmic",
+        "OG40"
     ],
     "cols": [
+        "Freljord",
         "knock-up",
-        "Ionia",
-        "100% AP Ratio"
+        "manaless"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
+        ],
+        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
             "Ziggs"
         ],
         [
-            "Jhin",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Ahri",
             "Akali",
-            "Ivern",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Syndra",
-            "Yone"
+            "Ambessa",
+            "Katarina",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Corki",
-            "Fiora",
-            "Gangplank",
-            "Master yi",
+            "Anivia",
+            "Lissandra",
             "Nunu"
         ],
         [
+            "Anivia",
             "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
             "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Sion",
+            "Xin Zhao"
         ],
         [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
+            "Belveth",
+            "Vladimir"
         ],
         [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Dr. Mundo",
+            "Katarina",
+            "Tryndamere"
         ]
     ]
 }

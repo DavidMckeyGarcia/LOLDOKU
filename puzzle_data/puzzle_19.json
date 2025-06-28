@@ -1,68 +1,76 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
+        "Mid",
         "ult execute",
-        "pool party"
+        "Season 7+"
     ],
     "cols": [
         "root",
-        "Demacia",
-        "shred"
+        "Shadow Isles",
+        "0 games"
     ],
     "solutions": [
         [
+            "Hwei",
             "Karma",
-            "Leona",
+            "LeBlanc",
+            "Lissandra",
             "Lux",
-            "Maokai",
             "Mel",
-            "Morgana",
-            "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
+            "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Swain"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Karthus",
+            "Vex"
         ],
         [
-            "Rell"
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Naafiri",
+            "Vex"
         ],
         [
             "Jhin",
             "Jinx"
         ],
         [
-            "Garen"
+            "Viego"
         ],
         [
-            "Evelynn",
-            "Garen"
+            "Akshan"
         ],
         [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
-            "Singed",
-            "Zac"
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Fiora",
-            "Jarvan IV"
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
         ],
         [
-            "Jarvan IV",
-            "Renekton",
-            "Zoe"
+            "Akshan",
+            "Ambessa",
+            "Briar",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Samira",
+            "Vex"
         ]
     ]
 }

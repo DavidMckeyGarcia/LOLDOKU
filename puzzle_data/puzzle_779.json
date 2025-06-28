@@ -1,110 +1,119 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "life steal",
-        "Season 7+"
+        "Jungle",
+        "shield",
+        "worlds skin"
     ],
     "cols": [
-        "Zaun",
-        "stun",
-        "manaless"
+        "Ionia",
+        "root",
+        "arcane"
     ],
     "solutions": [
         [
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
+        ],
+        [
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
             "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Hwei",
+            "Ivern",
+            "Karma",
+            "Lee sin",
+            "Rakan",
+            "Sett",
+            "Shen",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
         ],
         [
             "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
             "Ekko",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
+            "Janna",
+            "Mel",
             "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Vi",
+            "Viktor"
         ],
         [
             "Akali",
-            "Ambessa",
-            "Katarina",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
+            "Irelia",
+            "Jhin",
+            "Kennen",
+            "Lee sin",
+            "Rakan",
+            "Shen",
+            "Syndra",
+            "Xayah",
             "Zed"
         ],
         [
-            "Warwick"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Ksante",
-            "Morgana",
-            "Sion",
-            "Udyr",
-            "Viego",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Ambessa",
-            "Belveth",
-            "Briar",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "LeBlanc",
             "Lee sin",
-            "Viego",
-            "Vladimir"
+            "Leona",
+            "Maokai",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Singed",
+            "Xayah",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Caitlyn",
+            "Ekko",
+            "Janna",
+            "Jayce",
+            "Jinx",
+            "LeBlanc",
+            "Orianna",
+            "Singed"
         ]
     ]
 }

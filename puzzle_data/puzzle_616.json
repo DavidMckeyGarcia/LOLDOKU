@@ -1,114 +1,70 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
         "Jungle",
-        "Season 7+",
-        "coven"
+        "arcade",
+        "shield"
     ],
     "cols": [
-        "stun",
-        "Ionia",
-        "ult reset"
+        "The Void",
+        "silence",
+        "shred"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Belveth",
+            "Khazix",
+            "Reksai"
         ],
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
+            "Fiddlesticks"
+        ],
+        [
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
             "Wukong"
         ],
         [
             "Belveth",
-            "Master yi",
+            "Kaisa",
+            "Malzahar"
+        ],
+        [
+            "Blitzcrank",
+            "Malzahar"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Kaisa",
+            "Kassadin"
+        ],
+        [
+            "Blitzcrank",
+            "Garen",
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Garen",
+            "Jarvan IV",
+            "Mordekaiser",
             "Olaf",
-            "Viego"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Naafiri",
-            "Pyke",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Syndra"
-        ],
-        [
-            "Ahri"
+            "Rumble",
+            "Sion",
+            "Vi"
         ]
     ]
 }

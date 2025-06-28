@@ -1,107 +1,62 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "empyrean",
-        "Season 7+"
+        "Adc",
+        "OG40",
+        "arcade"
     ],
     "cols": [
-        "stun",
-        "Freljord",
+        "Piltover",
+        "knock-up",
         "ult reset"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Caitlyn",
+            "Ezreal",
+            "Seraphine"
         ],
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Belveth",
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Heimerdinger"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
             "Master yi",
-            "Olaf",
-            "Viego"
+            "Singed",
+            "Sivir"
         ],
         [
-            "Brand",
-            "Jax",
-            "Ksante",
-            "Malzahar",
-            "Pyke",
-            "Zac"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Pyke",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Aurora",
-            "Ornn"
+            "Caitlyn",
+            "Ezreal"
         ],
         [
             "Belveth",
-            "Naafiri",
-            "Pyke",
-            "Vex",
-            "Viego"
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Ahri",
+            "Belveth"
         ]
     ]
 }

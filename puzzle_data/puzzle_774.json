@@ -1,95 +1,105 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Top",
-        "OG40",
-        "dark star"
+        "Jungle",
+        "Season 7+",
+        "blink"
     ],
     "cols": [
-        "stun",
-        "Piltover",
-        "tether"
+        "knock-up",
+        "Zaun",
+        "manaless"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
+            "Belveth",
+            "Briar",
+            "Diana",
             "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Camille",
-            "Heimerdinger",
-            "Jayce"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
             "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
             "Warwick",
-            "Zilean"
+            "Zac"
         ],
         [
-            "Heimerdinger"
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Lissandra",
-            "Orianna",
-            "Thresh",
-            "Xerath"
+            "Renata glasc",
+            "Zeri"
         ],
         [
-            "Orianna"
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
         ],
         [
-            "Karma"
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ekko"
+        ],
+        [
+            "Ambessa",
+            "Katarina",
+            "Reksai",
+            "Shen",
+            "Viego",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ]
     ]
 }

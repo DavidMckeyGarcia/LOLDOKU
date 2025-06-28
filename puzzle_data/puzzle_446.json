@@ -1,111 +1,74 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
+        "Adc",
         "OG40",
-        "true damage"
+        "pool party"
     ],
     "cols": [
-        "stun",
-        "Piltover",
-        "yordle"
+        "knock-up",
+        "Targon",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Aphelios"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
             "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Camille",
-            "Heimerdinger",
-            "Jayce"
-        ],
-        [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Xayah"
         ],
         [
             "Alistar",
-            "Amumu",
             "Anivia",
-            "Annie",
-            "Ashe",
             "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
+            "Chogath",
+            "Janna",
+            "Malphite",
             "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Sion"
         ],
         [
-            "Heimerdinger"
+            "Soraka",
+            "Taric"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
+            "Ryze",
             "Tristana",
-            "Veigar"
+            "Twitch"
         ],
         [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
+            "Braum",
+            "Jarvan IV",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Reksai",
+            "Taliyah",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Camille"
+            "Leona",
+            "Taric",
+            "Zoe"
         ],
         [
-            "Amumu",
-            "Corki"
+            "Fiora"
         ]
     ]
 }

@@ -1,26 +1,24 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
         "Adc",
-        "evolves",
-        "empyrean"
+        "OG40",
+        "global ult"
     ],
     "cols": [
-        "Zaun",
         "knock-up",
+        "Demacia",
         "100+ games"
     ],
     "solutions": [
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
             "Kalista",
             "Samira",
             "Ziggs"
+        ],
+        [
+            "Lucian",
+            "Vayne"
         ],
         [
             "Ashe",
@@ -34,27 +32,48 @@
             "Xayah"
         ],
         [
-            "Viktor"
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Belveth",
-            "Kayn"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Kaisa",
-            "Syndra"
-        ],
-        [
-            "Zac"
-        ],
-        [
-            "Ksante",
-            "Zac"
-        ],
-        [
+            "Alistar",
+            "Ashe",
+            "Janna",
             "Jax",
-            "Jhin",
-            "Varus"
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Galio",
+            "Lux"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa",
+            "Maokai",
+            "Ryze",
+            "Shen"
         ]
     ]
 }

@@ -1,113 +1,100 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
         "Support",
-        "cosmic",
+        "OG40",
         "blink"
     ],
     "cols": [
-        "slow",
-        "Noxus",
-        "0 games"
+        "stun",
+        "Freljord",
+        "30+ wins"
     ],
     "solutions": [
         [
+            "Alistar",
+            "Annie",
             "Ashe",
             "Bard",
+            "Blitzcrank",
             "Brand",
             "Braum",
-            "Galio",
             "Heimerdinger",
-            "Janna",
-            "Karma",
             "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
             "Milio",
             "Morgana",
             "Nami",
             "Nautilus",
+            "Neeko",
             "Pantheon",
             "Poppy",
             "Pyke",
-            "Rakan",
+            "Rell",
             "Renata glasc",
-            "Senna",
             "Seraphine",
             "Sona",
-            "Soraka",
-            "Swain",
             "Tahm kench",
+            "Taric",
             "Thresh",
             "Velkoz",
             "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
+            "Zilean"
+        ],
+        [
+            "Ashe",
+            "Brand",
+            "Braum"
+        ],
+        [
+            "Galio"
         ],
         [
             "Alistar",
+            "Amumu",
+            "Anivia",
             "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
-        ],
-        [
-            "Mel",
-            "Milio"
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
             "Anivia",
-            "Belveth",
-            "Hecarim",
-            "Illaoi",
-            "Jhin",
-            "Kassadin",
-            "Lissandra",
-            "Lulu",
-            "Lux",
-            "Nami",
-            "Nautilus",
+            "Ashe",
             "Nunu",
-            "Rakan",
-            "Sion",
-            "Skarner",
-            "Varus",
-            "Vladimir",
-            "Xin Zhao"
+            "Tryndamere"
         ],
         [
-            "Sion",
-            "Vladimir"
+            "Corki",
+            "Ryze"
         ],
         [
-            "Illaoi",
-            "Master yi"
-        ],
-        [
+            "Ambessa",
             "Ekko",
-            "Kassadin",
             "Lissandra",
             "Pantheon",
             "Pyke",
-            "Reksai",
-            "Ryze",
-            "Shen",
             "Tahm kench",
             "Twisted fate",
             "Viego",
-            "Zed"
+            "Yone"
         ],
         [
-            "Ambessa",
-            "Katarina",
-            "LeBlanc"
+            "Lissandra"
         ],
         [
-            "Ambessa",
-            "Master yi"
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
         ]
     ]
 }

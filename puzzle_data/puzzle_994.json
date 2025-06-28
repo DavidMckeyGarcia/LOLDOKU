@@ -1,101 +1,78 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "ult execute",
-        "hextech"
+        "Top",
+        "Fright Night",
+        "before s7"
     ],
     "cols": [
-        "Zaun",
-        "slow",
-        "shred"
+        "Bilgewater",
+        "fear",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
+            "Gangplank",
+            "Illaoi",
+            "Tahm kench"
         ],
         [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Corki",
-            "Kogmaw"
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
         ],
         [
-            "Jinx",
+            "Nautilus",
+            "Pyke"
+        ],
+        [
+            "Shaco",
             "Urgot"
         ],
         [
-            "Akali",
-            "Chogath",
+            "Pyke"
+        ],
+        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Aatrox",
             "Darius",
-            "Draven",
-            "Evelynn",
-            "Garen",
-            "Jhin",
-            "Jinx",
-            "Pyke",
-            "Reksai",
-            "Syndra",
-            "Urgot",
-            "Viego"
-        ],
-        [
-            "Evelynn",
-            "Garen"
-        ],
-        [
-            "Janna",
-            "Singed",
-            "Ziggs"
-        ],
-        [
-            "Anivia",
-            "Galio",
-            "Janna",
-            "Jarvan IV",
-            "Kassadin",
-            "Kogmaw",
+            "Fiddlesticks",
+            "Hecarim",
             "Nocturne",
-            "Poppy",
-            "Rammus",
-            "Sejuani",
-            "Singed",
-            "Sion",
-            "Swain",
-            "Tristana",
-            "Ziggs"
+            "Shaco",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Jarvan IV",
-            "Kogmaw",
-            "Renekton",
-            "Sion"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ]
     ]
 }

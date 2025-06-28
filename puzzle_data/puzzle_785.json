@@ -1,54 +1,154 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "global ult",
-        "OG40"
+        "Mid",
+        "true damage",
+        "PROJECT"
     ],
     "cols": [
-        "silence",
-        "Piltover",
-        "tether"
+        "Shurima",
+        "slow",
+        "manaless"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Camille"
-        ],
-        [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Soraka"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Kled",
-            "Nocturne"
-        ],
-        [
-            "Blitzcrank",
+            "Ahri",
+            "Akali",
+            "Anivia",
+            "Aurelion Sol",
+            "Aurora",
+            "Azir",
+            "Brand",
+            "Cassiopeia",
             "Chogath",
-            "Fiddlesticks",
+            "Corki",
+            "Diana",
+            "Ekko",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Heimerdinger",
+            "Hwei",
+            "Irelia",
+            "Jayce",
+            "Karma",
+            "Karthus",
             "Kassadin",
-            "Soraka"
+            "Kayle",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Naafiri",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Talon",
+            "Tristana",
+            "Twisted fate",
+            "Velkoz",
+            "Vex",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
         ],
         [
-            "Heimerdinger"
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Taric"
+            "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Belveth",
+            "Camille",
+            "Chogath",
+            "Corki",
+            "Darius",
+            "Draven",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Ksante",
+            "Kogmaw",
+            "Lillia",
+            "Nunu",
+            "Olaf",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Sett",
+            "Syndra",
+            "Twitch",
+            "Urgot",
+            "Velkoz",
+            "Zoe"
+        ],
+        [
+            "Akali",
+            "Belveth",
+            "Garen",
+            "Sett",
+            "Yone"
+        ],
+        [
+            "Jax",
+            "Renekton"
+        ],
+        [
+            "Akali",
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Gangplank",
+            "Irelia",
+            "Jhin",
+            "Jinx",
+            "Leona",
+            "Mordekaiser",
+            "Pyke",
+            "Sejuani",
+            "Senna",
+            "Sylas",
+            "Varus",
+            "Warwick",
+            "Zed"
+        ],
+        [
+            "Akali",
+            "Katarina",
+            "Mordekaiser",
+            "Renekton",
+            "Yasuo",
+            "Zed"
         ]
     ]
 }

@@ -1,94 +1,75 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "hextech",
-        "before s7"
+        "ult execute",
+        "empyrean"
     ],
     "cols": [
-        "fear",
         "The Void",
-        "shred"
+        "knock-up",
+        "ult reset"
     ],
     "solutions": [
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
         [
             "Belveth",
             "Khazix",
             "Reksai"
         ],
         [
+            "Belveth",
             "Briar",
-            "Evelynn",
+            "Diana",
+            "Gragas",
+            "Ivern",
             "Jarvan IV",
-            "Karthus",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
             "Rell",
-            "Rengar",
-            "Rumble",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
             "Trundle",
             "Vi",
-            "Wukong"
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Nocturne"
-        ],
-        [
-            "Kassadin",
-            "Kogmaw",
-            "Malzahar"
-        ],
-        [
-            "Jarvan IV",
-            "Kogmaw",
-            "Renekton",
-            "Sion"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
         ],
         [
             "Chogath",
-            "Kassadin",
-            "Khazix",
-            "Kogmaw",
-            "Reksai",
-            "Velkoz"
+            "Reksai"
         ],
         [
-            "Corki",
-            "Evelynn",
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
-            "Karthus",
-            "Kogmaw",
-            "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Renekton",
-            "Rengar",
-            "Rumble",
-            "Sion",
-            "Trundle",
-            "Vi",
-            "Wukong"
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Darius",
+            "Pyke",
+            "Viego"
+        ],
+        [
+            "Malzahar"
+        ],
+        [
+            "Ksante",
+            "Zac"
+        ],
+        [
+            "Pyke",
+            "Vex"
         ]
     ]
 }

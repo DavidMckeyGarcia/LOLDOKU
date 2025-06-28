@@ -1,61 +1,59 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "before s7",
-        "blink"
+        "Mid",
+        "true damage",
+        "before s7"
     ],
     "cols": [
-        "root",
         "Piltover",
-        "ascended"
+        "silence",
+        "never played"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Ezreal",
+            "Heimerdinger",
+            "Jayce",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Akshan",
+            "Brand",
+            "Chogath",
+            "Heimerdinger",
+            "Naafiri"
         ],
         [
             "Camille"
         ],
         [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Caitlyn",
+            "Akshan",
+            "Amumu",
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Nautilus",
+            "Lillia",
             "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
         ],
         [
             "Caitlyn",
@@ -65,27 +63,76 @@
             "Orianna"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Diana",
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Chogath",
+            "Dr. Mundo",
+            "Draven",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Graves",
+            "Hecarim",
+            "Heimerdinger",
+            "Illaoi",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Kennen",
+            "Kindred",
+            "Kled",
             "Leona",
-            "Nasus",
-            "Pantheon",
-            "Renekton",
-            "Taric",
-            "Varus",
-            "Xerath"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Ezreal"
-        ],
-        [
-            "Pantheon"
+            "Malphite",
+            "Miss Fortune",
+            "Mordekaiser",
+            "Morgana",
+            "Nami",
+            "Nunu",
+            "Rammus",
+            "Reksai",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Sivir",
+            "Skarner",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Teemo",
+            "Thresh",
+            "Trundle",
+            "Twitch",
+            "Udyr",
+            "Vayne",
+            "Vi",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Yorick",
+            "Zyra"
         ]
     ]
 }

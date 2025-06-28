@@ -1,82 +1,89 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "Season 7+",
-        "evolves"
+        "Mid",
+        "invis",
+        "prestige"
     ],
     "cols": [
-        "Noxus",
+        "The Void",
         "knock-up",
-        "ascended"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
+            "Chogath",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
         ],
         [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
             "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
+            "Gragas",
             "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
             "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
+            "Swain",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Kaisa",
+            "Khazix",
+            "Reksai"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Pyke",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
             "Zyra"
         ],
         [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Mel",
-            "Rell",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Kayn",
-            "Naafiri"
-        ],
-        [
-            "Kayn",
-            "Smolder"
-        ],
-        [
-            "Belveth",
-            "Kayn"
-        ],
-        [
-            "Kayn"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Pyke",
+            "Sivir",
+            "Swain",
+            "Vayne"
         ]
     ]
 }

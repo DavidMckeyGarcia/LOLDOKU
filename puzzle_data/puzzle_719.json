@@ -1,73 +1,78 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "global ult",
-        "empyrean"
+        "Adc",
+        "PROJECT",
+        "Season 7+"
     ],
     "cols": [
-        "Shadow Isles",
         "knock-up",
-        "ascended"
+        "Zaun",
+        "riot records"
     ],
     "solutions": [
         [
-            "Karthus",
-            "Vex"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Orianna",
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Sejuani",
             "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Vi",
+            "Yasuo"
         ],
         [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
+            "Ekko",
+            "Jinx",
+            "Vi",
+            "Warwick"
         ],
         [
-            "Karthus",
-            "Maokai",
+            "Akali",
+            "Ekko",
+            "Mordekaiser",
             "Senna",
-            "Vex"
+            "Yasuo"
         ],
         [
-            "Aurelion Sol",
+            "Belveth",
             "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
-        ],
-        [
-            "Pantheon",
-            "Xerath"
-        ],
-        [
-            "Vex"
-        ],
-        [
             "Ksante",
-            "Zac"
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Varus"
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Senna",
+            "Sett",
+            "Viego",
+            "Yone"
         ]
     ]
 }

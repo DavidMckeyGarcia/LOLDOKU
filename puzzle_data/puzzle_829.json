@@ -1,85 +1,55 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "global ult",
-        "OG40"
+        "Mid",
+        "shield",
+        "empyrean"
     ],
     "cols": [
-        "root",
-        "Zaun",
-        "yordle"
+        "Shadow Isles",
+        "silence",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Karthus",
+            "Vex"
         ],
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
+            "Akali",
+            "Ezreal",
+            "Lucian",
             "Ryze",
+            "Tristana"
+        ],
+        [
             "Senna",
-            "Soraka"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
-        ],
-        [
-            "Kled",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Thresh",
+            "Vex"
         ],
         [
             "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
+            "Garen",
+            "Kassadin",
+            "Lulu"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Aphelios",
+            "Kaisa"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Malzahar"
+        ],
+        [
+            "Akali"
         ]
     ]
 }

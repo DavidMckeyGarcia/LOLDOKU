@@ -1,69 +1,84 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "Space Groove",
-        "Season 7+"
+        "Support",
+        "OG40",
+        "true damage"
     ],
     "cols": [
-        "Shurima",
         "knock-up",
-        "0 games"
+        "Freljord",
+        "shred"
     ],
     "solutions": [
         [
-            "Sivir"
-        ],
-        [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Mel",
-            "Samira"
-        ],
-        [
-            "Nasus"
-        ],
-        [
+            "Alistar",
             "Blitzcrank",
-            "Gragas",
+            "Braum",
+            "Galio",
+            "Janna",
             "Lulu",
             "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Ashe",
+            "Brand",
+            "Braum"
+        ],
+        [
+            "Rell"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
             "Nunu",
-            "Samira"
+            "Sion"
         ],
         [
-            "Samira"
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
-            "Akshan",
-            "Ksante",
-            "Naafiri"
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ],
         [
             "Belveth",
-            "Briar",
+            "Chogath",
+            "Ivern",
             "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
+            "Nunu",
             "Samira",
-            "Sylas",
+            "Velkoz",
             "Yone"
         ],
         [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
+            "Nunu",
+            "Olaf"
+        ],
+        [
+            "Corki",
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
         ]
     ]
 }

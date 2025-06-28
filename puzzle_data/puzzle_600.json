@@ -1,20 +1,25 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "gold",
     "rows": [
         "Top",
-        "dash",
-        "Space Groove"
+        "blink",
+        "hextech"
     ],
     "cols": [
-        "Bandle City",
+        "Freljord",
         "stun",
-        "100% AP Ratio"
+        "arcane"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Rumble",
-            "Teemo"
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
             "Ambessa",
@@ -46,117 +51,50 @@
             "Zac"
         ],
         [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Tristana",
-            "Yuumi"
-        ],
-        [
-            "Alistar",
             "Ambessa",
-            "Amumu",
-            "Aurelion Sol",
-            "Bard",
-            "Braum",
-            "Briar",
-            "Camille",
+            "Heimerdinger",
+            "Jayce",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Lissandra"
+        ],
+        [
+            "Ambessa",
             "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Irelia",
-            "Ivern",
-            "Jax",
-            "Ksante",
-            "Leona",
-            "Nautilus",
-            "Ornn",
+            "Lissandra",
             "Pantheon",
-            "Poppy",
             "Pyke",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Renekton",
-            "Riven",
-            "Sejuani",
-            "Sett",
-            "Sylas",
-            "Taliyah",
-            "Thresh",
-            "Urgot",
-            "Vayne",
-            "Vi",
+            "Tahm kench",
+            "Twisted fate",
             "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Yone",
-            "Zac"
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "LeBlanc"
+        ],
+        [
+            "Anivia",
+            "Sejuani"
         ],
         [
             "Alistar",
-            "Aurelion Sol",
-            "Belveth",
-            "Briar",
-            "Corki",
-            "Ekko",
-            "Fiora",
-            "Fizz",
-            "Gnar",
-            "Hecarim",
-            "Jax",
-            "Kaisa",
-            "Nocturne",
-            "Pantheon",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
             "Rammus",
-            "Shen",
-            "Shyvana",
-            "Thresh",
-            "Tristana",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Zeri"
+            "Renekton",
+            "Sejuani",
+            "Sion"
         ],
         [
-            "Lulu",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Blitzcrank",
-            "Gragas",
-            "Lissandra",
-            "Nami",
-            "Nunu",
-            "Taric",
-            "Twisted fate"
-        ],
-        [
-            "Blitzcrank",
-            "Lux",
-            "Nunu",
-            "Twisted fate"
+            "Janna",
+            "Singed"
         ]
     ]
 }

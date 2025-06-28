@@ -1,58 +1,27 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
+        "Adc",
         "Season 7+",
         "arcade"
     ],
     "cols": [
-        "Freljord",
         "stun",
-        "arcane"
+        "Shadow Isles",
+        "tether"
     ],
     "solutions": [
         [
             "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
+            "Kalista",
+            "Senna"
         ],
         [
-            "Aurora",
-            "Ornn"
+            "Kalista"
         ],
         [
             "Ambessa",
@@ -72,11 +41,15 @@
             "Yone"
         ],
         [
-            "Ambessa",
-            "Mel"
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
         ],
         [
-            "Brand"
+            "Renata glasc",
+            "Sylas",
+            "Yuumi"
         ],
         [
             "Blitzcrank",
@@ -89,7 +62,10 @@
             "Veigar"
         ],
         [
-            "Caitlyn"
+            "Hecarim"
+        ],
+        [
+            "Malzahar"
         ]
     ]
 }

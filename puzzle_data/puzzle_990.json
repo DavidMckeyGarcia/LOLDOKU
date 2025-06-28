@@ -1,68 +1,74 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "shield",
-        "Season 7+"
+        "Support",
+        "invis",
+        "OG40"
     ],
     "cols": [
-        "fear",
-        "Shadow Isles",
-        "arcane"
+        "root",
+        "Ionia",
+        "yordle"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Gwen",
+            "Karma",
+            "Leona",
+            "Lux",
             "Maokai",
-            "Yorick"
-        ],
-        [
-            "Ambessa",
-            "Heimerdinger",
-            "Jayce",
-            "Singed",
-            "Warwick"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Senna",
-            "Thresh",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Janna",
             "Mel",
-            "Orianna",
-            "Vi",
-            "Viktor"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Gwen",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
             "Senna",
-            "Vex",
-            "Viego"
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Ambessa",
-            "Mel"
+            "Karma",
+            "Rakan"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Akali",
+            "Wukong"
+        ],
+        [
+            "Teemo"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

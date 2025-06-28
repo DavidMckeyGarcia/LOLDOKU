@@ -1,14 +1,14 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "evolves",
-        "prestige"
+        "invis",
+        "Fright Night"
     ],
     "cols": [
         "slow",
-        "Noxus",
-        "ascended"
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
@@ -67,103 +67,58 @@
             "Zyra"
         ],
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Bard",
-            "Belveth",
-            "Gangplank",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Khazix",
-            "Smolder",
-            "Syndra",
-            "Viktor"
-        ],
-        [
-            "Kayn",
-            "Smolder"
-        ],
-        [
-            "Kayn"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
             "Akali",
-            "Brand",
-            "Caitlyn",
-            "Camille",
-            "Cassiopeia",
-            "Darius",
-            "Diana",
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Garen",
-            "Jinx",
-            "Ksante",
+            "Aurora",
             "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Kindred",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lulu",
-            "Lux",
-            "Malphite",
-            "Miss Fortune",
-            "Morgana",
-            "Pantheon",
+            "Khazix",
             "Pyke",
             "Qiyana",
-            "Rakan",
-            "Renata glasc",
+            "Reksai",
+            "Rengar",
             "Senna",
-            "Sett",
             "Shaco",
-            "Sivir",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Sylas",
+            "Talon",
             "Teemo",
-            "Thresh",
-            "Volibear",
-            "Yuumi",
-            "Zed",
-            "Zeri",
-            "Zoe",
-            "Zyra"
+            "Twitch",
+            "Viego"
         ],
         [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
+            "Twitch"
         ],
         [
-            "Aatrox",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Pantheon"
+            "Teemo"
+        ],
+        [
+            "Draven",
+            "Nautilus",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Shaco",
+            "Trundle",
+            "Urgot",
+            "Zeri"
+        ],
+        [
+            "Renata glasc",
+            "Urgot",
+            "Zeri"
+        ],
+        [
+            "Veigar"
         ]
     ]
 }

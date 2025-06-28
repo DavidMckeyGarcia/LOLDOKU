@@ -1,67 +1,162 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "blink",
-        "OG40"
+        "Mid",
+        "OG40",
+        "life steal"
     ],
     "cols": [
-        "root",
-        "Piltover",
-        "ascended"
+        "slow",
+        "Freljord",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
+            "Ahri",
+            "Akali",
+            "Anivia",
+            "Aurelion Sol",
+            "Aurora",
+            "Azir",
+            "Brand",
+            "Cassiopeia",
+            "Chogath",
+            "Corki",
+            "Diana",
+            "Ekko",
+            "Fizz",
+            "Galio",
+            "Gragas",
             "Heimerdinger",
-            "Seraphine"
-        ],
-        [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "LeBlanc",
+            "Hwei",
+            "Irelia",
+            "Jayce",
+            "Karma",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
             "Lissandra",
-            "Ryze"
+            "Lux",
+            "Mel",
+            "Naafiri",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Talon",
+            "Tristana",
+            "Twisted fate",
+            "Velkoz",
+            "Vex",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zed",
+            "Ziggs",
+            "Zilean",
+            "Zoe"
         ],
         [
-            "Ezreal"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Pantheon"
+            "Azir",
+            "Ezreal",
+            "Gragas",
+            "Jayce",
+            "Lucian",
+            "Orianna",
+            "Ryze",
+            "Syndra",
+            "Tristana"
         ],
         [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
             "Morgana",
+            "Nasus",
             "Nunu",
+            "Rammus",
             "Ryze",
             "Shaco",
             "Singed",
-            "Soraka"
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Heimerdinger"
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
+            "Alistar",
+            "Ashe",
+            "Janna",
+            "Jax",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Aatrox",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Illaoi",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Morgana",
             "Nasus",
-            "Taric"
+            "Nilah",
+            "Olaf",
+            "Samira",
+            "Senna",
+            "Sion",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Vladimir",
+            "Warwick"
+        ],
+        [
+            "Olaf",
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Aatrox",
+            "Lee sin"
         ]
     ]
 }

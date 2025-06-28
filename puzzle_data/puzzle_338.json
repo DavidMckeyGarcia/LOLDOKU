@@ -1,32 +1,75 @@
 {
-    "difficulty": "silver",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "invis",
-        "cosmic"
+        "elderwood",
+        "blink"
     ],
     "cols": [
-        "Freljord",
-        "root",
+        "slow",
+        "Noxus",
         "never played"
     ],
     "solutions": [
         [
+            "Aatrox",
+            "Akali",
+            "Camille",
+            "Chogath",
+            "Darius",
+            "Dr. Mundo",
+            "Fiora",
+            "Gangplank",
+            "Garen",
             "Gnar",
             "Gragas",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Irelia",
+            "Jarvan IV",
+            "Jayce",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Nasus",
             "Olaf",
             "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Quinn",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Singed",
+            "Sion",
+            "Skarner",
+            "Swain",
+            "Sylas",
+            "Tahm kench",
+            "Teemo",
             "Trundle",
             "Tryndamere",
             "Udyr",
-            "Volibear"
+            "Urgot",
+            "Volibear",
+            "Warwick",
+            "Yorick",
+            "Zac"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
             "Chogath",
@@ -57,54 +100,52 @@
             "Yorick"
         ],
         [
-            "Aurora"
+            "Ahri",
+            "Azir",
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Karthus",
+            "Rakan",
+            "Reksai"
         ],
         [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
+            "LeBlanc"
         ],
         [
-            "Akshan",
-            "Pyke",
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Rakan",
             "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Teemo",
-            "Twitch",
-            "Vayne",
-            "Viego",
-            "Wukong"
-        ],
-        [
-            "Anivia",
-            "Lissandra",
-            "Nunu"
-        ],
-        [
-            "Jhin",
-            "Lissandra",
-            "Lux",
-            "Nautilus",
-            "Nunu",
-            "Varus",
+            "Wukong",
             "Xayah"
         ],
         [
-            "Belveth",
-            "Hecarim",
-            "Illaoi",
-            "Jhin",
-            "Nami",
-            "Nunu",
-            "Rakan",
-            "Skarner",
-            "Xayah",
-            "Xin Zhao"
+            "Ekko",
+            "Kassadin",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Reksai",
+            "Ryze",
+            "Shen",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Zed"
+        ],
+        [
+            "Ambessa",
+            "Katarina",
+            "LeBlanc"
+        ],
+        [
+            "Pyke",
+            "Reksai",
+            "Shen",
+            "Tahm kench",
+            "Viego"
         ]
     ]
 }

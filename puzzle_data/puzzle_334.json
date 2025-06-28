@@ -1,23 +1,16 @@
 {
-    "difficulty": "iron",
+    "difficulty": "platinum",
     "rows": [
         "Top",
-        "before s7",
-        "global ult"
+        "invis",
+        "Season 7+"
     ],
     "cols": [
-        "Zaun",
         "stun",
-        "yordle"
+        "Noxus",
+        "arcane"
     ],
     "solutions": [
-        [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
         [
             "Ambessa",
             "Camille",
@@ -48,127 +41,65 @@
             "Zac"
         ],
         [
-            "Gnar",
-            "Heimerdinger",
-            "Kennen",
+            "Ambessa",
+            "Darius",
+            "Kayn",
             "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Ekko",
-            "Janna",
-            "Jinx",
-            "Orianna",
-            "Singed",
-            "Twitch",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Warwick",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Heimerdinger",
-            "Irelia",
-            "Ivern",
-            "Jax",
-            "Kennen",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Orianna",
-            "Pantheon",
-            "Poppy",
-            "Rammus",
-            "Renekton",
+            "Mordekaiser",
             "Riven",
-            "Sejuani",
             "Sion",
-            "Skarner",
-            "Sona",
-            "Syndra",
-            "Tahm kench",
-            "Taliyah",
-            "Taric",
-            "Thresh",
-            "Twisted fate",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Veigar",
-            "Velkoz",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Warwick",
-            "Xerath",
-            "Xin Zhao",
-            "Zac",
-            "Zilean"
+            "Swain"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Fizz",
-            "Gnar",
+            "Ambessa",
             "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar",
-            "Ziggs"
+            "Jayce",
+            "Singed",
+            "Warwick"
         ],
         [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
         ],
         [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
+            "LeBlanc",
+            "Talon"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Ambessa",
             "Briar",
-            "Ekko",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
             "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Kled",
-            "Vex",
-            "Ziggs"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Ambessa",
+            "Mel"
         ]
     ]
 }

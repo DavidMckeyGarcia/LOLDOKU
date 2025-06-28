@@ -1,85 +1,163 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Jungle",
-        "pool party",
-        "ult execute"
+        "Mid",
+        "ult execute",
+        "before s7"
     ],
     "cols": [
-        "Noxus",
-        "knock-up",
-        "yordle"
+        "Shadow Isles",
+        "stun",
+        "manaless"
     ],
     "solutions": [
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
+            "Karthus",
+            "Vex"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Diana",
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
             "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
+        ],
+        [
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Viego"
+        ],
+        [
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Garen",
+            "Reksai",
+            "Viego"
+        ],
+        [
+            "Hecarim",
+            "Kalista",
+            "Karthus",
+            "Thresh",
+            "Yorick"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Cassiopeia",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Heimerdinger",
+            "Irelia",
             "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
+            "Jax",
+            "Kennen",
+            "Leona",
+            "Lissandra",
+            "Morgana",
+            "Nami",
             "Nautilus",
             "Nunu",
+            "Orianna",
+            "Pantheon",
             "Poppy",
-            "Reksai",
-            "Rell",
+            "Rammus",
+            "Renekton",
+            "Riven",
             "Sejuani",
-            "Sylas",
+            "Sion",
+            "Skarner",
+            "Sona",
+            "Syndra",
+            "Tahm kench",
             "Taliyah",
-            "Trundle",
+            "Taric",
+            "Thresh",
+            "Twisted fate",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Veigar",
+            "Velkoz",
             "Vi",
-            "Wukong",
+            "Viktor",
+            "Volibear",
+            "Warwick",
+            "Xerath",
             "Xin Zhao",
             "Zac",
-            "Zyra"
+            "Zilean"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Draven"
-        ],
-        [
-            "Braum",
-            "Jarvan IV",
+            "Aatrox",
+            "Akali",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Katarina",
+            "Kennen",
+            "Kled",
             "Lee sin",
-            "Lulu",
-            "Orianna",
+            "Mordekaiser",
             "Reksai",
-            "Taliyah",
+            "Renekton",
+            "Rengar",
+            "Rumble",
+            "Shen",
+            "Shyvana",
+            "Tryndamere",
+            "Vladimir",
+            "Yasuo",
             "Zac",
-            "Ziggs"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Ziggs"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Riven"
-        ],
-        [
-            "Chogath",
-            "Reksai",
-            "Riven"
-        ],
-        [
-            "Veigar"
+            "Zed"
         ]
     ]
 }

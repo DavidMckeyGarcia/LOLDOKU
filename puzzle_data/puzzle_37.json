@@ -1,77 +1,52 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "global ult",
-        "Season 7+"
+        "Adc",
+        "invis",
+        "Fright Night"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "pentakill"
+        "knock-up",
+        "Bilgewater",
+        "shred"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Kalista",
+            "Samira",
+            "Ziggs"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
+            "Corki",
+            "Kogmaw"
         ],
         [
-            "Caitlyn",
-            "Jinx",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Ryze",
-            "Senna",
-            "Soraka"
-        ],
-        [
-            "Galio",
-            "Lux"
-        ],
-        [
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Ryze"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Reksai",
+            "Wukong"
         ],
         [
-            "Sylas"
+            "Pyke"
         ],
         [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Nautilus",
+            "Nunu",
+            "Trundle"
+        ],
+        [
+            "Nautilus",
+            "Pyke"
+        ],
+        [
+            "Trundle"
         ]
     ]
 }

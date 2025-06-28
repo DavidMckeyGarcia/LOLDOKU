@@ -1,72 +1,113 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "shield",
-        "prestige"
+        "Adc",
+        "dash",
+        "Season 7+"
     ],
     "cols": [
-        "Shurima",
-        "fear",
-        "ascended"
+        "Demacia",
+        "stun",
+        "darkin"
     ],
     "solutions": [
         [
-            "Aatrox",
+            "Lucian",
+            "Vayne"
+        ],
+        [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Varus"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Jarvan IV",
+            "Lucian",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sylas",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Alistar",
+            "Ambessa",
+            "Amumu",
+            "Aurelion Sol",
+            "Bard",
+            "Braum",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Hecarim",
+            "Irelia",
+            "Ivern",
             "Jax",
             "Ksante",
-            "Nasus",
-            "Renekton"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Kayn",
-            "Nasus",
-            "Pantheon",
-            "Renekton"
-        ],
-        [
-            "Akshan",
-            "Azir",
-            "Ksante",
-            "Naafiri",
-            "Sivir"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Taric"
-        ],
-        [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Sivir"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Kayn",
             "Leona",
-            "Pantheon"
+            "Nautilus",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Renekton",
+            "Riven",
+            "Sejuani",
+            "Sett",
+            "Sylas",
+            "Taliyah",
+            "Thresh",
+            "Urgot",
+            "Vayne",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

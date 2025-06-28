@@ -1,81 +1,61 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "shield",
+        "Mid",
+        "global ult",
         "Season 7+"
     ],
     "cols": [
         "Freljord",
-        "root",
-        "vastayan"
+        "fear",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ashe"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Xayah"
-        ],
-        [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Aphelios",
             "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Vex"
         ],
         [
-            "Neeko",
-            "Rakan"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
+        ],
+        [
+            "Ashe",
+            "Ornn"
+        ],
+        [
+            "Briar",
+            "Nocturne",
+            "Vex"
+        ],
+        [
+            "Kled",
+            "Vex",
+            "Ziggs"
         ],
         [
             "Aurora",
             "Ornn"
         ],
         [
-            "Aphelios",
+            "Briar",
             "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Vex"
         ],
         [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Vex"
         ]
     ]
 }

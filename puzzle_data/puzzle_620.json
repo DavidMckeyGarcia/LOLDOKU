@@ -1,85 +1,81 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Support",
-        "true damage",
-        "coven"
+        "Jungle",
+        "prestige",
+        "dash"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "100% AP Ratio"
+        "Shadow Isles",
+        "fear",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
+            "Hecarim",
+            "Karthus",
             "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
+            "Viego"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Blitzcrank",
-            "Karma",
-            "Lux",
-            "Milio",
-            "Neeko",
-            "Pantheon",
-            "Tahm kench",
-            "Thresh",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Vayne"
+            "Briar",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
             "Belveth",
-            "Chogath",
-            "Corki",
-            "Fiora",
-            "Gangplank",
             "Master yi",
-            "Nunu"
+            "Olaf",
+            "Viego"
         ],
         [
-            "LeBlanc",
-            "Lissandra",
-            "Morgana",
-            "Zyra"
+            "Senna",
+            "Thresh"
         ],
         [
-            "Morgana"
+            "Aatrox",
+            "Darius",
+            "Shaco"
         ],
         [
-            "Ashe",
-            "Evelynn"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Pyke",
+            "Sivir",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Gwen",
+            "Hecarim",
+            "Maokai",
+            "Thresh",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Aatrox",
+            "Briar",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Vex",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vayne",
+            "Vex",
+            "Viego"
         ]
     ]
 }

@@ -1,69 +1,61 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "OG40",
+        "Top",
+        "arcade",
         "ult execute"
     ],
     "cols": [
-        "Bilgewater",
         "fear",
-        "shred"
+        "Noxus",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
+            "Aatrox",
+            "Darius",
+            "Urgot",
             "Warwick"
         ],
         [
-            "Briar",
-            "Evelynn",
-            "Jarvan IV",
-            "Karthus",
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
             "Mordekaiser",
-            "Nasus",
-            "Olaf",
-            "Rell",
-            "Rengar",
-            "Rumble",
-            "Trundle",
-            "Vi",
-            "Wukong"
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
+            "Hecarim"
         ],
         [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
+            "Riven"
         ],
         [
-            "Pyke"
+            "Ezreal",
+            "Kaisa"
         ],
         [
             "Darius",
             "Urgot"
         ],
         [
-            "Evelynn",
-            "Garen"
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Jinx"
         ]
     ]
 }

@@ -1,103 +1,127 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "invis",
-        "pool party"
+        "Support",
+        "evolves",
+        "OG40"
     ],
     "cols": [
-        "slow",
         "Noxus",
-        "30+ wins"
+        "slow",
+        "arcane"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
+            "Alistar",
+            "Annie",
             "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
+            "Rell",
+            "Swain"
         ],
         [
-            "Draven",
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
             "Mel",
-            "Samira",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
+            "Zyra"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Mel"
+        ],
+        [
+            "Kayn",
             "Smolder"
         ],
         [
-            "Corki"
-        ],
-        [
-            "Akali",
-            "Aurora",
-            "Kaisa",
-            "Khazix",
-            "Pyke",
-            "Qiyana",
-            "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
-            "Viego"
-        ],
-        [
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "LeBlanc"
-        ],
-        [
-            "Braum",
-            "Caitlyn",
-            "Dr. Mundo",
-            "Draven",
-            "Fiora",
+            "Bard",
+            "Belveth",
             "Gangplank",
-            "Graves",
-            "Heimerdinger",
-            "Jarvan IV",
-            "Lee sin",
-            "Leona",
-            "Lulu",
-            "Miss Fortune",
-            "Orianna",
-            "Reksai",
-            "Sett",
-            "Singed",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Khazix",
+            "Smolder",
             "Syndra",
-            "Taliyah",
-            "Zac",
-            "Ziggs",
-            "Zoe"
+            "Viktor"
         ],
         [
-            "Draven"
+            "Viktor"
         ],
         [
-            "Orianna",
-            "Taliyah"
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Chogath",
+            "Corki",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Gangplank",
+            "Heimerdinger",
+            "Janna",
+            "Karthus",
+            "Kassadin",
+            "Kayle",
+            "Malphite",
+            "Morgana",
+            "Nasus",
+            "Nunu",
+            "Rammus",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Sion",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Tristana",
+            "Tryndamere",
+            "Twisted fate",
+            "Twitch",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
         ]
     ]
 }

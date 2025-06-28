@@ -1,16 +1,21 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "PROJECT",
-        "OG40"
+        "before s7",
+        "Space Groove"
     ],
     "cols": [
+        "silence",
         "Demacia",
-        "stun",
-        "pentakill"
+        "30+ wins"
     ],
     "solutions": [
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
         [
             "Galio",
             "Kayle",
@@ -19,96 +24,63 @@
             "Sylas"
         ],
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
             "Lissandra",
-            "Malzahar",
-            "Neeko",
             "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
+            "Ryze",
             "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Viktor"
         ],
         [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Irelia",
-            "Jax",
-            "Leona",
-            "Pyke",
-            "Renekton",
-            "Sejuani",
-            "Sylas",
-            "Vayne",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Akali",
-            "Fiora",
-            "Jinx",
-            "Lucian",
-            "Vayne"
-        ],
-        [
-            "Kayle",
-            "Morgana"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
             "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Chogath",
+            "Fiddlesticks",
+            "Garen",
+            "Kassadin",
+            "Lulu",
+            "Soraka"
         ],
         [
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
             "Ryze",
-            "Tristana",
-            "Twitch"
+            "Taliyah",
+            "Viktor"
+        ],
+        [
+            "Blitzcrank",
+            "Lulu"
+        ],
+        [
+            "Lux"
+        ],
+        [
+            "Lissandra"
         ]
     ]
 }

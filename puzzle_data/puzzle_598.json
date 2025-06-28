@@ -1,100 +1,79 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "coven",
-        "Season 7+"
+        "Jungle",
+        "cosmic",
+        "invis"
     ],
     "cols": [
-        "Bilgewater",
-        "stun",
-        "tether"
+        "knock-up",
+        "Demacia",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
-        ],
-        [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Kled",
-            "Sylas",
-            "Zac"
-        ],
-        [
-            "Nami",
-            "Nilah"
-        ],
-        [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
-        ],
-        [
-            "LeBlanc",
-            "Morgana"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Ambessa",
+            "Belveth",
             "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
             "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
+            "Sejuani",
             "Sylas",
-            "Viego",
-            "Yone"
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Renata glasc",
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
             "Sylas",
-            "Yuumi"
+            "Xin Zhao"
+        ],
+        [
+            "Taliyah"
+        ],
+        [
+            "Anivia",
+            "Belveth",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
+            "Sion",
+            "Xin Zhao"
+        ],
+        [
+            "Lux",
+            "Xin Zhao"
+        ],
+        [
+            "Lissandra"
+        ],
+        [
+            "Neeko",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Vayne"
+        ],
+        [
+            "LeBlanc"
         ]
     ]
 }

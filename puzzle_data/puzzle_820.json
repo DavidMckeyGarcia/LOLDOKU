@@ -2,15 +2,21 @@
     "difficulty": "diamond",
     "rows": [
         "Jungle",
-        "shield",
-        "Season 7+"
+        "OG40",
+        "prestige"
     ],
     "cols": [
+        "Shadow Isles",
         "fear",
-        "Targon",
         "yordle"
     ],
     "solutions": [
+        [
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
+        ],
         [
             "Briar",
             "Fiddlesticks",
@@ -20,44 +26,40 @@
             "Warwick"
         ],
         [
-            "Diana",
-            "Pantheon"
-        ],
-        [
             "Amumu",
             "Poppy",
             "Rumble",
             "Teemo"
         ],
         [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
+            "Karthus"
         ],
         [
-            "Aphelios",
-            "Diana",
-            "Taric"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Kled",
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Senna",
+            "Thresh"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Shaco"
+        ],
+        [
+            "Fizz",
             "Lulu",
-            "Poppy",
-            "Rumble",
-            "Vex"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Vex"
+            "Teemo"
         ]
     ]
 }

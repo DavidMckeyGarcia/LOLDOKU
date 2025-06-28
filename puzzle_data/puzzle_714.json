@@ -1,65 +1,77 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "cosmic",
-        "blink"
+        "Jungle",
+        "blink",
+        "dark star"
     ],
     "cols": [
-        "Ionia",
-        "silence",
-        "ascended"
+        "Shadow Isles",
+        "root",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Azir",
-            "Diana",
-            "Naafiri",
-            "Pantheon",
-            "Xerath"
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
+            "Jax",
+            "Lee sin",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Viego"
+        ],
+        [
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
+        ],
+        [
+            "Ezreal",
+            "Ryze",
+            "Shen"
+        ],
+        [
+            "Thresh"
         ],
         [
             "Jhin",
-            "Master yi",
-            "Rakan",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Kassadin",
-            "Lulu"
-        ],
-        [
+            "Karma",
+            "Lissandra",
+            "Lux",
+            "Shaco",
             "Varus"
         ],
         [
-            "Master yi",
-            "Shen",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Kassadin"
-        ],
-        [
-            "Pantheon"
+            "Jarvan IV",
+            "Jhin",
+            "Orianna",
+            "Thresh",
+            "Varus"
         ]
     ]
 }

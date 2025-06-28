@@ -1,80 +1,85 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "arcade",
+        "Mid",
+        "OG40",
         "global ult"
     ],
     "cols": [
-        "Bilgewater",
-        "knock-up",
-        "riot records"
+        "Noxus",
+        "root",
+        "0 games"
     ],
     "solutions": [
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Katarina",
+            "LeBlanc",
+            "Mel",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Akshan",
+            "Ambessa",
+            "Mel",
+            "Naafiri",
+            "Vex"
         ],
         [
             "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
+            "Annie",
+            "Katarina",
+            "Sion"
         ],
         [
-            "Senna",
-            "Sona"
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Miss Fortune"
+            "Master yi"
         ],
         [
-            "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
-        ],
-        [
-            "Ahri",
-            "Ezreal",
-            "Kaisa",
-            "Qiyana",
-            "Sona",
-            "Yasuo"
-        ],
-        [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
-            "Aurelion Sol",
             "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
+            "Draven",
+            "Kled",
+            "Mel",
+            "Sion"
         ],
         [
-            "Ekko",
-            "Ezreal",
-            "Kaisa",
-            "Karthus",
-            "Senna"
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Briar",
+            "Mel",
+            "Vex"
         ]
     ]
 }

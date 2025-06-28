@@ -1,73 +1,60 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "true damage",
-        "Season 7+"
+        "Mid",
+        "global ult",
+        "OG40"
     ],
     "cols": [
-        "root",
-        "Shadow Isles",
-        "100+ games"
+        "Demacia",
+        "silence",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
+        [
+            "Chogath",
+            "Kassadin",
+            "Malzahar"
+        ],
+        [
+            "Ahri",
+            "Naafiri",
             "Swain",
-            "Zac"
-        ],
-        [
-            "Gwen",
-            "Maokai",
-            "Yorick"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Gwen"
-        ],
-        [
-            "Syndra"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
-        ],
-        [
-            "Gwen",
-            "Senna",
             "Vex",
-            "Viego"
+            "Viktor"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Galio",
+            "Lux"
+        ],
+        [
+            "Soraka"
+        ],
+        [
+            "Vex"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

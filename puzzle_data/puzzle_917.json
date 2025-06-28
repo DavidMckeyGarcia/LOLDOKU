@@ -2,41 +2,50 @@
     "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "global ult",
-        "Season 7+"
+        "invis",
+        "arcade"
     ],
     "cols": [
-        "knock-up",
-        "Piltover",
+        "stun",
+        "Bilgewater",
         "ult reset"
     ],
     "solutions": [
         [
-            "Belveth",
+            "Amumu",
+            "Brand",
             "Briar",
-            "Diana",
+            "Camille",
+            "Ekko",
+            "Elise",
             "Gragas",
+            "Hecarim",
             "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
+            "Jax",
+            "Morgana",
             "Nautilus",
             "Nunu",
+            "Pantheon",
             "Poppy",
-            "Reksai",
+            "Qiyana",
+            "Rammus",
             "Rell",
             "Sejuani",
+            "Sett",
+            "Skarner",
             "Sylas",
             "Taliyah",
-            "Trundle",
+            "Udyr",
             "Vi",
-            "Wukong",
+            "Viego",
+            "Volibear",
+            "Warwick",
             "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Zac"
         ],
         [
-            "Camille"
+            "Graves",
+            "Nautilus"
         ],
         [
             "Belveth",
@@ -45,44 +54,36 @@
             "Viego"
         ],
         [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
             "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Camille",
-            "Seraphine"
-        ],
-        [
-            "Belveth",
-            "Naafiri",
             "Pyke",
-            "Vex",
+            "Qiyana",
+            "Vayne",
             "Viego"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Pyke",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Miss Fortune"
+        ],
+        [
+            "Ahri",
+            "Belveth"
         ]
     ]
 }

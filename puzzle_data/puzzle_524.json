@@ -1,108 +1,117 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Support",
-        "OG40",
-        "global ult"
+        "Mid",
+        "before s7",
+        "true damage"
     ],
     "cols": [
-        "Noxus",
-        "stun",
-        "30+ wins"
+        "Bandle City",
+        "root",
+        "manaless"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
             "Mel",
-            "Rell",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
             "Swain"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Galio"
-        ],
-        [
-            "Alistar",
-            "Annie",
+            "Akali",
+            "Ambessa",
             "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
             "Corki",
-            "Ryze"
+            "Fizz",
+            "Heimerdinger",
+            "Lulu",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Briar",
-            "Draven",
-            "Kled",
-            "Mel",
-            "Sion"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Galio",
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
             "Ryze",
-            "Taliyah"
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Katarina",
+            "Kennen",
+            "Kled",
+            "Lee sin",
+            "Mordekaiser",
+            "Reksai",
+            "Renekton",
+            "Rengar",
+            "Rumble",
+            "Shen",
+            "Shyvana",
+            "Tryndamere",
+            "Vladimir",
+            "Yasuo",
+            "Zac",
+            "Zed"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Akali",
+            "Belveth",
+            "Garen",
+            "Sett",
+            "Yone"
         ]
     ]
 }

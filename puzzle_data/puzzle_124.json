@@ -1,79 +1,39 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "true damage",
-        "Season 7+"
+        "Adc",
+        "Season 7+",
+        "true damage"
     ],
     "cols": [
+        "Shurima",
         "stun",
-        "Bilgewater",
-        "0 games"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
+            "Sivir"
+        ],
+        [
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Mel",
-            "Milio"
-        ],
-        [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
         ],
         [
             "Akshan",
-            "Master yi",
-            "Samira"
+            "Ksante",
+            "Naafiri"
         ],
         [
             "Ambessa",
@@ -93,18 +53,33 @@
             "Yone"
         ],
         [
-            "Nilah",
-            "Pyke"
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ],
         [
             "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
-            "Vex"
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Syndra"
         ]
     ]
 }

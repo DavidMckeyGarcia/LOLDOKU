@@ -1,83 +1,55 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
+        "Top",
         "OG40",
-        "arcade"
+        "true damage"
     ],
     "cols": [
-        "Demacia",
-        "knock-up",
+        "fear",
+        "Shurima",
         "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ekko",
-            "Evelynn",
-            "Hecarim",
+            "Aatrox",
             "Jax",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
+            "Ksante",
+            "Nasus",
+            "Renekton"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
             "Pantheon",
-            "Rammus",
             "Shen",
-            "Shyvana",
             "Skarner",
-            "Vi",
-            "Viego",
+            "Tahm kench",
             "Volibear",
             "Warwick",
-            "Wukong",
-            "Xin Zhao"
+            "Wukong"
         ],
         [
-            "Kayle",
-            "Morgana"
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Sivir",
+            "Zilean"
         ],
         [
             "Alistar",
@@ -99,22 +71,22 @@
             "Zilean"
         ],
         [
-            "Sona"
+            "Darius",
+            "Urgot"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Ksante"
         ],
         [
             "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
+            "Chogath",
             "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Veigar"
+            "Fiora",
+            "Gangplank",
+            "Master yi",
+            "Nunu"
         ]
     ]
 }

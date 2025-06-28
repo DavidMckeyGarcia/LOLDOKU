@@ -1,75 +1,109 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "arcade",
-        "life steal"
+        "Mid",
+        "shield",
+        "OG40"
     ],
     "cols": [
-        "Freljord",
         "knock-up",
-        "arcane"
+        "Targon",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
             "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
+            "Gragas",
             "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
             "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Heimerdinger",
-            "Janna",
-            "Mel"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Riven",
             "Yasuo",
+            "Yone",
             "Ziggs"
         ],
         [
-            "Caitlyn"
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
         ],
         [
-            "Olaf",
-            "Trundle",
-            "Udyr"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
         ],
         [
-            "Aatrox",
-            "Belveth",
-            "Briar",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Ksante",
-            "Kayn",
             "Lee sin",
-            "Samira",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
             "Sion",
-            "Trundle"
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Ambessa",
-            "Warwick"
+            "Aphelios",
+            "Diana",
+            "Taric"
+        ],
+        [
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ]
     ]
 }

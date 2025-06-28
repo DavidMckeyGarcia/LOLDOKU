@@ -1,81 +1,70 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 7+",
-        "shield"
+        "Adc",
+        "invis",
+        "arcade"
     ],
     "cols": [
-        "fear",
-        "Piltover",
-        "riot records"
+        "Zaun",
+        "root",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Camille",
-            "Heimerdinger",
-            "Jayce"
-        ],
-        [
-            "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
-            "Yasuo",
-            "Yone",
-            "Yorick"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Camille",
-            "Seraphine"
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
         ],
         [
             "Aphelios",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
             "Senna",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Camille",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Aphelios",
-            "Ekko",
-            "Ksante",
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
             "Kaisa",
-            "Mordekaiser",
-            "Olaf",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Twitch"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
             "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo",
-            "Yone"
+            "Shaco"
+        ],
+        [
+            "Kaisa"
+        ],
+        [
+            "Blitzcrank",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal",
+            "Kaisa"
         ]
     ]
 }

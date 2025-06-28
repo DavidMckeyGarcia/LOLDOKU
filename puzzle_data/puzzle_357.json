@@ -1,66 +1,69 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "global ult",
-        "OG40"
+        "Season 7+",
+        "prestige"
     ],
     "cols": [
-        "Piltover",
-        "silence",
-        "shred"
+        "Freljord",
+        "fear",
+        "ascended"
     ],
     "solutions": [
         [
-            "Camille",
-            "Heimerdinger",
-            "Jayce"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Garen",
-            "Jarvan IV",
-            "Jayce",
-            "Mordekaiser",
-            "Nasus",
+            "Gnar",
+            "Gragas",
             "Olaf",
-            "Renekton",
-            "Rumble",
-            "Sion",
+            "Ornn",
             "Trundle",
-            "Wukong"
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Caitlyn",
-            "Ezreal"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Soraka"
+            "Aatrox",
+            "Kayn",
+            "Nasus",
+            "Pantheon",
+            "Renekton"
+        ],
+        [
+            "Aurora",
+            "Ornn"
         ],
         [
             "Briar",
-            "Karthus",
-            "Sion"
+            "Hwei",
+            "Vex"
         ],
         [
-            "Heimerdinger"
+            "Kayn",
+            "Naafiri"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Brand",
+            "Kindred",
+            "Lissandra",
+            "Volibear"
         ],
         [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
+            "Aatrox",
+            "Darius",
+            "Shaco"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ]
     ]
 }

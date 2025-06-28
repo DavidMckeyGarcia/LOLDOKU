@@ -1,57 +1,99 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "Space Groove",
-        "OG40"
+        "Mid",
+        "OG40",
+        "life steal"
     ],
     "cols": [
-        "Zaun",
-        "silence",
-        "0 games"
+        "Noxus",
+        "knock-up",
+        "shred"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
-        [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
-        ],
-        [
+            "Ambessa",
+            "Annie",
+            "Cassiopeia",
+            "Katarina",
+            "LeBlanc",
             "Mel",
-            "Milio"
+            "Swain",
+            "Talon",
+            "Vladimir"
         ],
         [
-            "Blitzcrank"
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Blitzcrank",
-            "Lulu"
+            "Corki",
+            "Jayce",
+            "Karthus",
+            "Zoe"
         ],
         [
-            "Samira"
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
         ],
         [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
+            "Alistar",
+            "Anivia",
             "Blitzcrank",
             "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
-            "Master yi"
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Samira",
+            "Sion",
+            "Vladimir"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Briar",
+            "Nasus",
+            "Olaf",
+            "Sion",
+            "Trundle"
         ]
     ]
 }

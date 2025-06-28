@@ -1,64 +1,48 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
+        "Mid",
         "Season 7+",
-        "cosmic"
+        "blink"
     ],
     "cols": [
-        "Ionia",
         "knock-up",
-        "yordle"
+        "Zaun",
+        "manaless"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
-            "Belveth",
-            "Briar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
             "Diana",
+            "Fizz",
+            "Galio",
             "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
+            "Neeko",
+            "Orianna",
             "Sylas",
             "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Velkoz",
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
+            "Akali",
+            "Ambessa",
+            "Katarina",
+            "Vladimir",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
             "Belveth",
@@ -74,28 +58,35 @@
             "Yone"
         ],
         [
-            "Vex"
+            "Renata glasc",
+            "Zeri"
         ],
         [
-            "Jhin",
-            "Master yi",
-            "Rakan",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Anivia",
+            "Ambessa",
             "Belveth",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Rakan",
-            "Sion",
-            "Xin Zhao"
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
         ],
         [
-            "Lulu"
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ekko"
+        ],
+        [
+            "Ambessa",
+            "Katarina",
+            "Reksai",
+            "Shen",
+            "Viego",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ]
     ]
 }

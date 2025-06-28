@@ -1,128 +1,107 @@
 {
     "difficulty": "silver",
     "rows": [
-        "Support",
-        "before s7",
-        "arcade"
+        "Top",
+        "true damage",
+        "hextech"
     ],
     "cols": [
-        "Freljord",
-        "knock-up",
-        "tether"
+        "stun",
+        "Shurima",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Alistar",
-            "Blitzcrank",
-            "Braum",
-            "Galio",
-            "Janna",
-            "Lulu",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Poppy",
-            "Rakan",
-            "Rell",
-            "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Brand",
-            "Braum",
+            "Ambessa",
+            "Camille",
+            "Fiora",
             "Gnar",
             "Gragas",
-            "Kindred",
-            "Lissandra",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Orianna",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
             "Poppy",
-            "Reksai",
+            "Renekton",
             "Riven",
-            "Sejuani",
+            "Sett",
             "Sion",
+            "Skarner",
+            "Sylas",
             "Tahm kench",
-            "Taliyah",
-            "Trundle",
-            "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
-        ],
-        [
-            "Aatrox",
-            "Fiddlesticks",
-            "Illaoi",
-            "Kalista",
-            "Karma",
-            "Kled",
-            "LeBlanc",
-            "Morgana",
-            "Nocturne",
-            "Taric",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
             "Zac"
         ],
         [
-            "Brand"
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
         ],
         [
-            "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
         ],
         [
-            "Malzahar"
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Ksante"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Kogmaw",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
+        ],
+        [
+            "Amumu",
+            "Rammus",
+            "Renekton"
+        ],
+        [
+            "Kogmaw",
+            "Tristana"
         ]
     ]
 }

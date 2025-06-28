@@ -1,130 +1,86 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
         "Adc",
-        "invis",
-        "before s7"
+        "shield",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "The Void",
-        "riot records"
+        "knock-up",
+        "Demacia",
+        "darkin"
     ],
     "solutions": [
         [
-            "Ashe",
-            "Seraphine",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Lucian",
             "Vayne"
         ],
         [
-            "Kaisa",
-            "Kogmaw"
+            "Varus"
         ],
         [
-            "Aphelios",
-            "Ezreal",
-            "Kaisa",
-            "Senna"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "Kaisa",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Akali",
-            "Kaisa",
-            "Qiyana",
-            "Senna",
-            "Viego"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
+            "Azir",
             "Blitzcrank",
-            "Brand",
             "Braum",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Heimerdinger",
-            "Irelia",
+            "Diana",
+            "Galio",
             "Ivern",
-            "Jax",
-            "Kennen",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Nami",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
             "Nautilus",
+            "Neeko",
             "Nunu",
             "Orianna",
-            "Pantheon",
             "Poppy",
-            "Rammus",
-            "Renekton",
+            "Rakan",
+            "Rell",
             "Riven",
-            "Sejuani",
             "Sion",
-            "Skarner",
-            "Sona",
-            "Syndra",
             "Tahm kench",
-            "Taliyah",
-            "Taric",
-            "Thresh",
-            "Twisted fate",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Veigar",
-            "Velkoz",
             "Vi",
-            "Viktor",
-            "Volibear",
-            "Warwick",
-            "Xerath",
-            "Xin Zhao",
-            "Zac",
-            "Zilean"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Khazix",
-            "Kogmaw",
-            "Reksai",
-            "Velkoz"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Evelynn",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Mordekaiser",
-            "Olaf",
-            "Sona",
             "Yasuo",
-            "Yorick"
+            "Yone"
+        ],
+        [
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Naafiri"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Sylas"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

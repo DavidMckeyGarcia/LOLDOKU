@@ -1,118 +1,78 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "prestige",
-        "before s7"
+        "Jungle",
+        "Season 7+",
+        "global ult"
     ],
     "cols": [
         "root",
-        "Ixtal",
-        "30+ wins"
+        "Targon",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Neeko",
-            "Qiyana"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
-        ],
-        [
-            "Malphite",
-            "Neeko",
-            "Qiyana",
-            "Zyra"
-        ],
-        [
-            "Ahri",
-            "LeBlanc",
-            "Lissandra"
-        ],
-        [
-            "Caitlyn",
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
             "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
+            "Maokai",
             "Morgana",
             "Nautilus",
             "Nunu",
+            "Qiyana",
             "Rengar",
-            "Ryze",
             "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
             "Zac",
             "Zyra"
         ],
         [
-            "Malphite",
-            "Nidalee",
-            "Rengar",
-            "Skarner",
-            "Zyra"
+            "Diana",
+            "Pantheon"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Zoe"
+        ],
+        [
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
             "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Senna",
+            "Soraka"
+        ],
+        [
+            "Aurelion Sol",
+            "Pantheon",
+            "Soraka"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

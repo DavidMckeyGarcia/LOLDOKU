@@ -1,79 +1,75 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "Season 7+",
-        "life steal"
+        "Adc",
+        "true damage",
+        "arcade"
     ],
     "cols": [
-        "Ionia",
-        "fear",
-        "manaless"
+        "stun",
+        "Zaun",
+        "shred"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Corki",
+            "Kogmaw"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
             "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Akali",
-            "Ambessa",
-            "Katarina",
-            "Vladimir",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
             "Yone"
         ],
         [
-            "Briar",
-            "Hwei",
-            "Vex"
+            "Renata glasc",
+            "Twitch",
+            "Urgot"
         ],
         [
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Sett",
-            "Viego",
-            "Yone"
+            "Corki",
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
         ],
         [
-            "Kayn",
-            "Lee sin"
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
         ],
         [
-            "Aatrox",
-            "Briar",
-            "Warwick"
+            "Blitzcrank",
+            "Ziggs"
         ],
         [
-            "Aatrox",
-            "Ambessa",
-            "Belveth",
-            "Briar",
-            "Lee sin",
-            "Viego",
-            "Vladimir"
+            "Corki"
         ]
     ]
 }

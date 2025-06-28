@@ -1,122 +1,58 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "challenger",
     "rows": [
-        "Top",
-        "hextech",
-        "global ult"
+        "Support",
+        "cosmic",
+        "OG40"
     ],
     "cols": [
-        "stun",
-        "Freljord",
-        "100% AP Ratio"
+        "silence",
+        "Noxus",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
-            "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
-            "Warwick",
-            "Wukong"
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Anivia",
             "Annie",
-            "Malzahar",
-            "Poppy",
-            "Rammus",
-            "Renekton",
-            "Sejuani",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
+        [
+            "Galio"
+        ],
+        [
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Sion",
+            "Vladimir"
+        ],
+        [
+            "Lissandra"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Katarina",
             "Sion"
         ],
         [
-            "Anivia",
-            "Sejuani"
-        ],
-        [
-            "Alistar",
-            "Nocturne",
-            "Rammus",
-            "Tristana"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Ashe",
-            "Ornn"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Briar",
-            "Ekko",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Lux",
-            "Nocturne",
-            "Pantheon",
-            "Shen",
-            "Twisted fate",
-            "Xerath"
+            "Corki",
+            "Ryze"
         ]
     ]
 }

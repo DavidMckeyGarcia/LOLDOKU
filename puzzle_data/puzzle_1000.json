@@ -1,93 +1,98 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "before s7",
-        "empyrean"
+        "Support",
+        "prestige",
+        "global ult"
     ],
     "cols": [
-        "Ionia",
-        "silence",
+        "knock-up",
+        "Shadow Isles",
         "riot records"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
-            "Fiddlesticks"
-        ],
-        [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
-            "Viego"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Irelia",
-            "Ivern",
-            "Jhin",
-            "Karma",
-            "Kennen",
-            "Lee sin",
-            "Master yi",
-            "Shen",
-            "Syndra",
-            "Varus",
-            "Wukong",
-            "Yasuo",
-            "Zed"
-        ],
-        [
+            "Alistar",
             "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
+            "Braum",
+            "Galio",
+            "Janna",
             "Lulu",
-            "Soraka"
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Maokai",
+            "Senna",
+            "Thresh"
+        ],
+        [
+            "Senna",
+            "Sona"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Senna",
+            "Thresh"
         ],
         [
             "Ahri",
             "Akali",
-            "Ekko",
             "Evelynn",
             "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Mordekaiser",
-            "Olaf",
-            "Sona",
-            "Yasuo",
-            "Yorick"
-        ],
-        [
-            "Akali",
-            "Jhin",
-            "Varus",
-            "Zed"
-        ],
-        [
-            "Malzahar"
-        ],
-        [
-            "Akali",
             "Ksante",
-            "Kayle"
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Qiyana",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
+        ],
+        [
+            "Ekko",
+            "Ezreal",
+            "Kaisa",
+            "Karthus",
+            "Senna"
         ]
     ]
 }

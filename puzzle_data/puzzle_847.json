@@ -1,58 +1,87 @@
 {
     "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "before s7",
-        "PROJECT"
+        "Mid",
+        "invis",
+        "before s7"
     ],
     "cols": [
-        "Demacia",
+        "Freljord",
         "root",
-        "ascended"
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "LeBlanc",
+            "Neeko",
             "Qiyana",
             "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Senna",
+            "Shaco"
         ],
         [
-            "Diana",
-            "Kayn",
-            "Nasus",
-            "Pantheon"
+            "Kaisa",
+            "Neeko",
+            "Viego",
+            "Wukong"
         ],
         [
-            "Fiora",
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sona",
-            "Vayne",
-            "Xin Zhao"
+            "Anivia",
+            "Ashe",
+            "Brand",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Lissandra",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
             "Caitlyn",
@@ -79,34 +108,48 @@
             "Zyra"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Leona",
-            "Nasus",
-            "Pantheon",
-            "Renekton",
-            "Taric",
-            "Varus",
-            "Xerath"
-        ],
-        [
+            "Alistar",
+            "Ashe",
+            "Aurelion Sol",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Evelynn",
             "Fiora",
-            "Lucian",
-            "Sylas",
-            "Vayne"
-        ],
-        [
+            "Fizz",
+            "Gangplank",
+            "Gnar",
+            "Hecarim",
+            "Jax",
             "Jhin",
             "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
-        ],
-        [
-            "Leona",
-            "Renekton",
-            "Varus"
+            "Karma",
+            "Lux",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Sivir",
+            "Skarner",
+            "Tahm kench",
+            "Thresh",
+            "Tristana",
+            "Twisted fate",
+            "Varus",
+            "Veigar",
+            "Vi",
+            "Viktor",
+            "Vladimir",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xerath",
+            "Xin Zhao",
+            "Zilean"
         ]
     ]
 }

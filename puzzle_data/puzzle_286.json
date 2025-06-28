@@ -1,122 +1,65 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
-        "before s7",
-        "true damage"
+        "Support",
+        "true damage",
+        "dark star"
     ],
     "cols": [
-        "Zaun",
-        "silence",
+        "knock-up",
+        "Freljord",
         "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Aurelion Sol",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Fizz",
-            "Karma",
-            "Lux",
-            "Neeko",
-            "Pantheon",
-            "Tristana",
-            "Twisted fate",
-            "Veigar",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zilean"
-        ],
-        [
+            "Alistar",
             "Blitzcrank",
-            "Dr. Mundo",
-            "Ekko",
+            "Braum",
+            "Galio",
             "Janna",
-            "Jinx",
-            "Orianna",
-            "Singed",
-            "Twitch",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Warwick",
-            "Zac",
-            "Ziggs"
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Ashe",
+            "Brand",
+            "Braum"
         ],
         [
             "Alistar",
             "Ashe",
-            "Aurelion Sol",
             "Blitzcrank",
-            "Chogath",
-            "Corki",
-            "Ekko",
-            "Evelynn",
-            "Fiora",
-            "Fizz",
-            "Gangplank",
-            "Gnar",
-            "Hecarim",
-            "Jax",
-            "Jhin",
-            "Jinx",
             "Karma",
             "Lux",
-            "Master yi",
-            "Nocturne",
-            "Nunu",
+            "Milio",
+            "Neeko",
             "Pantheon",
-            "Rammus",
-            "Shen",
-            "Shyvana",
-            "Sivir",
-            "Skarner",
             "Tahm kench",
             "Thresh",
-            "Tristana",
-            "Twisted fate",
-            "Varus",
-            "Veigar",
-            "Vi",
-            "Viktor",
-            "Vladimir",
-            "Volibear",
-            "Warwick",
-            "Wukong",
             "Xerath",
-            "Xin Zhao",
             "Zilean"
         ],
         [
-            "Renata glasc",
-            "Twitch",
-            "Urgot"
+            "Belveth",
+            "Chogath",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Chogath",
-            "Garen"
+            "Nunu",
+            "Olaf"
         ],
         [
             "Belveth",
@@ -126,6 +69,24 @@
             "Gangplank",
             "Master yi",
             "Nunu"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Malphite",
+            "Orianna"
+        ],
+        [
+            "Lissandra"
+        ],
+        [
+            "Chogath",
+            "Jhin",
+            "Karma",
+            "Lux",
+            "Thresh",
+            "Varus",
+            "Xerath"
         ]
     ]
 }

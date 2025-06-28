@@ -1,41 +1,60 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "coven"
+        "Support",
+        "ult execute",
+        "Season 7+"
     ],
     "cols": [
         "knock-up",
-        "Bilgewater",
-        "never played"
+        "Shadow Isles",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
+            "Maokai",
             "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
+            "Thresh"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Braum",
+            "Janna",
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
+        ],
+        [
+            "Chogath",
+            "Reksai",
+            "Riven"
+        ],
+        [
+            "Viego"
+        ],
+        [
+            "Jhin",
+            "Syndra"
         ],
         [
             "Belveth",
@@ -51,47 +70,15 @@
             "Yone"
         ],
         [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
             "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
             "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Vex",
+            "Viego"
         ],
         [
-            "Nami",
-            "Zyra"
-        ],
-        [
-            "Nami",
-            "Nilah"
-        ],
-        [
-            "Ashe",
-            "Elise",
-            "Evelynn",
-            "Morgana",
-            "Nami",
-            "Nilah",
-            "Zyra"
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

@@ -1,66 +1,87 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "global ult",
-        "PROJECT"
+        "Adc",
+        "dark star",
+        "Season 7+"
     ],
     "cols": [
+        "Ionia",
         "root",
-        "Shurima",
-        "0 games"
+        "100+ games"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
-        ],
-        [
-            "Ambessa",
-            "Illaoi"
-        ],
-        [
+            "Aphelios",
             "Caitlyn",
+            "Jhin",
             "Jinx",
-            "Lux",
-            "Maokai",
             "Mel",
-            "Ryze",
             "Senna",
-            "Soraka"
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Taliyah",
-            "Xerath"
-        ],
-        [
-            "Briar",
-            "Mel",
-            "Vex"
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
         ],
         [
             "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
+            "Karma",
             "Varus"
         ],
         [
-            "Jax",
-            "Renekton"
+            "Jhin",
+            "Karma",
+            "Lissandra",
+            "Lux",
+            "Shaco",
+            "Varus"
         ],
         [
-            "Master yi"
+            "Jarvan IV",
+            "Jhin",
+            "Orianna",
+            "Thresh",
+            "Varus"
+        ],
+        [
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Kaisa",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

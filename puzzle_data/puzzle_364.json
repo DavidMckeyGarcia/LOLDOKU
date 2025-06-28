@@ -1,68 +1,72 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "invis",
-        "OG40"
+        "Support",
+        "OG40",
+        "ult execute"
     ],
     "cols": [
-        "root",
-        "Freljord",
-        "arcane"
+        "Noxus",
+        "silence",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
+            "Alistar",
+            "Annie",
             "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
+            "Rell",
+            "Swain"
         ],
         [
-            "Ashe"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Mel"
-        ],
-        [
-            "LeBlanc",
-            "Neeko",
-            "Qiyana",
-            "Rengar",
-            "Senna",
-            "Shaco"
-        ],
-        [
-            "Aurora"
-        ],
-        [
-            "LeBlanc"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
+            "Blitzcrank",
+            "Lulu",
             "Soraka"
         ],
         [
-            "Anivia",
+            "Alistar",
             "Ashe",
-            "Nunu",
-            "Tryndamere"
+            "Braum",
+            "Janna",
+            "Leona",
+            "Lulu",
+            "Maokai",
+            "Rakan",
+            "Thresh"
         ],
         [
-            "Heimerdinger",
+            "Alistar",
+            "Annie",
+            "Katarina",
+            "Sion"
+        ],
+        [
+            "Blitzcrank",
+            "Chogath",
+            "Fiddlesticks",
+            "Kassadin",
+            "Soraka"
+        ],
+        [
+            "Alistar",
+            "Ashe",
             "Janna",
-            "Singed",
-            "Warwick"
+            "Jax",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Darius",
+            "Draven",
+            "Riven"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Jhin",
+            "Syndra"
         ]
     ]
 }

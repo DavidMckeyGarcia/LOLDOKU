@@ -1,74 +1,100 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "true damage",
-        "Season 7+"
+        "Support",
+        "shield",
+        "OG40"
     ],
     "cols": [
-        "Freljord",
-        "root",
-        "vastayan"
+        "knock-up",
+        "Targon",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Pyke",
             "Swain"
         ],
         [
-            "Ahri",
-            "Aurora",
-            "Neeko"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Diana",
+            "Galio",
             "Ivern",
+            "Janna",
+            "Jarvan IV",
             "Ksante",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nautilus",
+            "Neeko",
             "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Ahri"
-        ],
-        [
-            "Aurora",
-            "Ornn"
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Riven",
+            "Sion",
+            "Tahm kench",
+            "Vi",
+            "Yasuo",
+            "Yone"
         ],
         [
             "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Diana",
+            "Taric"
         ],
         [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Naafiri",
+            "Olaf",
+            "Sivir",
+            "Vex",
+            "Viktor"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

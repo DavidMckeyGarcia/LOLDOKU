@@ -1,70 +1,92 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "cosmic",
+        "Top",
+        "dash",
         "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Bilgewater",
-        "yordle"
+        "root",
+        "Demacia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
-            "Corki",
-            "Tristana",
-            "Ziggs"
+            "Aatrox",
+            "Darius",
+            "Olaf",
+            "Singed",
+            "Swain",
+            "Vayne"
         ],
         [
-            "Anivia",
-            "Belveth",
-            "Lulu",
-            "Nami",
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
             "Nautilus",
-            "Nunu",
-            "Rakan",
-            "Sion",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Fiora",
+            "Galio",
+            "Jarvan IV",
+            "Lucian",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sylas",
+            "Vayne",
             "Xin Zhao"
         ],
         [
-            "Illaoi",
-            "Nami",
-            "Nautilus"
+            "Aatrox",
+            "Ahri",
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vayne",
+            "Vex",
+            "Viego"
         ],
         [
-            "Lulu"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
+            "Morgana",
             "Nunu",
-            "Sion"
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Kayle",
+            "Morgana"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

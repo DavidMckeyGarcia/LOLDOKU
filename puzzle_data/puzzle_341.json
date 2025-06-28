@@ -1,86 +1,72 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
-        "coven",
+        "Support",
+        "ult execute",
         "OG40"
     ],
     "cols": [
+        "The Void",
         "stun",
-        "Noxus",
-        "never played"
+        "riot records"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
+            "Velkoz"
+        ],
+        [
+            "Alistar",
             "Annie",
-            "Aurelion Sol",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
             "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Gragas",
+            "Braum",
             "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
+            "Leona",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
             "Neeko",
-            "Orianna",
             "Pantheon",
-            "Qiyana",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
             "Velkoz",
-            "Viktor",
             "Xerath",
-            "Yone",
             "Zilean"
         ],
         [
-            "Ambessa",
-            "Annie",
-            "Cassiopeia",
-            "Katarina",
-            "LeBlanc",
-            "Mel",
-            "Swain",
-            "Talon",
-            "Vladimir"
+            "Senna",
+            "Sona"
         ],
         [
-            "Akshan",
-            "Brand",
             "Chogath",
-            "Heimerdinger",
-            "Naafiri"
+            "Reksai"
         ],
         [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
         ],
         [
-            "Cassiopeia",
-            "Elise",
-            "LeBlanc"
-        ],
-        [
-            "Ashe",
-            "Elise",
+            "Akali",
             "Evelynn",
-            "Morgana",
-            "Nami",
-            "Nilah",
-            "Zyra"
+            "Viego"
+        ],
+        [
+            "Chogath",
+            "Kassadin"
         ],
         [
             "Alistar",
@@ -102,32 +88,9 @@
             "Zilean"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
             "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
+            "Karthus",
+            "Kayle"
         ]
     ]
 }

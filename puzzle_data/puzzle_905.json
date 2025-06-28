@@ -1,87 +1,87 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "true damage",
-        "Season 7+"
+        "Adc",
+        "dark star",
+        "shield"
     ],
     "cols": [
         "knock-up",
-        "Freljord",
-        "0 games"
+        "Shadow Isles",
+        "riot records"
     ],
     "solutions": [
         [
-            "Alistar",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Kalista",
+            "Senna"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Chogath",
+            "Jarvan IV",
+            "Malphite",
+            "Orianna"
+        ],
+        [
+            "Thresh"
+        ],
+        [
+            "Mordekaiser"
+        ],
+        [
+            "Azir",
             "Blitzcrank",
             "Braum",
+            "Diana",
             "Galio",
+            "Ivern",
             "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Lee sin",
             "Lulu",
-            "Nami",
+            "Malphite",
             "Nautilus",
             "Neeko",
+            "Nunu",
+            "Orianna",
             "Poppy",
             "Rakan",
             "Rell",
+            "Riven",
+            "Sion",
             "Tahm kench",
-            "Velkoz",
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Mel",
-            "Milio"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
+            "Vi",
+            "Yasuo",
             "Yone"
         ],
         [
-            "Nunu",
-            "Olaf"
-        ],
-        [
-            "Akshan",
-            "Master yi",
-            "Samira"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Samira",
+            "Senna",
+            "Thresh",
             "Vex"
+        ],
+        [
+            "Aphelios",
+            "Ekko",
+            "Ksante",
+            "Kaisa",
+            "Mordekaiser",
+            "Olaf",
+            "Senna",
+            "Sett",
+            "Sona",
+            "Yasuo",
+            "Yone"
         ]
     ]
 }

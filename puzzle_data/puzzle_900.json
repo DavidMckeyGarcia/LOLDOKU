@@ -1,16 +1,22 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "iron",
     "rows": [
         "Mid",
-        "true damage",
-        "before s7"
+        "before s7",
+        "shield"
     ],
     "cols": [
+        "Targon",
         "slow",
-        "Piltover",
-        "riot records"
+        "30+ wins"
     ],
     "solutions": [
+        [
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
+        ],
         [
             "Ahri",
             "Akali",
@@ -62,62 +68,24 @@
             "Zoe"
         ],
         [
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
             "Ahri",
-            "Akali",
-            "Ekko",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Qiyana",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Belveth",
-            "Camille",
-            "Chogath",
+            "Azir",
             "Corki",
-            "Darius",
-            "Draven",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Ksante",
-            "Kogmaw",
-            "Lillia",
-            "Nunu",
-            "Olaf",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Sett",
-            "Syndra",
-            "Twitch",
-            "Urgot",
-            "Velkoz",
-            "Zoe"
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ],
         [
-            "Camille"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ksante",
-            "Olaf",
-            "Sett",
-            "Yone"
+            "Aurelion Sol",
+            "Diana",
+            "Leona",
+            "Pantheon",
+            "Soraka",
+            "Taric"
         ],
         [
             "Aatrox",
@@ -232,25 +200,81 @@
             "Zyra"
         ],
         [
-            "Caitlyn",
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna"
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ],
         [
-            "Ahri",
-            "Akali",
+            "Aphelios",
+            "Diana",
+            "Taric"
+        ],
+        [
+            "Aphelios",
+            "Azir",
+            "Braum",
+            "Camille",
+            "Diana",
             "Ekko",
-            "Evelynn",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
+            "Galio",
+            "Garen",
+            "Hwei",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Ksante",
+            "Kaisa",
+            "Karma",
+            "Kassadin",
+            "Kled",
+            "Lee sin",
+            "Lulu",
+            "Lux",
+            "Malphite",
+            "Mel",
+            "Milio",
             "Mordekaiser",
+            "Morgana",
+            "Naafiri",
+            "Nautilus",
+            "Nilah",
+            "Nocturne",
+            "Nunu",
             "Olaf",
+            "Orianna",
+            "Poppy",
+            "Rakan",
+            "Renata glasc",
+            "Rumble",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Shen",
+            "Sion",
+            "Sivir",
+            "Skarner",
             "Sona",
-            "Yasuo",
-            "Yorick"
+            "Tahm kench",
+            "Thresh",
+            "Udyr",
+            "Urgot",
+            "Vex",
+            "Viktor",
+            "Volibear",
+            "Yuumi"
+        ],
+        [
+            "Azir",
+            "Galio",
+            "Orianna",
+            "Viktor"
         ]
     ]
 }

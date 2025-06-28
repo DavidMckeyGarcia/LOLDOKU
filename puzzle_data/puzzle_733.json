@@ -1,92 +1,142 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "OG40",
-        "invis"
+        "prestige",
+        "ult execute"
     ],
     "cols": [
-        "stun",
-        "The Void",
-        "30+ wins"
+        "slow",
+        "Bandle City",
+        "shred"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
             "Ashe",
             "Bard",
-            "Blitzcrank",
             "Brand",
             "Braum",
+            "Galio",
             "Heimerdinger",
+            "Janna",
+            "Karma",
             "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
+            "Mel",
             "Milio",
             "Morgana",
             "Nami",
             "Nautilus",
-            "Neeko",
             "Pantheon",
             "Poppy",
             "Pyke",
-            "Rell",
+            "Rakan",
             "Renata glasc",
+            "Senna",
             "Seraphine",
             "Sona",
+            "Soraka",
+            "Swain",
             "Tahm kench",
-            "Taric",
             "Thresh",
             "Velkoz",
             "Xerath",
-            "Zilean"
+            "Yuumi",
+            "Zilean",
+            "Zyra"
         ],
         [
-            "Velkoz"
-        ],
-        [
-            "Galio"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
             "Heimerdinger",
-            "Jax",
+            "Lulu",
+            "Yuumi"
+        ],
+        [
+            "Rell"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Akali",
+            "Brand",
+            "Caitlyn",
+            "Camille",
+            "Cassiopeia",
+            "Darius",
+            "Diana",
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Garen",
+            "Jinx",
+            "Ksante",
+            "Kaisa",
+            "Kayle",
+            "Kayn",
+            "Kindred",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lulu",
+            "Lux",
+            "Malphite",
+            "Miss Fortune",
             "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Corki",
-            "Ryze"
-        ],
-        [
-            "Neeko",
+            "Pantheon",
             "Pyke",
             "Qiyana",
-            "Vayne",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Sett",
+            "Shaco",
+            "Sivir",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Sylas",
+            "Teemo",
+            "Thresh",
+            "Volibear",
+            "Yuumi",
+            "Zed",
+            "Zeri",
+            "Zoe",
+            "Zyra"
+        ],
+        [
+            "Fizz",
+            "Lulu",
+            "Teemo",
+            "Yuumi"
+        ],
+        [
+            "Evelynn",
+            "Garen",
+            "Zoe"
+        ],
+        [
+            "Akali",
+            "Chogath",
+            "Darius",
+            "Draven",
+            "Evelynn",
+            "Garen",
+            "Jhin",
+            "Jinx",
+            "Pyke",
+            "Reksai",
+            "Syndra",
+            "Urgot",
             "Viego"
         ],
         [
-            "Kaisa",
-            "Khazix",
-            "Reksai"
+            "Veigar"
         ],
         [
-            "LeBlanc"
+            "Evelynn",
+            "Garen"
         ]
     ]
 }

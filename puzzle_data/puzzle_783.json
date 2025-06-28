@@ -1,76 +1,94 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Mid",
-        "dash",
-        "Season 7+"
+        "Top",
+        "hextech",
+        "global ult"
     ],
     "cols": [
-        "fear",
-        "Shadow Isles",
-        "ult reset"
+        "Noxus",
+        "knock-up",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Karthus",
-            "Vex"
-        ],
-        [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
+            "Ambessa",
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
             "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Darius",
+            "Fiora",
+            "Vayne"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Sion",
+            "Swain"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Galio",
+            "Janna",
+            "Jarvan IV",
+            "Poppy",
+            "Sejuani",
+            "Sion",
+            "Ziggs"
+        ],
+        [
+            "Kogmaw",
+            "Tristana"
+        ],
+        [
             "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
+            "Draven",
+            "Kled",
+            "Mel",
+            "Sion"
         ],
         [
-            "Gwen",
-            "Hecarim",
-            "Maokai",
-            "Thresh",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Belveth",
-            "Naafiri",
-            "Pyke",
-            "Vayne",
-            "Vex",
-            "Viego"
-        ],
-        [
+            "Aurelion Sol",
             "Briar",
-            "Hwei",
-            "Vex"
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
         ],
         [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
-        ],
-        [
-            "Belveth",
-            "Naafiri",
-            "Pyke",
-            "Vex",
-            "Viego"
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Ryze"
         ]
     ]
 }

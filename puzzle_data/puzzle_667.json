@@ -1,87 +1,136 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "ult execute",
-        "prestige"
+        "Mid",
+        "pool party",
+        "before s7"
     ],
     "cols": [
         "knock-up",
-        "Noxus",
-        "riot records"
+        "Bandle City",
+        "yordle"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Chogath",
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Neeko",
+            "Orianna",
+            "Sylas",
+            "Taliyah",
+            "Velkoz",
+            "Yasuo",
+            "Yone",
             "Ziggs"
         ],
         [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Aphelios",
-            "Ezreal",
-            "Kaisa",
-            "Senna"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
         ],
         [
-            "Chogath",
+            "Braum",
+            "Jarvan IV",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
             "Reksai",
-            "Riven"
+            "Taliyah",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Darius",
-            "Draven",
-            "Riven"
+            "Heimerdinger",
+            "Lulu"
         ],
         [
-            "Akali",
-            "Evelynn",
-            "Viego"
+            "Heimerdinger",
+            "Lulu",
+            "Ziggs"
         ],
         [
             "Aatrox",
+            "Alistar",
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
+            "Blitzcrank",
+            "Braum",
+            "Chogath",
             "Diana",
             "Fizz",
-            "Ksante",
-            "Kayn",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
             "Lee sin",
             "Lulu",
             "Malphite",
-            "Neeko",
-            "Rakan",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Reksai",
             "Riven",
-            "Sylas",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
             "Yasuo",
+            "Zac",
+            "Ziggs",
             "Zyra"
         ],
         [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Lulu",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Evelynn",
-            "Ezreal",
-            "Ksante",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Qiyana",
-            "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo"
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

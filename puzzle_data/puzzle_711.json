@@ -1,76 +1,94 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "hextech",
-        "before s7"
+        "Jungle",
+        "shield",
+        "OG40"
     ],
     "cols": [
-        "Bandle City",
-        "fear",
-        "pentakill"
+        "root",
+        "Demacia",
+        "arcane"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Tristana"
-        ],
-        [
-            "Nocturne"
-        ],
-        [
-            "Kogmaw",
-            "Tristana"
-        ],
-        [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Lulu",
-            "Rumble",
-            "Teemo",
-            "Tristana",
-            "Veigar"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
             "Shaco",
-            "Urgot",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Jarvan IV",
+            "Morgana",
+            "Poppy",
+            "Shyvana",
+            "Sylas",
+            "Xin Zhao"
+        ],
+        [
+            "Ekko",
+            "Vi",
             "Warwick"
         ],
         [
-            "Akali",
-            "Darius",
-            "Ezreal",
-            "Fiora",
-            "Jinx",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "Janna",
+            "Mel",
+            "Orianna",
+            "Vi",
+            "Viktor"
+        ],
+        [
+            "Morgana",
+            "Nunu",
             "Ryze",
-            "Tristana",
-            "Twitch",
-            "Vayne"
+            "Shaco",
+            "Singed",
+            "Soraka"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
         ]
     ]
 }

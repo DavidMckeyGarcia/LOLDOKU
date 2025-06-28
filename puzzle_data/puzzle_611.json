@@ -1,93 +1,80 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "pool party",
-        "invis"
+        "Jungle",
+        "blink",
+        "OG40"
     ],
     "cols": [
-        "Zaun",
-        "stun",
+        "Piltover",
+        "knock-up",
         "arcane"
     ],
     "solutions": [
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
+            "Camille"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Lee sin",
+            "Nautilus",
+            "Nunu",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Ekko",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Ezreal"
+        ],
+        [
+            "Reksai",
+            "Tahm kench",
+            "Yasuo",
+            "Yone"
+        ],
+        [
+            "Ambessa",
+            "Ekko",
+            "LeBlanc"
+        ],
+        [
+            "Heimerdinger"
         ],
         [
             "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
+            "Anivia",
             "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
         ],
         [
             "Heimerdinger",
             "Janna",
-            "Mel"
-        ],
-        [
-            "Dr. Mundo",
-            "Orianna",
             "Singed",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Braum",
-            "Fiora",
-            "Heimerdinger",
-            "Leona",
-            "Orianna",
-            "Renekton",
-            "Sett",
-            "Syndra",
-            "Taliyah",
-            "Taric",
-            "Zac"
-        ],
-        [
-            "Caitlyn",
-            "Heimerdinger",
-            "Orianna",
-            "Singed"
-        ],
-        [
-            "Twitch"
-        ],
-        [
-            "Neeko",
-            "Pyke",
-            "Qiyana",
-            "Vayne",
-            "Viego"
-        ],
-        [
-            "LeBlanc"
+            "Warwick"
         ]
     ]
 }

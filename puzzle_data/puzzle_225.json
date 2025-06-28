@@ -1,55 +1,77 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "blink",
-        "OG40"
+        "Jungle",
+        "before s7",
+        "invis"
     ],
     "cols": [
-        "silence",
-        "Piltover",
-        "pentakill"
+        "Bilgewater",
+        "fear",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Camille",
-            "Heimerdinger",
-            "Jayce"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Kassadin"
-        ],
-        [
-            "Ezreal"
-        ],
-        [
-            "Ezreal",
-            "Ryze"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
+            "Briar",
             "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Warwick"
         ],
         [
-            "Heimerdinger"
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
         ],
         [
-            "Ryze",
-            "Tristana",
-            "Twitch"
+            "Fizz",
+            "Gangplank",
+            "Graves",
+            "Illaoi",
+            "Miss Fortune",
+            "Nami",
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Shaco"
+        ],
+        [
+            "Pyke",
+            "Vayne",
+            "Viego"
         ]
     ]
 }

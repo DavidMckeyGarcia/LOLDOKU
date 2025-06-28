@@ -1,16 +1,23 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "OG40",
-        "dash"
+        "pool party",
+        "shield"
     ],
     "cols": [
+        "Noxus",
         "knock-up",
-        "Zaun",
-        "ascended"
+        "tether"
     ],
     "solutions": [
+        [
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
         [
             "Alistar",
             "Blitzcrank",
@@ -29,93 +36,75 @@
             "Zyra"
         ],
         [
-            "Blitzcrank",
-            "Janna",
-            "Renata glasc"
-        ],
-        [
-            "Leona",
-            "Pantheon",
+            "Karma",
+            "Morgana",
+            "Renata glasc",
             "Taric",
-            "Xerath"
+            "Yuumi"
         ],
         [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
+            "Draven"
+        ],
+        [
+            "Braum",
+            "Jarvan IV",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Reksai",
+            "Taliyah",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Ambessa",
+            "Annie",
+            "Kled",
+            "Mel",
+            "Mordekaiser",
+            "Rell",
+            "Riven",
             "Sion"
         ],
         [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
-            "Singed",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Nasus",
-            "Taric"
-        ],
-        [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
             "Azir",
-            "Belveth",
+            "Blitzcrank",
             "Braum",
-            "Briar",
             "Diana",
-            "Fizz",
             "Galio",
-            "Gragas",
             "Ivern",
+            "Janna",
             "Jarvan IV",
             "Ksante",
-            "Kayn",
             "Lee sin",
+            "Lulu",
             "Malphite",
             "Nautilus",
-            "Ornn",
+            "Neeko",
+            "Nunu",
+            "Orianna",
             "Poppy",
             "Rakan",
-            "Reksai",
             "Rell",
             "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
+            "Sion",
+            "Tahm kench",
             "Vi",
-            "Wukong",
-            "Xin Zhao",
             "Yasuo",
-            "Yone",
-            "Zac",
-            "Ziggs"
+            "Yone"
         ],
         [
-            "Ekko",
-            "Urgot",
-            "Vi",
-            "Warwick",
-            "Zac",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Kayn",
-            "Leona",
-            "Naafiri",
-            "Pantheon",
-            "Renekton"
+            "Karma",
+            "Kled",
+            "Morgana",
+            "Nocturne",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
         ]
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "iron",
     "rows": [
         "Jungle",
-        "before s7",
-        "shield"
+        "empyrean",
+        "before s7"
     ],
     "cols": [
         "stun",
-        "Piltover",
-        "ult reset"
+        "Zaun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
@@ -44,13 +44,51 @@
             "Zac"
         ],
         [
-            "Camille"
+            "Dr. Mundo",
+            "Ekko",
+            "Vi",
+            "Warwick",
+            "Zac"
         ],
         [
             "Belveth",
+            "Briar",
+            "Ekko",
+            "Evelynn",
+            "Hecarim",
+            "Jax",
             "Master yi",
-            "Olaf",
-            "Viego"
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
+            "Zac"
+        ],
+        [
+            "Zac"
+        ],
+        [
+            "Jax",
+            "Jhin",
+            "Lux",
+            "Nocturne",
+            "Varus"
         ],
         [
             "Alistar",
@@ -112,69 +150,64 @@
             "Zilean"
         ],
         [
-            "Caitlyn",
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Singed",
-            "Sivir",
-            "Swain",
-            "Vayne",
-            "Viktor"
-        ],
-        [
-            "Ambessa",
-            "Annie",
             "Blitzcrank",
-            "Braum",
-            "Camille",
+            "Dr. Mundo",
             "Ekko",
-            "Ivern",
-            "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
+            "Janna",
+            "Jinx",
             "Orianna",
-            "Poppy",
-            "Rell",
-            "Renata glasc",
-            "Riven",
-            "Seraphine",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
+            "Singed",
+            "Twitch",
             "Urgot",
             "Vi",
             "Viktor",
-            "Volibear",
-            "Yone"
+            "Warwick",
+            "Zac",
+            "Ziggs"
         ],
         [
-            "Camille",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Naafiri",
-            "Olaf",
+            "Alistar",
+            "Ashe",
+            "Aurelion Sol",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Gangplank",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "Lux",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
             "Sivir",
-            "Vex",
-            "Viktor"
+            "Skarner",
+            "Tahm kench",
+            "Thresh",
+            "Tristana",
+            "Twisted fate",
+            "Varus",
+            "Veigar",
+            "Vi",
+            "Viktor",
+            "Vladimir",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xerath",
+            "Xin Zhao",
+            "Zilean"
         ]
     ]
 }

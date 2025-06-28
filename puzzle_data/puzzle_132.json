@@ -1,51 +1,36 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "challenger",
     "rows": [
-        "Jungle",
-        "shield",
-        "Season 7+"
+        "Mid",
+        "Season 7+",
+        "elderwood"
     ],
     "cols": [
         "fear",
-        "The Void",
+        "Shurima",
         "yordle"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Belveth",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
             "Hwei",
-            "Nocturne",
-            "Urgot",
             "Vex"
         ],
         [
-            "Kaisa",
-            "Kassadin"
+            "Akshan",
+            "Azir",
+            "Naafiri",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Kled",
-            "Lulu",
-            "Poppy",
-            "Rumble",
-            "Vex"
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar",
+            "Vex",
+            "Ziggs"
         ],
         [
             "Briar",
@@ -53,11 +38,22 @@
             "Vex"
         ],
         [
-            "Belveth",
-            "Kaisa"
+            "Akshan",
+            "Ksante",
+            "Naafiri"
         ],
         [
             "Vex"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Azir"
+        ],
+        [
+            "Gnar",
+            "Veigar"
         ]
     ]
 }

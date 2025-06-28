@@ -1,14 +1,14 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
         "Jungle",
-        "hextech",
-        "before s7"
+        "life steal",
+        "cosmic"
     ],
     "cols": [
         "root",
-        "Shurima",
-        "30+ wins"
+        "Shadow Isles",
+        "100+ games"
     ],
     "solutions": [
         [
@@ -25,75 +25,57 @@
             "Zyra"
         ],
         [
-            "Amumu",
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
+        ],
+        [
+            "Elise",
+            "Gragas",
+            "Graves",
+            "Jarvan IV",
             "Jax",
-            "Nasus",
-            "Rammus",
-            "Taliyah"
-        ],
-        [
-            "Taliyah"
-        ],
-        [
-            "Singed",
-            "Swain"
-        ],
-        [
-            "Amumu",
-            "Rammus",
-            "Renekton"
-        ],
-        [
-            "Galio"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
             "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
+            "Maokai",
+            "Rumble",
+            "Sejuani",
+            "Shen"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
             "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Senna"
+        ],
+        [
+            "Gwen",
+            "Senna",
+            "Viego"
         ],
         [
             "Aatrox",
-            "Amumu",
-            "Azir",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Renekton",
-            "Sivir",
-            "Taliyah",
-            "Xerath",
-            "Zilean"
+            "Lee sin"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
+            "Jhin",
             "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Lux",
+            "Nautilus",
+            "Nunu",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Jhin",
+            "Lulu",
+            "Rakan",
+            "Varus",
+            "Xayah"
         ]
     ]
 }

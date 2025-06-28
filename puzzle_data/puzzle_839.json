@@ -1,113 +1,131 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Adc",
-        "blink",
-        "before s7"
+        "Support",
+        "hextech",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Zaun",
-        "ult reset"
+        "Shurima",
+        "stun",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Sivir",
-            "Vayne"
-        ],
-        [
-            "Reksai",
-            "Tahm kench",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Ekko"
-        ],
-        [
-            "Master yi",
-            "Pyke",
-            "Viego"
-        ],
-        [
-            "Aatrox",
             "Alistar",
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
+            "Annie",
+            "Ashe",
+            "Bard",
             "Blitzcrank",
+            "Brand",
             "Braum",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
+            "Heimerdinger",
+            "Leona",
+            "Milio",
+            "Morgana",
             "Nami",
             "Nautilus",
-            "Nunu",
-            "Orianna",
+            "Neeko",
+            "Pantheon",
             "Poppy",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Sion",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
             "Tahm kench",
-            "Taliyah",
-            "Trundle",
+            "Taric",
+            "Thresh",
             "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Xerath",
+            "Zilean"
         ],
         [
+            "Alistar",
+            "Ashe",
             "Blitzcrank",
-            "Dr. Mundo",
-            "Ekko",
-            "Janna",
-            "Jinx",
-            "Orianna",
-            "Singed",
-            "Twitch",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Warwick",
-            "Zac",
-            "Ziggs"
+            "Karma",
+            "Lux",
+            "Milio",
+            "Neeko",
+            "Pantheon",
+            "Tahm kench",
+            "Thresh",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Singed",
+            "Amumu",
+            "Rammus",
+            "Renekton"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Malzahar",
+            "Poppy",
+            "Rammus",
+            "Renekton",
+            "Sejuani",
+            "Sion"
+        ],
+        [
+            "Alistar",
+            "Nocturne",
+            "Rammus",
+            "Tristana"
+        ],
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
             "Sivir",
-            "Swain",
-            "Vayne",
-            "Viktor"
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Evelynn",
+            "Gangplank",
+            "Jax",
+            "Master yi",
+            "Nunu",
+            "Rammus",
+            "Sivir",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ]
     ]
 }

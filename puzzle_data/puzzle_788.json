@@ -1,67 +1,120 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "Season 7+",
-        "cosmic"
+        "Adc",
+        "dash",
+        "before s7"
     ],
     "cols": [
-        "fear",
         "Bilgewater",
-        "100+ games"
+        "root",
+        "riot records"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Gangplank",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Aphelios",
+            "Ezreal",
+            "Kaisa",
+            "Senna"
+        ],
+        [
+            "Fizz",
+            "Graves",
             "Illaoi",
-            "Tahm kench"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
+            "Nautilus",
             "Nilah",
             "Pyke"
         ],
         [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Ezreal",
+            "Ksante",
             "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Kayn",
+            "Qiyana",
+            "Sett",
+            "Viego",
+            "Yasuo",
+            "Yone"
         ],
         [
-            "Hecarim"
-        ],
-        [
+            "Fizz",
+            "Gangplank",
+            "Graves",
             "Illaoi",
+            "Miss Fortune",
             "Nami",
-            "Nautilus"
+            "Nautilus",
+            "Tahm kench",
+            "Twisted fate"
         ],
         [
+            "Caitlyn",
+            "Ivern",
             "Jhin",
-            "Lulu",
-            "Rakan",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
             "Varus",
-            "Xayah"
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ekko",
+            "Evelynn",
+            "Ezreal",
+            "Karthus",
+            "Kayle",
+            "Mordekaiser",
+            "Olaf",
+            "Sona",
+            "Yasuo",
+            "Yorick"
         ]
     ]
 }

@@ -1,98 +1,71 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "ult execute",
-        "before s7"
+        "Support",
+        "OG40",
+        "empyrean"
     ],
     "cols": [
-        "Bilgewater",
+        "Demacia",
         "root",
-        "ult reset"
+        "0 games"
     ],
     "solutions": [
         [
-            "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Pyke"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Darius",
-            "Pyke",
-            "Viego"
-        ],
-        [
-            "Fizz",
-            "Gangplank",
-            "Graves",
-            "Illaoi",
-            "Miss Fortune",
-            "Nami",
-            "Nautilus",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
+            "Galio",
             "Lux",
             "Morgana",
+            "Poppy",
+            "Sona"
+        ],
+        [
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
             "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
             "Soraka",
             "Swain",
-            "Varus",
-            "Zac",
             "Zyra"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Master yi",
-            "Olaf",
+            "Mel",
+            "Milio"
+        ],
+        [
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Morgana",
+            "Nunu",
+            "Ryze",
+            "Shaco",
             "Singed",
-            "Sivir",
-            "Swain",
-            "Vayne",
-            "Viktor"
+            "Soraka"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Kayle",
+            "Lux"
+        ],
+        [
+            "Jhin",
+            "Ksante",
+            "Lux",
+            "Varus",
+            "Zac"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

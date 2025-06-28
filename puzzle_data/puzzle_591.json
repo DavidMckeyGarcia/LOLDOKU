@@ -1,31 +1,61 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
         "Mid",
         "before s7",
-        "shield"
+        "empyrean"
     ],
     "cols": [
+        "Demacia",
         "silence",
-        "Shadow Isles",
-        "pentakill"
+        "100% AP Ratio"
     ],
     "solutions": [
+        [
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
+        ],
         [
             "Chogath",
             "Kassadin",
             "Malzahar"
         ],
         [
-            "Karthus",
-            "Vex"
+            "Aurelion Sol",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Fizz",
+            "Karma",
+            "Lux",
+            "Neeko",
+            "Pantheon",
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Viktor",
+            "Vladimir",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Akali",
-            "Ezreal",
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
             "Lucian",
-            "Ryze",
-            "Tristana"
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
             "Blitzcrank",
@@ -37,40 +67,62 @@
             "Soraka"
         ],
         [
-            "Hecarim",
-            "Kalista",
-            "Karthus",
-            "Thresh",
-            "Yorick"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Ezreal",
-            "Fiora",
-            "Jinx",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Ryze",
-            "Tristana",
-            "Twitch",
-            "Vayne"
-        ],
-        [
+            "Alistar",
+            "Ashe",
+            "Aurelion Sol",
             "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
-        ],
-        [
-            "Senna",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Gangplank",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "Lux",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
+            "Rammus",
+            "Shen",
+            "Shyvana",
+            "Sivir",
+            "Skarner",
+            "Tahm kench",
             "Thresh",
-            "Vex"
+            "Tristana",
+            "Twisted fate",
+            "Varus",
+            "Veigar",
+            "Vi",
+            "Viktor",
+            "Vladimir",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xerath",
+            "Xin Zhao",
+            "Zilean"
         ],
         [
-            "Aphelios",
-            "Kaisa"
+            "Kayle",
+            "Lux"
+        ],
+        [
+            "Malzahar"
+        ],
+        [
+            "Jax",
+            "Jhin",
+            "Lux",
+            "Nocturne",
+            "Varus"
         ]
     ]
 }

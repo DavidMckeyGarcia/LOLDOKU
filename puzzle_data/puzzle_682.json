@@ -1,115 +1,75 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "true damage",
-        "OG40"
+        "Support",
+        "Season 7+",
+        "ult execute"
     ],
     "cols": [
-        "stun",
-        "The Void",
-        "100+ games"
+        "root",
+        "Ionia",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Camille",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Jax",
-            "Ksante",
-            "Kennen",
-            "Ornn",
-            "Pantheon",
-            "Poppy",
-            "Renekton",
-            "Riven",
-            "Sett",
-            "Sion",
-            "Skarner",
-            "Sylas",
-            "Tahm kench",
-            "Udyr",
-            "Urgot",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Chogath"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
+            "Karma",
+            "Leona",
+            "Lux",
             "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Amumu",
-            "Camille",
-            "Fiora",
-            "Ivern",
+            "Karma",
+            "Rakan"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
             "Ksante",
-            "Nunu",
-            "Pyke",
+            "Mel",
+            "Neeko",
             "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
             "Sett",
-            "Syndra",
-            "Urgot",
-            "Vayne",
-            "Velkoz",
+            "Xayah",
             "Yone"
         ],
         [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
+            "Vex"
         ],
         [
+            "Jhin",
+            "Jinx"
+        ],
+        [
+            "Akali",
+            "Jhin",
             "Syndra"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
+            "Veigar"
         ]
     ]
 }

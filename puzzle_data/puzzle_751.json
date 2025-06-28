@@ -1,96 +1,76 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "Season 7+",
-        "elderwood"
+        "Adc",
+        "OG40",
+        "Space Groove"
     ],
     "cols": [
-        "Bandle City",
-        "knock-up",
-        "100% AP Ratio"
+        "stun",
+        "Targon",
+        "yordle"
     ],
     "solutions": [
         [
+            "Ashe",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Aphelios"
+        ],
+        [
+            "Corki",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
             "Heimerdinger",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Chogath",
-            "Fiora",
-            "Gangplank",
-            "Gnar",
             "Jax",
-            "Pantheon",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Volibear",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
             "Warwick",
-            "Wukong"
+            "Zilean"
         ],
         [
-            "Yuumi"
+            "Soraka",
+            "Taric"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
-        ],
-        [
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Kaisa",
-            "Milio",
-            "Neeko",
-            "Smolder",
-            "Viego",
-            "Zeri"
-        ],
-        [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
             "Veigar"
         ],
         [
-            "Azir",
-            "Rakan",
-            "Reksai",
-            "Wukong"
+            "Blitzcrank",
+            "Gragas",
+            "Lissandra",
+            "Nami",
+            "Nunu",
+            "Taric",
+            "Twisted fate"
         ],
         [
-            "Gnar",
-            "Hecarim",
-            "Veigar",
-            "Wukong"
+            "Taric"
+        ],
+        [
+            "Lulu",
+            "Rumble",
+            "Teemo"
         ]
     ]
 }

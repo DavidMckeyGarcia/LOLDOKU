@@ -1,65 +1,131 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
         "Top",
-        "true damage",
-        "before s7"
+        "Season 7+",
+        "pool party"
     ],
     "cols": [
-        "silence",
-        "Bilgewater",
-        "0 games"
+        "stun",
+        "Noxus",
+        "manaless"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
             "Ambessa",
-            "Illaoi"
+            "Darius",
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Akshan",
-            "Master yi",
-            "Samira"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
+            "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
             "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Fizz",
-            "Gangplank",
-            "Graves",
-            "Illaoi",
-            "Miss Fortune",
-            "Nami",
-            "Nautilus",
-            "Tahm kench",
-            "Twisted fate"
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
+            "Neeko",
+            "Ornn",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
+            "Sylas",
+            "Viego",
+            "Yone"
         ],
         [
-            "Illaoi",
-            "Master yi"
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
+        ],
+        [
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Sett",
+            "Viego",
+            "Yone"
+        ],
+        [
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Draven"
+        ],
+        [
+            "Dr. Mundo",
+            "Lee sin",
+            "Reksai",
+            "Renekton",
+            "Sett",
+            "Zac"
         ]
     ]
 }

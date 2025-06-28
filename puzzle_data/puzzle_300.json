@@ -1,58 +1,52 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
-        "Support",
-        "shield",
-        "PROJECT"
+        "Adc",
+        "PROJECT",
+        "shield"
     ],
     "cols": [
         "stun",
-        "Demacia",
-        "tether"
+        "Bilgewater",
+        "shred"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Galio",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Corki",
+            "Kogmaw"
+        ],
+        [
+            "Ashe",
+            "Ekko",
+            "Fiora",
+            "Irelia",
+            "Jax",
+            "Leona",
+            "Pyke",
+            "Renekton",
+            "Sejuani",
+            "Sylas",
+            "Vayne",
+            "Vi",
+            "Warwick"
+        ],
+        [
+            "Gangplank",
+            "Pyke"
+        ],
+        [
+            "Mordekaiser",
+            "Renekton",
+            "Vi"
         ],
         [
             "Ambessa",
@@ -89,46 +83,19 @@
             "Yone"
         ],
         [
-            "Galio",
+            "Nautilus",
+            "Nilah",
+            "Tahm kench"
+        ],
+        [
             "Garen",
             "Jarvan IV",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
-            "Karma",
-            "Kled",
-            "Morgana",
-            "Nocturne",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
-        ],
-        [
-            "Ashe",
-            "Ekko",
-            "Fiora",
-            "Irelia",
-            "Jax",
-            "Leona",
-            "Pyke",
-            "Renekton",
-            "Sejuani",
-            "Sylas",
-            "Vayne",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Fiora",
-            "Lucian",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Sylas"
+            "Mordekaiser",
+            "Olaf",
+            "Rell",
+            "Rumble",
+            "Sion",
+            "Vi"
         ]
     ]
 }

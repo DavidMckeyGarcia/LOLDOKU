@@ -1,140 +1,93 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "true damage",
-        "Space Groove"
+        "invis",
+        "before s7"
     ],
     "cols": [
-        "slow",
-        "Demacia",
-        "yordle"
+        "Noxus",
+        "fear",
+        "shred"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
-            "Anivia",
-            "Aurelion Sol",
-            "Aurora",
-            "Azir",
-            "Brand",
+            "Ambessa",
+            "Annie",
             "Cassiopeia",
-            "Chogath",
-            "Corki",
-            "Diana",
-            "Ekko",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Heimerdinger",
-            "Hwei",
-            "Irelia",
-            "Jayce",
-            "Karma",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Lissandra",
-            "Lux",
+            "Katarina",
+            "LeBlanc",
             "Mel",
-            "Naafiri",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
             "Swain",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
             "Talon",
-            "Tristana",
-            "Twisted fate",
-            "Velkoz",
-            "Vex",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zed",
-            "Ziggs",
-            "Zilean",
+            "Vladimir"
+        ],
+        [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Corki",
+            "Jayce",
+            "Karthus",
             "Zoe"
         ],
         [
-            "Galio",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Sylas"
+            "LeBlanc",
+            "Talon"
         ],
         [
-            "Corki",
-            "Fizz",
-            "Heimerdinger",
-            "Tristana",
-            "Veigar",
-            "Vex",
-            "Ziggs"
+            "Shaco"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Belveth",
-            "Camille",
-            "Chogath",
-            "Corki",
+            "Rengar",
+            "Wukong"
+        ],
+        [
+            "Alistar",
+            "Annie",
+            "Cassiopeia",
             "Darius",
             "Draven",
-            "Fiora",
-            "Gangplank",
-            "Garen",
-            "Gwen",
-            "Ivern",
-            "Ksante",
-            "Kogmaw",
-            "Lillia",
-            "Nunu",
-            "Olaf",
-            "Pyke",
-            "Renata glasc",
-            "Samira",
-            "Sett",
-            "Syndra",
-            "Twitch",
+            "Elise",
+            "Katarina",
+            "Kled",
+            "LeBlanc",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain",
+            "Talon",
+            "Vladimir"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
             "Urgot",
-            "Velkoz",
-            "Zoe"
+            "Warwick"
         ],
         [
-            "Fiora",
+            "Corki",
+            "Evelynn",
             "Garen",
-            "Vayne"
-        ],
-        [
-            "Amumu",
-            "Corki"
-        ],
-        [
-            "Gragas",
-            "Lissandra",
-            "Lulu",
-            "Lux",
-            "Nami",
+            "Jarvan IV",
+            "Jayce",
+            "Karthus",
+            "Kogmaw",
+            "Mordekaiser",
             "Nasus",
-            "Nunu",
+            "Olaf",
+            "Renekton",
+            "Rengar",
             "Rumble",
-            "Samira",
-            "Teemo",
-            "Twisted fate"
-        ],
-        [
-            "Lux"
-        ],
-        [
-            "Lulu",
-            "Rumble",
-            "Teemo"
+            "Sion",
+            "Trundle",
+            "Vi",
+            "Wukong"
         ]
     ]
 }

@@ -1,81 +1,72 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "shield",
-        "before s7"
+        "Adc",
+        "Season 7+",
+        "empyrean"
     ],
     "cols": [
-        "fear",
-        "Freljord",
-        "vastayan"
+        "Zaun",
+        "root",
+        "ult reset"
     ],
     "solutions": [
         [
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Renata glasc",
+            "Zeri"
+        ],
+        [
+            "Aphelios",
             "Hwei",
-            "Vex"
-        ],
-        [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
-        ],
-        [
-            "Ahri",
-            "Aurora",
-            "Neeko"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Braum",
-            "Nunu",
-            "Olaf",
-            "Udyr",
-            "Volibear"
-        ],
-        [
+            "Ksante",
+            "Mel",
             "Neeko",
-            "Rakan"
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
+            "Belveth",
+            "Naafiri",
+            "Pyke",
+            "Vex",
+            "Viego"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Brand",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Lissandra",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Zac"
         ],
         [
-            "Ahri",
-            "Nami",
-            "Rengar",
-            "Wukong"
+            "Jhin",
+            "Ksante",
+            "Lux",
+            "Varus",
+            "Zac"
+        ],
+        [
+            "Pyke",
+            "Vex"
         ]
     ]
 }

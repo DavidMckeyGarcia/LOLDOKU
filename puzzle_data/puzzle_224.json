@@ -1,101 +1,124 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Jungle",
-        "before s7",
-        "cosmic"
+        "Support",
+        "life steal",
+        "elderwood"
     ],
     "cols": [
-        "root",
-        "Demacia",
-        "0 games"
+        "Freljord",
+        "stun",
+        "never played"
     ],
     "solutions": [
         [
-            "Ivern",
-            "Lee sin",
-            "Maokai",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac",
-            "Zyra"
+            "Ashe",
+            "Brand",
+            "Braum"
         ],
         [
-            "Jarvan IV",
-            "Morgana",
-            "Poppy",
-            "Shyvana",
-            "Sylas",
-            "Xin Zhao"
-        ],
-        [
-            "Briar",
-            "Master yi"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
             "Leona",
-            "Lissandra",
-            "Lux",
+            "Milio",
             "Morgana",
+            "Nami",
             "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Alistar",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
             "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
             "Zyra"
         ],
         [
-            "Fiora",
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Lucian",
-            "Lux",
+            "Olaf",
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
             "Morgana",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sona",
-            "Vayne",
-            "Xin Zhao"
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
             "Illaoi",
-            "Master yi"
+            "Kayn",
+            "Morgana",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Trundle",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
-            "Jhin",
-            "Lissandra",
-            "Lux",
-            "Nautilus",
-            "Nunu",
-            "Varus",
+            "Gnar"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Rakan",
+            "Reksai",
+            "Wukong",
             "Xayah"
-        ],
-        [
-            "Lux",
-            "Xin Zhao"
-        ],
-        [
-            "Illaoi",
-            "Master yi"
         ]
     ]
 }

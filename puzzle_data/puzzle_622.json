@@ -1,69 +1,115 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "arcade",
+        "Support",
+        "evolves",
         "Season 7+"
     ],
     "cols": [
+        "knock-up",
         "Demacia",
-        "stun",
-        "vastayan"
+        "never played"
     ],
     "solutions": [
         [
-            "Lucian",
-            "Vayne"
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
         ],
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Xayah"
-        ],
-        [
+            "Galio",
+            "Lux",
+            "Morgana",
+            "Poppy",
             "Sona"
         ],
         [
+            "Alistar",
+            "Ashe",
+            "Bard",
             "Blitzcrank",
             "Brand",
-            "Hecarim",
-            "Malzahar",
-            "Qiyana",
-            "Riven",
+            "Braum",
+            "Heimerdinger",
+            "Janna",
+            "Leona",
+            "Maokai",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
             "Sona",
-            "Veigar"
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
         ],
         [
-            "Ahri"
+            "Belveth",
+            "Kayn"
+        ],
+        [
+            "Kayle"
+        ],
+        [
+            "Bard",
+            "Belveth",
+            "Kayn"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
             "Sylas"
         ],
         [
-            "Ambessa",
+            "Akshan",
+            "Aphelios",
+            "Belveth",
             "Briar",
-            "Camille",
-            "Ksante",
+            "Gwen",
+            "Kayn",
+            "Lillia",
             "Milio",
-            "Neeko",
-            "Ornn",
+            "Naafiri",
+            "Nilah",
             "Pyke",
+            "Rakan",
             "Rell",
             "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
+            "Samira",
+            "Senna",
             "Viego",
-            "Yone"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rakan",
-            "Xayah"
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ]
     ]
 }

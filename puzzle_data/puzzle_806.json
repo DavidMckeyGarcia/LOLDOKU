@@ -1,99 +1,78 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "shield",
-        "Fright Night"
+        "Support",
+        "Season 7+",
+        "life steal"
     ],
     "cols": [
         "root",
-        "Bandle City",
-        "100% AP Ratio"
+        "Bilgewater",
+        "ascended"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Corki",
-            "Tristana"
-        ],
-        [
-            "Aphelios",
-            "Ashe",
-            "Corki",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Varus",
-            "Zeri"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
             "Karma",
-            "Lee sin",
+            "Leona",
             "Lux",
+            "Maokai",
             "Mel",
             "Morgana",
             "Nautilus",
             "Neeko",
-            "Nunu",
             "Renata glasc",
             "Senna",
-            "Seraphine"
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Lulu",
-            "Rumble",
-            "Yuumi"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
+        ],
+        [
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
             "Aphelios",
-            "Blitzcrank",
-            "Ekko",
-            "Kaisa",
-            "Karma",
-            "Lux",
-            "Milio",
+            "Hwei",
+            "Ksante",
+            "Mel",
             "Neeko",
-            "Nocturne",
-            "Nunu",
-            "Shen",
-            "Sivir",
-            "Skarner",
-            "Tahm kench",
-            "Thresh",
-            "Vi",
-            "Viktor",
-            "Volibear"
-        ],
-        [
-            "Nautilus",
-            "Nunu",
             "Renata glasc",
-            "Shaco"
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Veigar"
+            "Nilah",
+            "Pyke"
         ],
         [
-            "Nunu",
-            "Veigar",
-            "Zeri"
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Illaoi",
+            "Nilah"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus"
         ]
     ]
 }

@@ -1,57 +1,102 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
         "Jungle",
-        "dark star",
-        "ult execute"
+        "blink",
+        "OG40"
     ],
     "cols": [
-        "fear",
-        "Noxus",
-        "arcane"
+        "stun",
+        "Bilgewater",
+        "30+ wins"
     ],
     "solutions": [
         [
+            "Amumu",
+            "Brand",
             "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
-        ],
-        [
+            "Camille",
             "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
             "Vi",
-            "Warwick"
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Shaco"
+            "Graves",
+            "Nautilus"
         ],
         [
-            "Mordekaiser"
+            "Taliyah"
         ],
         [
-            "Orianna"
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
         ],
         [
-            "Darius",
-            "Urgot"
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate"
         ],
         [
-            "Darius",
-            "Draven",
-            "Riven"
+            "LeBlanc",
+            "Lissandra",
+            "Ryze"
         ],
         [
-            "Jinx"
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Corki",
+            "Ryze"
         ]
     ]
 }

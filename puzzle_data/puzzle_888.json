@@ -1,45 +1,32 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
         "Top",
-        "global ult",
-        "Season 7+"
+        "prestige",
+        "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Freljord",
+        "Ionia",
+        "fear",
         "ult reset"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
+            "Akali",
+            "Irelia",
             "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
+            "Kennen",
+            "Sett",
+            "Shen",
             "Wukong",
             "Yasuo",
-            "Yone",
-            "Zac"
+            "Yone"
         ],
         [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
             "Aatrox",
@@ -50,44 +37,42 @@
             "Vayne"
         ],
         [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
-            "Sion",
-            "Taliyah",
-            "Ziggs"
-        ],
-        [
-            "Ashe",
-            "Ornn"
-        ],
-        [
-            "Vex"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
+            "Ahri",
+            "Akali",
             "Kayn",
-            "Neeko",
-            "Ornn",
+            "Lee sin",
             "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Sett",
+            "Xayah",
+            "Yasuo",
+            "Zed"
         ],
         [
-            "Aurora",
-            "Ornn"
+            "Aatrox",
+            "Darius",
+            "Shaco"
         ],
         [
-            "Belveth",
-            "Naafiri",
+            "Aatrox",
+            "Ahri",
+            "Darius",
             "Pyke",
-            "Vex",
-            "Viego"
+            "Sivir",
+            "Swain",
+            "Vayne"
+        ],
+        [
+            "Master yi"
+        ],
+        [
+            "Fiddlesticks",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

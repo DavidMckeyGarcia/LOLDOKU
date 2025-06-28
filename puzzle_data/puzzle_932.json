@@ -1,66 +1,83 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
         "Support",
-        "ult execute",
-        "cosmic"
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
-        "root",
-        "Shadow Isles",
-        "yordle"
+        "knock-up",
+        "Bilgewater",
+        "arcane"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
+            "Alistar",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
             "Nautilus",
             "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
+            "Poppy",
+            "Rakan",
+            "Rell",
+            "Tahm kench",
+            "Velkoz",
             "Zyra"
         ],
         [
-            "Maokai",
-            "Senna",
-            "Thresh"
+            "Nami",
+            "Nautilus",
+            "Pyke",
+            "Tahm kench"
         ],
         [
             "Heimerdinger",
-            "Lulu",
-            "Poppy"
+            "Janna",
+            "Mel"
         ],
         [
-            "Jhin",
-            "Jinx"
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
         ],
         [
-            "Viego"
+            "Illaoi",
+            "Nilah"
         ],
         [
-            "Veigar"
+            "Ambessa",
+            "Warwick"
         ],
         [
-            "Jhin",
-            "Lissandra",
-            "Lux",
-            "Nautilus",
-            "Nunu",
-            "Varus",
-            "Xayah"
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
         ],
         [
-            "Hecarim"
+            "Nilah",
+            "Pyke"
         ],
         [
-            "Lulu"
+            "Ambessa",
+            "Mel"
         ]
     ]
 }

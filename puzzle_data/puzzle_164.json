@@ -1,152 +1,101 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "before s7",
-        "hextech"
+        "Adc",
+        "shield",
+        "OG40"
     ],
     "cols": [
-        "stun",
         "The Void",
-        "ascended"
+        "stun",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
             "Ashe",
-            "Bard",
+            "Seraphine",
+            "Vayne"
+        ],
+        [
+            "Sivir",
+            "Vayne"
+        ],
+        [
+            "Kaisa",
+            "Kassadin"
+        ],
+        [
+            "Ambessa",
+            "Annie",
             "Blitzcrank",
-            "Brand",
             "Braum",
-            "Heimerdinger",
-            "Leona",
+            "Camille",
+            "Ekko",
+            "Ivern",
+            "Ksante",
             "Milio",
             "Morgana",
-            "Nami",
             "Nautilus",
             "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
-        ],
-        [
-            "Velkoz"
-        ],
-        [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Cassiopeia",
-            "Ekko",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Gragas",
-            "Hecarim",
-            "Heimerdinger",
-            "Irelia",
-            "Ivern",
-            "Jax",
-            "Kennen",
-            "Leona",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Nautilus",
             "Nunu",
             "Orianna",
-            "Pantheon",
             "Poppy",
-            "Rammus",
-            "Renekton",
+            "Rell",
+            "Renata glasc",
             "Riven",
-            "Sejuani",
+            "Seraphine",
+            "Sett",
             "Sion",
             "Skarner",
             "Sona",
-            "Syndra",
             "Tahm kench",
-            "Taliyah",
             "Taric",
             "Thresh",
-            "Twisted fate",
             "Udyr",
             "Urgot",
-            "Vayne",
-            "Veigar",
-            "Velkoz",
             "Vi",
             "Viktor",
             "Volibear",
-            "Warwick",
-            "Xerath",
-            "Xin Zhao",
-            "Zac",
-            "Zilean"
+            "Yone"
+        ],
+        [
+            "Naafiri",
+            "Olaf",
+            "Sivir",
+            "Vex",
+            "Viktor"
         ],
         [
             "Chogath",
-            "Kassadin",
-            "Khazix",
-            "Kogmaw",
-            "Reksai",
-            "Velkoz"
-        ],
-        [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Leona",
-            "Nasus",
-            "Pantheon",
-            "Renekton",
-            "Taric",
-            "Varus",
-            "Xerath"
+            "Kassadin"
         ],
         [
             "Alistar",
             "Amumu",
             "Anivia",
             "Annie",
-            "Malzahar",
-            "Poppy",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
             "Rammus",
-            "Renekton",
-            "Sejuani",
-            "Sion"
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Kassadin",
-            "Kogmaw",
-            "Malzahar"
-        ],
-        [
-            "Renekton"
+            "Master yi",
+            "Singed",
+            "Sivir"
         ]
     ]
 }

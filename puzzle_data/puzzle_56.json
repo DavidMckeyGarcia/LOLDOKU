@@ -1,110 +1,69 @@
 {
-    "difficulty": "gold",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "Season 7+",
-        "coven"
+        "Support",
+        "OG40",
+        "ult execute"
     ],
     "cols": [
-        "stun",
+        "root",
         "Ionia",
         "arcane"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
             "Morgana",
             "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
-        ],
-        [
-            "Ivern",
-            "Kayn",
-            "Lee sin",
-            "Lillia",
-            "Master yi",
-            "Sett",
-            "Shen",
-            "Wukong"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
             "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
             "Renata glasc",
+            "Senna",
             "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Hwei",
-            "Kayn",
-            "Lillia",
-            "Rakan",
-            "Sett",
-            "Xayah",
-            "Yone"
+            "Karma",
+            "Rakan"
         ],
         [
-            "Ambessa",
+            "Heimerdinger",
+            "Janna",
             "Mel"
         ],
         [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
             "Morgana",
-            "Nami",
-            "Syndra"
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Ahri",
+            "Master yi"
+        ],
+        [
+            "Heimerdinger",
+            "Janna",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Jhin",
+            "Jinx"
+        ],
+        [
             "Akali",
+            "Jhin",
             "Syndra"
         ],
         [
-            "LeBlanc"
+            "Jinx"
         ]
     ]
 }

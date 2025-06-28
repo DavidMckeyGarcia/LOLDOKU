@@ -1,93 +1,64 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "pool party",
+        "Adc",
+        "prestige",
         "ult execute"
     ],
     "cols": [
+        "The Void",
         "stun",
-        "Zaun",
-        "100+ games"
+        "yordle"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
+            "Kaisa",
+            "Kogmaw"
+        ],
+        [
+            "Ashe",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
+            "Corki",
+            "Tristana",
             "Ziggs"
         ],
         [
-            "Azir",
-            "Ezreal",
-            "Gragas",
-            "Jayce",
-            "Lucian",
-            "Orianna",
-            "Ryze",
-            "Syndra",
-            "Tristana"
+            "Kaisa"
         ],
         [
-            "Braum",
+            "Brand",
+            "Camille",
+            "Cassiopeia",
             "Fiora",
-            "Heimerdinger",
+            "Jax",
+            "Ksante",
             "Leona",
-            "Orianna",
-            "Renekton",
+            "Lissandra",
+            "Morgana",
+            "Neeko",
+            "Pantheon",
+            "Pyke",
+            "Qiyana",
+            "Renata glasc",
+            "Riven",
             "Sett",
-            "Syndra",
-            "Taliyah",
-            "Taric",
-            "Zac"
+            "Sona",
+            "Sylas",
+            "Thresh",
+            "Vayne",
+            "Volibear"
         ],
         [
-            "Dr. Mundo",
-            "Orianna",
-            "Singed",
-            "Zac",
-            "Ziggs"
-        ],
-        [
-            "Braum",
-            "Caitlyn",
-            "Graves",
-            "Jarvan IV",
-            "Lee sin",
-            "Leona",
+            "Fizz",
             "Lulu",
-            "Orianna",
-            "Renekton",
-            "Syndra"
+            "Teemo"
+        ],
+        [
+            "Chogath",
+            "Reksai"
         ],
         [
             "Pyke",
@@ -98,12 +69,7 @@
             "Viego"
         ],
         [
-            "Jinx",
-            "Urgot"
-        ],
-        [
-            "Jhin",
-            "Syndra"
+            "Veigar"
         ]
     ]
 }

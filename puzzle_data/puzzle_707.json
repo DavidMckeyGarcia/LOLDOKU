@@ -1,67 +1,81 @@
 {
     "difficulty": "diamond",
     "rows": [
-        "Top",
-        "true damage",
-        "cosmic"
+        "Support",
+        "invis",
+        "dark star"
     ],
     "cols": [
-        "root",
-        "Bilgewater",
-        "yordle"
+        "Freljord",
+        "stun",
+        "tether"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
+            "Ashe",
+            "Brand",
+            "Braum"
         ],
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
-        ],
-        [
-            "Gnar",
+            "Alistar",
+            "Annie",
+            "Ashe",
+            "Bard",
+            "Blitzcrank",
+            "Brand",
+            "Braum",
             "Heimerdinger",
-            "Kennen",
-            "Kled",
-            "Poppy",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Amumu",
-            "Corki"
-        ],
-        [
-            "Jhin",
-            "Lissandra",
-            "Lux",
-            "Nautilus",
-            "Nunu",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Illaoi",
+            "Leona",
+            "Milio",
+            "Morgana",
             "Nami",
-            "Nautilus"
+            "Nautilus",
+            "Neeko",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rell",
+            "Renata glasc",
+            "Seraphine",
+            "Sona",
+            "Tahm kench",
+            "Taric",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Zilean"
         ],
         [
-            "Lulu"
+            "Karma",
+            "Morgana",
+            "Renata glasc",
+            "Taric",
+            "Yuumi"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Lissandra"
+        ],
+        [
+            "Lissandra",
+            "Orianna",
+            "Thresh",
+            "Xerath"
+        ],
+        [
+            "Karma"
         ]
     ]
 }

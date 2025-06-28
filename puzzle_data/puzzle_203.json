@@ -1,60 +1,52 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Top",
-        "Season 7+",
-        "global ult"
+        "Adc",
+        "global ult",
+        "arcade"
     ],
     "cols": [
-        "The Void",
+        "Ionia",
         "root",
-        "100+ games"
+        "never played"
     ],
     "solutions": [
         [
-            "Chogath"
-        ],
-        [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Belveth",
-            "Kaisa"
+            "Jhin",
+            "Varus",
+            "Xayah"
         ],
         [
             "Aphelios",
-            "Hwei",
-            "Ksante",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
             "Mel",
-            "Neeko",
-            "Renata glasc",
             "Senna",
             "Seraphine",
+            "Varus",
             "Xayah"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
+            "Zeri"
         ],
         [
-            "Kaisa"
+            "Lillia",
+            "Shen"
         ],
         [
             "Caitlyn",
@@ -68,12 +60,32 @@
         ],
         [
             "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
+            "Bard",
+            "Briar",
+            "Draven",
+            "Jinx",
+            "Kled",
+            "Lillia",
             "Maokai",
-            "Ryze",
-            "Shen"
+            "Senna",
+            "Shen",
+            "Soraka"
+        ],
+        [
+            "Ahri",
+            "Yasuo"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Miss Fortune",
+            "Sona"
         ]
     ]
 }

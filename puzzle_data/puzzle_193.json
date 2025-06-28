@@ -1,86 +1,139 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "bronze",
     "rows": [
         "Top",
         "global ult",
-        "hextech"
+        "before s7"
     ],
     "cols": [
-        "silence",
-        "The Void",
-        "never played"
+        "Demacia",
+        "fear",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Chogath"
-        ],
-        [
-            "Chogath",
-            "Dr. Mundo",
             "Fiora",
             "Garen",
-            "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
             "Jarvan IV",
-            "Kayn",
-            "Kennen",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Chogath",
+            "Fiora",
+            "Gangplank",
+            "Gnar",
+            "Jax",
+            "Pantheon",
             "Shen",
             "Skarner",
             "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
             "Volibear",
             "Warwick",
-            "Wukong",
-            "Yorick"
+            "Wukong"
         ],
         [
-            "Soraka"
+            "Galio",
+            "Lux"
         ],
         [
-            "Kaisa"
+            "Briar",
+            "Nocturne",
+            "Vex"
         ],
         [
             "Ashe",
-            "Bard",
+            "Aurelion Sol",
             "Briar",
-            "Draven",
+            "Ekko",
+            "Gangplank",
             "Jinx",
-            "Kled",
-            "Lillia",
-            "Maokai",
-            "Senna",
+            "Kaisa",
+            "Lux",
+            "Nocturne",
+            "Pantheon",
             "Shen",
-            "Soraka"
+            "Twisted fate",
+            "Xerath"
         ],
         [
-            "Kassadin",
-            "Malzahar"
+            "Fiora",
+            "Galio",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Morgana",
+            "Poppy",
+            "Quinn",
+            "Shyvana",
+            "Sona",
+            "Vayne",
+            "Xin Zhao"
         ],
         [
-            "Kassadin",
-            "Kogmaw",
-            "Malzahar"
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Janna",
-            "Jarvan IV",
+            "Ashe",
+            "Aurelion Sol",
+            "Blitzcrank",
+            "Chogath",
+            "Corki",
+            "Ekko",
+            "Evelynn",
+            "Fiora",
+            "Fizz",
+            "Gangplank",
+            "Gnar",
+            "Hecarim",
+            "Jax",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "Lux",
+            "Master yi",
+            "Nocturne",
+            "Nunu",
+            "Pantheon",
             "Rammus",
-            "Sejuani"
+            "Shen",
+            "Shyvana",
+            "Sivir",
+            "Skarner",
+            "Tahm kench",
+            "Thresh",
+            "Tristana",
+            "Twisted fate",
+            "Varus",
+            "Veigar",
+            "Vi",
+            "Viktor",
+            "Vladimir",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xerath",
+            "Xin Zhao",
+            "Zilean"
         ]
     ]
 }

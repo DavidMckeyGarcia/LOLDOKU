@@ -1,111 +1,68 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Mid",
-        "hextech",
-        "OG40"
+        "Support",
+        "OG40",
+        "hextech"
     ],
     "cols": [
-        "Freljord",
-        "stun",
-        "shred"
+        "The Void",
+        "root",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurora",
-            "Brand",
-            "Gragas",
-            "Lissandra"
+            "Velkoz"
         ],
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
+            "Karma",
+            "Leona",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Morgana",
+            "Nautilus",
             "Neeko",
-            "Orianna",
-            "Pantheon",
-            "Qiyana",
+            "Renata glasc",
+            "Senna",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Soraka",
+            "Swain",
+            "Zyra"
         ],
         [
-            "Corki",
-            "Jayce",
-            "Karthus",
-            "Zoe"
+            "Pyke",
+            "Swain"
         ],
         [
-            "Anivia",
-            "Sejuani"
+            "Chogath",
+            "Kassadin"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Malzahar",
-            "Poppy",
-            "Rammus",
-            "Renekton",
-            "Sejuani",
-            "Sion"
-        ],
-        [
-            "Jarvan IV",
-            "Kogmaw",
-            "Renekton",
-            "Sion"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
             "Morgana",
             "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Corki",
-            "Evelynn",
-            "Karthus",
-            "Nasus",
-            "Sion"
+            "Master yi",
+            "Singed",
+            "Sivir"
+        ],
+        [
+            "Kassadin",
+            "Kogmaw",
+            "Malzahar"
+        ],
+        [
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Singed",
+            "Swain"
         ]
     ]
 }

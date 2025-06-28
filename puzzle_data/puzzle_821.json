@@ -2,19 +2,15 @@
     "difficulty": "gold",
     "rows": [
         "Top",
-        "OG40",
-        "prestige"
+        "empyrean",
+        "life steal"
     ],
     "cols": [
-        "silence",
         "Demacia",
-        "100+ games"
+        "stun",
+        "riot records"
     ],
     "solutions": [
-        [
-            "Chogath",
-            "Garen"
-        ],
         [
             "Fiora",
             "Garen",
@@ -26,65 +22,83 @@
             "Vayne"
         ],
         [
-            "Aatrox",
+            "Ambessa",
+            "Camille",
+            "Fiora",
             "Gnar",
             "Gragas",
-            "Jarvan IV",
+            "Heimerdinger",
+            "Irelia",
             "Jax",
-            "Jayce",
-            "Maokai",
+            "Ksante",
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
             "Renekton",
-            "Rumble",
-            "Shen"
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Akali",
+            "Ksante",
+            "Kayle",
+            "Kayn",
+            "Mordekaiser",
+            "Olaf",
+            "Sett",
+            "Yasuo",
+            "Yone",
+            "Yorick"
         ],
         [
             "Kayle",
+            "Lux"
+        ],
+        [
+            "Brand",
+            "Jax",
+            "Ksante",
+            "Malzahar",
+            "Pyke",
+            "Zac"
+        ],
+        [
+            "Akali",
+            "Ksante",
+            "Kayle"
+        ],
+        [
             "Morgana"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Garen",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Kayle",
-            "Lucian",
-            "Lux",
+            "Ambessa",
+            "Briar",
+            "Ksante",
             "Morgana",
-            "Sona",
-            "Sylas",
-            "Vayne"
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
-            "Aatrox",
-            "Caitlyn",
-            "Ezreal",
-            "Jax",
-            "Kaisa",
-            "Lee sin",
-            "Leona",
-            "Lucian",
-            "Lulu",
-            "Rakan",
-            "Thresh",
-            "Xayah"
+            "Aphelios",
+            "Ksante",
+            "Kayn",
+            "Olaf",
+            "Senna",
+            "Viego"
         ]
     ]
 }

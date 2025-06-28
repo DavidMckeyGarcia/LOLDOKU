@@ -1,40 +1,16 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
         "Jungle",
-        "OG40",
-        "dark star"
+        "elderwood",
+        "before s7"
     ],
     "cols": [
-        "knock-up",
         "Shurima",
-        "arcane"
+        "root",
+        "30+ wins"
     ],
     "solutions": [
-        [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
-        ],
         [
             "Amumu",
             "Jax",
@@ -43,45 +19,81 @@
             "Taliyah"
         ],
         [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Alistar",
-            "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
             "Nunu",
-            "Sion"
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
+            "Taliyah"
+        ],
+        [
+            "Azir"
+        ],
+        [
+            "LeBlanc",
+            "Xayah"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "LeBlanc"
+        ],
+        [
+            "Aatrox",
             "Amumu",
+            "Azir",
             "Jax",
             "Nasus",
             "Rammus",
+            "Renekton",
             "Sivir",
+            "Taliyah",
+            "Xerath",
             "Zilean"
         ],
         [
-            "Heimerdinger",
-            "Janna",
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
             "Singed",
-            "Warwick"
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Chogath",
-            "Jarvan IV",
-            "Malphite",
-            "Orianna"
-        ],
-        [
-            "Xerath"
-        ],
-        [
-            "Orianna"
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ]
     ]
 }

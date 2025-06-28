@@ -1,19 +1,20 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
         "Support",
-        "Season 7+",
-        "coven"
+        "arcade",
+        "before s7"
     ],
     "cols": [
-        "Piltover",
+        "Ixtal",
         "root",
-        "tether"
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Heimerdinger",
-            "Seraphine"
+            "Milio",
+            "Neeko",
+            "Zyra"
         ],
         [
             "Karma",
@@ -32,44 +33,61 @@
             "Zyra"
         ],
         [
-            "Karma",
-            "Morgana",
-            "Renata glasc",
-            "Taric",
-            "Yuumi"
+            "Galio"
         ],
         [
-            "Camille",
-            "Seraphine"
+            "Qiyana"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Caitlyn",
+            "Qiyana"
         ],
         [
-            "Renata glasc",
-            "Sylas",
-            "Yuumi"
+            "Ahri",
+            "Corki"
         ],
         [
-            "Camille"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Morgana",
+            "Malphite",
+            "Nidalee",
+            "Rengar",
+            "Skarner",
             "Zyra"
         ],
         [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
             "LeBlanc",
-            "Morgana"
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
+            "Ryze",
+            "Taliyah",
+            "Viktor"
         ]
     ]
 }

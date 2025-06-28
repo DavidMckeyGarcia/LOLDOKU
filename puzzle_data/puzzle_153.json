@@ -1,80 +1,130 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "arcade",
-        "global ult"
+        "Support",
+        "cosmic",
+        "Season 7+"
     ],
     "cols": [
-        "Piltover",
-        "knock-up",
-        "tether"
+        "Freljord",
+        "slow",
+        "ascended"
     ],
     "solutions": [
         [
-            "Camille"
+            "Ashe",
+            "Brand",
+            "Braum"
         ],
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
+            "Ashe",
+            "Bard",
+            "Brand",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Milio",
+            "Morgana",
+            "Nami",
             "Nautilus",
-            "Nunu",
+            "Pantheon",
             "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Sona",
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
             "Zyra"
         ],
         [
-            "Fiddlesticks",
-            "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
-            "Caitlyn",
-            "Ezreal"
+            "Anivia",
+            "Lissandra",
+            "Nunu"
         ],
         [
+            "Anivia",
             "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
-        ],
-        [
-            "Malzahar"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal"
-        ],
-        [
-            "Aurelion Sol",
-            "Briar",
-            "Galio",
-            "Ornn",
+            "Hecarim",
+            "Illaoi",
+            "Jhin",
+            "Kassadin",
+            "Lissandra",
+            "Lulu",
+            "Lux",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Rakan",
             "Sion",
-            "Taliyah",
-            "Ziggs"
+            "Skarner",
+            "Varus",
+            "Vladimir",
+            "Xin Zhao"
         ],
         [
-            "Kled",
-            "Nocturne"
+            "Varus"
+        ],
+        [
+            "Aurora",
+            "Ornn"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Seraphine",
+            "Sett",
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
         ]
     ]
 }

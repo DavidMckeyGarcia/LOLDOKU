@@ -3,39 +3,45 @@
     "rows": [
         "Adc",
         "OG40",
-        "Fright Night"
+        "ult execute"
     ],
     "cols": [
+        "Zaun",
         "knock-up",
-        "Bilgewater",
-        "never played"
+        "100% AP Ratio"
     ],
     "solutions": [
+        [
+            "Jinx",
+            "Twitch",
+            "Zeri",
+            "Ziggs"
+        ],
         [
             "Kalista",
             "Samira",
             "Ziggs"
         ],
         [
-            "Miss Fortune",
-            "Nilah"
-        ],
-        [
             "Aphelios",
             "Ashe",
-            "Draven",
+            "Corki",
             "Jhin",
             "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
+            "Kaisa",
             "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
+            "Smolder",
+            "Tristana",
+            "Varus",
             "Zeri"
+        ],
+        [
+            "Blitzcrank",
+            "Dr. Mundo",
+            "Janna",
+            "Singed",
+            "Twitch",
+            "Warwick"
         ],
         [
             "Alistar",
@@ -48,48 +54,40 @@
             "Sion"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
-        ],
-        [
             "Alistar",
-            "Amumu",
             "Ashe",
             "Blitzcrank",
             "Chogath",
-            "Dr. Mundo",
+            "Corki",
             "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
+            "Gangplank",
+            "Jax",
+            "Master yi",
             "Nunu",
             "Rammus",
-            "Shaco",
             "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
+            "Tristana",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Nautilus",
-            "Nunu",
-            "Trundle"
+            "Jinx",
+            "Urgot"
         ],
         [
-            "Nautilus",
-            "Pyke"
+            "Chogath",
+            "Reksai",
+            "Riven"
         ],
         [
-            "Draven",
-            "Nunu",
-            "Pyke",
-            "Renata glasc",
-            "Shaco",
-            "Trundle",
-            "Zeri"
+            "Chogath",
+            "Evelynn",
+            "Jhin",
+            "Jinx",
+            "Veigar",
+            "Viego"
         ]
     ]
 }

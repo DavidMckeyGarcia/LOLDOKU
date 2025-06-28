@@ -3,14 +3,21 @@
     "rows": [
         "Support",
         "Season 7+",
-        "pool party"
+        "hextech"
     ],
     "cols": [
+        "Noxus",
         "root",
-        "Bandle City",
         "ascended"
     ],
     "solutions": [
+        [
+            "Alistar",
+            "Annie",
+            "Mel",
+            "Rell",
+            "Swain"
+        ],
         [
             "Karma",
             "Leona",
@@ -28,15 +35,19 @@
             "Zyra"
         ],
         [
-            "Heimerdinger",
-            "Lulu",
-            "Yuumi"
-        ],
-        [
             "Leona",
             "Pantheon",
             "Taric",
             "Xerath"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
             "Aphelios",
@@ -50,27 +61,21 @@
             "Xayah"
         ],
         [
-            "Yuumi"
-        ],
-        [
             "Kayn",
             "Naafiri"
         ],
         [
-            "Caitlyn",
-            "Lee sin",
-            "Leona",
+            "Alistar",
+            "Annie",
+            "Sion",
+            "Swain"
+        ],
+        [
             "Singed",
-            "Zac"
+            "Swain"
         ],
         [
-            "Heimerdinger",
-            "Lulu"
-        ],
-        [
-            "Leona",
-            "Renekton",
-            "Taric"
+            "Renekton"
         ]
     ]
 }

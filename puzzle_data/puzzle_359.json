@@ -1,70 +1,82 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Adc",
-        "PROJECT",
-        "blink"
+        "Top",
+        "life steal",
+        "empyrean"
     ],
     "cols": [
-        "root",
-        "Ionia",
-        "0 games"
+        "knock-up",
+        "Demacia",
+        "ascended"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Caitlyn",
-            "Jhin",
-            "Jinx",
-            "Mel",
-            "Senna",
-            "Seraphine",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Jhin",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Mel",
-            "Samira"
-        ],
-        [
-            "Jhin",
-            "Jinx",
-            "Leona",
-            "Senna",
-            "Varus"
-        ],
-        [
-            "Akali",
-            "Irelia",
-            "Jhin",
-            "Master yi",
-            "Varus",
-            "Yasuo",
-            "Zed"
-        ],
-        [
-            "Master yi"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Ryze"
-        ],
-        [
-            "Master yi",
-            "Shen",
+            "Aatrox",
+            "Chogath",
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
             "Yasuo",
             "Yone",
-            "Zed"
+            "Zac"
         ],
         [
-            "Ambessa",
-            "Master yi"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus",
+            "Pantheon",
+            "Renekton"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus"
+        ],
+        [
+            "Ksante",
+            "Zac"
+        ],
+        [
+            "Kayle",
+            "Lux"
+        ],
+        [
+            "Varus"
         ]
     ]
 }

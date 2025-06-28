@@ -1,98 +1,131 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Top",
-        "true damage",
-        "Season 7+"
+        "Adc",
+        "prestige",
+        "OG40"
     ],
     "cols": [
-        "Zaun",
         "knock-up",
-        "ult reset"
+        "Bandle City",
+        "never played"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Singed",
-            "Urgot",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Chogath",
-            "Gragas",
-            "Jarvan IV",
-            "Ksante",
-            "Kayn",
-            "Malphite",
-            "Ornn",
-            "Poppy",
-            "Riven",
-            "Sion",
-            "Sylas",
-            "Tahm kench",
-            "Trundle",
-            "Wukong",
-            "Yasuo",
-            "Yone",
-            "Zac"
-        ],
-        [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Renata glasc",
-            "Twitch",
-            "Urgot"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
+            "Kalista",
             "Samira",
-            "Velkoz",
-            "Yone"
+            "Ziggs"
         ],
         [
-            "Ahri",
-            "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Pyke",
-            "Vayne"
+            "Corki",
+            "Tristana"
         ],
         [
-            "Renata glasc",
+            "Aphelios",
+            "Ashe",
+            "Draven",
+            "Jhin",
+            "Jinx",
+            "Kalista",
+            "Miss Fortune",
+            "Nilah",
+            "Samira",
+            "Senna",
+            "Sivir",
+            "Twitch",
+            "Vayne",
+            "Xayah",
             "Zeri"
         ],
         [
-            "Belveth",
-            "Briar",
+            "Aatrox",
+            "Diana",
+            "Fizz",
             "Ksante",
             "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
             "Neeko",
-            "Ornn",
             "Rakan",
-            "Rell",
-            "Samira",
+            "Riven",
             "Sylas",
-            "Yone"
+            "Yasuo",
+            "Zyra"
         ],
         [
-            "Belveth",
-            "Naafiri",
+            "Fizz",
+            "Lulu",
+            "Teemo",
+            "Yuumi"
+        ],
+        [
+            "Brand",
+            "Evelynn",
+            "Fiora",
+            "Garen",
+            "Jinx",
+            "Kayn",
+            "Kindred",
+            "Leona",
+            "Malphite",
+            "Miss Fortune",
+            "Morgana",
             "Pyke",
-            "Vex",
-            "Viego"
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Sivir",
+            "Sona",
+            "Soraka",
+            "Teemo",
+            "Thresh",
+            "Vayne",
+            "Volibear",
+            "Xayah",
+            "Yuumi",
+            "Zeri",
+            "Zyra"
+        ],
+        [
+            "Alistar",
+            "Anivia",
+            "Blitzcrank",
+            "Chogath",
+            "Janna",
+            "Malphite",
+            "Nunu",
+            "Sion"
+        ],
+        [
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Ashe",
+            "Blitzcrank",
+            "Chogath",
+            "Dr. Mundo",
+            "Evelynn",
+            "Fiddlesticks",
+            "Heimerdinger",
+            "Janna",
+            "Malphite",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Shaco",
+            "Sivir",
+            "Soraka",
+            "Teemo",
+            "Twitch",
+            "Warwick"
         ]
     ]
 }

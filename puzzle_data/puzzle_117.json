@@ -1,151 +1,80 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "dash",
-        "dark star"
+        "Support",
+        "arcade",
+        "shield"
     ],
     "cols": [
+        "Piltover",
         "root",
-        "Freljord",
-        "never played"
+        "ult reset"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Gnar",
-            "Gragas",
-            "Olaf",
-            "Ornn",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
-            "Gnar",
-            "Gwen",
             "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
-            "Kayn",
-            "Kennen",
-            "Kled",
-            "Malphite",
+            "Seraphine"
+        ],
+        [
+            "Karma",
+            "Leona",
+            "Lux",
             "Maokai",
-            "Mordekaiser",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
-            "Trundle",
-            "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Yorick"
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Soraka",
+            "Swain",
+            "Zyra"
+        ],
+        [
+            "Pyke",
+            "Swain"
         ],
         [
             "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Caitlyn",
+            "Qiyana"
+        ],
+        [
+            "Ahri",
+            "Belveth"
+        ],
+        [
+            "Camille",
+            "Orianna",
+            "Seraphine"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
             "Ivern",
             "Ksante",
-            "Lee sin",
-            "Leona",
-            "Maokai",
-            "Nautilus",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
-            "Zac"
-        ],
-        [
-            "Aurora",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Ornn",
-            "Sejuani",
-            "Tryndamere",
-            "Volibear"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Bard",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Elise",
-            "Fiora",
-            "Gnar",
-            "Graves",
-            "Gwen",
-            "Hecarim",
-            "Illaoi",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Kindred",
-            "Kled",
-            "Leona",
-            "Lillia",
-            "Malphite",
-            "Maokai",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rammus",
-            "Reksai",
-            "Rell",
-            "Rengar",
-            "Samira",
-            "Sejuani",
-            "Shaco",
-            "Shen",
-            "Shyvana",
-            "Thresh",
-            "Vayne",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Xin Zhao",
-            "Yuumi",
-            "Zeri"
-        ],
-        [
-            "Jhin",
             "Karma",
-            "Lissandra",
+            "Lee sin",
             "Lux",
-            "Shaco",
-            "Varus"
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
         ],
         [
-            "Lissandra"
-        ],
-        [
-            "Chogath",
-            "Jarvan IV",
-            "Jhin",
-            "Malphite",
-            "Mordekaiser",
-            "Shaco",
-            "Thresh"
+            "Naafiri",
+            "Olaf",
+            "Sivir",
+            "Vex",
+            "Viktor"
         ]
     ]
 }

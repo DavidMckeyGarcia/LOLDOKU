@@ -1,50 +1,35 @@
 {
-    "difficulty": "silver",
+    "difficulty": "gold",
     "rows": [
         "Mid",
-        "prestige",
-        "Season 7+"
+        "before s7",
+        "elderwood"
     ],
     "cols": [
-        "stun",
-        "Targon",
+        "root",
+        "Freljord",
         "ascended"
     ],
     "solutions": [
         [
-            "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
-            "Ekko",
-            "Gragas",
-            "Heimerdinger",
-            "Irelia",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
             "Lissandra",
-            "Malzahar",
+            "Lux",
+            "Mel",
             "Neeko",
-            "Orianna",
-            "Pantheon",
             "Qiyana",
+            "Ryze",
             "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
+            "Swain"
         ],
         [
-            "Aurelion Sol",
-            "Diana",
-            "Pantheon",
-            "Zoe"
+            "Anivia",
+            "Aurora",
+            "Brand",
+            "Gragas",
+            "Lissandra"
         ],
         [
             "Azir",
@@ -54,66 +39,67 @@
             "Xerath"
         ],
         [
-            "Brand",
-            "Camille",
-            "Cassiopeia",
-            "Fiora",
-            "Jax",
-            "Ksante",
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
             "Leona",
             "Lissandra",
+            "Lux",
             "Morgana",
-            "Neeko",
-            "Pantheon",
-            "Pyke",
-            "Qiyana",
-            "Renata glasc",
-            "Riven",
-            "Sett",
-            "Sona",
-            "Sylas",
-            "Thresh",
-            "Vayne",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Brand",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Lissandra",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
             "Volibear"
         ],
         [
-            "Diana",
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Zoe"
-        ],
-        [
             "Aatrox",
+            "Azir",
             "Diana",
-            "Kayn",
             "Leona",
-            "Pantheon"
+            "Nasus",
+            "Pantheon",
+            "Renekton",
+            "Taric",
+            "Varus",
+            "Xerath"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
+            "LeBlanc",
+            "Xayah"
         ],
         [
-            "Aphelios",
-            "Zoe"
+            "Gnar"
         ],
         [
-            "Kayn",
-            "Naafiri"
+            "Azir"
         ]
     ]
 }

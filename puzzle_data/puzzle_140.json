@@ -1,70 +1,135 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "ult execute"
+        "Top",
+        "true damage",
+        "prestige"
     ],
     "cols": [
-        "Zaun",
-        "stun",
-        "yordle"
+        "The Void",
+        "root",
+        "never played"
     ],
     "solutions": [
         [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
+            "Chogath"
         ],
         [
-            "Ashe",
-            "Seraphine",
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Chogath",
+            "Dr. Mundo",
+            "Fiora",
+            "Garen",
+            "Gnar",
+            "Gwen",
+            "Heimerdinger",
+            "Illaoi",
+            "Jarvan IV",
+            "Kayn",
+            "Kennen",
+            "Kled",
+            "Malphite",
+            "Maokai",
+            "Mordekaiser",
+            "Shen",
+            "Skarner",
+            "Tahm kench",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Yorick"
+        ],
+        [
+            "Belveth",
+            "Chogath",
+            "Kogmaw",
+            "Velkoz"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
             "Vayne"
         ],
         [
-            "Corki",
-            "Tristana",
-            "Ziggs"
+            "Kaisa"
         ],
         [
-            "Renata glasc",
-            "Zeri"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Vex"
-        ],
-        [
+            "Caitlyn",
             "Jinx",
-            "Urgot"
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
         ],
         [
+            "Brand",
+            "Evelynn",
+            "Fiora",
+            "Garen",
+            "Jinx",
+            "Kayn",
+            "Kindred",
+            "Leona",
+            "Malphite",
+            "Miss Fortune",
+            "Morgana",
             "Pyke",
-            "Riven",
-            "Syndra",
-            "Urgot",
-            "Veigar",
-            "Viego"
-        ],
-        [
-            "Veigar"
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Shaco",
+            "Sivir",
+            "Sona",
+            "Soraka",
+            "Teemo",
+            "Thresh",
+            "Vayne",
+            "Volibear",
+            "Xayah",
+            "Yuumi",
+            "Zeri",
+            "Zyra"
         ]
     ]
 }

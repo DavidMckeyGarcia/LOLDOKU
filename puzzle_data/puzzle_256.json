@@ -1,91 +1,121 @@
 {
-    "difficulty": "gold",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "true damage",
-        "Season 7+"
+        "Jungle",
+        "Season 7+",
+        "coven"
     ],
     "cols": [
-        "knock-up",
-        "Zaun",
-        "pentakill"
+        "stun",
+        "Ionia",
+        "shred"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Chogath",
-            "Diana",
-            "Fizz",
-            "Galio",
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
             "Gragas",
-            "Neeko",
-            "Orianna",
+            "Hecarim",
+            "Ivern",
+            "Jax",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
             "Sylas",
             "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
-            "Ziggs"
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Ekko",
-            "Orianna",
-            "Viktor",
-            "Ziggs"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Belveth",
-            "Chogath",
             "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Renata glasc",
-            "Twitch",
-            "Urgot"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Kogmaw",
-            "Twitch",
-            "Vayne"
-        ],
-        [
-            "Belveth",
-            "Briar",
-            "Ksante",
             "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
+        ],
+        [
+            "Briar",
+            "Evelynn",
+            "Jarvan IV",
+            "Karthus",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Rell",
+            "Rengar",
+            "Rumble",
+            "Trundle",
+            "Vi",
+            "Wukong"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Camille",
+            "Ksante",
+            "Milio",
             "Neeko",
             "Ornn",
-            "Rakan",
+            "Pyke",
             "Rell",
-            "Samira",
+            "Renata glasc",
+            "Seraphine",
+            "Sett",
             "Sylas",
+            "Viego",
             "Yone"
         ],
         [
-            "Renata glasc",
-            "Zeri"
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
+            "Sett",
+            "Xayah",
+            "Yone"
         ],
         [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
+            "Briar",
+            "Rell",
+            "Zoe"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Syndra"
+        ],
+        [
+            "Evelynn"
         ]
     ]
 }

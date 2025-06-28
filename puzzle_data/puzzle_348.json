@@ -1,71 +1,37 @@
 {
-    "difficulty": "silver",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "life steal",
-        "Season 7+"
+        "Season 7+",
+        "life steal"
     ],
     "cols": [
-        "slow",
-        "The Void",
+        "knock-up",
+        "Bilgewater",
         "tether"
     ],
     "solutions": [
         [
-            "Ahri",
-            "Akali",
             "Anivia",
             "Aurelion Sol",
-            "Aurora",
             "Azir",
-            "Brand",
-            "Cassiopeia",
             "Chogath",
-            "Corki",
             "Diana",
-            "Ekko",
             "Fizz",
             "Galio",
             "Gragas",
-            "Heimerdinger",
-            "Hwei",
-            "Irelia",
-            "Jayce",
-            "Karma",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Naafiri",
+            "Neeko",
             "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain",
             "Sylas",
-            "Syndra",
             "Taliyah",
-            "Talon",
-            "Tristana",
-            "Twisted fate",
             "Velkoz",
-            "Vex",
-            "Viktor",
-            "Vladimir",
-            "Xerath",
-            "Zed",
-            "Ziggs",
-            "Zilean",
-            "Zoe"
+            "Yasuo",
+            "Yone",
+            "Ziggs"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
+            "Fizz",
+            "Twisted fate"
         ],
         [
             "Karma",
@@ -74,76 +40,46 @@
             "Sylas"
         ],
         [
-            "Aatrox",
-            "Aphelios",
             "Belveth",
             "Briar",
-            "Gwen",
-            "Illaoi",
             "Ksante",
             "Kayn",
-            "Lee sin",
-            "Morgana",
-            "Nasus",
-            "Nilah",
-            "Olaf",
-            "Samira",
-            "Senna",
-            "Sion",
-            "Trundle",
-            "Udyr",
-            "Viego",
-            "Vladimir",
-            "Warwick"
-        ],
-        [
-            "Belveth"
-        ],
-        [
-            "Aatrox",
-            "Illaoi",
-            "Morgana"
-        ],
-        [
-            "Aphelios",
-            "Aurora",
-            "Belveth",
-            "Briar",
-            "Camille",
-            "Gwen",
-            "Hwei",
-            "Ksante",
-            "Kaisa",
-            "Kayn",
-            "Lillia",
-            "Mel",
-            "Milio",
-            "Naafiri",
-            "Nilah",
+            "Neeko",
             "Ornn",
-            "Pyke",
             "Rakan",
-            "Renata glasc",
+            "Rell",
             "Samira",
-            "Senna",
-            "Seraphine",
-            "Sett",
-            "Smolder",
             "Sylas",
-            "Vex",
-            "Viego",
-            "Yuumi",
-            "Zeri",
-            "Zoe"
+            "Yone"
         ],
         [
-            "Belveth",
-            "Kaisa"
+            "Nilah",
+            "Pyke"
         ],
         [
             "Renata glasc",
             "Sylas",
             "Yuumi"
+        ],
+        [
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Illaoi",
+            "Nilah"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Morgana"
         ]
     ]
 }

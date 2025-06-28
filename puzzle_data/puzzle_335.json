@@ -1,99 +1,102 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "silver",
     "rows": [
         "Top",
         "OG40",
-        "dark star"
+        "true damage"
     ],
     "cols": [
-        "fear",
-        "The Void",
-        "never played"
+        "Freljord",
+        "knock-up",
+        "shred"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Chogath"
-        ],
-        [
-            "Chogath",
-            "Dr. Mundo",
-            "Fiora",
-            "Garen",
             "Gnar",
-            "Gwen",
-            "Heimerdinger",
-            "Illaoi",
-            "Jarvan IV",
-            "Kayn",
-            "Kennen",
-            "Kled",
-            "Malphite",
-            "Maokai",
-            "Mordekaiser",
-            "Shen",
-            "Skarner",
-            "Tahm kench",
-            "Teemo",
+            "Gragas",
+            "Olaf",
+            "Ornn",
             "Trundle",
+            "Tryndamere",
             "Udyr",
-            "Vayne",
-            "Volibear",
-            "Warwick",
-            "Wukong",
-            "Yorick"
+            "Volibear"
         ],
         [
-            "Fiddlesticks",
-            "Shaco",
-            "Warwick"
-        ],
-        [
+            "Aatrox",
             "Chogath",
-            "Kassadin"
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Garen",
+            "Jarvan IV",
+            "Jayce",
+            "Mordekaiser",
+            "Nasus",
+            "Olaf",
+            "Renekton",
+            "Rumble",
+            "Sion",
+            "Trundle",
+            "Wukong"
+        ],
+        [
+            "Anivia",
+            "Ashe",
+            "Nunu",
+            "Tryndamere"
         ],
         [
             "Alistar",
-            "Amumu",
-            "Ashe",
+            "Anivia",
             "Blitzcrank",
             "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
             "Janna",
             "Malphite",
-            "Morgana",
             "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
+            "Sion"
         ],
         [
-            "Shaco"
+            "Corki",
+            "Evelynn",
+            "Karthus",
+            "Nasus",
+            "Sion"
         ],
         [
+            "Nunu",
+            "Olaf"
+        ],
+        [
+            "Belveth",
             "Chogath",
-            "Khazix"
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Samira",
+            "Velkoz",
+            "Yone"
         ],
         [
-            "Chogath",
-            "Jarvan IV",
-            "Jhin",
-            "Malphite",
-            "Mordekaiser",
-            "Shaco",
-            "Thresh"
+            "Corki",
+            "Garen",
+            "Kogmaw",
+            "Olaf",
+            "Zoe"
         ]
     ]
 }

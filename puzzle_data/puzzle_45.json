@@ -1,65 +1,123 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
         "Support",
-        "OG40",
-        "arcade"
+        "before s7",
+        "Fright Night"
     ],
     "cols": [
-        "Noxus",
-        "silence",
-        "yordle"
+        "knock-up",
+        "Freljord",
+        "ult reset"
     ],
     "solutions": [
         [
             "Alistar",
-            "Annie",
-            "Mel",
+            "Blitzcrank",
+            "Braum",
+            "Galio",
+            "Janna",
+            "Lulu",
+            "Nami",
+            "Nautilus",
+            "Neeko",
+            "Poppy",
+            "Rakan",
             "Rell",
+            "Tahm kench",
+            "Velkoz",
+            "Zyra"
+        ],
+        [
+            "Ashe",
+            "Brand",
+            "Braum"
+        ],
+        [
+            "Pyke",
             "Swain"
         ],
         [
-            "Blitzcrank",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Heimerdinger",
-            "Lulu",
-            "Poppy"
-        ],
-        [
+            "Aatrox",
             "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
-        ],
-        [
+            "Anivia",
+            "Aurelion Sol",
+            "Azir",
             "Blitzcrank",
+            "Braum",
             "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
+            "Diana",
+            "Fizz",
+            "Galio",
+            "Gragas",
+            "Ivern",
+            "Janna",
+            "Jarvan IV",
+            "Kalista",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Nami",
+            "Nautilus",
+            "Nunu",
+            "Orianna",
+            "Poppy",
+            "Reksai",
+            "Riven",
+            "Sejuani",
+            "Sion",
+            "Tahm kench",
+            "Taliyah",
+            "Trundle",
+            "Velkoz",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
+            "Yasuo",
+            "Zac",
+            "Ziggs",
+            "Zyra"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Anivia",
+            "Ashe",
+            "Brand",
+            "Braum",
+            "Gnar",
+            "Gragas",
+            "Kindred",
+            "Lissandra",
+            "Nunu",
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Riven"
+            "Aatrox",
+            "Ahri",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Singed",
+            "Sivir",
+            "Swain",
+            "Vayne",
+            "Viktor"
         ],
         [
-            "Blitzcrank",
-            "Malzahar"
+            "Nautilus",
+            "Nunu",
+            "Trundle"
         ],
         [
-            "Corki",
-            "Veigar",
-            "Ziggs"
+            "Nunu",
+            "Trundle"
+        ],
+        [
+            "Pyke"
         ]
     ]
 }

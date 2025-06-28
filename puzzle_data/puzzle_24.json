@@ -1,21 +1,16 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
         "Support",
-        "arcade",
-        "Season 7+"
+        "Season 7+",
+        "global ult"
     ],
     "cols": [
-        "Shadow Isles",
         "slow",
-        "shred"
+        "Piltover",
+        "ascended"
     ],
     "solutions": [
-        [
-            "Maokai",
-            "Senna",
-            "Thresh"
-        ],
         [
             "Ashe",
             "Bard",
@@ -53,32 +48,14 @@
             "Zyra"
         ],
         [
-            "Rell"
+            "Heimerdinger",
+            "Seraphine"
         ],
         [
-            "Hecarim"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Brand",
-            "Caitlyn",
-            "Corki",
-            "Hecarim",
-            "Kaisa",
-            "Miss Fortune",
-            "Qiyana",
-            "Sona",
-            "Ziggs"
-        ],
-        [
-            "Corki"
-        ],
-        [
-            "Gwen",
-            "Senna",
-            "Vex",
-            "Viego"
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
             "Aphelios",
@@ -113,9 +90,52 @@
             "Zoe"
         ],
         [
+            "Camille",
+            "Seraphine"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Ashe",
+            "Aurelion Sol",
+            "Bard",
             "Briar",
-            "Rell",
-            "Zoe"
+            "Caitlyn",
+            "Draven",
+            "Ekko",
+            "Galio",
+            "Gangplank",
+            "Jinx",
+            "Kaisa",
+            "Karthus",
+            "Kled",
+            "Lillia",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Nocturne",
+            "Ornn",
+            "Pantheon",
+            "Ryze",
+            "Senna",
+            "Shen",
+            "Sion",
+            "Soraka",
+            "Taliyah",
+            "Twisted fate",
+            "Vex",
+            "Xerath",
+            "Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Ezreal"
+        ],
+        [
+            "Pantheon",
+            "Xerath"
         ]
     ]
 }

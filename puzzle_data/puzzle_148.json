@@ -1,56 +1,70 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "OG40",
-        "global ult"
+        "Adc",
+        "elderwood",
+        "true damage"
     ],
     "cols": [
-        "The Void",
-        "silence",
-        "pentakill"
+        "Freljord",
+        "stun",
+        "riot records"
     ],
     "solutions": [
         [
-            "Chogath"
+            "Ashe"
         ],
         [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
+            "Ashe",
+            "Seraphine",
             "Vayne"
         ],
         [
-            "Chogath",
-            "Kassadin"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Kassadin",
-            "Soraka"
-        ],
-        [
-            "Ryze",
-            "Tristana",
-            "Twitch"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Soraka"
-        ],
-        [
+            "Aphelios",
             "Ezreal",
-            "Jinx",
             "Kaisa",
-            "Ryze"
+            "Senna"
+        ],
+        [
+            "Gnar"
+        ],
+        [
+            "Bard",
+            "Gnar",
+            "Hecarim",
+            "Veigar"
+        ],
+        [
+            "Ahri",
+            "Karthus"
+        ],
+        [
+            "Nunu",
+            "Olaf"
+        ],
+        [
+            "Amumu",
+            "Camille",
+            "Fiora",
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Sett",
+            "Syndra",
+            "Urgot",
+            "Vayne",
+            "Velkoz",
+            "Yone"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Ksante",
+            "Olaf",
+            "Sett",
+            "Yone"
         ]
     ]
 }

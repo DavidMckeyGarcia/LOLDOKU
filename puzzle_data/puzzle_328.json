@@ -1,61 +1,85 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "Season 7+",
-        "shield"
+        "Adc",
+        "blink",
+        "OG40"
     ],
     "cols": [
         "Bilgewater",
-        "fear",
+        "stun",
         "pentakill"
     ],
     "solutions": [
         [
-            "Gangplank",
-            "Illaoi",
-            "Tahm kench"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
+            "Ashe",
+            "Seraphine",
             "Vayne"
         ],
         [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
             "Aphelios",
+            "Ezreal",
+            "Jinx",
             "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
             "Xayah"
         ],
         [
-            "Nautilus",
-            "Nilah",
-            "Tahm kench"
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate"
         ],
         [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
+            "Ambessa",
+            "Ekko",
+            "Lissandra",
+            "Pantheon",
+            "Pyke",
+            "Tahm kench",
+            "Twisted fate",
+            "Viego",
+            "Yone"
         ],
         [
-            "Aphelios",
-            "Kaisa"
+            "Ezreal",
+            "Ryze"
+        ],
+        [
+            "Gangplank",
+            "Twisted fate"
+        ],
+        [
+            "Alistar",
+            "Amumu",
+            "Anivia",
+            "Annie",
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
+        ],
+        [
+            "Ryze",
+            "Tristana",
+            "Twitch"
         ]
     ]
 }

@@ -1,100 +1,88 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Support",
-        "empyrean",
+        "Jungle",
+        "global ult",
         "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Demacia",
-        "0 games"
+        "root",
+        "Ionia",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
             "Morgana",
-            "Nami",
             "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Galio",
+            "Ivern",
+            "Kayn",
+            "Lee sin",
+            "Lillia",
+            "Master yi",
+            "Sett",
+            "Shen",
+            "Wukong"
+        ],
+        [
+            "Belveth",
+            "Master yi",
+            "Olaf",
+            "Viego"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
             "Lux",
-            "Morgana",
-            "Poppy",
-            "Sona"
-        ],
-        [
+            "Maokai",
             "Mel",
-            "Milio"
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Brand",
-            "Jax",
-            "Ksante",
-            "Malzahar",
-            "Pyke",
-            "Zac"
-        ],
-        [
-            "Kayle",
-            "Lux"
+            "Lillia",
+            "Shen"
         ],
         [
             "Vex"
         ],
         [
-            "Ambessa",
-            "Briar",
-            "Camille",
+            "Aphelios",
+            "Hwei",
             "Ksante",
-            "Milio",
+            "Mel",
             "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
             "Renata glasc",
+            "Senna",
             "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Hwei",
+            "Kayn",
+            "Lillia",
+            "Rakan",
             "Sett",
-            "Sylas",
-            "Viego",
+            "Xayah",
             "Yone"
         ],
         [
-            "Sylas"
-        ],
-        [
-            "Akshan",
-            "Ambessa",
-            "Briar",
-            "Mel",
-            "Milio",
+            "Belveth",
             "Naafiri",
-            "Samira",
-            "Vex"
+            "Pyke",
+            "Vex",
+            "Viego"
         ]
     ]
 }

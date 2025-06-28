@@ -1,103 +1,69 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "Space Groove",
-        "before s7"
+        "Mid",
+        "true damage",
+        "OG40"
     ],
     "cols": [
-        "Bilgewater",
         "root",
-        "ascended"
+        "Targon",
+        "tether"
     ],
     "solutions": [
         [
-            "Nami",
-            "Nautilus",
-            "Pyke",
-            "Tahm kench"
-        ],
-        [
-            "Karma",
-            "Leona",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Leona",
-            "Pantheon",
-            "Taric",
-            "Xerath"
-        ],
-        [
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Lissandra",
-            "Lux",
-            "Nunu"
-        ],
-        [
-            "Nasus",
-            "Taric"
-        ],
-        [
-            "Fizz",
-            "Gangplank",
-            "Graves",
-            "Illaoi",
-            "Miss Fortune",
-            "Nami",
-            "Nautilus",
-            "Tahm kench",
-            "Twisted fate"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
-            "Jhin",
-            "Jinx",
+            "Hwei",
             "Karma",
             "LeBlanc",
-            "Lee sin",
-            "Leona",
             "Lissandra",
             "Lux",
-            "Morgana",
-            "Nautilus",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Aurelion Sol",
+            "Diana",
+            "Pantheon",
+            "Zoe"
+        ],
+        [
+            "Karma",
+            "LeBlanc",
+            "Malzahar",
+            "Sylas"
+        ],
+        [
+            "Ivern",
+            "Ksante",
             "Nunu",
-            "Rengar",
+            "Renata glasc"
+        ],
+        [
+            "Zoe"
+        ],
+        [
+            "Renata glasc"
+        ],
+        [
+            "Morgana",
+            "Nunu",
             "Ryze",
             "Shaco",
             "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Soraka"
         ],
         [
-            "Aatrox",
-            "Azir",
-            "Diana",
-            "Leona",
-            "Nasus",
-            "Pantheon",
-            "Renekton",
-            "Taric",
-            "Varus",
-            "Xerath"
+            "Soraka",
+            "Taric"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Taric"
         ]
     ]
 }

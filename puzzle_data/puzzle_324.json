@@ -1,82 +1,70 @@
 {
     "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "empyrean",
-        "true damage"
+        "Adc",
+        "OG40",
+        "hextech"
     ],
     "cols": [
-        "knock-up",
+        "root",
         "The Void",
-        "tether"
+        "yordle"
     ],
     "solutions": [
         [
-            "Belveth",
-            "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
-            "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
         ],
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
+            "Kaisa",
+            "Kogmaw"
         ],
         [
-            "Fiddlesticks",
+            "Corki",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
             "Morgana",
-            "Nocturne",
-            "Sylas",
-            "Zac"
+            "Nunu",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka"
         ],
         [
-            "Ksante",
-            "Zac"
+            "Chogath",
+            "Kassadin"
         ],
         [
+            "Amumu",
+            "Corki",
+            "Heimerdinger",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Singed",
+            "Swain"
+        ],
+        [
+            "Kassadin",
+            "Kogmaw",
             "Malzahar"
         ],
         [
-            "Malzahar",
-            "Nocturne",
-            "Zac"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Kogmaw",
-            "Velkoz"
-        ],
-        [
-            "Renata glasc"
+            "Amumu",
+            "Poppy",
+            "Tristana",
+            "Ziggs"
         ]
     ]
 }

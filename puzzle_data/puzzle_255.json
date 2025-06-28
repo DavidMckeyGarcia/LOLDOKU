@@ -1,100 +1,71 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Jungle",
-        "shield",
-        "before s7"
+        "Adc",
+        "life steal",
+        "arcade"
     ],
     "cols": [
         "Zaun",
-        "fear",
-        "arcane"
+        "knock-up",
+        "100+ games"
     ],
     "solutions": [
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
-            "Zac"
-        ],
-        [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Warwick"
-        ],
-        [
-            "Ekko",
-            "Vi",
-            "Warwick"
-        ],
-        [
-            "Blitzcrank",
-            "Ekko",
-            "Janna",
-            "Orianna",
-            "Renata glasc",
-            "Urgot",
-            "Vi",
-            "Viktor"
-        ],
-        [
-            "Hwei",
-            "Nocturne",
-            "Urgot",
-            "Vex"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Janna",
-            "Mel",
-            "Orianna",
-            "Vi",
-            "Viktor"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Ekko",
-            "Janna",
             "Jinx",
-            "Orianna",
-            "Singed",
             "Twitch",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Warwick",
-            "Zac",
+            "Zeri",
             "Ziggs"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Ashe",
+            "Caitlyn",
+            "Ezreal",
+            "Jhin",
+            "Kaisa",
+            "Lucian",
+            "Tristana",
+            "Varus",
+            "Xayah"
+        ],
+        [
             "Warwick"
         ],
         [
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
+        ],
+        [
+            "Aatrox",
+            "Lee sin"
+        ],
+        [
+            "Blitzcrank",
+            "Ziggs"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
             "Caitlyn",
-            "Ekko",
-            "Heimerdinger",
-            "Janna",
-            "Jayce",
-            "Jinx",
-            "LeBlanc",
-            "Orianna",
-            "Singed",
-            "Vi",
-            "Viktor",
-            "Warwick"
+            "Ezreal",
+            "Kaisa"
         ]
     ]
 }

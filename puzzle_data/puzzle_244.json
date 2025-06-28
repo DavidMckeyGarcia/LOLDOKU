@@ -1,75 +1,106 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "gold",
     "rows": [
-        "Adc",
-        "true damage",
+        "Top",
+        "life steal",
         "OG40"
     ],
     "cols": [
-        "knock-up",
-        "Noxus",
-        "ult reset"
+        "stun",
+        "Demacia",
+        "ascended"
     ],
     "solutions": [
         [
-            "Kalista",
-            "Samira",
-            "Ziggs"
-        ],
-        [
-            "Draven",
-            "Mel",
-            "Samira",
-            "Smolder"
-        ],
-        [
-            "Sivir",
-            "Vayne"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
+            "Ambessa",
+            "Camille",
+            "Fiora",
+            "Gnar",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
+            "Jax",
             "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
+            "Kennen",
+            "Ornn",
+            "Pantheon",
+            "Poppy",
+            "Renekton",
+            "Riven",
+            "Sett",
+            "Sion",
+            "Skarner",
+            "Sylas",
+            "Tahm kench",
+            "Udyr",
+            "Urgot",
+            "Vayne",
+            "Volibear",
+            "Warwick",
+            "Yone",
+            "Zac"
         ],
         [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Pyke",
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
             "Vayne"
         ],
         [
+            "Aatrox",
+            "Kayn",
+            "Nasus",
+            "Pantheon",
+            "Renekton"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
+        ],
+        [
+            "Morgana"
+        ],
+        [
+            "Aatrox",
+            "Kayn",
+            "Nasus"
+        ],
+        [
             "Alistar",
+            "Amumu",
             "Anivia",
-            "Blitzcrank",
-            "Chogath",
-            "Janna",
-            "Malphite",
-            "Nunu",
-            "Sion"
-        ],
-        [
-            "Alistar",
             "Annie",
-            "Katarina",
-            "Sion"
+            "Ashe",
+            "Blitzcrank",
+            "Heimerdinger",
+            "Jax",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Sion",
+            "Taric",
+            "Twisted fate",
+            "Veigar",
+            "Warwick",
+            "Zilean"
         ],
         [
-            "Master yi",
-            "Singed",
-            "Sivir"
+            "Kayle",
+            "Morgana"
+        ],
+        [
+            "Nasus",
+            "Taric"
         ]
     ]
 }

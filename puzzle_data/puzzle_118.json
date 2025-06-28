@@ -2,15 +2,21 @@
     "difficulty": "gold",
     "rows": [
         "Adc",
-        "OG40",
-        "dash"
+        "invis",
+        "prestige"
     ],
     "cols": [
+        "Noxus",
         "root",
-        "Freljord",
         "riot records"
     ],
     "solutions": [
+        [
+            "Draven",
+            "Mel",
+            "Samira",
+            "Smolder"
+        ],
         [
             "Aphelios",
             "Caitlyn",
@@ -23,70 +29,73 @@
             "Xayah"
         ],
         [
-            "Ashe"
-        ],
-        [
             "Aphelios",
             "Ezreal",
             "Kaisa",
             "Senna"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "LeBlanc",
+            "Talon"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Nunu",
-            "Tryndamere"
+            "LeBlanc",
+            "Neeko",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
+            "Akali",
+            "Kaisa",
+            "Qiyana",
+            "Senna",
+            "Viego"
+        ],
+        [
+            "Cassiopeia",
+            "Darius",
+            "Katarina",
+            "Kayn",
+            "LeBlanc",
+            "Riven",
+            "Swain"
         ],
         [
             "Caitlyn",
-            "Ivern",
+            "Jinx",
             "Ksante",
+            "LeBlanc",
             "Lee sin",
             "Leona",
-            "Maokai",
-            "Nautilus",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
             "Qiyana",
-            "Rengar",
+            "Renata glasc",
+            "Senna",
             "Shaco",
-            "Zac"
-        ],
-        [
-            "Aurora",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Ornn",
-            "Sejuani",
-            "Tryndamere",
-            "Volibear"
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
         ],
         [
             "Ahri",
             "Akali",
-            "Ekko",
+            "Evelynn",
             "Ezreal",
             "Ksante",
             "Kaisa",
+            "Kayle",
             "Kayn",
             "Qiyana",
+            "Senna",
             "Sett",
-            "Viego",
-            "Yasuo",
-            "Yone"
+            "Sona",
+            "Yasuo"
         ]
     ]
 }

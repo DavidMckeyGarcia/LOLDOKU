@@ -1,71 +1,135 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "silver",
     "rows": [
-        "Support",
-        "ult execute",
-        "cosmic"
+        "Jungle",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
+        "Bandle City",
         "root",
-        "Ionia",
-        "0 games"
+        "never played"
     ],
     "solutions": [
         [
-            "Karma",
-            "Leona",
-            "Lux",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Ivern",
+            "Lee sin",
             "Maokai",
-            "Mel",
             "Morgana",
             "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Amumu",
+            "Belveth",
+            "Brand",
+            "Briar",
+            "Dr. Mundo",
+            "Elise",
+            "Evelynn",
+            "Fiddlesticks",
+            "Graves",
+            "Hecarim",
+            "Ivern",
+            "Jarvan IV",
+            "Kayn",
+            "Kindred",
+            "Lillia",
+            "Maokai",
+            "Mordekaiser",
+            "Morgana",
+            "Nunu",
+            "Rammus",
+            "Reksai",
+            "Rell",
+            "Rengar",
+            "Sejuani",
+            "Shaco",
+            "Shen",
+            "Shyvana",
+            "Skarner",
+            "Teemo",
+            "Trundle",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Wukong",
+            "Xin Zhao",
+            "Zyra"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Ivern",
+            "Ksante",
+            "Nunu",
+            "Renata glasc"
+        ],
+        [
+            "Akshan",
+            "Amumu",
+            "Belveth",
+            "Chogath",
+            "Draven",
+            "Fiora",
+            "Garen",
+            "Gwen",
+            "Ivern",
+            "Lillia",
+            "Nunu",
+            "Pyke",
+            "Renata glasc",
+            "Samira",
+            "Twitch",
+            "Vayne"
+        ],
+        [
+            "Yuumi"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ksante",
+            "Mel",
             "Neeko",
             "Renata glasc",
             "Senna",
             "Seraphine",
-            "Soraka",
-            "Swain",
-            "Zyra"
-        ],
-        [
-            "Karma",
-            "Rakan"
-        ],
-        [
-            "Mel",
-            "Milio"
-        ],
-        [
-            "Jhin",
-            "Jinx"
-        ],
-        [
-            "Akali",
-            "Jhin",
-            "Syndra"
-        ],
-        [
-            "Akshan"
-        ],
-        [
-            "Jhin",
-            "Lissandra",
-            "Lux",
-            "Nautilus",
-            "Nunu",
-            "Varus",
             "Xayah"
         ],
         [
-            "Jhin",
-            "Master yi",
+            "Akshan",
+            "Aphelios",
+            "Belveth",
+            "Briar",
+            "Gwen",
+            "Kayn",
+            "Lillia",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Pyke",
             "Rakan",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Illaoi",
-            "Master yi"
+            "Rell",
+            "Renata glasc",
+            "Samira",
+            "Senna",
+            "Viego",
+            "Xayah",
+            "Yuumi",
+            "Zeri"
         ]
     ]
 }

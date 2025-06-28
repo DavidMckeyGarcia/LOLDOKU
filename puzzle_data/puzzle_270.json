@@ -1,87 +1,95 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "gold",
     "rows": [
-        "Jungle",
-        "arcade",
-        "true damage"
+        "Top",
+        "life steal",
+        "Season 7+"
     ],
     "cols": [
-        "knock-up",
-        "Bilgewater",
-        "100+ games"
+        "root",
+        "Freljord",
+        "manaless"
     ],
     "solutions": [
         [
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
+        ],
+        [
+            "Gnar",
+            "Gragas",
+            "Olaf",
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
+        ],
+        [
+            "Aatrox",
+            "Akali",
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Aphelios",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Olaf",
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Aatrox",
+            "Ambessa",
             "Belveth",
             "Briar",
-            "Diana",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
-            "Kayn",
             "Lee sin",
-            "Nautilus",
-            "Nunu",
-            "Poppy",
-            "Reksai",
-            "Rell",
-            "Sejuani",
-            "Sylas",
-            "Taliyah",
-            "Trundle",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Zac",
-            "Zyra"
+            "Viego",
+            "Vladimir"
         ],
         [
-            "Graves",
-            "Nautilus"
-        ],
-        [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
-        ],
-        [
-            "Belveth",
-            "Blitzcrank",
-            "Riven",
-            "Yasuo",
-            "Ziggs"
-        ],
-        [
-            "Miss Fortune"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
+            "Aphelios",
+            "Hwei",
             "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Aurora",
+            "Ornn"
+        ],
+        [
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Sett",
+            "Viego",
             "Yone"
-        ],
-        [
-            "Gangplank",
-            "Pyke"
-        ],
-        [
-            "Syndra"
         ]
     ]
 }

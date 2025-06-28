@@ -1,74 +1,58 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "challenger",
     "rows": [
-        "Adc",
-        "Season 7+",
-        "true damage"
+        "Top",
+        "arcade",
+        "life steal"
     ],
     "cols": [
-        "Piltover",
-        "knock-up",
-        "100+ games"
+        "fear",
+        "Zaun",
+        "tether"
     ],
     "solutions": [
         [
-            "Caitlyn",
-            "Ezreal",
-            "Seraphine"
+            "Aatrox",
+            "Darius",
+            "Urgot",
+            "Warwick"
         ],
         [
-            "Kalista",
-            "Samira",
+            "Dr. Mundo",
+            "Singed",
+            "Urgot",
+            "Warwick",
+            "Zac"
+        ],
+        [
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Hecarim"
+        ],
+        [
+            "Blitzcrank",
             "Ziggs"
         ],
         [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Jhin",
-            "Kaisa",
-            "Lucian",
-            "Tristana",
-            "Varus",
-            "Xayah"
+            "Malzahar"
         ],
         [
-            "Camille",
-            "Seraphine"
-        ],
-        [
-            "Belveth",
+            "Aatrox",
             "Briar",
-            "Ksante",
-            "Kayn",
-            "Neeko",
-            "Ornn",
-            "Rakan",
-            "Rell",
-            "Samira",
-            "Sylas",
-            "Yone"
+            "Warwick"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Warwick"
         ],
         [
-            "Camille"
-        ],
-        [
-            "Belveth",
-            "Chogath",
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Samira",
-            "Velkoz",
-            "Yone"
-        ],
-        [
-            "Syndra"
+            "Aatrox",
+            "Illaoi",
+            "Morgana"
         ]
     ]
 }

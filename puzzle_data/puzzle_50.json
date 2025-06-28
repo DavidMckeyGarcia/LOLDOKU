@@ -1,113 +1,81 @@
 {
-    "difficulty": "silver",
+    "difficulty": "diamond",
     "rows": [
-        "Jungle",
-        "OG40",
-        "blink"
+        "Top",
+        "elderwood",
+        "global ult"
     ],
     "cols": [
-        "stun",
-        "The Void",
-        "riot records"
+        "knock-up",
+        "Freljord",
+        "tether"
     ],
     "solutions": [
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
+            "Aatrox",
+            "Chogath",
             "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
             "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
+            "Riven",
+            "Sion",
             "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
             "Zac"
         ],
         [
-            "Belveth",
-            "Khazix",
-            "Reksai"
-        ],
-        [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
+            "Gnar",
+            "Gragas",
             "Olaf",
-            "Qiyana",
-            "Sett",
-            "Viego"
+            "Ornn",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
+            "Aatrox",
+            "Illaoi",
+            "Kled",
+            "Sylas",
+            "Zac"
+        ],
+        [
+            "Azir",
+            "Rakan",
+            "Reksai",
+            "Wukong"
+        ],
+        [
+            "Gnar"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
             "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Taliyah",
+            "Ziggs"
         ],
         [
-            "Chogath",
-            "Kassadin"
+            "Ashe",
+            "Ornn"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Kassadin",
-            "Reksai"
-        ],
-        [
-            "Ekko",
-            "Ezreal",
-            "Viego",
-            "Yasuo",
-            "Yone"
+            "Kled",
+            "Nocturne"
         ]
     ]
 }

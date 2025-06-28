@@ -2,15 +2,19 @@
     "difficulty": "silver",
     "rows": [
         "Support",
-        "coven",
-        "before s7"
+        "prestige",
+        "shield"
     ],
     "cols": [
+        "Shurima",
         "root",
-        "Freljord",
-        "ult reset"
+        "ascended"
     ],
     "solutions": [
+        [
+            "Xerath",
+            "Zilean"
+        ],
         [
             "Karma",
             "Leona",
@@ -28,79 +32,73 @@
             "Zyra"
         ],
         [
-            "Ashe",
-            "Brand",
-            "Braum"
+            "Leona",
+            "Pantheon",
+            "Taric",
+            "Xerath"
         ],
         [
-            "Pyke",
-            "Swain"
-        ],
-        [
-            "LeBlanc",
-            "Lissandra",
-            "Morgana",
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Lissandra"
-        ],
-        [
-            "Ahri"
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Sivir"
         ],
         [
             "Caitlyn",
-            "Ivern",
-            "Jhin",
             "Jinx",
-            "Karma",
+            "Ksante",
             "LeBlanc",
             "Lee sin",
             "Leona",
             "Lissandra",
             "Lux",
             "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
+            "Neeko",
+            "Qiyana",
+            "Renata glasc",
+            "Senna",
             "Shaco",
-            "Singed",
             "Soraka",
             "Swain",
-            "Varus",
-            "Zac",
+            "Xayah",
             "Zyra"
         ],
         [
-            "Anivia",
-            "Ashe",
-            "Brand",
-            "Braum",
-            "Gnar",
-            "Gragas",
-            "Kindred",
-            "Lissandra",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Tryndamere",
-            "Udyr",
-            "Volibear"
+            "Aatrox",
+            "Diana",
+            "Kayn",
+            "Leona",
+            "Pantheon"
         ],
         [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Master yi",
-            "Olaf",
-            "Singed",
-            "Sivir",
-            "Swain",
-            "Vayne",
-            "Viktor"
+            "Akshan",
+            "Azir",
+            "Ksante",
+            "Naafiri",
+            "Sivir"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
+            "Azir",
+            "Diana",
+            "Naafiri",
+            "Taric"
         ]
     ]
 }

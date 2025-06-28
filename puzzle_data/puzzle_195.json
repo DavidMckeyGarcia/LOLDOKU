@@ -1,14 +1,14 @@
 {
-    "difficulty": "iron",
+    "difficulty": "challenger",
     "rows": [
         "Top",
-        "prestige",
-        "before s7"
+        "ult execute",
+        "elderwood"
     ],
     "cols": [
         "root",
-        "Demacia",
-        "riot records"
+        "Shurima",
+        "yordle"
     ],
     "solutions": [
         [
@@ -19,126 +19,41 @@
             "Zac"
         ],
         [
-            "Fiora",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Nasus",
+            "Renekton"
+        ],
+        [
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
             "Poppy",
-            "Quinn",
-            "Sylas",
-            "Vayne"
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Akali",
-            "Ksante",
-            "Kayle",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Sett",
-            "Yasuo",
-            "Yone",
-            "Yorick"
-        ],
-        [
-            "Caitlyn",
-            "Jinx",
-            "Ksante",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Neeko",
-            "Qiyana",
-            "Renata glasc",
-            "Senna",
-            "Shaco",
-            "Soraka",
-            "Swain",
-            "Xayah",
-            "Zyra"
-        ],
-        [
-            "Fiora",
-            "Garen",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Sona",
-            "Sylas",
-            "Vayne"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Evelynn",
-            "Ezreal",
-            "Ksante",
-            "Kaisa",
-            "Kayle",
-            "Kayn",
-            "Qiyana",
-            "Senna",
-            "Sett",
-            "Sona",
-            "Yasuo"
-        ],
-        [
-            "Caitlyn",
-            "Ivern",
             "Jhin",
-            "Jinx",
-            "Karma",
+            "Jinx"
+        ],
+        [
+            "Akshan"
+        ],
+        [
+            "Veigar"
+        ],
+        [
             "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Xayah"
         ],
         [
-            "Fiora",
-            "Galio",
-            "Garen",
-            "Jarvan IV",
-            "Kayle",
-            "Lucian",
-            "Lux",
-            "Morgana",
-            "Poppy",
-            "Quinn",
-            "Shyvana",
-            "Sona",
-            "Vayne",
-            "Xin Zhao"
+            "Azir"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Evelynn",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Mordekaiser",
-            "Olaf",
-            "Sona",
-            "Yasuo",
-            "Yorick"
+            "Gnar",
+            "Veigar"
         ]
     ]
 }

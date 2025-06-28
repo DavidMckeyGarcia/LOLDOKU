@@ -1,92 +1,96 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
         "Mid",
-        "shield",
-        "Season 7+"
+        "ult execute",
+        "coven"
     ],
     "cols": [
-        "Targon",
-        "root",
-        "ult reset"
+        "stun",
+        "Ionia",
+        "shred"
     ],
     "solutions": [
         [
+            "Ambessa",
+            "Anivia",
+            "Annie",
             "Aurelion Sol",
-            "Diana",
-            "Pantheon",
-            "Zoe"
-        ],
-        [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
+            "Brand",
+            "Cassiopeia",
+            "Ekko",
+            "Gragas",
+            "Heimerdinger",
+            "Irelia",
             "Lissandra",
-            "Lux",
-            "Mel",
+            "Malzahar",
             "Neeko",
+            "Orianna",
+            "Pantheon",
             "Qiyana",
-            "Ryze",
             "Seraphine",
-            "Swain"
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
             "Ahri",
-            "Naafiri",
-            "Swain",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Aphelios",
-            "Diana",
-            "Taric"
-        ],
-        [
-            "Aphelios",
+            "Akali",
             "Hwei",
-            "Ivern",
-            "Ksante",
+            "Irelia",
             "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
-            "Nunu",
-            "Renata glasc",
-            "Senna",
-            "Seraphine"
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
         ],
         [
-            "Naafiri",
-            "Olaf",
-            "Sivir",
-            "Vex",
-            "Viktor"
-        ],
-        [
-            "Aphelios",
+            "Corki",
+            "Jayce",
+            "Karthus",
             "Zoe"
         ],
         [
-            "Aphelios",
-            "Hwei",
-            "Ksante",
-            "Mel",
-            "Neeko",
-            "Renata glasc",
-            "Senna",
-            "Seraphine",
-            "Xayah"
+            "Pyke",
+            "Riven",
+            "Syndra",
+            "Urgot",
+            "Veigar",
+            "Viego"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Pyke",
-            "Vex",
-            "Viego"
+            "Akali",
+            "Jhin",
+            "Syndra"
+        ],
+        [
+            "Evelynn",
+            "Garen"
+        ],
+        [
+            "Ashe",
+            "Camille",
+            "Cassiopeia",
+            "Elise",
+            "Lissandra",
+            "Morgana",
+            "Nami",
+            "Syndra"
+        ],
+        [
+            "Ahri",
+            "Akali",
+            "Syndra"
+        ],
+        [
+            "Evelynn"
         ]
     ]
 }

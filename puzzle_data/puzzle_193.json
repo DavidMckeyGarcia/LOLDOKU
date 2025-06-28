@@ -1,108 +1,104 @@
 {
-    "difficulty": "gold",
+    "difficulty": "platinum",
     "rows": [
         "Support",
-        "invis",
-        "elderwood"
+        "prestige",
+        "blink"
     ],
     "cols": [
-        "slow",
-        "Noxus",
-        "vastayan"
+        "Freljord",
+        "silence",
+        "never played"
     ],
     "solutions": [
         [
             "Ashe",
+            "Brand",
+            "Braum"
+        ],
+        [
+            "Blitzcrank",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Alistar",
+            "Ashe",
             "Bard",
+            "Blitzcrank",
             "Brand",
             "Braum",
-            "Galio",
             "Heimerdinger",
             "Janna",
-            "Karma",
             "Leona",
-            "Lulu",
-            "Lux",
             "Maokai",
-            "Mel",
             "Milio",
             "Morgana",
             "Nami",
-            "Nautilus",
-            "Pantheon",
-            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Rell",
+            "Renata glasc",
+            "Senna",
+            "Sona",
+            "Soraka",
+            "Tahm kench",
+            "Thresh",
+            "Yuumi",
+            "Zyra"
+        ],
+        [
+            "Brand",
+            "Kindred",
+            "Lissandra",
+            "Volibear"
+        ],
+        [
+            "Garen",
+            "Lulu",
+            "Soraka"
+        ],
+        [
+            "Brand",
+            "Evelynn",
+            "Fiora",
+            "Garen",
+            "Jinx",
+            "Kayn",
+            "Kindred",
+            "Leona",
+            "Malphite",
+            "Miss Fortune",
+            "Morgana",
             "Pyke",
             "Rakan",
             "Renata glasc",
             "Senna",
-            "Seraphine",
+            "Shaco",
+            "Sivir",
             "Sona",
             "Soraka",
-            "Swain",
-            "Tahm kench",
+            "Teemo",
             "Thresh",
-            "Velkoz",
-            "Xerath",
+            "Vayne",
+            "Volibear",
+            "Xayah",
             "Yuumi",
-            "Zilean",
+            "Zeri",
             "Zyra"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
+            "Lissandra"
         ],
         [
-            "Nami",
-            "Neeko",
-            "Rakan"
+            "Kassadin"
         ],
         [
-            "Akali",
-            "Aurora",
-            "Kaisa",
-            "Khazix",
             "Pyke",
-            "Qiyana",
             "Reksai",
-            "Rengar",
-            "Senna",
-            "Shaco",
-            "Talon",
-            "Teemo",
-            "Twitch",
+            "Shen",
+            "Tahm kench",
             "Viego"
-        ],
-        [
-            "LeBlanc",
-            "Talon"
-        ],
-        [
-            "Aurora",
-            "Neeko",
-            "Rengar",
-            "Wukong"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Bard",
-            "Gnar",
-            "Hecarim",
-            "Karthus",
-            "Rakan",
-            "Reksai"
-        ],
-        [
-            "LeBlanc"
-        ],
-        [
-            "Ahri",
-            "Rakan",
-            "Wukong",
-            "Xayah"
         ]
     ]
 }

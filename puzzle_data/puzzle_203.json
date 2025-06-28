@@ -1,70 +1,105 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
         "Jungle",
-        "true damage",
-        "OG40"
+        "global ult",
+        "before s7"
     ],
     "cols": [
-        "fear",
-        "Zaun",
-        "yordle"
+        "root",
+        "Shadow Isles",
+        "tether"
     ],
     "solutions": [
         [
-            "Briar",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
+            "Ivern",
+            "Lee sin",
+            "Maokai",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Qiyana",
+            "Rengar",
             "Shaco",
-            "Warwick"
+            "Zac",
+            "Zyra"
         ],
         [
-            "Dr. Mundo",
-            "Ekko",
-            "Vi",
-            "Warwick",
+            "Hecarim",
+            "Karthus",
+            "Maokai",
+            "Viego"
+        ],
+        [
+            "Fiddlesticks",
+            "Morgana",
+            "Nocturne",
+            "Sylas",
             "Zac"
         ],
         [
-            "Amumu",
-            "Poppy",
-            "Rumble",
-            "Teemo"
+            "Caitlyn",
+            "Jinx",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Ryze",
+            "Senna",
+            "Soraka"
         ],
         [
-            "Darius",
-            "Urgot"
+            "Karthus",
+            "Maokai",
+            "Senna",
+            "Vex"
         ],
         [
-            "Renata glasc",
-            "Twitch",
-            "Urgot"
+            "Kled",
+            "Nocturne"
         ],
         [
-            "Amumu",
-            "Corki"
-        ],
-        [
-            "Fiddlesticks",
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
             "Shaco",
-            "Warwick"
-        ],
-        [
-            "Blitzcrank",
-            "Dr. Mundo",
-            "Janna",
             "Singed",
-            "Twitch",
-            "Warwick"
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Amumu",
-            "Corki",
-            "Heimerdinger",
-            "Teemo",
-            "Tristana",
-            "Veigar"
+            "Hecarim",
+            "Kalista",
+            "Karthus",
+            "Thresh",
+            "Yorick"
+        ],
+        [
+            "Aatrox",
+            "Fiddlesticks",
+            "Illaoi",
+            "Kalista",
+            "Karma",
+            "Kled",
+            "LeBlanc",
+            "Morgana",
+            "Nocturne",
+            "Taric",
+            "Zac"
         ]
     ]
 }

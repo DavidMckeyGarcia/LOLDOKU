@@ -1,87 +1,118 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "bronze",
     "rows": [
-        "Mid",
-        "before s7",
-        "life steal"
+        "Jungle",
+        "life steal",
+        "pool party"
     ],
     "cols": [
-        "root",
-        "The Void",
-        "darkin"
+        "stun",
+        "Shurima",
+        "manaless"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Karma",
-            "LeBlanc",
-            "Lissandra",
-            "Lux",
-            "Mel",
-            "Neeko",
-            "Qiyana",
-            "Ryze",
-            "Seraphine",
-            "Swain"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
-        ],
-        [
-            "Naafiri"
-        ],
-        [
-            "Caitlyn",
+            "Amumu",
+            "Brand",
+            "Briar",
+            "Camille",
+            "Ekko",
+            "Elise",
+            "Gragas",
+            "Hecarim",
             "Ivern",
-            "Jhin",
-            "Jinx",
-            "Karma",
-            "LeBlanc",
-            "Lee sin",
-            "Leona",
-            "Lissandra",
-            "Lux",
+            "Jax",
             "Morgana",
             "Nautilus",
             "Nunu",
-            "Rengar",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka",
-            "Swain",
-            "Varus",
-            "Zac",
-            "Zyra"
+            "Pantheon",
+            "Poppy",
+            "Qiyana",
+            "Rammus",
+            "Rell",
+            "Sejuani",
+            "Sett",
+            "Skarner",
+            "Sylas",
+            "Taliyah",
+            "Udyr",
+            "Vi",
+            "Viego",
+            "Volibear",
+            "Warwick",
+            "Xin Zhao",
+            "Zac"
         ],
         [
-            "Chogath",
-            "Kassadin",
-            "Khazix",
-            "Kogmaw",
-            "Reksai",
-            "Velkoz"
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
         ],
         [
-            "Aatrox",
-            "Varus"
-        ],
-        [
-            "Aphelios",
-            "Ksante",
+            "Belveth",
+            "Briar",
+            "Dr. Mundo",
             "Lee sin",
-            "Morgana",
-            "Senna"
+            "Mordekaiser",
+            "Reksai",
+            "Rengar",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Shyvana",
+            "Viego",
+            "Zac"
         ],
         [
-            "Belveth"
+            "Ambessa",
+            "Briar",
+            "Ksante",
+            "Morgana",
+            "Sion",
+            "Udyr",
+            "Viego",
+            "Warwick"
         ],
         [
             "Aatrox",
-            "Kayn"
+            "Ksante",
+            "Nasus"
+        ],
+        [
+            "Aatrox",
+            "Ambessa",
+            "Belveth",
+            "Briar",
+            "Lee sin",
+            "Viego",
+            "Vladimir"
+        ],
+        [
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Renekton",
+            "Taliyah"
+        ],
+        [
+            "Dr. Mundo",
+            "Lee sin",
+            "Reksai",
+            "Renekton",
+            "Sett",
+            "Zac"
         ]
     ]
 }

@@ -1,75 +1,59 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "diamond",
     "rows": [
-        "Top",
-        "true damage",
-        "OG40"
+        "Support",
+        "cosmic",
+        "true damage"
     ],
     "cols": [
-        "Shurima",
-        "root",
-        "pentakill"
+        "Freljord",
+        "silence",
+        "ult reset"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Jax",
-            "Ksante",
-            "Nasus",
-            "Renekton"
+            "Ashe",
+            "Brand",
+            "Braum"
         ],
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Vayne"
-        ],
-        [
-            "Akshan",
-            "Amumu",
-            "Ksante"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Akali",
-            "Darius",
-            "Fiora",
-            "Kogmaw",
-            "Twitch",
-            "Vayne"
-        ],
-        [
-            "Amumu",
-            "Jax",
-            "Nasus",
-            "Rammus",
-            "Sivir",
-            "Zilean"
-        ],
-        [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
+            "Blitzcrank",
+            "Lulu",
             "Soraka"
         ],
         [
-            "Ryze",
-            "Tristana",
-            "Twitch"
+            "Pyke",
+            "Swain"
+        ],
+        [
+            "Anivia",
+            "Lissandra",
+            "Nunu"
+        ],
+        [
+            "Kassadin",
+            "Lulu"
+        ],
+        [
+            "Belveth",
+            "Master yi"
+        ],
+        [
+            "Nunu",
+            "Olaf"
+        ],
+        [
+            "Chogath",
+            "Garen"
+        ],
+        [
+            "Ahri",
+            "Belveth",
+            "Darius",
+            "Master yi",
+            "Olaf",
+            "Pyke",
+            "Vayne"
         ]
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
         "Adc",
-        "dash",
-        "prestige"
+        "empyrean",
+        "global ult"
     ],
     "cols": [
         "knock-up",
-        "Targon",
-        "shred"
+        "The Void",
+        "pentakill"
     ],
     "solutions": [
         [
@@ -17,93 +17,49 @@
             "Ziggs"
         ],
         [
-            "Aphelios"
-        ],
-        [
-            "Corki",
+            "Kaisa",
             "Kogmaw"
         ],
         [
-            "Aatrox",
-            "Alistar",
-            "Aurelion Sol",
-            "Azir",
-            "Belveth",
-            "Braum",
-            "Briar",
-            "Diana",
-            "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Jarvan IV",
+            "Aphelios",
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Kalista",
+            "Kogmaw",
+            "Lucian",
+            "Tristana",
+            "Twitch",
+            "Vayne",
+            "Xayah"
+        ],
+        [
             "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Malphite",
-            "Nautilus",
+            "Zac"
+        ],
+        [
+            "Malzahar"
+        ],
+        [
+            "Akali"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
             "Ornn",
-            "Poppy",
-            "Rakan",
-            "Reksai",
-            "Rell",
-            "Riven",
-            "Samira",
-            "Sejuani",
-            "Sylas",
+            "Sion",
             "Taliyah",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Yone",
-            "Zac",
             "Ziggs"
         ],
         [
-            "Aurelion Sol",
-            "Diana",
-            "Leona",
-            "Pantheon"
+            "Kaisa"
         ],
         [
-            "Briar",
-            "Corki",
-            "Jarvan IV",
-            "Jayce",
-            "Rell",
-            "Renekton",
-            "Rengar",
-            "Vi",
-            "Wukong"
-        ],
-        [
-            "Aatrox",
-            "Diana",
-            "Fizz",
-            "Ksante",
-            "Kayn",
-            "Lee sin",
-            "Lulu",
-            "Malphite",
-            "Neeko",
-            "Rakan",
-            "Riven",
-            "Sylas",
-            "Yasuo",
-            "Zyra"
-        ],
-        [
-            "Diana",
-            "Leona",
-            "Pantheon",
-            "Soraka",
-            "Zoe"
-        ],
-        [
-            "Evelynn",
-            "Garen",
-            "Zoe"
+            "Ezreal",
+            "Jinx",
+            "Kaisa",
+            "Ryze"
         ]
     ]
 }

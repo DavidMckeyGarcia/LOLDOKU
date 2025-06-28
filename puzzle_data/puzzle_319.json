@@ -1,104 +1,93 @@
 {
-    "difficulty": "gold",
+    "difficulty": "emerald",
     "rows": [
         "Adc",
-        "Space Groove",
-        "Season 7+"
+        "life steal",
+        "before s7"
     ],
     "cols": [
+        "root",
         "Freljord",
-        "stun",
-        "never played"
+        "darkin"
     ],
     "solutions": [
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
         [
             "Ashe"
         ],
         [
-            "Ashe",
-            "Seraphine",
-            "Vayne"
+            "Varus"
         ],
         [
             "Aphelios",
-            "Ashe",
-            "Draven",
+            "Ksante",
+            "Lee sin",
+            "Morgana",
+            "Senna"
+        ],
+        [
+            "Olaf",
+            "Trundle",
+            "Udyr"
+        ],
+        [
+            "Aatrox",
+            "Kayn"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
             "Jhin",
             "Jinx",
-            "Kalista",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Sivir",
-            "Twitch",
-            "Vayne",
-            "Xayah",
-            "Zeri"
-        ],
-        [
-            "Gragas",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
             "Lissandra",
-            "Nunu"
+            "Lux",
+            "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
+            "Zyra"
         ],
         [
-            "Blitzcrank",
+            "Anivia",
+            "Ashe",
+            "Brand",
+            "Braum",
+            "Gnar",
             "Gragas",
+            "Kindred",
             "Lissandra",
-            "Nami",
             "Nunu",
-            "Taric",
-            "Twisted fate"
+            "Olaf",
+            "Sejuani",
+            "Trundle",
+            "Tryndamere",
+            "Udyr",
+            "Volibear"
         ],
         [
-            "Blitzcrank",
-            "Nami",
-            "Nunu",
-            "Samira",
-            "Teemo"
-        ],
-        [
-            "Aurora",
-            "Ornn"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Camille",
-            "Ksante",
-            "Milio",
-            "Neeko",
-            "Ornn",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sett",
-            "Sylas",
-            "Viego",
-            "Yone"
-        ],
-        [
-            "Akshan",
-            "Aphelios",
-            "Belveth",
-            "Briar",
-            "Gwen",
-            "Kayn",
-            "Lillia",
-            "Milio",
-            "Naafiri",
-            "Nilah",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Samira",
-            "Senna",
-            "Viego",
-            "Xayah",
-            "Yuumi",
-            "Zeri"
+            "Aatrox",
+            "Varus"
         ]
     ]
 }

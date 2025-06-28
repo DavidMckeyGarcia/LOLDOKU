@@ -1,85 +1,74 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "dark star",
-        "blink"
+        "Adc",
+        "Fright Night",
+        "life steal"
     ],
     "cols": [
-        "stun",
-        "Piltover",
-        "riot records"
+        "knock-up",
+        "Freljord",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Ashe"
+        ],
+        [
+            "Aphelios",
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
+            "Corki",
+            "Jhin",
+            "Jinx",
+            "Kaisa",
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
+        ],
+        [
             "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
-            "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Nunu",
+            "Trundle"
         ],
         [
-            "Heimerdinger",
-            "Seraphine"
+            "Nunu",
+            "Trundle"
         ],
         [
-            "Senna",
-            "Sona"
+            "Nunu",
+            "Veigar",
+            "Zeri"
         ],
         [
-            "Lissandra",
-            "Orianna",
-            "Thresh",
-            "Xerath"
+            "Aatrox",
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Samira",
+            "Sion",
+            "Trundle"
         ],
         [
-            "Orianna"
+            "Olaf",
+            "Trundle",
+            "Udyr"
         ],
         [
-            "Mordekaiser"
-        ],
-        [
-            "Ambessa",
-            "Ekko",
-            "Lissandra",
-            "Pantheon",
-            "Pyke",
-            "Tahm kench",
-            "Twisted fate",
+            "Aphelios",
+            "Belveth",
+            "Briar",
             "Viego",
-            "Yone"
-        ],
-        [
-            "Ezreal"
-        ],
-        [
-            "Ekko",
-            "Ezreal",
-            "Viego",
-            "Yasuo",
-            "Yone"
+            "Vladimir",
+            "Warwick"
         ]
     ]
 }

@@ -1,121 +1,71 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
-        "Adc",
-        "global ult",
-        "hextech"
+        "Jungle",
+        "invis",
+        "before s7"
     ],
     "cols": [
-        "slow",
-        "Zaun",
-        "yordle"
+        "fear",
+        "Bandle City",
+        "30+ wins"
     ],
     "solutions": [
         [
-            "Aphelios",
-            "Ashe",
-            "Caitlyn",
-            "Corki",
-            "Draven",
-            "Jhin",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Kogmaw",
-            "Mel",
-            "Miss Fortune",
-            "Nilah",
-            "Samira",
-            "Senna",
-            "Seraphine",
-            "Sivir",
-            "Smolder",
-            "Tristana",
-            "Twitch",
-            "Varus",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Jinx",
-            "Twitch",
-            "Zeri",
-            "Ziggs"
-        ],
-        [
-            "Corki",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
             "Briar",
-            "Caitlyn",
-            "Draven",
-            "Ekko",
-            "Galio",
-            "Gangplank",
-            "Jinx",
-            "Kaisa",
-            "Karthus",
-            "Kled",
-            "Lillia",
-            "Lux",
-            "Maokai",
-            "Mel",
+            "Fiddlesticks",
+            "Hecarim",
             "Nocturne",
-            "Ornn",
-            "Pantheon",
+            "Shaco",
+            "Warwick"
+        ],
+        [
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Taliyah"
+        ],
+        [
+            "Shaco"
+        ],
+        [
+            "Teemo"
+        ],
+        [
+            "LeBlanc"
+        ],
+        [
+            "Aatrox",
+            "Darius",
+            "Fiddlesticks",
+            "Hecarim",
+            "Nocturne",
+            "Shaco",
+            "Urgot",
+            "Warwick"
+        ],
+        [
+            "Corki",
+            "Fizz",
+            "Heimerdinger",
+            "Lulu",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar"
+        ],
+        [
+            "Ahri",
+            "Azir",
+            "Corki",
+            "Galio",
+            "LeBlanc",
+            "Lissandra",
+            "Orianna",
             "Ryze",
-            "Senna",
-            "Shen",
-            "Sion",
-            "Soraka",
             "Taliyah",
-            "Twisted fate",
-            "Vex",
-            "Xerath",
-            "Ziggs"
-        ],
-        [
-            "Ekko",
-            "Jinx",
-            "Ziggs"
-        ],
-        [
-            "Kled",
-            "Vex",
-            "Ziggs"
-        ],
-        [
-            "Anivia",
-            "Galio",
-            "Janna",
-            "Jarvan IV",
-            "Kassadin",
-            "Kogmaw",
-            "Nocturne",
-            "Poppy",
-            "Rammus",
-            "Sejuani",
-            "Singed",
-            "Sion",
-            "Swain",
-            "Tristana",
-            "Ziggs"
-        ],
-        [
-            "Janna",
-            "Singed",
-            "Ziggs"
-        ],
-        [
-            "Amumu",
-            "Poppy",
-            "Tristana",
-            "Ziggs"
+            "Viktor"
         ]
     ]
 }

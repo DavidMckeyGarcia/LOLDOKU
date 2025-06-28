@@ -1,98 +1,87 @@
 {
-    "difficulty": "silver",
+    "difficulty": "emerald",
     "rows": [
-        "Top",
-        "OG40",
-        "shield"
+        "Mid",
+        "invis",
+        "prestige"
     ],
     "cols": [
         "root",
-        "Bandle City",
-        "100+ games"
+        "Zaun",
+        "yordle"
     ],
     "solutions": [
         [
-            "Ksante",
-            "Maokai",
-            "Singed",
-            "Swain",
-            "Zac"
-        ],
-        [
-            "Heimerdinger",
-            "Rumble",
-            "Teemo"
-        ],
-        [
-            "Aatrox",
-            "Gnar",
-            "Gragas",
-            "Jarvan IV",
-            "Jax",
-            "Jayce",
-            "Maokai",
-            "Renekton",
-            "Rumble",
-            "Shen"
-        ],
-        [
-            "Morgana",
-            "Nunu",
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
             "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Seraphine",
+            "Swain"
+        ],
+        [
+            "Ekko",
+            "Orianna",
+            "Viktor",
+            "Ziggs"
         ],
         [
             "Corki",
+            "Fizz",
             "Heimerdinger",
-            "Teemo",
             "Tristana",
-            "Veigar"
+            "Veigar",
+            "Vex",
+            "Ziggs"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Janna",
-            "Jax",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Aphelios",
-            "Hwei",
-            "Ivern",
-            "Ksante",
-            "Karma",
-            "Lee sin",
-            "Lux",
-            "Mel",
-            "Morgana",
-            "Nautilus",
+            "LeBlanc",
             "Neeko",
-            "Nunu",
+            "Qiyana",
+            "Rengar",
+            "Senna",
+            "Shaco"
+        ],
+        [
+            "Twitch"
+        ],
+        [
+            "Teemo"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "Ksante",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Lissandra",
+            "Lux",
+            "Morgana",
+            "Neeko",
+            "Qiyana",
             "Renata glasc",
             "Senna",
-            "Seraphine"
+            "Shaco",
+            "Soraka",
+            "Swain",
+            "Xayah",
+            "Zyra"
         ],
         [
-            "Lulu",
-            "Rumble",
-            "Yuumi"
+            "Jinx",
+            "Renata glasc",
+            "Zeri"
         ],
         [
-            "Azir",
-            "Braum",
-            "Janna",
-            "Jarvan IV",
-            "Kaisa",
-            "Lee sin",
+            "Fizz",
             "Lulu",
-            "Orianna",
-            "Rakan",
-            "Rumble",
-            "Shen",
-            "Thresh"
+            "Teemo"
         ]
     ]
 }

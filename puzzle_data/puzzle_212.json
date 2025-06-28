@@ -1,100 +1,72 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "emerald",
     "rows": [
         "Mid",
-        "evolves",
-        "OG40"
+        "shield",
+        "prestige"
     ],
     "cols": [
-        "Bilgewater",
-        "stun",
-        "riot records"
+        "fear",
+        "Bandle City",
+        "arcane"
     ],
     "solutions": [
         [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Corki",
             "Fizz",
-            "Twisted fate"
+            "Heimerdinger",
+            "Tristana",
+            "Veigar"
         ],
         [
             "Ambessa",
-            "Anivia",
-            "Annie",
-            "Aurelion Sol",
-            "Brand",
-            "Cassiopeia",
             "Ekko",
-            "Gragas",
             "Heimerdinger",
-            "Irelia",
-            "Lissandra",
-            "Malzahar",
-            "Neeko",
+            "Jayce",
+            "LeBlanc",
+            "Mel",
             "Orianna",
-            "Pantheon",
-            "Qiyana",
-            "Seraphine",
-            "Sylas",
-            "Syndra",
-            "Taliyah",
-            "Twisted fate",
-            "Veigar",
-            "Velkoz",
-            "Viktor",
-            "Xerath",
-            "Yone",
-            "Zilean"
-        ],
-        [
-            "Ahri",
-            "Akali",
-            "Ekko",
-            "Ezreal",
-            "Karthus",
-            "Kayle",
-            "Qiyana",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Gangplank"
-        ],
-        [
-            "Bard",
-            "Syndra",
             "Viktor"
         ],
         [
-            "Kaisa",
-            "Kayle",
-            "Kayn"
+            "Hwei",
+            "Nocturne",
+            "Urgot",
+            "Vex"
         ],
         [
-            "Gangplank",
-            "Twisted fate"
+            "Lulu",
+            "Rumble",
+            "Yuumi"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Ambessa",
+            "Ekko",
+            "Janna",
+            "Mel",
+            "Orianna",
+            "Vi",
+            "Viktor"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
+            "Aatrox",
+            "Darius",
+            "Shaco"
+        ],
+        [
+            "Fizz",
+            "Lulu",
+            "Teemo",
+            "Yuumi"
+        ],
+        [
+            "Caitlyn",
+            "Jinx",
+            "LeBlanc"
         ]
     ]
 }

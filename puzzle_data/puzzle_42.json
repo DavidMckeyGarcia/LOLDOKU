@@ -1,137 +1,59 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "challenger",
     "rows": [
         "Mid",
-        "evolves",
-        "before s7"
+        "prestige",
+        "Season 7+"
     ],
     "cols": [
-        "knock-up",
-        "Ionia",
-        "30+ wins"
+        "The Void",
+        "fear",
+        "yordle"
     ],
     "solutions": [
         [
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
             "Chogath",
-            "Diana",
+            "Kassadin",
+            "Malzahar",
+            "Velkoz"
+        ],
+        [
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Corki",
             "Fizz",
-            "Galio",
-            "Gragas",
-            "Neeko",
-            "Orianna",
-            "Sylas",
-            "Taliyah",
-            "Velkoz",
-            "Yasuo",
-            "Yone",
+            "Heimerdinger",
+            "Tristana",
+            "Veigar",
+            "Vex",
             "Ziggs"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Hwei",
-            "Irelia",
-            "Karma",
-            "Syndra",
-            "Yasuo",
-            "Yone",
-            "Zed"
-        ],
-        [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
-        ],
-        [
-            "Belveth",
-            "Kayn"
-        ],
-        [
-            "Kayn",
-            "Syndra"
-        ],
-        [
-            "Viktor"
+            "Kaisa"
         ],
         [
             "Aatrox",
-            "Alistar",
-            "Anivia",
-            "Aurelion Sol",
-            "Azir",
-            "Blitzcrank",
-            "Braum",
-            "Chogath",
-            "Diana",
+            "Darius",
+            "Shaco"
+        ],
+        [
             "Fizz",
-            "Galio",
-            "Gragas",
-            "Ivern",
-            "Janna",
-            "Jarvan IV",
-            "Kalista",
-            "Lee sin",
             "Lulu",
-            "Malphite",
-            "Nami",
-            "Nautilus",
-            "Nunu",
-            "Orianna",
-            "Poppy",
-            "Reksai",
-            "Riven",
-            "Sejuani",
-            "Sion",
-            "Tahm kench",
-            "Taliyah",
-            "Trundle",
-            "Velkoz",
-            "Vi",
-            "Wukong",
-            "Xin Zhao",
-            "Yasuo",
-            "Zac",
-            "Ziggs",
-            "Zyra"
+            "Teemo"
         ],
         [
-            "Ahri",
-            "Akali",
-            "Irelia",
-            "Ivern",
-            "Jhin",
-            "Karma",
-            "Kennen",
-            "Lee sin",
-            "Master yi",
-            "Shen",
-            "Syndra",
-            "Varus",
-            "Wukong",
-            "Yasuo",
-            "Zed"
+            "Belveth",
+            "Kaisa"
         ],
         [
-            "Ahri",
-            "Azir",
-            "Corki",
-            "Galio",
-            "LeBlanc",
-            "Lissandra",
-            "Orianna",
-            "Ryze",
-            "Taliyah",
-            "Viktor"
+            "Briar",
+            "Hwei",
+            "Vex"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

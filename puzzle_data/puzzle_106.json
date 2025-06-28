@@ -2,72 +2,85 @@
     "difficulty": "emerald",
     "rows": [
         "Jungle",
-        "true damage",
-        "OG40"
+        "global ult",
+        "pool party"
     ],
     "cols": [
-        "root",
-        "Noxus",
-        "0 games"
+        "Shurima",
+        "knock-up",
+        "ult reset"
     ],
     "solutions": [
         [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Diana",
+            "Gragas",
             "Ivern",
+            "Jarvan IV",
+            "Kayn",
             "Lee sin",
-            "Maokai",
-            "Morgana",
             "Nautilus",
             "Nunu",
-            "Qiyana",
-            "Rengar",
-            "Shaco",
+            "Poppy",
+            "Reksai",
+            "Rell",
+            "Sejuani",
+            "Sylas",
+            "Taliyah",
+            "Trundle",
+            "Vi",
+            "Wukong",
+            "Xin Zhao",
             "Zac",
             "Zyra"
         ],
         [
-            "Briar",
-            "Elise",
-            "Kayn",
-            "Mordekaiser",
-            "Rell",
-            "Talon"
-        ],
-        [
-            "Briar",
-            "Master yi"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Darius",
-            "Draven",
-            "Samira"
-        ],
-        [
-            "Akshan",
+            "Belveth",
             "Master yi",
-            "Samira"
+            "Olaf",
+            "Viego"
         ],
         [
-            "Morgana",
-            "Nunu",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Soraka"
+            "Taliyah",
+            "Xerath"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Katarina",
-            "Sion"
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
         ],
         [
-            "Master yi"
+            "Vex"
+        ],
+        [
+            "Renekton",
+            "Taliyah"
+        ],
+        [
+            "Braum",
+            "Jarvan IV",
+            "Lee sin",
+            "Lulu",
+            "Orianna",
+            "Reksai",
+            "Taliyah",
+            "Zac",
+            "Ziggs"
+        ],
+        [
+            "Singed"
         ]
     ]
 }

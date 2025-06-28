@@ -1,60 +1,96 @@
 {
-    "difficulty": "challenger",
+    "difficulty": "platinum",
     "rows": [
-        "Jungle",
-        "pool party",
-        "true damage"
+        "Mid",
+        "arcade",
+        "invis"
     ],
     "cols": [
-        "silence",
-        "Freljord",
-        "ult reset"
+        "stun",
+        "Ionia",
+        "pentakill"
     ],
     "solutions": [
         [
-            "Fiddlesticks"
-        ],
-        [
+            "Ambessa",
+            "Anivia",
+            "Annie",
+            "Aurelion Sol",
             "Brand",
+            "Cassiopeia",
+            "Ekko",
             "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
-        ],
-        [
-            "Belveth",
-            "Master yi",
-            "Olaf",
-            "Viego"
-        ],
-        [
-            "Lulu"
-        ],
-        [
-            "Braum"
-        ],
-        [
-            "Singed"
-        ],
-        [
-            "Chogath",
-            "Garen"
-        ],
-        [
-            "Nunu",
-            "Olaf"
+            "Heimerdinger",
+            "Irelia",
+            "Lissandra",
+            "Malzahar",
+            "Neeko",
+            "Orianna",
+            "Pantheon",
+            "Qiyana",
+            "Seraphine",
+            "Sylas",
+            "Syndra",
+            "Taliyah",
+            "Twisted fate",
+            "Veigar",
+            "Velkoz",
+            "Viktor",
+            "Xerath",
+            "Yone",
+            "Zilean"
         ],
         [
             "Ahri",
-            "Belveth",
-            "Darius",
-            "Master yi",
-            "Olaf",
+            "Akali",
+            "Hwei",
+            "Irelia",
+            "Karma",
+            "Syndra",
+            "Yasuo",
+            "Yone",
+            "Zed"
+        ],
+        [
+            "Akali",
+            "Ezreal",
+            "Lucian",
+            "Ryze",
+            "Tristana"
+        ],
+        [
+            "Blitzcrank",
+            "Brand",
+            "Hecarim",
+            "Malzahar",
+            "Qiyana",
+            "Riven",
+            "Sona",
+            "Veigar"
+        ],
+        [
+            "Ahri",
+            "Yasuo"
+        ],
+        [
+            "Ezreal",
+            "Kaisa"
+        ],
+        [
+            "Neeko",
             "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Akali",
+            "Wukong"
+        ],
+        [
+            "Akali",
+            "Kaisa",
+            "Twitch",
             "Vayne"
         ]
     ]

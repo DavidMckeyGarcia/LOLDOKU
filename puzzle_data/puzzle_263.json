@@ -1,99 +1,135 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Adc",
-        "arcade",
-        "shield"
+        "Support",
+        "true damage",
+        "Season 7+"
     ],
     "cols": [
-        "stun",
-        "Ionia",
-        "tether"
+        "slow",
+        "Bandle City",
+        "yordle"
     ],
     "solutions": [
         [
             "Ashe",
-            "Seraphine",
-            "Vayne"
-        ],
-        [
-            "Jhin",
-            "Varus",
-            "Xayah"
-        ],
-        [
-            "Kalista"
-        ],
-        [
-            "Blitzcrank",
+            "Bard",
             "Brand",
-            "Hecarim",
-            "Malzahar",
-            "Qiyana",
-            "Riven",
+            "Braum",
+            "Galio",
+            "Heimerdinger",
+            "Janna",
+            "Karma",
+            "Leona",
+            "Lulu",
+            "Lux",
+            "Maokai",
+            "Mel",
+            "Milio",
+            "Morgana",
+            "Nami",
+            "Nautilus",
+            "Pantheon",
+            "Poppy",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
             "Sona",
-            "Veigar"
+            "Soraka",
+            "Swain",
+            "Tahm kench",
+            "Thresh",
+            "Velkoz",
+            "Xerath",
+            "Yuumi",
+            "Zilean",
+            "Zyra"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Yuumi"
+        ],
+        [
+            "Heimerdinger",
+            "Lulu",
+            "Poppy"
         ],
         [
             "Ahri",
-            "Yasuo"
-        ],
-        [
-            "Malzahar"
-        ],
-        [
-            "Ambessa",
-            "Annie",
-            "Blitzcrank",
-            "Braum",
+            "Akali",
+            "Belveth",
             "Camille",
-            "Ekko",
+            "Chogath",
+            "Corki",
+            "Darius",
+            "Draven",
+            "Fiora",
+            "Gangplank",
+            "Garen",
+            "Gwen",
             "Ivern",
             "Ksante",
-            "Milio",
-            "Morgana",
-            "Nautilus",
-            "Neeko",
+            "Kogmaw",
+            "Lillia",
             "Nunu",
-            "Orianna",
-            "Poppy",
-            "Rell",
+            "Olaf",
+            "Pyke",
             "Renata glasc",
-            "Riven",
+            "Samira",
+            "Sett",
+            "Syndra",
+            "Twitch",
+            "Urgot",
+            "Velkoz",
+            "Zoe"
+        ],
+        [
+            "Corki"
+        ],
+        [
+            "Amumu",
+            "Corki"
+        ],
+        [
+            "Aphelios",
+            "Aurora",
+            "Belveth",
+            "Briar",
+            "Camille",
+            "Gwen",
+            "Hwei",
+            "Ksante",
+            "Kaisa",
+            "Kayn",
+            "Lillia",
+            "Mel",
+            "Milio",
+            "Naafiri",
+            "Nilah",
+            "Ornn",
+            "Pyke",
+            "Rakan",
+            "Renata glasc",
+            "Samira",
+            "Senna",
             "Seraphine",
             "Sett",
-            "Sion",
-            "Skarner",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Udyr",
-            "Urgot",
-            "Vi",
-            "Viktor",
-            "Volibear",
-            "Yone"
+            "Smolder",
+            "Sylas",
+            "Vex",
+            "Viego",
+            "Yuumi",
+            "Zeri",
+            "Zoe"
         ],
         [
-            "Hwei",
-            "Ivern",
-            "Karma",
-            "Lee sin",
-            "Rakan",
-            "Sett",
-            "Shen",
-            "Yasuo",
-            "Yone"
-        ],
-        [
-            "Karma",
-            "Kled",
-            "Morgana",
-            "Nocturne",
-            "Renata glasc",
-            "Taric",
             "Yuumi"
+        ],
+        [
+            "Vex"
         ]
     ]
 }

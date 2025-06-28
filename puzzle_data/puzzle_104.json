@@ -1,66 +1,76 @@
 {
-    "difficulty": "diamond",
+    "difficulty": "emerald",
     "rows": [
-        "Mid",
+        "Adc",
         "Season 7+",
-        "worlds skin"
+        "prestige"
     ],
     "cols": [
-        "fear",
-        "Bilgewater",
-        "pentakill"
+        "knock-up",
+        "Shurima",
+        "yordle"
     ],
     "solutions": [
         [
-            "Hwei",
+            "Kalista",
+            "Samira",
+            "Ziggs"
+        ],
+        [
+            "Sivir"
+        ],
+        [
+            "Corki",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Belveth",
+            "Briar",
+            "Ksante",
+            "Kayn",
+            "Neeko",
+            "Ornn",
+            "Rakan",
+            "Rell",
+            "Samira",
+            "Sylas",
+            "Yone"
+        ],
+        [
+            "Akshan",
+            "Ksante",
+            "Naafiri"
+        ],
+        [
             "Vex"
+        ],
+        [
+            "Aatrox",
+            "Diana",
+            "Fizz",
+            "Ksante",
+            "Kayn",
+            "Lee sin",
+            "Lulu",
+            "Malphite",
+            "Neeko",
+            "Rakan",
+            "Riven",
+            "Sylas",
+            "Yasuo",
+            "Zyra"
+        ],
+        [
+            "Aatrox",
+            "Jax",
+            "Ksante",
+            "Sivir"
         ],
         [
             "Fizz",
-            "Twisted fate"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Briar",
-            "Hwei",
-            "Vex"
-        ],
-        [
-            "Nilah",
-            "Pyke"
-        ],
-        [
-            "Aphelios",
-            "Kaisa",
-            "Xayah"
-        ],
-        [
-            "Aatrox"
-        ],
-        [
-            "Gangplank",
-            "Graves",
-            "Nami",
-            "Twisted fate"
-        ],
-        [
-            "Akali",
-            "Aphelios",
-            "Ezreal",
-            "Fiora",
-            "Jinx",
-            "Kaisa",
-            "Kalista",
-            "Ryze",
-            "Twitch",
-            "Vayne",
-            "Xayah"
+            "Lulu",
+            "Teemo"
         ]
     ]
 }

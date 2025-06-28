@@ -300,7 +300,7 @@ def create_puzzle_with_unique_solution():
 
 
 create_multiple_puzzle_json_files(num_puzzles=365)
-print(diffs.count('iron') )
+print(diffs.count('iron'))
 print(diffs.count('bronze'))
 print(diffs.count('silver'))
 print(diffs.count('gold'))

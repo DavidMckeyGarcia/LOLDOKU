@@ -1,91 +1,34 @@
 {
-    "difficulty": "bronze",
+    "difficulty": "diamond",
     "rows": [
-        "Support",
-        "global ult",
-        "Season 7+"
+        "Adc",
+        "Season 7+",
+        "dark star"
     ],
     "cols": [
+        "Shadow Isles",
         "stun",
-        "Noxus",
-        "100+ games"
+        "shred"
     ],
     "solutions": [
         [
-            "Alistar",
-            "Annie",
+            "Kalista",
+            "Senna"
+        ],
+        [
             "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Leona",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Neeko",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rell",
-            "Renata glasc",
             "Seraphine",
-            "Sona",
-            "Tahm kench",
-            "Taric",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Zilean"
+            "Vayne"
         ],
         [
-            "Alistar",
-            "Annie",
-            "Mel",
-            "Rell",
-            "Swain"
+            "Corki",
+            "Kogmaw"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Braum",
-            "Janna",
-            "Leona",
-            "Lulu",
-            "Maokai",
-            "Rakan",
-            "Thresh"
-        ],
-        [
-            "Ashe",
-            "Aurelion Sol",
-            "Bard",
-            "Briar",
-            "Ekko",
-            "Ornn",
-            "Pantheon",
-            "Sion",
-            "Taliyah",
-            "Twisted fate",
-            "Xerath"
-        ],
-        [
-            "Briar",
-            "Draven",
-            "Kled",
-            "Mel",
-            "Sion"
-        ],
-        [
-            "Ashe",
-            "Caitlyn",
-            "Ezreal",
-            "Kaisa",
-            "Maokai",
-            "Ryze",
-            "Shen"
+            "Gwen",
+            "Senna",
+            "Vex",
+            "Viego"
         ],
         [
             "Ambessa",
@@ -105,18 +48,22 @@
             "Yone"
         ],
         [
-            "Ambessa",
             "Briar",
-            "Kayn",
-            "Mel",
             "Rell",
-            "Samira",
-            "Smolder"
+            "Zoe"
         ],
         [
-            "Kaisa",
-            "Rakan",
-            "Xayah"
+            "Thresh"
+        ],
+        [
+            "Lissandra",
+            "Orianna",
+            "Thresh",
+            "Xerath"
+        ],
+        [
+            "Jarvan IV",
+            "Mordekaiser"
         ]
     ]
 }

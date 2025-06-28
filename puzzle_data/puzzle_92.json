@@ -1,16 +1,23 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
         "Jungle",
-        "coven",
-        "true damage"
+        "elderwood",
+        "before s7"
     ],
     "cols": [
+        "Shurima",
         "root",
-        "Freljord",
-        "100+ games"
+        "yordle"
     ],
     "solutions": [
+        [
+            "Amumu",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Taliyah"
+        ],
         [
             "Ivern",
             "Lee sin",
@@ -25,55 +32,74 @@
             "Zyra"
         ],
         [
-            "Brand",
-            "Gragas",
-            "Kindred",
-            "Nunu",
-            "Olaf",
-            "Sejuani",
-            "Trundle",
-            "Udyr",
-            "Volibear"
+            "Amumu",
+            "Poppy",
+            "Rumble",
+            "Teemo"
         ],
         [
-            "Elise",
-            "Gragas",
-            "Graves",
-            "Jarvan IV",
-            "Jax",
-            "Lee sin",
-            "Maokai",
-            "Rumble",
-            "Sejuani",
-            "Shen"
+            "Azir"
         ],
         [
             "LeBlanc",
+            "Xayah"
+        ],
+        [
+            "Gnar",
+            "Veigar"
+        ],
+        [
+            "Aatrox",
+            "Amumu",
+            "Azir",
+            "Jax",
+            "Nasus",
+            "Rammus",
+            "Renekton",
+            "Sivir",
+            "Taliyah",
+            "Xerath",
+            "Zilean"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Jhin",
+            "Jinx",
+            "Karma",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
             "Lissandra",
+            "Lux",
             "Morgana",
+            "Nautilus",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Shaco",
+            "Singed",
+            "Soraka",
+            "Swain",
+            "Varus",
+            "Zac",
             "Zyra"
         ],
         [
-            "Ashe",
-            "Lissandra"
-        ],
-        [
-            "Ashe",
-            "Elise",
-            "Syndra"
-        ],
-        [
-            "Ivern",
-            "Ksante",
-            "Nunu",
-            "Renata glasc"
-        ],
-        [
-            "Nunu",
-            "Olaf"
-        ],
-        [
-            "Syndra"
+            "Amumu",
+            "Corki",
+            "Fizz",
+            "Gnar",
+            "Heimerdinger",
+            "Kennen",
+            "Kled",
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Teemo",
+            "Tristana",
+            "Veigar",
+            "Ziggs"
         ]
     ]
 }

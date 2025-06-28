@@ -1,78 +1,96 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Mid",
+        "Top",
         "global ult",
-        "before s7"
+        "arcade"
     ],
     "cols": [
-        "fear",
-        "The Void",
-        "pentakill"
+        "knock-up",
+        "Demacia",
+        "manaless"
     ],
     "solutions": [
         [
-            "Hwei",
-            "Vex"
-        ],
-        [
+            "Aatrox",
             "Chogath",
-            "Kassadin",
-            "Malzahar",
-            "Velkoz"
+            "Gragas",
+            "Jarvan IV",
+            "Ksante",
+            "Kayn",
+            "Malphite",
+            "Ornn",
+            "Poppy",
+            "Riven",
+            "Sion",
+            "Sylas",
+            "Tahm kench",
+            "Trundle",
+            "Wukong",
+            "Yasuo",
+            "Yone",
+            "Zac"
         ],
         [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Briar",
-            "Nocturne",
-            "Vex"
-        ],
-        [
-            "Kaisa"
-        ],
-        [
-            "Ezreal",
-            "Jinx",
-            "Kaisa",
-            "Ryze"
+            "Fiora",
+            "Garen",
+            "Jarvan IV",
+            "Kayle",
+            "Poppy",
+            "Quinn",
+            "Sylas",
+            "Vayne"
         ],
         [
             "Aatrox",
-            "Darius",
-            "Fiddlesticks",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Warwick"
-        ],
-        [
-            "Chogath",
-            "Kassadin",
-            "Khazix",
-            "Kogmaw",
-            "Reksai",
-            "Velkoz"
-        ],
-        [
             "Akali",
-            "Darius",
-            "Ezreal",
-            "Fiora",
-            "Jinx",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Ryze",
-            "Tristana",
-            "Twitch",
-            "Vayne"
+            "Ambessa",
+            "Dr. Mundo",
+            "Garen",
+            "Gnar",
+            "Kennen",
+            "Kled",
+            "Mordekaiser",
+            "Renekton",
+            "Rumble",
+            "Sett",
+            "Shen",
+            "Tryndamere",
+            "Yasuo",
+            "Yone",
+            "Zac"
+        ],
+        [
+            "Aurelion Sol",
+            "Briar",
+            "Galio",
+            "Ornn",
+            "Sion",
+            "Taliyah",
+            "Ziggs"
+        ],
+        [
+            "Galio",
+            "Lux"
+        ],
+        [
+            "Briar",
+            "Kled",
+            "Shen"
+        ],
+        [
+            "Belveth",
+            "Blitzcrank",
+            "Riven",
+            "Yasuo",
+            "Ziggs"
+        ],
+        [
+            "Sona"
+        ],
+        [
+            "Belveth",
+            "Yasuo"
         ]
     ]
 }

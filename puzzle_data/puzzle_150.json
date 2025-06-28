@@ -1,74 +1,88 @@
 {
-    "difficulty": "emerald",
+    "difficulty": "platinum",
     "rows": [
-        "Top",
-        "dash",
-        "Season 7+"
+        "Mid",
+        "Season 7+",
+        "worlds skin"
     ],
     "cols": [
-        "Targon",
-        "fear",
-        "ult reset"
+        "root",
+        "Demacia",
+        "ascended"
     ],
     "solutions": [
         [
-            "Pantheon"
+            "Hwei",
+            "Karma",
+            "LeBlanc",
+            "Lissandra",
+            "Lux",
+            "Mel",
+            "Neeko",
+            "Qiyana",
+            "Ryze",
+            "Seraphine",
+            "Swain"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Galio",
+            "Kayle",
+            "Lucian",
+            "Lux",
+            "Sylas"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Olaf",
-            "Singed",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Aurelion Sol",
+            "Azir",
             "Diana",
-            "Leona",
-            "Pantheon"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Hecarim",
-            "Nocturne",
-            "Shaco",
-            "Urgot",
-            "Vex",
-            "Warwick"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Belveth",
             "Naafiri",
-            "Pyke",
-            "Vayne",
-            "Vex",
-            "Viego"
+            "Pantheon",
+            "Xerath"
         ],
         [
             "Aphelios",
-            "Zoe"
-        ],
-        [
-            "Briar",
             "Hwei",
-            "Vex"
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
         ],
         [
-            "Belveth",
-            "Naafiri",
-            "Pyke",
-            "Vex",
-            "Viego"
+            "Sylas"
+        ],
+        [
+            "Kayn",
+            "Naafiri"
+        ],
+        [
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "LeBlanc",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nunu",
+            "Rengar",
+            "Ryze",
+            "Singed",
+            "Xayah",
+            "Zac",
+            "Zyra"
+        ],
+        [
+            "Fiora",
+            "Jarvan IV",
+            "Vayne"
+        ],
+        [
+            "Aatrox",
+            "Azir",
+            "Leona",
+            "Renekton"
         ]
     ]
 }

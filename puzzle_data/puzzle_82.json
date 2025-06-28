@@ -1,110 +1,53 @@
 {
-    "difficulty": "gold",
+    "difficulty": "challenger",
     "rows": [
         "Jungle",
-        "OG40",
-        "coven"
+        "true damage",
+        "prestige"
     ],
     "cols": [
-        "Ixtal",
-        "stun",
-        "riot records"
+        "Bandle City",
+        "silence",
+        "vastayan"
     ],
     "solutions": [
         [
-            "Nidalee",
-            "Qiyana",
+            "Rumble",
+            "Teemo"
+        ],
+        [
+            "Fiddlesticks"
+        ],
+        [
             "Rengar",
-            "Skarner",
-            "Zyra"
+            "Wukong"
         ],
         [
-            "Amumu",
-            "Brand",
-            "Briar",
-            "Camille",
-            "Ekko",
-            "Elise",
-            "Gragas",
-            "Hecarim",
-            "Ivern",
-            "Jax",
-            "Morgana",
-            "Nautilus",
-            "Nunu",
-            "Pantheon",
-            "Poppy",
-            "Qiyana",
-            "Rammus",
-            "Rell",
-            "Sejuani",
-            "Sett",
-            "Skarner",
-            "Sylas",
-            "Taliyah",
-            "Udyr",
-            "Vi",
-            "Viego",
-            "Volibear",
-            "Warwick",
-            "Xin Zhao",
-            "Zac"
+            "Corki"
         ],
         [
-            "Ekko",
-            "Evelynn",
-            "Karthus",
-            "Kayn",
-            "Mordekaiser",
-            "Olaf",
-            "Qiyana",
-            "Sett",
-            "Viego"
+            "Chogath",
+            "Garen"
         ],
         [
-            "Malphite"
+            "Ahri"
         ],
         [
-            "Alistar",
-            "Amumu",
-            "Anivia",
-            "Annie",
-            "Ashe",
-            "Blitzcrank",
-            "Heimerdinger",
-            "Jax",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Sion",
-            "Taric",
-            "Twisted fate",
-            "Veigar",
-            "Warwick",
-            "Zilean"
+            "Fizz",
+            "Lulu",
+            "Teemo",
+            "Yuumi"
         ],
         [
-            "Evelynn",
-            "Karthus",
-            "Kayle"
-        ],
-        [
-            "Zyra"
-        ],
-        [
-            "Ashe",
-            "Camille",
-            "Cassiopeia",
-            "Elise",
-            "Lissandra",
-            "Morgana",
-            "Nami",
-            "Syndra"
+            "Garen",
+            "Lulu",
+            "Soraka"
         ],
         [
             "Ahri",
-            "Akali",
-            "Evelynn"
+            "Neeko",
+            "Rakan",
+            "Xayah"
         ]
     ]
 }

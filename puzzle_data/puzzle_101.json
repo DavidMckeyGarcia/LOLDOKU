@@ -1,79 +1,96 @@
 {
-    "difficulty": "platinum",
+    "difficulty": "silver",
     "rows": [
-        "Mid",
-        "before s7",
-        "shield"
+        "Top",
+        "Season 7+",
+        "dash"
     ],
     "cols": [
-        "silence",
-        "Piltover",
-        "pentakill"
+        "Noxus",
+        "root",
+        "arcane"
     ],
     "solutions": [
         [
-            "Chogath",
-            "Kassadin",
-            "Malzahar"
-        ],
-        [
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna",
-            "Seraphine"
-        ],
-        [
-            "Akali",
-            "Ezreal",
-            "Lucian",
-            "Ryze",
-            "Tristana"
-        ],
-        [
-            "Blitzcrank",
-            "Chogath",
-            "Fiddlesticks",
-            "Garen",
-            "Kassadin",
-            "Lulu",
-            "Soraka"
-        ],
-        [
-            "Caitlyn",
-            "Ezreal",
-            "Heimerdinger",
-            "Jayce",
-            "Orianna"
-        ],
-        [
-            "Akali",
+            "Ambessa",
             "Darius",
-            "Ezreal",
-            "Fiora",
-            "Jinx",
-            "Kalista",
-            "Kogmaw",
-            "Lucian",
-            "Ryze",
-            "Tristana",
-            "Twitch",
-            "Vayne"
+            "Kayn",
+            "Kled",
+            "Mordekaiser",
+            "Riven",
+            "Sion",
+            "Swain"
         ],
         [
-            "Blitzcrank",
-            "Garen",
-            "Kassadin",
-            "Lulu"
+            "Ksante",
+            "Maokai",
+            "Singed",
+            "Swain",
+            "Zac"
         ],
         [
-            "Camille",
-            "Orianna",
-            "Seraphine"
+            "Ambessa",
+            "Heimerdinger",
+            "Jayce",
+            "Singed",
+            "Warwick"
+        ],
+        [
+            "Ambessa",
+            "Briar",
+            "Kayn",
+            "Mel",
+            "Rell",
+            "Samira",
+            "Smolder"
         ],
         [
             "Aphelios",
-            "Kaisa"
+            "Hwei",
+            "Ksante",
+            "Mel",
+            "Neeko",
+            "Renata glasc",
+            "Senna",
+            "Seraphine",
+            "Xayah"
+        ],
+        [
+            "Ambessa",
+            "Mel"
+        ],
+        [
+            "Alistar",
+            "Ambessa",
+            "Briar",
+            "Elise",
+            "Kayn",
+            "Kled",
+            "Rell",
+            "Riven",
+            "Samira",
+            "Talon"
+        ],
+        [
+            "Caitlyn",
+            "Ivern",
+            "Ksante",
+            "Lee sin",
+            "Leona",
+            "Maokai",
+            "Nautilus",
+            "Qiyana",
+            "Rengar",
+            "Shaco",
+            "Zac"
+        ],
+        [
+            "Ambessa",
+            "Caitlyn",
+            "Ekko",
+            "Jayce",
+            "Vi",
+            "Warwick"
         ]
     ]
 }

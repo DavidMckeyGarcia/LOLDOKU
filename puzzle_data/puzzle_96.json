@@ -1,167 +1,75 @@
 {
-    "difficulty": "iron",
+    "difficulty": "emerald",
     "rows": [
-        "Support",
-        "OG40",
-        "arcade"
+        "Adc",
+        "pool party",
+        "invis"
     ],
     "cols": [
-        "Freljord",
-        "slow",
-        "never played"
+        "stun",
+        "Bilgewater",
+        "100% AP Ratio"
     ],
     "solutions": [
         [
             "Ashe",
-            "Brand",
-            "Braum"
-        ],
-        [
-            "Ashe",
-            "Bard",
-            "Brand",
-            "Braum",
-            "Galio",
-            "Heimerdinger",
-            "Janna",
-            "Karma",
-            "Leona",
-            "Lulu",
-            "Lux",
-            "Maokai",
-            "Mel",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Nautilus",
-            "Pantheon",
-            "Poppy",
-            "Pyke",
-            "Rakan",
-            "Renata glasc",
-            "Senna",
             "Seraphine",
-            "Sona",
-            "Soraka",
-            "Swain",
-            "Tahm kench",
-            "Thresh",
-            "Velkoz",
-            "Xerath",
-            "Yuumi",
-            "Zilean",
-            "Zyra"
+            "Vayne"
         ],
         [
-            "Alistar",
-            "Ashe",
-            "Bard",
-            "Blitzcrank",
-            "Brand",
-            "Braum",
-            "Heimerdinger",
-            "Janna",
-            "Leona",
-            "Maokai",
-            "Milio",
-            "Morgana",
-            "Nami",
-            "Pyke",
-            "Rakan",
-            "Rell",
-            "Renata glasc",
-            "Senna",
-            "Sona",
-            "Soraka",
-            "Tahm kench",
-            "Thresh",
-            "Yuumi",
-            "Zyra"
+            "Miss Fortune",
+            "Nilah"
         ],
         [
-            "Anivia",
+            "Aphelios",
             "Ashe",
-            "Nunu",
-            "Tryndamere"
-        ],
-        [
-            "Anivia",
-            "Ashe",
-            "Chogath",
             "Corki",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Gangplank",
-            "Heimerdinger",
-            "Janna",
-            "Karthus",
-            "Kassadin",
-            "Kayle",
-            "Malphite",
-            "Morgana",
-            "Nasus",
-            "Nunu",
-            "Rammus",
-            "Ryze",
-            "Shaco",
-            "Singed",
-            "Sion",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Tristana",
-            "Tryndamere",
-            "Twisted fate",
-            "Twitch",
-            "Warwick",
-            "Zilean"
-        ],
-        [
-            "Alistar",
-            "Amumu",
-            "Ashe",
-            "Blitzcrank",
-            "Chogath",
-            "Dr. Mundo",
-            "Evelynn",
-            "Fiddlesticks",
-            "Heimerdinger",
-            "Janna",
-            "Malphite",
-            "Morgana",
-            "Nunu",
-            "Rammus",
-            "Shaco",
-            "Sivir",
-            "Soraka",
-            "Teemo",
-            "Twitch",
-            "Warwick"
-        ],
-        [
-            "Brand"
-        ],
-        [
-            "Ahri",
-            "Belveth",
-            "Brand",
-            "Caitlyn",
-            "Corki",
-            "Hecarim",
+            "Jhin",
+            "Jinx",
             "Kaisa",
-            "Miss Fortune",
-            "Qiyana",
-            "Sona",
-            "Ziggs"
+            "Sivir",
+            "Smolder",
+            "Tristana",
+            "Varus",
+            "Zeri"
         ],
         [
-            "Belveth",
-            "Blitzcrank",
-            "Brand",
-            "Hecarim",
-            "Miss Fortune",
-            "Sona"
+            "Braum",
+            "Fiora",
+            "Heimerdinger",
+            "Leona",
+            "Orianna",
+            "Renekton",
+            "Sett",
+            "Syndra",
+            "Taliyah",
+            "Taric",
+            "Zac"
+        ],
+        [
+            "Gangplank",
+            "Graves",
+            "Miss Fortune"
+        ],
+        [
+            "Fiora",
+            "Gangplank"
+        ],
+        [
+            "Neeko",
+            "Pyke",
+            "Qiyana",
+            "Vayne",
+            "Viego"
+        ],
+        [
+            "Pyke"
+        ],
+        [
+            "Kaisa",
+            "Neeko",
+            "Viego",
+            "Wukong"
         ]
     ]
 }

@@ -1,81 +1,80 @@
 {
     "difficulty": "platinum",
     "rows": [
-        "Top",
-        "prestige",
-        "life steal"
+        "Adc",
+        "shield",
+        "pool party"
     ],
     "cols": [
-        "fear",
-        "Noxus",
-        "ult reset"
+        "Targon",
+        "root",
+        "yordle"
     ],
     "solutions": [
         [
-            "Aatrox",
-            "Darius",
-            "Urgot",
-            "Warwick"
+            "Aphelios"
         ],
         [
-            "Ambessa",
-            "Darius",
-            "Kayn",
+            "Aphelios",
+            "Caitlyn",
+            "Jhin",
+            "Jinx",
+            "Mel",
+            "Senna",
+            "Seraphine",
+            "Varus",
+            "Xayah"
+        ],
+        [
+            "Corki",
+            "Tristana",
+            "Ziggs"
+        ],
+        [
+            "Aphelios",
+            "Diana",
+            "Taric"
+        ],
+        [
+            "Aphelios",
+            "Hwei",
+            "Ivern",
+            "Ksante",
+            "Karma",
+            "Lee sin",
+            "Lux",
+            "Mel",
+            "Morgana",
+            "Nautilus",
+            "Neeko",
+            "Nunu",
+            "Renata glasc",
+            "Senna",
+            "Seraphine"
+        ],
+        [
             "Kled",
-            "Mordekaiser",
-            "Riven",
-            "Sion",
-            "Swain"
+            "Lulu",
+            "Poppy",
+            "Rumble",
+            "Vex"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Olaf",
+            "Leona",
+            "Taric",
+            "Zoe"
+        ],
+        [
+            "Caitlyn",
+            "Lee sin",
+            "Leona",
             "Singed",
-            "Swain",
-            "Vayne"
+            "Zac"
         ],
         [
-            "Aatrox",
-            "Darius",
-            "Shaco"
-        ],
-        [
-            "Cassiopeia",
-            "Darius",
-            "Katarina",
-            "Kayn",
-            "LeBlanc",
-            "Riven",
-            "Swain"
-        ],
-        [
-            "Aatrox",
-            "Ahri",
-            "Darius",
-            "Pyke",
-            "Sivir",
-            "Swain",
-            "Vayne"
-        ],
-        [
-            "Aatrox",
-            "Briar",
-            "Warwick"
-        ],
-        [
-            "Ambessa",
-            "Briar",
-            "Kayn",
-            "Samira",
-            "Sion",
-            "Vladimir"
-        ],
-        [
-            "Aatrox",
-            "Belveth",
-            "Olaf",
-            "Viego"
+            "Heimerdinger",
+            "Lulu",
+            "Ziggs"
         ]
     ]
 }
